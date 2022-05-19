@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Slow Boring categorized articles">
+    <meta name="author" content="Matt Hagy <matthew.hagy@gmail.com>">
+
+    <title>Slow Boring categorized articles</title>
+
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script type="text/javascript" src="./flexigrid/js/flexigrid.js"></script>
+    <script type="text/javascript" src="./clusters.js"></script>
+    <script type="text/javascript" src="./ui.js"></script>
+    <link rel="stylesheet" type="text/css" href="./flexigrid/css/flexigrid.css">
+</head>
+
+<body>
+<h1>Slow Boring categorized articles</h1>
+
+<p>
+    Explore Slow Boring articles by algorithmically generated categories.
+</p>
+
+<p>
+    You can change the number of categories to get a broader versus narrowing grouping
+    of articles.
+</p>
+
+<form>
+    <label for="categories">Number of categories</label>
+    <select name="categories" id="categories">
+    </select>
+</form>
+
+<p>
+    Choose a category from the following list to see articles in that category.
+    Each category shows the number of articles (n) and key terms.
+</p>
+
+<form>
+    <label for="category">Category</label>
+    <select name="category" id="category">
+    </select>
+</form>
+
+<p>
+    Posts for the selected category are shown in the following table.
+    Click a column header to sort by that column. Title link will take you to the post.
+    Some posts will require a paid account to view the full article.
+</p>
+
+<table id="clusterPosts" style="display:none">
+</table>
+
+</body>
+</html>
