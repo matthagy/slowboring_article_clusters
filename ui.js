@@ -4,7 +4,7 @@
     let rp = 20;
     let selectClusters;
     let curSortName = 'date';
-    let curSortOrder =  "asc";
+    let curSortOrder = "asc";
 
     function wireUI() {
         window._clusterData['posts'].forEach(post => {
@@ -32,7 +32,7 @@
         });
 
         $('#clusterPosts').flexigrid({
-            width: 800,
+            width: 860,
             height: 'auto',
             striped: true,
             dataType: 'json',
@@ -62,6 +62,13 @@
                     "display": "Date",
                     "name": "date",
                     "width": 80,
+                    "sortable": true,
+                    "align": "left"
+                },
+                {
+                    "display": "Audience",
+                    "name": "audience",
+                    "width": 60,
                     "sortable": true,
                     "align": "left"
                 },
