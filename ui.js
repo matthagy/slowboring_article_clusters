@@ -32,7 +32,7 @@
         });
 
         $('#clusterPosts').flexigrid({
-            width: 860,
+            width: 940,
             height: 'auto',
             striped: true,
             dataType: 'json',
@@ -82,7 +82,14 @@
                 {
                     "display": "Likes",
                     "name": "likes",
-                    "width": 30,
+                    "width": 40,
+                    "sortable": true,
+                    "align": "left"
+                },
+                {
+                    "display": "Word Count",
+                    "name": "word_count",
+                    "width": 60,
                     "sortable": true,
                     "align": "left"
                 },

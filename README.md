@@ -37,6 +37,7 @@ about Slow Boring articles. Columns are:
 * `audience` - Whether the article is for paid subscribers only
 * `comments` - Number of comments on the article
 * `likes` - Number of likes
+* `word_count` - Length of the article in words
 * `url` - The URL of the article at slowboring.com
 
 ### [word_counts.mtx](./data/word_counts.mtx)
