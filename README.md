@@ -32,7 +32,7 @@ Provides publicly available data (i.e., accessible without an account)
 about Slow Boring articles. Columns are:
 
 * `post_id` - The Substack-internal id for the article
-* `date` - The data the article was published
+* `date` - The date the article was published
 * `title` - Title of the article
 * `audience` - Whether the article is for paid subscribers only
 * `comments` - Number of comments on the article
@@ -47,10 +47,12 @@ article.
 Uses the [Matrix Market Exchange](https://math.nist.gov/MatrixMarket/formats.html)
 coordinate format for a sparse matrix as most entries are zero.
 I.e., most terms do not occur in most articles.
+Rows correspond to posts within `posts.csv` and 
+columns correspond to terms within `words.csv`.
 
 ### [words.csv](./data/words.csv)
 
-The list of terms that correspond the coordinates of the `word_counts.mtx` matrix.
+The list of terms that correspond to columns of `word_counts.mtx` matrix.
 Terms include single words as well as bi-grams (i.e., pairs of sequential terms).
 
 Note that not all words and bi-grams that occur within Slow Boring articles
@@ -58,6 +60,8 @@ are included the word count matrix.
 The relevant terms are determined by the following sklearn `CountVectorizer` configuration.
 
 ```python
+from sklearn.feature_extraction.text import CountVectorizer
+
 CountVectorizer(
     ngram_range=(1, 2),
     max_features=20_000,
