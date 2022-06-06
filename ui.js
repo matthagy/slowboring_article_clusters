@@ -103,7 +103,7 @@
             ]
         });
 
-        categoriesSelect.val(15).change();
+        categoriesSelect.val(20).change();
     }
 
 
@@ -125,7 +125,7 @@
             const cluster = selectClusters[i];
             categorySelect.append($('<option>', {
                 value: i,
-                text: "n=" + cluster['postIds'].length + " : " + cluster['topTerms'].slice(5).map(x => x[0]).join(', ')
+                text: "n=" + cluster['postIds'].length + " : " + cluster['topTerms'].slice(0, 10).map(x => x[0]).join(', ')
             }));
         }
         categorySelect.val(0).change();
