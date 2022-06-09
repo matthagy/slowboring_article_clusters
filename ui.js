@@ -1,7 +1,7 @@
 (($) => {
     const postsMap = {};
     let clusters;
-    let rp = 20;
+    let rp = 25;
     let selectClusters;
     let curSortName = 'date';
     let curSortOrder = "asc";
@@ -32,7 +32,7 @@
         });
 
         $('#clusterPosts').flexigrid({
-            width: 940,
+            width: 1040,
             height: 'auto',
             striped: true,
             dataType: 'json',
@@ -54,6 +54,7 @@
             colMove: false,
             showToggleBtn: false,
             resizable: false,
+            rpOptions: [10, 25, 50, 100, 500],
             searchitems: false,
             sortname: curSortName,
             sortorder: curSortOrder,
@@ -90,6 +91,13 @@
                     "display": "Word Count",
                     "name": "word_count",
                     "width": 60,
+                    "sortable": true,
+                    "align": "left"
+                },
+                {
+                    "display": "Authors",
+                    "name": "authors",
+                    "width": 100,
                     "sortable": true,
                     "align": "left"
                 },

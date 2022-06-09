@@ -43,12 +43,24 @@ def main():
         fp.write(';\n')
 
 
-def create_post_records(posts) -> list[dict[str, Any]]:
+def create_post_records(posts: pd.DataFrame) -> list[dict[str, Any]]:
     return (posts
+            .assign(authors=lambda x: x['authors'].map(abbrev_authors))
             .assign(date=lambda x: pd.to_datetime(x['date']).dt.date.map(str))
             .rename(columns={'post_id': 'id'})
             .apply(lambda row: dict(row.items()), axis=1)
             .pipe(list))
+
+
+def abbrev_authors(authors: str) -> str:
+    return ', '.join(abbrev_author(author) for author in authors.split(','))
+
+
+def abbrev_author(author: str) -> str:
+    parts = author.strip().split(None, maxsplit=1)
+    if len(parts) == 2:
+        parts[0] = parts[0][0]
+    return ' '.join(parts)
 
 
 def fit_clusters(n_clusters: int, post_ids: Collection[int], X_lsa: csr_matrix, svd: TruncatedSVD,
