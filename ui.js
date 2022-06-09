@@ -32,7 +32,7 @@
         });
 
         $('#clusterPosts').flexigrid({
-            width: 1040,
+            width: 1050,
             height: 'auto',
             striped: true,
             dataType: 'json',
