@@ -57,9 +57,9 @@ def fit_clusters(n_clusters: int, post_ids: Collection[int], X_lsa: csr_matrix, 
     km = MiniBatchKMeans(
         n_clusters=n_clusters,
         init="k-means++",
-        n_init=1,
+        n_init=5,
         init_size=1000,
-        batch_size=1000,
+        batch_size=1024,
         verbose=0,
     )
     km.fit(X_lsa)

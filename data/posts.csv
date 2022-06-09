@@ -3,7 +3,7 @@ post_id,date,title,audience,word_count,comments,likes,url
 18177334,2020-11-18 11:00:53,Joe Biden's Cabinet isn't what matters,free,3168,153,67,https://www.slowboring.com/p/joe-bidens-cabinet-isnt-what-matters
 18503568,2020-11-24 11:00:18,Low interest rates are a curse — we need massive fiscal imprudence,free,2661,107,54,https://www.slowboring.com/p/low-interest-rates-are-a-curse-we
 18586396,2020-11-16 11:00:43,Make Blue America Great Again,free,2654,332,176,https://www.slowboring.com/p/make-blue-america-great-again
-18642680,2020-11-17 11:09:52,"Minimum wage wins, affirmative action loses",free,1963,229,139,https://www.slowboring.com/p/minimum-wage-wins-affirmative-action
+18642680,2020-11-17 11:09:52,"Minimum wage wins, affirmative action loses",free,1963,229,140,https://www.slowboring.com/p/minimum-wage-wins-affirmative-action
 18763957,2020-11-19 11:00:33,What's wrong with the media ,free,2697,309,158,https://www.slowboring.com/p/whats-wrong-with-the-media
 18980244,2020-11-20 11:00:10,Some optimism about America's Covid response,free,1850,143,77,https://www.slowboring.com/p/some-optimism-about-americas-covid
 19229056,2020-12-02 11:00:36,"The ""racial wealth gap"" is a class gap",free,1741,199,100,https://www.slowboring.com/p/the-racial-wealth-gap-is-a-class
@@ -12,7 +12,7 @@ post_id,date,title,audience,word_count,comments,likes,url
 19639907,2020-11-25 11:00:52,National Democrats' misguided re-embrace of gun control,free,3174,405,146,https://www.slowboring.com/p/national-democrats-misguided-re-embrace
 19674370,2020-11-24 12:58:28,Electoral politics on an unfair playing field,free,2542,84,35,https://www.slowboring.com/p/electoral-politics-on-an-unfair-playing
 20151892,2020-11-26 11:58:23,Giving thanks ,free,628,81,67,https://www.slowboring.com/p/giving-thanks
-20181001,2020-12-01 11:00:52,Climate change is really hard ,paid,2776,282,132,https://www.slowboring.com/p/climate-change-is-really-hard
+20181001,2020-12-01 11:00:52,Climate change is really hard ,paid,2776,282,133,https://www.slowboring.com/p/climate-change-is-really-hard
 20385917,2020-11-30 11:00:15,America could use more marijuana activism,free,1815,91,40,https://www.slowboring.com/p/america-could-use-more-marijuana
 20388649,2020-11-27 12:07:07,PREWRITE DO NOT PUBLISH: It happened again,free,2061,141,43,https://www.slowboring.com/p/prewrite-do-not-publish-it-happened
 21025509,2020-11-30 15:40:38,I'm a senior fellow at the Niskanen Center ,free,433,48,48,https://www.slowboring.com/p/im-a-senior-fellow-at-the-niskanen
@@ -33,7 +33,7 @@ post_id,date,title,audience,word_count,comments,likes,url
 26052510,2020-12-20 11:00:17,Fancy stations make quality mass transit harder,free,1479,151,176,https://www.slowboring.com/p/fancy-stations-make-quality-mass
 26785599,2020-12-21 11:00:09,ACIP and the experts,paid,726,199,165,https://www.slowboring.com/p/acip-and-the-experts
 27286020,2020-12-23 11:00:46,What to do to save local news,paid,3162,156,123,https://www.slowboring.com/p/local-news
-27708677,2020-12-24 11:00:37,The welfare state is extremely good ,free,2538,212,119,https://www.slowboring.com/p/the-welfare-state-is-extremely-good
+27708677,2020-12-24 11:00:37,The welfare state is extremely good ,free,2538,212,120,https://www.slowboring.com/p/the-welfare-state-is-extremely-good
 28179971,2020-12-28 11:00:53,How to be less full of shit ,free,1439,209,207,https://www.slowboring.com/p/predictions
 29431751,2020-12-29 11:00:02,The CARES superdole was a huge success,free,2156,318,138,https://www.slowboring.com/p/the-cares-superdole-was-a-huge-success
 29540230,2021-01-15 17:00:53,Universal health insurance is a winning fight worth having,free,2633,285,129,https://www.slowboring.com/p/universal-health-insurance-is-a-winning
@@ -57,7 +57,7 @@ post_id,date,title,audience,word_count,comments,likes,url
 31707412,2021-01-21 11:00:37,What happens next ,paid,2363,337,160,https://www.slowboring.com/p/what-happens-next
 31744223,2021-01-23 17:00:52,"Lawyer-brain, NECTAs, marriage penalties, and the trouble with normal",paid,1256,259,175,https://www.slowboring.com/p/lawyer-brain-nectas-marriage-penalties
 31754871,2021-01-22 11:01:01,Raise the minimum wage,paid,2367,337,158,https://www.slowboring.com/p/raise-the-minimum-wage
-31771252,2021-01-25 11:00:58,"Fixing the police will take more funding, not less",free,3481,397,156,https://www.slowboring.com/p/fixing-the-police-will-take-more
+31771252,2021-01-25 11:00:58,"Fixing the police will take more funding, not less",free,3481,397,157,https://www.slowboring.com/p/fixing-the-police-will-take-more
 31814728,2021-01-26 11:00:30,You can't blame bad leaders for everything,paid,3756,391,146,https://www.slowboring.com/p/you-cant-blame-bad-leaders-for-everything
 31867708,2021-01-27 11:00:47,The “induced demand“ case against YIMBYism is wrong,free,2767,265,166,https://www.slowboring.com/p/induced-demand
 31913564,2021-01-29 11:00:56,The future of the superstar city ,free,2156,289,177,https://www.slowboring.com/p/superstar-cities
@@ -80,7 +80,7 @@ post_id,date,title,audience,word_count,comments,likes,url
 32491521,2021-02-17 11:00:29,Is asymmetrical polarization real?,free,3020,383,156,https://www.slowboring.com/p/is-asymmetrical-polarization-real
 32517388,2021-02-14 04:17:17,In defense of interesting writing on controversial topics,free,3868,474,289,https://www.slowboring.com/p/slate-star-codex
 32606158,2021-02-20 14:00:46,Stop marketing race-blind policies as racial equity initiatives,free,2109,253,150,https://www.slowboring.com/p/race-blind-policies-racial-equity
-32608857,2021-02-18 11:00:09,Elite colleges should fight for social justice by helping to educate poor kids,paid,2331,371,181,https://www.slowboring.com/p/fancy-colleges
+32608857,2021-02-18 11:00:09,Elite colleges should fight for social justice by helping to educate poor kids,paid,2331,371,182,https://www.slowboring.com/p/fancy-colleges
 32639465,2021-02-19 11:00:58,Built Back Better by cleaning up the lead,free,2096,219,129,https://www.slowboring.com/p/lead-poisoning
 32681123,2021-02-22 11:00:49,The case for student debt relief is getting weaker,paid,1840,275,146,https://www.slowboring.com/p/student-loans
 32687718,2021-02-21 14:00:30,Sunday quick takes,paid,967,181,121,https://www.slowboring.com/p/sunday-quick-takes
@@ -88,7 +88,7 @@ post_id,date,title,audience,word_count,comments,likes,url
 32732742,2021-04-10 13:00:15,It's time to get real about climate change and immigration in Central America,free,1414,77,56,https://www.slowboring.com/p/its-time-to-get-real-about-climate
 32760649,2021-02-23 11:00:47,"""Back to normal"" isn't a thing",paid,2764,256,132,https://www.slowboring.com/p/back-to-normal
 32803727,2021-02-26 11:00:27,Back to normal means ignoring the CDC,paid,2144,255,183,https://www.slowboring.com/p/cdc-normal
-32818531,2021-02-25 11:00:59,Neera Tanden and the era of bad faith,paid,2271,213,113,https://www.slowboring.com/p/neera-tanden
+32818531,2021-02-25 11:00:59,Neera Tanden and the era of bad faith,paid,2271,213,114,https://www.slowboring.com/p/neera-tanden
 32872379,2021-03-01 11:00:08,The tragedy of the lost school year,free,2975,214,115,https://www.slowboring.com/p/school-closure
 32945630,2021-02-27 11:00:57,"Weekend Update, February 27",paid,580,232,77,https://www.slowboring.com/p/weekend-update-february-27
 33073895,2021-03-02 11:00:53,Learning from the Covid economy,paid,2618,86,132,https://www.slowboring.com/p/covid-economy
@@ -96,7 +96,7 @@ post_id,date,title,audience,word_count,comments,likes,url
 33117945,2021-03-03 11:00:32,Democrats should try harder to win elections,paid,3773,442,242,https://www.slowboring.com/p/win-elections
 33181330,2021-03-09 11:00:09,"Oh, the intellectual property rights you'll extend",free,4349,236,95,https://www.slowboring.com/p/dr-seuss-ip
 33205193,2021-03-05 11:00:17,Covid: Year One,paid,2228,247,153,https://www.slowboring.com/p/covid-year-one
-33225505,2021-03-08 11:00:55,"The case for Bernie Sanders, revisited",paid,2505,376,136,https://www.slowboring.com/p/bernie-sanders
+33225505,2021-03-08 11:00:55,"The case for Bernie Sanders, revisited",paid,2505,375,137,https://www.slowboring.com/p/bernie-sanders
 33310644,2021-03-06 14:00:55,Weekend Update: March 6,paid,897,176,120,https://www.slowboring.com/p/weekend-update-march-6
 33385334,2021-03-10 11:00:05,Consider the wealth tax,paid,3355,456,112,https://www.slowboring.com/p/wealth-tax
 33419617,2021-03-11 11:00:20,The coming (mild) inflation,paid,2313,162,79,https://www.slowboring.com/p/inflation-coming
@@ -120,13 +120,13 @@ post_id,date,title,audience,word_count,comments,likes,url
 34495712,2021-03-31 10:00:41,The case for NGDP targeting,paid,1634,94,91,https://www.slowboring.com/p/the-case-for-ngdp-targeting
 34505451,2021-04-01 10:00:30,Did the Democratic Majority emerge after all?,paid,2016,209,98,https://www.slowboring.com/p/did-the-democratic-majority-emerge
 34532548,2021-04-09 10:00:27,Andrew Yang versus the unrepresentative activists,paid,2625,522,220,https://www.slowboring.com/p/yang-gang
-34560988,2021-04-05 10:00:54,America is rapidly secularizing,paid,1442,178,134,https://www.slowboring.com/p/secularizing-trend
+34560988,2021-04-05 10:00:54,America is rapidly secularizing,paid,1442,178,135,https://www.slowboring.com/p/secularizing-trend
 34598585,2021-04-02 10:01:00,Joe Biden's next big plan,paid,2423,257,93,https://www.slowboring.com/p/joe-bidens-next-big-plan
 34656950,2021-04-03 13:00:55,"Weekend Update, April 3 ",paid,1161,139,108,https://www.slowboring.com/p/weekend-update-april-3
-34726651,2021-04-06 10:00:35,The stakes in Georgia's election changes,paid,2484,305,129,https://www.slowboring.com/p/georgia-election
+34726651,2021-04-06 10:00:35,The stakes in Georgia's election changes,paid,2484,305,130,https://www.slowboring.com/p/georgia-election
 34795251,2021-04-07 10:00:51,"America's ""crumbling"" roads and bridges are fine",free,2622,217,97,https://www.slowboring.com/p/roads-and-bridges
 34805898,2021-04-08 10:00:23,Joe Biden and the care economy,paid,1755,136,77,https://www.slowboring.com/p/joe-biden-and-the-care-economy
-34878921,2021-04-12 10:00:13,More incarceration is not the answer,free,3427,326,141,https://www.slowboring.com/p/mass-incarceration
+34878921,2021-04-12 10:00:13,More incarceration is not the answer,free,3427,326,142,https://www.slowboring.com/p/mass-incarceration
 34958079,2021-04-14 10:00:46,Moderate Democrats should be popularists ,free,2647,164,119,https://www.slowboring.com/p/moderate-democrats-should-be-popularists
 35023354,2021-04-13 10:00:37,HR 1 is kind of half-baked,free,3273,190,79,https://www.slowboring.com/p/hr1
 35068697,2021-04-15 10:00:17,Fix the lead pipes,free,2595,85,99,https://www.slowboring.com/p/lead-pipes
@@ -135,7 +135,7 @@ post_id,date,title,audience,word_count,comments,likes,url
 35234508,2021-04-20 10:00:17,Fund the tax police,free,1604,88,118,https://www.slowboring.com/p/irs-budget
 35242118,2021-04-19 10:00:59,Leaving the ESPN Zone of Empires,paid,3085,307,155,https://www.slowboring.com/p/leaving-the-espn-zone-of-empires
 35331456,2021-04-21 10:00:54,What to make of the labor shortage talk ,paid,2811,137,90,https://www.slowboring.com/p/fpuc-bonus
-35378482,2021-04-22 10:00:06,Who is the racial justice case for zoning reform for?,free,3394,330,103,https://www.slowboring.com/p/race-and-zoning
+35378482,2021-04-22 10:00:06,Who is the racial justice case for zoning reform for?,free,3394,330,104,https://www.slowboring.com/p/race-and-zoning
 35401484,2021-04-23 10:00:59,South Korea and America's incredibly stupid Covid debate ,paid,1976,439,231,https://www.slowboring.com/p/south-korea-and-americas-incredibly
 35481514,2021-04-24 13:00:11,"Weekend Update, April 24",paid,1107,151,128,https://www.slowboring.com/p/weekend-update-april-24
 35485569,2021-04-26 10:00:30,The rise of self-made billionaires and the fall of economic dynamism ,paid,3035,267,110,https://www.slowboring.com/p/the-rise-of-self-made-billionaires
@@ -146,7 +146,7 @@ post_id,date,title,audience,word_count,comments,likes,url
 35728483,2021-05-04 10:00:56,"Some thoughts on ""faculty lounge politics""",paid,3512,426,173,https://www.slowboring.com/p/faculty-lounge
 35736024,2021-04-30 10:00:15,The case against coupon government,free,1719,221,84,https://www.slowboring.com/p/the-case-against-coupon-government
 35775832,2021-05-03 10:01:00,Assessing the different family benefit programs,free,2395,69,56,https://www.slowboring.com/p/family-benefit
-35841942,2021-05-05 10:01:00,Conservative populists should embrace housing deregulation,free,2455,228,113,https://www.slowboring.com/p/populists-housing
+35841942,2021-05-05 10:01:00,Conservative populists should embrace housing deregulation,free,2455,228,114,https://www.slowboring.com/p/populists-housing
 35971137,2021-05-06 10:00:58,Is inflation coming?,paid,2324,144,99,https://www.slowboring.com/p/inflation-worries
 36036186,2021-05-07 10:00:52,We should get people vaccinated against Covid-19,paid,2110,179,144,https://www.slowboring.com/p/we-should-get-people-vaccinated-against
 36068169,2021-05-08 10:00:15,"Weekend Update, May 8",paid,1046,270,108,https://www.slowboring.com/p/weekend-update-may-8
@@ -156,7 +156,7 @@ post_id,date,title,audience,word_count,comments,likes,url
 36270312,2021-05-13 10:00:18,The biggest threat to American democracy is it doesn't exist,free,2444,484,184,https://www.slowboring.com/p/american-democracy
 36315083,2021-05-29 14:00:08,It's time to take Andrew Yang's policy ideas seriously,free,2481,110,81,https://www.slowboring.com/p/yang-policy
 36340664,2021-05-14 10:00:08,Women can win elections,paid,2669,401,122,https://www.slowboring.com/p/women-electable
-36374925,2021-05-17 10:00:27,Homelessness is about housing,free,2850,249,136,https://www.slowboring.com/p/homelessness-housing
+36374925,2021-05-17 10:00:27,Homelessness is about housing,free,2850,249,138,https://www.slowboring.com/p/homelessness-housing
 36414669,2021-05-18 10:00:50,We should have done more bailouts,free,2598,85,51,https://www.slowboring.com/p/bailouts
 36480369,2021-05-19 10:00:26,Seventeen points on Israel and Palestine,paid,1554,480,202,https://www.slowboring.com/p/israel
 36527916,2021-05-20 10:00:21,Make the Endless Frontier Act great again,free,3275,119,59,https://www.slowboring.com/p/make-the-endless-frontier-act-great
@@ -173,7 +173,7 @@ post_id,date,title,audience,word_count,comments,likes,url
 37095438,2021-06-04 10:00:09,Obama won downscale white people’s votes by pandering to their views,free,2779,531,250,https://www.slowboring.com/p/obama-pander
 37135025,2021-06-07 10:00:18,The case for parking reform ,free,2664,203,111,https://www.slowboring.com/p/the-case-for-parking-reform
 37186799,2021-06-05 13:00:30,"Weekend Update, June 5",paid,851,107,22,https://www.slowboring.com/p/weekend-update-june-5
-37207186,2021-06-08 10:00:29,All news is bad news ,free,2033,167,180,https://www.slowboring.com/p/media-negativity
+37207186,2021-06-08 10:00:29,All news is bad news ,free,2033,167,181,https://www.slowboring.com/p/media-negativity
 37283393,2021-06-09 10:00:56,Does supersonic transport have a future?,paid,3497,289,135,https://www.slowboring.com/p/supersonic
 37317231,2021-06-12 16:00:17,Farewell from Marc the Intern (feat. Greatest Hits and Two Quick Takes),free,2522,95,134,https://www.slowboring.com/p/farewell-from-marc-the-intern
 37362427,2021-06-10 10:00:11,The fight for democracy is bigger than HR-1,paid,2670,342,130,https://www.slowboring.com/p/the-fight-for-democracy-is-bigger
@@ -187,20 +187,20 @@ post_id,date,title,audience,word_count,comments,likes,url
 37683483,2021-06-18 10:00:02,“Future“ and the future of media,paid,2315,192,121,https://www.slowboring.com/p/future-media
 37783952,2021-06-23 10:00:05,The case for tall buildings,paid,1976,146,143,https://www.slowboring.com/p/tall-buildings
 37840867,2021-06-22 11:00:21,The Machine Man,free,932,65,58,https://www.slowboring.com/p/eric-adams
-37846642,2021-06-22 10:00:12,Tuesday takes special,paid,1246,158,81,https://www.slowboring.com/p/cdc-experts-expertism
+37846642,2021-06-22 10:00:12,Tuesday takes special,paid,1246,158,82,https://www.slowboring.com/p/cdc-experts-expertism
 37860233,2021-06-21 21:00:17,Introducing Slow Boring Audio,paid,258,39,66,https://www.slowboring.com/p/introducing-slow-boring-audio
 37860687,2021-06-24 10:00:18,We should try to make good trains,paid,2182,165,128,https://www.slowboring.com/p/good-trains
 37905476,2021-06-25 10:00:58,The Biden economy is good!,paid,1309,147,104,https://www.slowboring.com/p/biden-economy
 37935686,2021-06-28 10:00:12,What if… ,paid,2120,177,106,https://www.slowboring.com/p/what-if
 38021094,2021-06-25 13:23:35,Thirteen ways of looking at a bipartisan infrastructure deal,free,1011,98,65,https://www.slowboring.com/p/infrastructure-deal
 38102501,2021-06-29 10:00:26,Conservatives can't win the history wars,free,2935,540,164,https://www.slowboring.com/p/conservatives-cant-win-the-history
-38120969,2021-07-01 10:00:17,When experts go astray ,paid,2742,227,184,https://www.slowboring.com/p/experts-astray
+38120969,2021-07-01 10:00:17,When experts go astray ,paid,2742,227,185,https://www.slowboring.com/p/experts-astray
 38223101,2021-07-02 10:00:15,Moynihan Train Hall and our infrastructure problem,free,3002,265,169,https://www.slowboring.com/p/moynihan-station
 38235209,2021-07-09 10:00:51,Maine should capture the remote work opportunity ,free,2633,107,82,https://www.slowboring.com/p/maine-remote
 38260421,2021-07-06 10:01:14,Popularism for moderates: The case of the carbon tax,free,1676,120,103,https://www.slowboring.com/p/carbon-tax
 38348118,2021-07-07 10:00:18,The known unknowns of our hot button debates,free,2272,231,143,https://www.slowboring.com/p/the-known-unknowns-of-our-hot-button
 38366395,2021-07-08 10:00:55,Martin Luther King called for radical redistribution of material resources,free,2573,319,140,https://www.slowboring.com/p/martin-luther-king-called-for-radical
-38521728,2021-07-12 10:00:08,What is the climate left doing? ,free,2991,382,248,https://www.slowboring.com/p/climate-left
+38521728,2021-07-12 10:00:08,What is the climate left doing? ,free,2991,382,249,https://www.slowboring.com/p/climate-left
 38538877,2021-07-13 13:00:14,Slow Boring seeks researcher ,free,573,24,35,https://www.slowboring.com/p/slow-boring-seeks-researcher
 38568767,2021-07-13 10:00:28,Unleash the trailers ,free,2558,229,118,https://www.slowboring.com/p/trailer-regulation
 38599439,2021-07-14 10:00:02,America needs more interregional electric lines ,free,1538,97,98,https://www.slowboring.com/p/america-needs-more-interregional
@@ -214,7 +214,7 @@ post_id,date,title,audience,word_count,comments,likes,url
 39031370,2021-07-23 10:01:01,The FDA vs. cost-benefit analysis ,free,3053,211,99,https://www.slowboring.com/p/fda-cost-benefit
 39070202,2021-07-29 10:00:49,The future of the supermarket ,free,1976,328,158,https://www.slowboring.com/p/supermarket-future
 39090718,2021-07-26 10:00:43,There are too many scams in higher education ,free,2279,230,224,https://www.slowboring.com/p/there-are-too-many-scams-in-higher
-39132207,2021-07-28 10:00:04,Kamala Harris should try to be really popular,free,3389,487,223,https://www.slowboring.com/p/kamala-harris-should-try-to-be-really
+39132207,2021-07-28 10:00:04,Kamala Harris should try to be really popular,free,3389,487,224,https://www.slowboring.com/p/kamala-harris-should-try-to-be-really
 39198875,2021-07-27 10:01:02,The economic case for pro-natalism,free,1506,434,127,https://www.slowboring.com/p/the-economic-case-for-pro-natalism
 39277028,2021-07-30 10:00:15,To means-test or not to means-test ,free,2601,68,56,https://www.slowboring.com/p/means-test-when
 39401906,2021-08-02 10:00:30,Why has Biden's bipartisanship worked?,paid,2011,81,118,https://www.slowboring.com/p/biden-bipartisan
@@ -237,11 +237,11 @@ post_id,date,title,audience,word_count,comments,likes,url
 40223294,2021-08-23 10:00:49,Is Cuban healthcare actually good? ,paid,2482,156,151,https://www.slowboring.com/p/is-cuban-healthcare-actually-good
 40269001,2021-08-25 10:00:49,The national security establishment has never cared about Afghanistan,paid,2492,337,168,https://www.slowboring.com/p/the-national-security-establishment
 40304298,2021-08-24 10:00:53,Amtrak's plans for a cash infusion aren't good enough,free,1869,191,120,https://www.slowboring.com/p/amtraks-plans-for-a-cash-infusion
-40369585,2021-08-26 10:00:53,D.C.'s teacher compensation reform is working,free,2048,184,110,https://www.slowboring.com/p/dcs-teacher-compensation-reform-is
+40369585,2021-08-26 10:00:53,D.C.'s teacher compensation reform is working,free,2048,184,111,https://www.slowboring.com/p/dcs-teacher-compensation-reform-is
 40445033,2021-08-27 10:00:44,America's inflexible public health institutions,free,2583,233,154,https://www.slowboring.com/p/flexible-health
 40505560,2021-08-28 13:00:55,The rapidly shifting Hispanic experience of American criminal justice,free,832,129,125,https://www.slowboring.com/p/hispanic-prison
 40561074,2021-08-30 10:00:38,"Biden, Afghanistan, and the perils of ""doing the right thing"" ",paid,2310,263,151,https://www.slowboring.com/p/biden-afghanistan-and-the-perils
-40605148,2021-09-01 10:00:33,More good news about D.C.'s teacher pay reforms,free,1910,72,51,https://www.slowboring.com/p/more-good-news-about-dcs-teacher
+40605148,2021-09-01 10:00:33,More good news about D.C.'s teacher pay reforms,free,1910,72,52,https://www.slowboring.com/p/more-good-news-about-dcs-teacher
 40667497,2021-09-02 10:00:54,Covid-1889 ,free,1923,236,126,https://www.slowboring.com/p/covid-1889
 40717676,2021-09-03 10:00:03,Full employment is the most important thing the Fed can do to fight climate change ,free,2724,168,102,https://www.slowboring.com/p/reappoint-jay-powell
 40811123,2021-09-08 10:00:37,Should the bus be free?,free,1729,166,118,https://www.slowboring.com/p/free-bus
@@ -356,7 +356,7 @@ post_id,date,title,audience,word_count,comments,likes,url
 47565914,2022-01-27 11:00:30,The domestication of people and animals ,free,2095,347,155,https://www.slowboring.com/p/the-domestication-of-people-and-animals
 47628364,2022-01-26 11:00:41,Privacy concerns are breaking the Census ,free,2109,172,86,https://www.slowboring.com/p/census-data
 47648339,2022-01-28 11:00:39,2 Mail 2 Bag,free,2973,146,47,https://www.slowboring.com/p/mailbag-2
-47817166,2022-01-31 11:00:38,What we talk about when we talk about a return to normal,free,2621,670,164,https://www.slowboring.com/p/normal
+47817166,2022-01-31 11:00:38,What we talk about when we talk about a return to normal,free,2621,670,165,https://www.slowboring.com/p/normal
 47951599,2022-02-01 11:00:35,A tepid take on the bipartisan drive to ban tech self-preferencing,paid,2530,138,90,https://www.slowboring.com/p/a-tepid-take-on-the-bipartisan-drive
 47994408,2022-02-02 11:00:29,What to do after affirmative action,free,2539,360,133,https://www.slowboring.com/p/what-to-do-after-affirmative-action
 48076067,2022-02-03 03:24:26,The past and future of the city ,paid,2066,270,118,https://www.slowboring.com/p/the-past-and-future-of-the-city
@@ -382,7 +382,7 @@ post_id,date,title,audience,word_count,comments,likes,url
 49495257,2022-03-02 11:00:14,Europe needs to take primary responsibility for its own defense,free,2928,188,105,https://www.slowboring.com/p/pivot-to-asia
 49545670,2022-03-03 11:00:37,I’m not convinced by the new lab leak debunking ,paid,2681,267,108,https://www.slowboring.com/p/im-not-convinced-by-the-new-lab-leak
 49586092,2022-03-04 11:00:38,Episode VII: The mailbag awakens,paid,4277,155,71,https://www.slowboring.com/p/episode-vii-the-mailbag-awakens
-49685582,2022-03-07 11:00:36,Joe Biden is right about police funding,paid,2897,255,172,https://www.slowboring.com/p/defund-police-biden
+49685582,2022-03-07 11:00:36,Joe Biden is right about police funding,paid,2897,255,173,https://www.slowboring.com/p/defund-police-biden
 49698652,2022-03-08 11:00:37,"Taking Putin's ideas seriously (and I guess literally, too)",paid,2907,263,169,https://www.slowboring.com/p/taking-putins-ideas-seriously-and
 49875916,2022-03-10 11:00:43,America needs an actual plan to boost domestic energy,free,2887,139,110,https://www.slowboring.com/p/america-needs-an-actual-plan-to-boost
 49884768,2022-03-09 11:00:32,The Batman and the case for masked vigilantes ,free,2266,74,63,https://www.slowboring.com/p/the-batman-and-the-case-for-masked
@@ -398,7 +398,7 @@ post_id,date,title,audience,word_count,comments,likes,url
 50645190,2022-03-24 10:00:37,American poverty is too high for all kinds of people ,free,2038,218,137,https://www.slowboring.com/p/american-poverty-is-too-high-for
 50890967,2022-03-25 10:00:39,Double digit mailbags ,paid,2565,185,97,https://www.slowboring.com/p/double-digit-mailbags
 50907408,2022-03-28 10:00:41,I’m an optimist about higher education ,paid,1657,160,127,https://www.slowboring.com/p/im-an-optimist-about-higher-education
-51043454,2022-03-29 10:00:36,Develop a healthier emotional relationship with Joe Manchin,free,2048,341,225,https://www.slowboring.com/p/joe-manchin
+51043454,2022-03-29 10:00:36,Develop a healthier emotional relationship with Joe Manchin,free,2048,341,229,https://www.slowboring.com/p/joe-manchin
 51046626,2022-03-26 12:00:50,Abortion activists must learn to lose well,paid,1324,169,82,https://www.slowboring.com/p/abortion-activists-must-learn-to
 51122253,2022-03-30 10:00:30,Ukraine and the end of history ,free,3199,155,133,https://www.slowboring.com/p/ukraine-and-the-end-of-history
 51206634,2022-04-04 10:00:43,The bizarre myth that Ancient Greeks couldn't see blue,paid,2503,302,172,https://www.slowboring.com/p/greeks-blue
@@ -418,7 +418,7 @@ post_id,date,title,audience,word_count,comments,likes,url
 52294719,2022-05-14 10:00:31,The problem with flexible average inflation targeting,paid,1959,82,62,https://www.slowboring.com/p/fait-accompli
 52318807,2022-05-02 10:00:48,Overtreatment in American health care is a problem,free,2984,450,195,https://www.slowboring.com/p/overtreatment-in-american-health
 52323997,2022-04-20 10:00:44,The misinformation cope,free,2040,431,203,https://www.slowboring.com/p/misinformation
-52476450,2022-04-21 10:00:53,Data privacy is not the issue with TikTok,paid,2255,267,121,https://www.slowboring.com/p/data-privacy-is-not-the-issue-with
+52476450,2022-04-21 10:00:53,Data privacy is not the issue with TikTok,free,2255,267,122,https://www.slowboring.com/p/data-privacy-is-not-the-issue-with
 52491210,2022-04-22 10:00:37,A very messy mailbag,paid,4158,300,90,https://www.slowboring.com/p/a-very-messy-mailbag
 52577286,2022-04-25 10:00:29,Donald Trump's re-election is a dire threat to free speech,paid,2440,322,186,https://www.slowboring.com/p/donald-trumps-re-election-is-a-dire
 52767182,2022-04-26 10:00:30,It's time to raise taxes on the rich,paid,2272,218,143,https://www.slowboring.com/p/its-time-to-raise-taxes-on-the-rich
@@ -427,7 +427,7 @@ post_id,date,title,audience,word_count,comments,likes,url
 52906498,2022-04-29 10:00:39,April mailbag brings May takes,paid,3189,224,98,https://www.slowboring.com/p/april-mailbag-brings-may-takes
 53053394,2022-05-03 10:00:42,Do investor-owned single-family homes cause drug overdoses? ,paid,1928,213,112,https://www.slowboring.com/p/do-investor-owned-single-family-homes
 53251092,2022-05-04 10:00:45,Republicans have changed a lot since 2008,paid,1996,207,135,https://www.slowboring.com/p/republicans-have-changed-a-lot-since
-53260750,2022-05-11 10:00:42,Democrats have changed a lot since 2012,free,2817,228,127,https://www.slowboring.com/p/shifting-left
+53260750,2022-05-11 10:00:42,Democrats have changed a lot since 2012,free,2817,228,129,https://www.slowboring.com/p/shifting-left
 53302113,2022-05-05 10:00:43,What the DLC got wrong ,free,1653,151,131,https://www.slowboring.com/p/what-the-dlc-got-wrong
 53313492,2022-05-06 10:00:56,Don't leak the mailbag ,paid,3510,352,83,https://www.slowboring.com/p/dont-leak-the-mailbag
 53612371,2022-05-09 10:00:40,Winning after Roe,free,2089,376,195,https://www.slowboring.com/p/winning-after-roe
@@ -445,9 +445,10 @@ post_id,date,title,audience,word_count,comments,likes,url
 55799999,2022-05-24 10:00:38,Expensive energy is really bad,free,2810,121,144,https://www.slowboring.com/p/expensive-energy-is-really-bad
 56289053,2022-05-27 10:00:39,Memorial Day mailbag ,paid,2958,294,78,https://www.slowboring.com/p/memorial-day-mailbag
 56290221,2022-05-26 10:00:31,Does the Bush-era poverty cure deserve a comeback? ,paid,2942,441,135,https://www.slowboring.com/p/does-the-bush-era-poverty-cure-deserve
-56724202,2022-05-31 10:00:43,We need a new strategy on guns ,paid,2259,649,225,https://www.slowboring.com/p/we-need-a-new-strategy-on-guns
+56724202,2022-05-31 10:00:43,We need a new strategy on guns ,paid,2259,651,226,https://www.slowboring.com/p/we-need-a-new-strategy-on-guns
 56809511,2022-06-01 10:00:38,"Sure, don't ""panic"" about monkeypox — but it seems pretty bad ",free,2969,150,107,https://www.slowboring.com/p/sure-dont-panic-about-monkeypox-but
-57340427,2022-06-02 10:00:39,Two cheers for American higher education ,free,2642,335,126,https://www.slowboring.com/p/two-cheers-for-american-higher-education
-57532707,2022-06-06 10:00:19,Russia's war on the world's food supply,free,2079,157,90,https://www.slowboring.com/p/russias-war-on-the-worlds-food-supply
-57548064,2022-06-03 10:00:49,Mailbag: Maverick ,free,2810,211,77,https://www.slowboring.com/p/mailbag-maverick
-57830726,2022-06-07 10:00:23,America spends a lot more on schools than on police ,free,1876,0,0,https://www.slowboring.com/p/america-spends-a-lot-more-on-schools
+57340427,2022-06-02 10:00:39,Two cheers for American higher education ,free,2642,336,128,https://www.slowboring.com/p/two-cheers-for-american-higher-education
+57532707,2022-06-06 10:00:19,Russia's war on the world's food supply,free,2079,159,96,https://www.slowboring.com/p/russias-war-on-the-worlds-food-supply
+57548064,2022-06-03 10:00:49,Mailbag: Maverick ,free,2810,212,78,https://www.slowboring.com/p/mailbag-maverick
+57830726,2022-06-07 10:00:23,America spends a lot more on schools than on police ,free,1876,237,82,https://www.slowboring.com/p/america-spends-a-lot-more-on-schools
+58251621,2022-06-08 10:00:23,"When the ""culture war"" was about religion",paid,2312,0,0,https://www.slowboring.com/p/when-the-culture-war-was-about-religion
