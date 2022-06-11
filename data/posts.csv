@@ -1,23 +1,23 @@
 post_id,date,title,audience,word_count,comments,likes,url,authors
 18135875,2020-11-13 15:55:55,Welcome to Slow Boring ,free,2988,243,149,https://www.slowboring.com/p/welcome-to-slow-boring,Matthew Yglesias
 18177334,2020-11-18 11:00:53,Joe Biden's Cabinet isn't what matters,free,3168,153,67,https://www.slowboring.com/p/joe-bidens-cabinet-isnt-what-matters,Matthew Yglesias
-18503568,2020-11-24 11:00:18,Low interest rates are a curse — we need massive fiscal imprudence,free,2661,107,54,https://www.slowboring.com/p/low-interest-rates-are-a-curse-we,Matthew Yglesias
+18503568,2020-11-24 11:00:18,Low interest rates are a curse — we need massive fiscal imprudence,free,2661,107,55,https://www.slowboring.com/p/low-interest-rates-are-a-curse-we,Matthew Yglesias
 18586396,2020-11-16 11:00:43,Make Blue America Great Again,free,2654,332,176,https://www.slowboring.com/p/make-blue-america-great-again,Matthew Yglesias
 18642680,2020-11-17 11:09:52,"Minimum wage wins, affirmative action loses",free,1963,229,140,https://www.slowboring.com/p/minimum-wage-wins-affirmative-action,Matthew Yglesias
-18763957,2020-11-19 11:00:33,What's wrong with the media ,free,2697,309,158,https://www.slowboring.com/p/whats-wrong-with-the-media,Matthew Yglesias
+18763957,2020-11-19 11:00:33,What's wrong with the media ,free,2697,309,159,https://www.slowboring.com/p/whats-wrong-with-the-media,Matthew Yglesias
 18980244,2020-11-20 11:00:10,Some optimism about America's Covid response,free,1850,143,77,https://www.slowboring.com/p/some-optimism-about-americas-covid,Matthew Yglesias
 19229056,2020-12-02 11:00:36,"The ""racial wealth gap"" is a class gap",free,1741,199,100,https://www.slowboring.com/p/the-racial-wealth-gap-is-a-class,Matthew Yglesias
-19286343,2021-01-05 11:00:14,Republicans' unhinged moderation,free,2367,330,142,https://www.slowboring.com/p/unhinged-moderation,Matthew Yglesias
+19286343,2021-01-05 11:00:14,Republicans' unhinged moderation,free,2367,330,143,https://www.slowboring.com/p/unhinged-moderation,Matthew Yglesias
 19335206,2020-11-23 11:00:59,Janet Yellen's mistake ,free,2885,124,77,https://www.slowboring.com/p/janet-yellens-mistake,Matthew Yglesias
 19639907,2020-11-25 11:00:52,National Democrats' misguided re-embrace of gun control,free,3174,405,146,https://www.slowboring.com/p/national-democrats-misguided-re-embrace,Matthew Yglesias
-19674370,2020-11-24 12:58:28,Electoral politics on an unfair playing field,free,2542,84,35,https://www.slowboring.com/p/electoral-politics-on-an-unfair-playing,Aaron Strauss
+19674370,2020-11-24 12:58:28,Electoral politics on an unfair playing field,free,2542,84,36,https://www.slowboring.com/p/electoral-politics-on-an-unfair-playing,Aaron Strauss
 20151892,2020-11-26 11:58:23,Giving thanks ,free,628,81,67,https://www.slowboring.com/p/giving-thanks,Matthew Yglesias
 20181001,2020-12-01 11:00:52,Climate change is really hard ,paid,2776,282,133,https://www.slowboring.com/p/climate-change-is-really-hard,Matthew Yglesias
 20385917,2020-11-30 11:00:15,America could use more marijuana activism,free,1815,91,40,https://www.slowboring.com/p/america-could-use-more-marijuana,Matthew Yglesias
 20388649,2020-11-27 12:07:07,PREWRITE DO NOT PUBLISH: It happened again,free,2061,141,43,https://www.slowboring.com/p/prewrite-do-not-publish-it-happened,Matthew Yglesias
 21025509,2020-11-30 15:40:38,I'm a senior fellow at the Niskanen Center ,free,433,48,48,https://www.slowboring.com/p/im-a-senior-fellow-at-the-niskanen,Matthew Yglesias
 21255649,2020-12-03 12:00:46,The road not traveled,free,3104,158,81,https://www.slowboring.com/p/the-road-not-traveled,Matthew Yglesias
-21384896,2020-12-07 11:00:54,"Defund police is a bad idea, not a bad slogan",free,3236,268,158,https://www.slowboring.com/p/defund-police-is-a-bad-idea-not-a,Matthew Yglesias
+21384896,2020-12-07 11:00:54,"Defund police is a bad idea, not a bad slogan",free,3236,268,159,https://www.slowboring.com/p/defund-police-is-a-bad-idea-not-a,Matthew Yglesias
 21496045,2020-12-04 11:00:57,The case for canceling a lot of student debt,free,1795,319,63,https://www.slowboring.com/p/the-case-for-canceling-a-lot-of-student,Matthew Yglesias
 21782308,2020-12-15 11:00:08,Joe Rogan and the doomed politics of shunning,free,2204,400,157,https://www.slowboring.com/p/joe-rogan-and-the-doomed-politics,Matthew Yglesias
 22022458,2020-12-08 11:00:59,Fixing the mass transit crisis,free,1463,93,40,https://www.slowboring.com/p/fixing-the-mass-transit-crisis,Matthew Yglesias
@@ -42,10 +42,10 @@ post_id,date,title,audience,word_count,comments,likes,url,authors
 30087879,2021-01-04 11:00:23,The truth about immigration and wages,paid,2399,222,123,https://www.slowboring.com/p/immigration-and-wages,Matthew Yglesias
 30324466,2021-01-12 11:01:00,Small business is not the answer,free,2975,279,223,https://www.slowboring.com/p/small-business-is-not-the-answer,Matthew Yglesias
 31019610,2021-01-06 11:10:15,Making policy for a low-trust world,free,2916,141,130,https://www.slowboring.com/p/making-policy-for-a-low-trust-world,Matthew Yglesias
-31043012,2021-01-08 11:00:22,Public housing is not the answer,paid,3692,343,200,https://www.slowboring.com/p/public-housing-is-not-the-answer,Matthew Yglesias
+31043012,2021-01-08 11:00:22,Public housing is not the answer,paid,3692,343,201,https://www.slowboring.com/p/public-housing-is-not-the-answer,Matthew Yglesias
 31099143,2021-01-07 11:00:48,What Joe Manchin's Senate can deliver,paid,1829,247,123,https://www.slowboring.com/p/warnock-ossoff,Matthew Yglesias
 31111321,2021-01-06 21:45:46,The MAGA mob and the imperative to win,free,1017,402,156,https://www.slowboring.com/p/maga-mob,Matthew Yglesias
-31135140,2021-01-14 11:00:18,The confused debate on “big tech” and free speech ,paid,3262,317,150,https://www.slowboring.com/p/the-confused-debate-on-big-tech-and,Matthew Yglesias
+31135140,2021-01-14 11:00:18,The confused debate on “big tech” and free speech ,paid,3262,317,151,https://www.slowboring.com/p/the-confused-debate-on-big-tech-and,Matthew Yglesias
 31175374,2021-01-11 11:01:00,The system doesn't work,paid,2177,298,219,https://www.slowboring.com/p/the-system-doesnt-work,Matthew Yglesias
 31205974,2021-01-19 11:00:57,What the inflation contrarians get right and how to fix it,paid,3088,271,162,https://www.slowboring.com/p/inflation-contrarians,Matthew Yglesias
 31249622,2021-01-13 11:00:40,Chemtrails over the country club,free,2565,271,183,https://www.slowboring.com/p/chemtrails-over-the-country-club,Matthew Yglesias
@@ -54,7 +54,7 @@ post_id,date,title,audience,word_count,comments,likes,url,authors
 31499698,2021-01-14 22:21:49,Meet the American Rescue Act,free,1151,147,88,https://www.slowboring.com/p/meet-the-american-rescue-act,Matthew Yglesias
 31559767,2021-01-20 11:00:54,The case for vaccine challenge trials,free,3080,256,94,https://www.slowboring.com/p/the-case-for-vaccine-challenge-trials,Matthew Yglesias
 31593691,2021-01-16 21:22:20,How Joe Biden's team hopes to turn five vaccine doses into six,free,457,73,69,https://www.slowboring.com/p/dead-space,Matthew Yglesias
-31707412,2021-01-21 11:00:37,What happens next ,paid,2363,337,160,https://www.slowboring.com/p/what-happens-next,Matthew Yglesias
+31707412,2021-01-21 11:00:37,What happens next ,paid,2363,337,161,https://www.slowboring.com/p/what-happens-next,Matthew Yglesias
 31744223,2021-01-23 17:00:52,"Lawyer-brain, NECTAs, marriage penalties, and the trouble with normal",paid,1256,259,175,https://www.slowboring.com/p/lawyer-brain-nectas-marriage-penalties,Matthew Yglesias
 31754871,2021-01-22 11:01:01,Raise the minimum wage,paid,2367,337,158,https://www.slowboring.com/p/raise-the-minimum-wage,Matthew Yglesias
 31771252,2021-01-25 11:00:58,"Fixing the police will take more funding, not less",free,3481,397,157,https://www.slowboring.com/p/fixing-the-police-will-take-more,Matthew Yglesias
@@ -94,17 +94,17 @@ post_id,date,title,audience,word_count,comments,likes,url,authors
 33073895,2021-03-02 11:00:53,Learning from the Covid economy,paid,2618,86,132,https://www.slowboring.com/p/covid-economy,Matthew Yglesias
 33112723,2021-03-04 11:00:27,What can we do about vaccine hesitancy?,paid,3818,193,82,https://www.slowboring.com/p/vaccine-hesitancy,Matthew Yglesias
 33117945,2021-03-03 11:00:32,Democrats should try harder to win elections,paid,3773,442,242,https://www.slowboring.com/p/win-elections,Matthew Yglesias
-33181330,2021-03-09 11:00:09,"Oh, the intellectual property rights you'll extend",free,4349,236,95,https://www.slowboring.com/p/dr-seuss-ip,Matthew Yglesias
-33205193,2021-03-05 11:00:17,Covid: Year One,paid,2228,247,153,https://www.slowboring.com/p/covid-year-one,Matthew Yglesias
+33181330,2021-03-09 11:00:09,"Oh, the intellectual property rights you'll extend",free,4349,236,96,https://www.slowboring.com/p/dr-seuss-ip,Matthew Yglesias
+33205193,2021-03-05 11:00:17,Covid: Year One,paid,2228,247,154,https://www.slowboring.com/p/covid-year-one,Matthew Yglesias
 33225505,2021-03-08 11:00:55,"The case for Bernie Sanders, revisited",paid,2505,375,137,https://www.slowboring.com/p/bernie-sanders,Matthew Yglesias
 33310644,2021-03-06 14:00:55,Weekend Update: March 6,paid,897,176,120,https://www.slowboring.com/p/weekend-update-march-6,Matthew Yglesias
 33385334,2021-03-10 11:00:05,Consider the wealth tax,paid,3355,456,112,https://www.slowboring.com/p/wealth-tax,Matthew Yglesias
 33419617,2021-03-11 11:00:20,The coming (mild) inflation,paid,2313,162,79,https://www.slowboring.com/p/inflation-coming,Matthew Yglesias
-33527887,2021-03-12 11:01:00,Wealth isn't what matters,free,2262,164,149,https://www.slowboring.com/p/wealth-weirdness,Matthew Yglesias
+33527887,2021-03-12 11:01:00,Wealth isn't what matters,free,2262,164,150,https://www.slowboring.com/p/wealth-weirdness,Matthew Yglesias
 33561876,2021-03-15 10:00:53,How to pay for infrastructure ,paid,1852,235,98,https://www.slowboring.com/p/infrastructure-offset,Matthew Yglesias
 33619836,2021-03-13 14:05:12,"Weekend Update, March 13",paid,1552,211,101,https://www.slowboring.com/p/weekend-update-march-13,Matthew Yglesias
 33621408,2021-03-16 10:00:34,Meritocracy is bad,free,3142,436,260,https://www.slowboring.com/p/meritocracy-is-bad,Matthew Yglesias
-33623824,2021-03-18 10:00:40,Repealing the estate tax is dumb,paid,2954,224,43,https://www.slowboring.com/p/repealing-the-estate-tax-is-dumb,Matthew Yglesias
+33623824,2021-03-18 10:00:40,Repealing the estate tax is dumb,paid,2954,224,44,https://www.slowboring.com/p/repealing-the-estate-tax-is-dumb,Matthew Yglesias
 33700824,2021-03-17 10:00:55,Vaccinating the global poor is really important,paid,2269,134,101,https://www.slowboring.com/p/global-poor-vaccine,Matthew Yglesias
 33723873,2021-03-19 10:00:44,Joe Biden and the underrated value of winning elections,paid,2413,111,96,https://www.slowboring.com/p/joe-biden-and-the-underrated-value,Matthew Yglesias
 33852109,2021-03-20 13:00:01,"Weekend update, March 20",paid,1082,420,128,https://www.slowboring.com/p/weekend-update-march-20,Matthew Yglesias
@@ -118,7 +118,7 @@ post_id,date,title,audience,word_count,comments,likes,url,authors
 34346394,2021-03-27 13:00:49,"Weekend Update, March 27",paid,1506,248,126,https://www.slowboring.com/p/weekend-update-march-27,Matthew Yglesias
 34407144,2021-03-30 10:00:05,Homelessness and vacant houses,free,1807,317,174,https://www.slowboring.com/p/homelessness-and-vacant-houses,Matthew Yglesias
 34495712,2021-03-31 10:00:41,The case for NGDP targeting,paid,1634,94,91,https://www.slowboring.com/p/the-case-for-ngdp-targeting,Matthew Yglesias
-34505451,2021-04-01 10:00:30,Did the Democratic Majority emerge after all?,paid,2016,209,98,https://www.slowboring.com/p/did-the-democratic-majority-emerge,Matthew Yglesias
+34505451,2021-04-01 10:00:30,Did the Democratic Majority emerge after all?,paid,2016,209,99,https://www.slowboring.com/p/did-the-democratic-majority-emerge,Matthew Yglesias
 34532548,2021-04-09 10:00:27,Andrew Yang versus the unrepresentative activists,paid,2625,522,220,https://www.slowboring.com/p/yang-gang,Matthew Yglesias
 34560988,2021-04-05 10:00:54,America is rapidly secularizing,paid,1442,178,135,https://www.slowboring.com/p/secularizing-trend,Matthew Yglesias
 34598585,2021-04-02 10:01:00,Joe Biden's next big plan,paid,2423,257,93,https://www.slowboring.com/p/joe-bidens-next-big-plan,Matthew Yglesias
@@ -138,7 +138,7 @@ post_id,date,title,audience,word_count,comments,likes,url,authors
 35378482,2021-04-22 10:00:06,Who is the racial justice case for zoning reform for?,free,3394,330,104,https://www.slowboring.com/p/race-and-zoning,Matthew Yglesias
 35401484,2021-04-23 10:00:59,South Korea and America's incredibly stupid Covid debate ,paid,1976,439,231,https://www.slowboring.com/p/south-korea-and-americas-incredibly,Matthew Yglesias
 35481514,2021-04-24 13:00:11,"Weekend Update, April 24",paid,1107,151,128,https://www.slowboring.com/p/weekend-update-april-24,Matthew Yglesias
-35485569,2021-04-26 10:00:30,The rise of self-made billionaires and the fall of economic dynamism ,paid,3035,267,110,https://www.slowboring.com/p/the-rise-of-self-made-billionaires,Matthew Yglesias
+35485569,2021-04-26 10:00:30,The rise of self-made billionaires and the fall of economic dynamism ,paid,3035,267,111,https://www.slowboring.com/p/the-rise-of-self-made-billionaires,Matthew Yglesias
 35565119,2021-04-28 10:00:09,Remote work is underrated ,paid,1470,159,112,https://www.slowboring.com/p/remote-work,Matthew Yglesias
 35574511,2021-04-27 10:00:09,Joe Biden gets ready to soak the rich ,paid,2718,171,125,https://www.slowboring.com/p/joe-biden-gets-ready-to-soak-the,Matthew Yglesias
 35640356,2021-04-29 10:00:11,"If you want to talk about racism, talk about racism",free,3230,366,146,https://www.slowboring.com/p/english-kalla,Matthew Yglesias
@@ -150,25 +150,25 @@ post_id,date,title,audience,word_count,comments,likes,url,authors
 35971137,2021-05-06 10:00:58,Is inflation coming?,paid,2324,144,99,https://www.slowboring.com/p/inflation-worries,Matthew Yglesias
 36036186,2021-05-07 10:00:52,We should get people vaccinated against Covid-19,paid,2110,179,144,https://www.slowboring.com/p/we-should-get-people-vaccinated-against,Matthew Yglesias
 36068169,2021-05-08 10:00:15,"Weekend Update, May 8",paid,1046,270,108,https://www.slowboring.com/p/weekend-update-may-8,Matthew Yglesias
-36110503,2021-05-10 10:00:32,"Tema Okun's ""White Supremacy Culture"" work is bad",free,2587,381,379,https://www.slowboring.com/p/tema-okun,Matthew Yglesias
+36110503,2021-05-10 10:00:32,"Tema Okun's ""White Supremacy Culture"" work is bad",free,2587,381,380,https://www.slowboring.com/p/tema-okun,Matthew Yglesias
 36158790,2021-05-11 10:00:07,Most people have been wearing hard pants all year,free,2632,263,157,https://www.slowboring.com/p/most-people-have-been-wearing-hard,Matthew Yglesias
 36203851,2021-05-12 10:00:09,Don't underreact to one bad jobs report,paid,3542,159,94,https://www.slowboring.com/p/job-report,Matthew Yglesias
 36270312,2021-05-13 10:00:18,The biggest threat to American democracy is it doesn't exist,free,2444,484,184,https://www.slowboring.com/p/american-democracy,Matthew Yglesias
 36315083,2021-05-29 14:00:08,It's time to take Andrew Yang's policy ideas seriously,free,2481,110,81,https://www.slowboring.com/p/yang-policy,Marc Novicoff
-36340664,2021-05-14 10:00:08,Women can win elections,paid,2669,401,122,https://www.slowboring.com/p/women-electable,Matthew Yglesias
+36340664,2021-05-14 10:00:08,Women can win elections,paid,2669,401,123,https://www.slowboring.com/p/women-electable,Matthew Yglesias
 36374925,2021-05-17 10:00:27,Homelessness is about housing,free,2850,249,138,https://www.slowboring.com/p/homelessness-housing,Matthew Yglesias
 36414669,2021-05-18 10:00:50,We should have done more bailouts,free,2598,85,51,https://www.slowboring.com/p/bailouts,Matthew Yglesias
 36480369,2021-05-19 10:00:26,Seventeen points on Israel and Palestine,paid,1554,480,202,https://www.slowboring.com/p/israel,Matthew Yglesias
 36527916,2021-05-20 10:00:21,Make the Endless Frontier Act great again,free,3275,119,59,https://www.slowboring.com/p/make-the-endless-frontier-act-great,Matthew Yglesias
 36559376,2021-05-21 10:00:48,The anti-SAT push is misguided ,paid,3202,334,238,https://www.slowboring.com/p/sat-california,Matthew Yglesias
-36641597,2021-05-24 10:00:26,The case for higher alcohol taxes,paid,1917,257,151,https://www.slowboring.com/p/booze-tax,Matthew Yglesias
+36641597,2021-05-24 10:00:26,The case for higher alcohol taxes,paid,1917,257,152,https://www.slowboring.com/p/booze-tax,Matthew Yglesias
 36745286,2021-05-25 10:00:04,"What comes after the ""defund"" fad?",paid,2204,410,172,https://www.slowboring.com/p/what-comes-after-the-defund-fad,Matthew Yglesias
 36778380,2021-05-26 10:00:13,The media's lab leak fiasco,free,4265,500,173,https://www.slowboring.com/p/the-medias-lab-leak-fiasco,Matthew Yglesias
 36790995,2021-05-27 10:00:59,What is historic preservation for?,paid,2130,303,164,https://www.slowboring.com/p/historic-preservation,Matthew Yglesias
 36843889,2021-05-28 10:01:01,Free markets are creating a major free speech problem ,free,3720,329,189,https://www.slowboring.com/p/china-speech,Matthew Yglesias
 36906625,2021-06-01 10:00:12,Criticizing China isn't racist ,free,2342,329,156,https://www.slowboring.com/p/china-racist,Matthew Yglesias
-36964454,2021-05-31 13:00:07,Big Mac-ghazi ,free,819,197,136,https://www.slowboring.com/p/big-mac,Matthew Yglesias
-37050919,2021-06-02 10:00:27,What market does Amazon monopolize?,free,2729,243,168,https://www.slowboring.com/p/what-market-does-amazon-monopolize,Matthew Yglesias
+36964454,2021-05-31 13:00:07,Big Mac-ghazi ,free,819,197,137,https://www.slowboring.com/p/big-mac,Matthew Yglesias
+37050919,2021-06-02 10:00:27,What market does Amazon monopolize?,free,2729,243,169,https://www.slowboring.com/p/what-market-does-amazon-monopolize,Matthew Yglesias
 37075486,2021-06-03 10:00:02,The experts underrate full employment,free,3109,186,150,https://www.slowboring.com/p/underrating-full-employment,Matthew Yglesias
 37095438,2021-06-04 10:00:09,Obama won downscale white people’s votes by pandering to their views,free,2779,531,250,https://www.slowboring.com/p/obama-pander,Matthew Yglesias
 37135025,2021-06-07 10:00:18,The case for parking reform ,free,2664,203,111,https://www.slowboring.com/p/the-case-for-parking-reform,Matthew Yglesias
@@ -179,7 +179,7 @@ post_id,date,title,audience,word_count,comments,likes,url,authors
 37362427,2021-06-10 10:00:11,The fight for democracy is bigger than HR-1,paid,2670,342,130,https://www.slowboring.com/p/the-fight-for-democracy-is-bigger,Matthew Yglesias
 37391492,2021-06-11 10:00:32,There are a lot of poor white people in America,paid,2645,327,181,https://www.slowboring.com/p/welfare-state-equity,Matthew Yglesias
 37443861,2021-06-14 10:00:08,Why we got more inflation than I expected,free,3550,110,142,https://www.slowboring.com/p/inflation-georgia-checks,Matthew Yglesias
-37486827,2021-06-30 10:00:45,What's the matter with Stephen Breyer (and Merrick Garland)?,free,2158,336,138,https://www.slowboring.com/p/whats-the-matter-with-stephen-breyer,Matthew Yglesias
+37486827,2021-06-30 10:00:45,What's the matter with Stephen Breyer (and Merrick Garland)?,free,2158,336,139,https://www.slowboring.com/p/whats-the-matter-with-stephen-breyer,Matthew Yglesias
 37489725,2021-06-15 10:00:56,Something really good is happening next month,free,2536,188,89,https://www.slowboring.com/p/something-really-good-is-happening,Matthew Yglesias
 37513989,2021-06-16 10:00:59,Apple's App Store policies are a big mistake,paid,4134,276,98,https://www.slowboring.com/p/app-store,Matthew Yglesias
 37602910,2021-06-17 10:00:59,In defense of Rochelle Walensky,free,2795,388,145,https://www.slowboring.com/p/rochelle-wolensky,Matthew Yglesias
@@ -191,14 +191,14 @@ post_id,date,title,audience,word_count,comments,likes,url,authors
 37860233,2021-06-21 21:00:17,Introducing Slow Boring Audio,paid,258,39,66,https://www.slowboring.com/p/introducing-slow-boring-audio,Matthew Yglesias
 37860687,2021-06-24 10:00:18,We should try to make good trains,paid,2182,165,128,https://www.slowboring.com/p/good-trains,Matthew Yglesias
 37905476,2021-06-25 10:00:58,The Biden economy is good!,paid,1309,147,104,https://www.slowboring.com/p/biden-economy,Matthew Yglesias
-37935686,2021-06-28 10:00:12,What if… ,paid,2120,177,106,https://www.slowboring.com/p/what-if,Matthew Yglesias
+37935686,2021-06-28 10:00:12,What if… ,paid,2120,177,107,https://www.slowboring.com/p/what-if,Matthew Yglesias
 38021094,2021-06-25 13:23:35,Thirteen ways of looking at a bipartisan infrastructure deal,free,1011,98,65,https://www.slowboring.com/p/infrastructure-deal,Matthew Yglesias
 38102501,2021-06-29 10:00:26,Conservatives can't win the history wars,free,2935,540,164,https://www.slowboring.com/p/conservatives-cant-win-the-history,Matthew Yglesias
 38120969,2021-07-01 10:00:17,When experts go astray ,paid,2742,227,185,https://www.slowboring.com/p/experts-astray,Matthew Yglesias
 38223101,2021-07-02 10:00:15,Moynihan Train Hall and our infrastructure problem,free,3002,265,169,https://www.slowboring.com/p/moynihan-station,Matthew Yglesias
 38235209,2021-07-09 10:00:51,Maine should capture the remote work opportunity ,free,2633,107,82,https://www.slowboring.com/p/maine-remote,Matthew Yglesias
 38260421,2021-07-06 10:01:14,Popularism for moderates: The case of the carbon tax,free,1676,120,103,https://www.slowboring.com/p/carbon-tax,Matthew Yglesias
-38348118,2021-07-07 10:00:18,The known unknowns of our hot button debates,free,2272,231,143,https://www.slowboring.com/p/the-known-unknowns-of-our-hot-button,Matthew Yglesias
+38348118,2021-07-07 10:00:18,The known unknowns of our hot button debates,free,2272,231,144,https://www.slowboring.com/p/the-known-unknowns-of-our-hot-button,Matthew Yglesias
 38366395,2021-07-08 10:00:55,Martin Luther King called for radical redistribution of material resources,free,2573,319,140,https://www.slowboring.com/p/martin-luther-king-called-for-radical,Matthew Yglesias
 38521728,2021-07-12 10:00:08,What is the climate left doing? ,free,2991,382,249,https://www.slowboring.com/p/climate-left,Matthew Yglesias
 38538877,2021-07-13 13:00:14,Slow Boring seeks researcher ,free,573,24,35,https://www.slowboring.com/p/slow-boring-seeks-researcher,Matthew Yglesias
@@ -213,7 +213,7 @@ post_id,date,title,audience,word_count,comments,likes,url,authors
 38961287,2021-07-21 10:01:19,"In defense of the old-fashioned idea of ""racism""",free,1928,320,198,https://www.slowboring.com/p/racism-kendi,Matthew Yglesias
 39031370,2021-07-23 10:01:01,The FDA vs. cost-benefit analysis ,free,3053,211,99,https://www.slowboring.com/p/fda-cost-benefit,Matthew Yglesias
 39070202,2021-07-29 10:00:49,The future of the supermarket ,free,1976,328,158,https://www.slowboring.com/p/supermarket-future,Matthew Yglesias
-39090718,2021-07-26 10:00:43,There are too many scams in higher education ,free,2279,230,224,https://www.slowboring.com/p/there-are-too-many-scams-in-higher,Matthew Yglesias
+39090718,2021-07-26 10:00:43,There are too many scams in higher education ,free,2279,230,225,https://www.slowboring.com/p/there-are-too-many-scams-in-higher,Matthew Yglesias
 39132207,2021-07-28 10:00:04,Kamala Harris should try to be really popular,free,3389,487,224,https://www.slowboring.com/p/kamala-harris-should-try-to-be-really,Matthew Yglesias
 39198875,2021-07-27 10:01:02,The economic case for pro-natalism,free,1506,434,127,https://www.slowboring.com/p/the-economic-case-for-pro-natalism,Matthew Yglesias
 39277028,2021-07-30 10:00:15,To means-test or not to means-test ,free,2601,68,56,https://www.slowboring.com/p/means-test-when,Matthew Yglesias
@@ -228,7 +228,7 @@ post_id,date,title,audience,word_count,comments,likes,url,authors
 39814820,2021-08-12 10:00:01,The case against crisis-mongering,free,3459,431,202,https://www.slowboring.com/p/fake-crisis,Matthew Yglesias
 39881555,2021-08-13 10:00:49,Curb inflation by rescinding Trump's tariffs,free,1679,107,85,https://www.slowboring.com/p/tariffs-inflation,Matthew Yglesias
 39924073,2021-08-31 10:00:33,A really boring way to solve more serious violent crimes,free,2320,179,148,https://www.slowboring.com/p/a-really-boring-way-to-solve-more,Matthew Yglesias
-39976329,2021-08-16 10:00:38,They deliberately put errors in the Census ,free,3296,236,118,https://www.slowboring.com/p/census-privacy,Matthew Yglesias
+39976329,2021-08-16 10:00:38,They deliberately put errors in the Census ,free,3296,236,119,https://www.slowboring.com/p/census-privacy,Matthew Yglesias
 40013889,2021-08-14 14:12:27,Saturday Thread,paid,6,94,4,https://www.slowboring.com/p/saturday-thread-e2d,Matthew Yglesias
 40013897,2021-08-18 10:00:49,Why more Porsches means cheaper Priuses,paid,2166,310,153,https://www.slowboring.com/p/why-more-porsches-means-cheaper-priuses,Matthew Yglesias
 40057542,2021-08-17 10:00:40,Biden (and Trump) did the right thing on Afghanistan,free,2102,418,195,https://www.slowboring.com/p/afghan-war,Matthew Yglesias
@@ -267,7 +267,7 @@ post_id,date,title,audience,word_count,comments,likes,url,authors
 41890896,2021-10-01 10:00:31,Kyrsten Sinema must be stopped ,free,2307,246,138,https://www.slowboring.com/p/sinema-menace,Matthew Yglesias
 41987541,2021-10-02 12:00:26,America's cities need multi-party democracy,free,3045,58,82,https://www.slowboring.com/p/cities-democracy-multiparty,Stan Oklobdzija
 42005076,2021-10-04 10:00:23,Progressives' mobilization delusion ,free,1911,301,191,https://www.slowboring.com/p/progressives-mobilization-delusion,Matthew Yglesias
-42019701,2021-10-01 11:01:33,Interview with Kathryn Paige Harden ,paid,10778,30,12,https://www.slowboring.com/p/interview-with-kathryn-paige-harden,Matthew Yglesias
+42019701,2021-10-01 11:01:33,Interview with Kathryn Paige Harden ,paid,10778,30,13,https://www.slowboring.com/p/interview-with-kathryn-paige-harden,Matthew Yglesias
 42095638,2021-10-05 10:00:21,Is quiet climate policy enough?,free,1868,321,211,https://www.slowboring.com/p/is-quiet-climate-policy-enough,Matthew Yglesias
 42166798,2021-10-06 10:00:37,The myth of the urban plague ,free,1417,165,118,https://www.slowboring.com/p/urban-plague,Matthew Yglesias
 42216941,2021-10-07 10:00:28,The case for more energy,free,2141,264,226,https://www.slowboring.com/p/energy-abundance,Matthew Yglesias
@@ -295,7 +295,7 @@ post_id,date,title,audience,word_count,comments,likes,url,authors
 43503862,2021-11-09 11:00:47,"""Critical Race Theory"" and actual education policy, part two",free,2476,418,175,https://www.slowboring.com/p/crt-school,Matthew Yglesias
 43680098,2021-11-10 11:00:46,Paid parental leave should be universal — and actually focused on parents,free,2212,154,103,https://www.slowboring.com/p/paid-parental-leave-should-be-universal,Matthew Yglesias
 43694106,2021-11-08 11:00:39,"""Critical Race Theory"" and actual education policy, part one",free,2148,608,278,https://www.slowboring.com/p/critical-race-theory-and-actual-education,Matthew Yglesias
-43776715,2021-11-12 11:00:47,European countries have really high taxes,free,2134,446,193,https://www.slowboring.com/p/european-countries-have-really-high,Matthew Yglesias
+43776715,2021-11-12 11:00:47,European countries have really high taxes,free,2134,446,194,https://www.slowboring.com/p/european-countries-have-really-high,Matthew Yglesias
 43822350,2021-11-15 11:00:37,Expanded legal immigration is the ultimate supply side reform ,free,1943,251,104,https://www.slowboring.com/p/inflationary-economy,Matthew Yglesias
 43861452,2021-11-11 11:00:33,Happy Veterans’ Day ,paid,30,65,85,https://www.slowboring.com/p/happy-veterans-day,Matthew Yglesias
 43937960,2021-11-16 11:00:37,Time to declare victory on stimulating the economy ,paid,2073,201,114,https://www.slowboring.com/p/time-to-declare-victory-on-stimulating,Matthew Yglesias
@@ -407,7 +407,7 @@ post_id,date,title,audience,word_count,comments,likes,url,authors
 51320519,2022-04-14 10:00:38,The American Rescue Plan was too big,free,2093,129,70,https://www.slowboring.com/p/arp-overshoot,Milan Singh
 51403483,2022-04-05 10:00:37,What was the popularism debate?,free,1999,236,140,https://www.slowboring.com/p/what-was-the-popularism-debate,Matthew Yglesias
 51509642,2022-04-06 10:00:42,We need to find ways to do faster clinical research,free,2301,132,94,https://www.slowboring.com/p/we-need-to-find-ways-to-do-faster,Matthew Yglesias
-51595945,2022-04-07 10:00:43,Mancur Olson at the end of history,free,2720,128,112,https://www.slowboring.com/p/mancur-olson-end-of-history,Matthew Yglesias
+51595945,2022-04-07 10:00:43,Mancur Olson at the end of history,free,2720,128,113,https://www.slowboring.com/p/mancur-olson-end-of-history,Matthew Yglesias
 51621477,2022-04-12 10:00:52,The case for Terminator analogies,free,2811,260,137,https://www.slowboring.com/p/the-case-for-terminator-analogies,Matthew Yglesias
 51677020,2022-04-08 10:00:44,Reading Railroad Mailbag ,paid,3289,188,90,https://www.slowboring.com/p/reading-railroad-mailbag,Matthew Yglesias
 51850560,2022-04-11 10:00:41,Democrats are sleepwalking into a Senate disaster,free,1179,381,113,https://www.slowboring.com/p/democrats-are-sleepwalking-into-a,Simon Bazelon
@@ -421,35 +421,36 @@ post_id,date,title,audience,word_count,comments,likes,url,authors
 52476450,2022-04-21 10:00:53,Data privacy is not the issue with TikTok,free,2255,267,122,https://www.slowboring.com/p/data-privacy-is-not-the-issue-with,Matthew Yglesias
 52491210,2022-04-22 10:00:37,A very messy mailbag,paid,4158,300,90,https://www.slowboring.com/p/a-very-messy-mailbag,Matthew Yglesias
 52577286,2022-04-25 10:00:29,Donald Trump's re-election is a dire threat to free speech,paid,2440,322,186,https://www.slowboring.com/p/donald-trumps-re-election-is-a-dire,Matthew Yglesias
-52767182,2022-04-26 10:00:30,It's time to raise taxes on the rich,paid,2272,218,143,https://www.slowboring.com/p/its-time-to-raise-taxes-on-the-rich,Matthew Yglesias
+52767182,2022-04-26 10:00:30,It's time to raise taxes on the rich,free,2272,218,143,https://www.slowboring.com/p/its-time-to-raise-taxes-on-the-rich,Matthew Yglesias
 52816815,2022-04-28 10:00:33,Some boring takes on the French election,free,1807,115,118,https://www.slowboring.com/p/some-boring-takes-on-the-french-election,Matthew Yglesias
-52832260,2022-04-27 10:00:53,Twenty-three theses on Elon Musk and Twitter,free,1621,276,178,https://www.slowboring.com/p/twenty-three-theses-on-elon-musk,Matthew Yglesias
+52832260,2022-04-27 10:00:53,Twenty-three theses on Elon Musk and Twitter,free,1621,276,179,https://www.slowboring.com/p/twenty-three-theses-on-elon-musk,Matthew Yglesias
 52906498,2022-04-29 10:00:39,April mailbag brings May takes,paid,3189,224,98,https://www.slowboring.com/p/april-mailbag-brings-may-takes,Matthew Yglesias
 53053394,2022-05-03 10:00:42,Do investor-owned single-family homes cause drug overdoses? ,paid,1928,213,112,https://www.slowboring.com/p/do-investor-owned-single-family-homes,Matthew Yglesias
 53251092,2022-05-04 10:00:45,Republicans have changed a lot since 2008,paid,1996,207,135,https://www.slowboring.com/p/republicans-have-changed-a-lot-since,Matthew Yglesias
 53260750,2022-05-11 10:00:42,Democrats have changed a lot since 2012,free,2817,228,130,https://www.slowboring.com/p/shifting-left,"Matthew Yglesias, Milan Singh"
-53302113,2022-05-05 10:00:43,What the DLC got wrong ,free,1653,151,131,https://www.slowboring.com/p/what-the-dlc-got-wrong,Matthew Yglesias
+53302113,2022-05-05 10:00:43,What the DLC got wrong ,free,1653,151,132,https://www.slowboring.com/p/what-the-dlc-got-wrong,Matthew Yglesias
 53313492,2022-05-06 10:00:56,Don't leak the mailbag ,paid,3510,352,83,https://www.slowboring.com/p/dont-leak-the-mailbag,Matthew Yglesias
 53612371,2022-05-09 10:00:40,Winning after Roe,free,2089,376,195,https://www.slowboring.com/p/winning-after-roe,Matthew Yglesias
 53938535,2022-05-10 10:00:43,Half the population dying and then returning five years later would be a really big deal,paid,1871,148,101,https://www.slowboring.com/p/half-the-population-dying-and-then,Matthew Yglesias
 54003982,2022-05-12 10:00:41,Solving problems by letting people do things,paid,2699,146,130,https://www.slowboring.com/p/solving-problems-by-letting-people,Matthew Yglesias
 54303445,2022-05-13 10:00:40,Multiverse of Mailbag ,free,3871,267,68,https://www.slowboring.com/p/mailbag-lamb,Matthew Yglesias
-54679617,2022-05-16 10:00:50,Greedflation is fake,paid,2224,266,179,https://www.slowboring.com/p/greedflation-is-fake,Matthew Yglesias
+54679617,2022-05-16 10:00:50,Greedflation is fake,paid,2224,266,180,https://www.slowboring.com/p/greedflation-is-fake,Matthew Yglesias
 54876506,2022-05-17 10:00:43,A straightforward solution to the formula crisis ,free,2047,150,101,https://www.slowboring.com/p/a-straightforward-solution-to-the,Matthew Yglesias
 55172787,2022-05-18 10:00:52,Let's use unspent Covid funds to make great next generation vaccines,paid,1867,130,94,https://www.slowboring.com/p/lets-use-unspent-covid-funds-to-make,Matthew Yglesias
 55178451,2022-05-24 23:00:36,Slow Boring Book Club: Streets of Gold,paid,424,4,26,https://www.slowboring.com/p/slow-boring-book-club-streets-of-6b6,Kate Crawford
-55315571,2022-05-25 10:00:30,Remote work is boosting housing demand and driving inflation,paid,1934,231,108,https://www.slowboring.com/p/remote-work-is-boosting-housing-demand,Matthew Yglesias
+55315571,2022-05-25 10:00:30,Remote work is boosting housing demand and driving inflation,free,1934,231,108,https://www.slowboring.com/p/remote-work-is-boosting-housing-demand,Matthew Yglesias
 55324481,2022-05-19 10:00:43,Words aren't magic,free,2261,199,175,https://www.slowboring.com/p/words-arent-magic,Matthew Yglesias
 55471340,2022-05-20 10:00:35,Birthday mailbag,paid,3350,187,71,https://www.slowboring.com/p/birthday-mailbag,Matthew Yglesias
 55715489,2022-05-23 10:00:36,Understanding Effective Altruism's move into politics,free,2482,394,155,https://www.slowboring.com/p/understanding-effective-altruisms,Matthew Yglesias
-55799999,2022-05-24 10:00:38,Expensive energy is really bad,free,2810,121,145,https://www.slowboring.com/p/expensive-energy-is-really-bad,Matthew Yglesias
-56289053,2022-05-27 10:00:39,Memorial Day mailbag ,paid,2958,294,78,https://www.slowboring.com/p/memorial-day-mailbag,Matthew Yglesias
-56290221,2022-05-26 10:00:31,Does the Bush-era poverty cure deserve a comeback? ,paid,2942,441,135,https://www.slowboring.com/p/does-the-bush-era-poverty-cure-deserve,Matthew Yglesias
+55799999,2022-05-24 10:00:38,Expensive energy is really bad,free,2810,121,146,https://www.slowboring.com/p/expensive-energy-is-really-bad,Matthew Yglesias
+56289053,2022-05-27 10:00:39,Memorial Day mailbag ,paid,2958,294,79,https://www.slowboring.com/p/memorial-day-mailbag,Matthew Yglesias
+56290221,2022-05-26 10:00:31,Does the Bush-era poverty cure deserve a comeback? ,paid,2942,441,137,https://www.slowboring.com/p/does-the-bush-era-poverty-cure-deserve,Matthew Yglesias
 56724202,2022-05-31 10:00:43,We need a new strategy on guns ,paid,2259,651,226,https://www.slowboring.com/p/we-need-a-new-strategy-on-guns,Matthew Yglesias
 56809511,2022-06-01 10:00:38,"Sure, don't ""panic"" about monkeypox — but it seems pretty bad ",free,2969,150,108,https://www.slowboring.com/p/sure-dont-panic-about-monkeypox-but,Matthew Yglesias
-57340427,2022-06-02 10:00:39,Two cheers for American higher education ,free,2642,336,130,https://www.slowboring.com/p/two-cheers-for-american-higher-education,Matthew Yglesias
-57532707,2022-06-06 10:00:19,Russia's war on the world's food supply,free,2079,159,99,https://www.slowboring.com/p/russias-war-on-the-worlds-food-supply,Matthew Yglesias
-57548064,2022-06-03 10:00:49,Mailbag: Maverick ,free,2810,213,78,https://www.slowboring.com/p/mailbag-maverick,Matthew Yglesias
-57830726,2022-06-07 10:00:23,America spends a lot more on schools than on police ,free,1876,244,97,https://www.slowboring.com/p/america-spends-a-lot-more-on-schools,Matthew Yglesias
-58251621,2022-06-08 10:00:23,"When the ""culture war"" was about religion",paid,2312,293,124,https://www.slowboring.com/p/when-the-culture-war-was-about-religion,Matthew Yglesias
-58394722,2022-06-09 10:00:25,Is American democracy still doomed?,paid,2493,0,0,https://www.slowboring.com/p/is-american-democracy-still-doomed,Matthew Yglesias
+57340427,2022-06-02 10:00:39,Two cheers for American higher education ,free,2642,336,131,https://www.slowboring.com/p/two-cheers-for-american-higher-education,Matthew Yglesias
+57532707,2022-06-06 10:00:19,Russia's war on the world's food supply,free,2079,159,101,https://www.slowboring.com/p/russias-war-on-the-worlds-food-supply,Matthew Yglesias
+57548064,2022-06-03 10:00:49,Mailbag: Maverick ,free,2810,213,80,https://www.slowboring.com/p/mailbag-maverick,Matthew Yglesias
+57830726,2022-06-07 10:00:23,America spends a lot more on schools than on police ,free,1876,244,100,https://www.slowboring.com/p/america-spends-a-lot-more-on-schools,Matthew Yglesias
+58251621,2022-06-08 10:00:23,"When the ""culture war"" was about religion",paid,2312,298,140,https://www.slowboring.com/p/when-the-culture-war-was-about-religion,Matthew Yglesias
+58394722,2022-06-09 10:00:25,Is American democracy still doomed?,free,2493,258,151,https://www.slowboring.com/p/is-american-democracy-still-doomed,Matthew Yglesias
+58582964,2022-06-10 10:00:19,Strange new mailbag ,paid,2874,183,53,https://www.slowboring.com/p/strange-new-mailbag,Matthew Yglesias
