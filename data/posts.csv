@@ -484,6 +484,7 @@ post_id,date,title,audience,word_count,comments,likes,url,authors
 62789022,2022-07-08 10:02:18,"Eat, Pray, Mailbag",paid,2736,364,80,https://www.slowboring.com/p/eat-pray-mailbag,Matthew Yglesias
 62988475,2022-07-12 10:01:52,Pro-life austerity: good luck with that,paid,985,501,103,https://www.slowboring.com/p/pro-life-austerity-good-luck-with,Phoebe Maltz Bovy
 63701446,2022-07-15 10:00:53,Under the Tuscan mailbag ,paid,3659,275,75,https://www.slowboring.com/p/under-the-tuscan-mailbag,Matthew Yglesias
+64200864,2022-09-17 10:00:54,The dangerous legal theory in front of the Supreme Court,free,2325,76,81,https://www.slowboring.com/p/independent-state-legislature-theory,Milan Singh
 64793172,2022-07-22 10:00:39,La Dolce Mailbag ,paid,3588,434,76,https://www.slowboring.com/p/la-dolce-mailbag,Matthew Yglesias
 65737481,2022-07-27 11:46:29,What's not wrong with Italy ,free,2895,179,161,https://www.slowboring.com/p/whats-not-wrong-with-italy,Matthew Yglesias
 65785401,2022-07-28 10:00:43,The way forward on health care,paid,1826,244,94,https://www.slowboring.com/p/the-way-forward-on-health-care,Matthew Yglesias
@@ -509,13 +510,19 @@ post_id,date,title,audience,word_count,comments,likes,url,authors
 69956089,2022-08-25 10:00:33,"For the next two years, Biden needs to bring back the economists",free,1744,366,167,https://www.slowboring.com/p/for-the-next-two-years-biden-needs,Matthew Yglesias
 70000534,2022-08-26 10:01:05,Last week of summer mailbag!,paid,4216,292,74,https://www.slowboring.com/p/last-week-of-summer-mailbag,Matthew Yglesias
 70330779,2022-08-29 10:01:40,The case against Meta,paid,2216,308,258,https://www.slowboring.com/p/the-case-against-meta,Matthew Yglesias
-70469724,2022-08-30 10:00:21,The student debt crisis as a macroeconomic phenomenon ,paid,2301,301,145,https://www.slowboring.com/p/the-student-debt-crisis-as-a-macroeconomic,Matthew Yglesias
-70608891,2022-08-31 10:00:37,Joe Biden should do some boring bipartisan commissions ,free,2235,182,104,https://www.slowboring.com/p/joe-biden-should-do-some-boring-bipartisan,Matthew Yglesias
-70864744,2022-09-01 10:00:58,The mythical martyrdom of Mitt Romney,free,1521,372,178,https://www.slowboring.com/p/the-mythical-martyrdom-of-mitt-romney,Matthew Yglesias
-71054684,2022-09-02 10:00:30,Mailbag Mailbag Mailbag,free,3789,275,68,https://www.slowboring.com/p/mailbag-mailbag-mailbag,Matthew Yglesias
+70469724,2022-08-30 10:00:21,The student debt crisis as a macroeconomic phenomenon ,paid,2301,301,148,https://www.slowboring.com/p/the-student-debt-crisis-as-a-macroeconomic,Matthew Yglesias
+70608891,2022-08-31 10:00:37,Joe Biden should do some boring bipartisan commissions ,free,2235,182,107,https://www.slowboring.com/p/joe-biden-should-do-some-boring-bipartisan,Matthew Yglesias
+70864744,2022-09-01 10:00:58,The mythical martyrdom of Mitt Romney,free,1521,372,181,https://www.slowboring.com/p/the-mythical-martyrdom-of-mitt-romney,Matthew Yglesias
+71054684,2022-09-02 10:00:30,Mailbag Mailbag Mailbag,free,3789,275,71,https://www.slowboring.com/p/mailbag-mailbag-mailbag,Matthew Yglesias
 71488255,2022-09-05 10:00:41,Happy Labor Day,free,52,27,32,https://www.slowboring.com/p/happy-labor-day,Matthew Yglesias
-71584256,2022-09-06 10:00:18,Schools should try to teach kids the basics,free,2500,317,236,https://www.slowboring.com/p/schools-should-try-to-teach-kids,Matthew Yglesias
-71786926,2022-09-07 10:01:07,Defending democracy needs appeals to material self-interest,paid,1928,377,143,https://www.slowboring.com/p/defending-democracy-needs-appeals,Matthew Yglesias
-71970237,2022-09-08 10:00:24,Racism is a big deal,free,2102,339,179,https://www.slowboring.com/p/racism-is-a-big-deal,Matthew Yglesias
-72130698,2022-09-09 09:55:17,Bonus mailbag,paid,2434,181,43,https://www.slowboring.com/p/bonus-mailbag,Matthew Yglesias
-72273018,2022-09-09 10:00:43,Janet Yellen explains Bidenomics ,free,1479,68,91,https://www.slowboring.com/p/janet-yellen-explains-bidenomics,Matthew Yglesias
+71584256,2022-09-06 10:00:18,Schools should try to teach kids the basics,free,2500,320,250,https://www.slowboring.com/p/schools-should-try-to-teach-kids,Matthew Yglesias
+71786926,2022-09-07 10:01:07,Defending democracy needs appeals to material self-interest,paid,1928,377,149,https://www.slowboring.com/p/defending-democracy-needs-appeals,Matthew Yglesias
+71941523,2022-09-12 10:01:11,The UK really needs better housing policy ,free,1850,268,155,https://www.slowboring.com/p/the-uk-really-needs-better-housing,Matthew Yglesias
+71970237,2022-09-08 10:00:24,Racism is a big deal,free,2102,357,198,https://www.slowboring.com/p/racism-is-a-big-deal,Matthew Yglesias
+72120500,2022-09-13 23:30:17,Slow Boring Book Club: Slouching Toward Utopia,paid,270,12,35,https://www.slowboring.com/p/slow-boring-book-club-slouching-toward,Kate Crawford
+72130698,2022-09-09 09:55:17,Bonus mailbag,paid,2434,218,61,https://www.slowboring.com/p/bonus-mailbag,Matthew Yglesias
+72273018,2022-09-09 10:00:43,Janet Yellen explains Bidenomics ,free,1479,90,143,https://www.slowboring.com/p/janet-yellen-explains-bidenomics,Matthew Yglesias
+72587432,2022-09-13 10:00:25,Immigrants could help alleviate the child care crisis ,paid,1698,276,112,https://www.slowboring.com/p/immigrants-could-help-alleviate-the,Matthew Yglesias
+72689224,2022-09-14 10:01:46,Let Joe Manchin have his pipeline ,free,2607,212,225,https://www.slowboring.com/p/let-joe-manchin-have-his-pipeline,Matthew Yglesias
+73006846,2022-09-15 10:01:18,Are teachers overpaid or underpaid?,paid,2300,427,148,https://www.slowboring.com/p/are-teachers-overpaid-or-underpaid,Matthew Yglesias
+73254041,2022-09-16 10:01:08,God save the mailbag ,paid,3521,306,88,https://www.slowboring.com/p/god-save-the-mailbag,Matthew Yglesias
