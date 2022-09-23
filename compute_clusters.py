@@ -45,7 +45,7 @@ def main():
 
 def create_post_records(posts: pd.DataFrame) -> list[dict[str, Any]]:
     return (posts
-            .assign(authors=lambda x: x['authors'].map(abbrev_authors))
+            .assign(authors=lambda x: x['authors'].fillna(',').map(abbrev_authors))
             .assign(date=lambda x: pd.to_datetime(x['date']).dt.date.map(str))
             .rename(columns={'post_id': 'id'})
             .apply(lambda row: dict(row.items()), axis=1)
