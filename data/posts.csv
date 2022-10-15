@@ -484,7 +484,7 @@ post_id,date,title,audience,word_count,comments,likes,url,authors
 62789022,2022-07-08 10:02:18,"Eat, Pray, Mailbag",paid,2736,364,84,https://www.slowboring.com/p/eat-pray-mailbag,Matthew Yglesias
 62988475,2022-07-12 10:01:52,Pro-life austerity: good luck with that,paid,985,502,105,https://www.slowboring.com/p/pro-life-austerity-good-luck-with,Phoebe Maltz Bovy
 63701446,2022-07-15 10:00:53,Under the Tuscan mailbag ,paid,3659,271,76,https://www.slowboring.com/p/under-the-tuscan-mailbag,Matthew Yglesias
-64200864,2022-09-17 10:00:54,The dangerous legal theory in front of the Supreme Court,free,2325,95,107,https://www.slowboring.com/p/independent-state-legislature-theory,Milan Singh
+64200864,2022-09-17 10:00:54,The dangerous legal theory in front of the Supreme Court,free,2325,95,109,https://www.slowboring.com/p/independent-state-legislature-theory,Milan Singh
 64793172,2022-07-22 10:00:39,La Dolce Mailbag ,paid,3588,434,77,https://www.slowboring.com/p/la-dolce-mailbag,Matthew Yglesias
 65737481,2022-07-27 11:46:29,What's not wrong with Italy ,free,2895,179,162,https://www.slowboring.com/p/whats-not-wrong-with-italy,Matthew Yglesias
 65785401,2022-07-28 10:00:43,The way forward on health care,paid,1826,244,95,https://www.slowboring.com/p/the-way-forward-on-health-care,Matthew Yglesias
@@ -517,17 +517,33 @@ post_id,date,title,audience,word_count,comments,likes,url,authors
 71488255,2022-09-05 10:00:41,Happy Labor Day,free,52,27,32,https://www.slowboring.com/p/happy-labor-day,Matthew Yglesias
 71584256,2022-09-06 10:00:18,Schools should try to teach kids the basics,free,2500,320,250,https://www.slowboring.com/p/schools-should-try-to-teach-kids,Matthew Yglesias
 71786926,2022-09-07 10:01:07,Defending democracy needs appeals to material self-interest,paid,1928,377,149,https://www.slowboring.com/p/defending-democracy-needs-appeals,Matthew Yglesias
-71941523,2022-09-12 10:01:11,The UK really needs better housing policy ,free,1850,268,160,https://www.slowboring.com/p/the-uk-really-needs-better-housing,Matthew Yglesias
+71941523,2022-09-12 10:01:11,The UK really needs better housing policy ,free,1850,268,167,https://www.slowboring.com/p/the-uk-really-needs-better-housing,Matthew Yglesias
 71970237,2022-09-08 10:00:24,Racism is a big deal,free,2102,357,200,https://www.slowboring.com/p/racism-is-a-big-deal,Matthew Yglesias
-72120500,2022-09-13 23:30:17,Slow Boring Book Club: Slouching Toward Utopia,paid,270,12,36,https://www.slowboring.com/p/slow-boring-book-club-slouching-toward,Kate Crawford
+72120500,2022-09-13 23:30:17,Slow Boring Book Club: Slouching Toward Utopia,paid,270,14,37,https://www.slowboring.com/p/slow-boring-book-club-slouching-toward,Kate Crawford
 72130698,2022-09-09 09:55:17,Bonus mailbag,paid,2434,218,61,https://www.slowboring.com/p/bonus-mailbag,Matthew Yglesias
 72273018,2022-09-09 10:00:43,Janet Yellen explains Bidenomics ,free,1479,90,145,https://www.slowboring.com/p/janet-yellen-explains-bidenomics,Matthew Yglesias
-72587432,2022-09-13 10:00:25,Immigrants could help alleviate the child care crisis ,paid,1698,276,113,https://www.slowboring.com/p/immigrants-could-help-alleviate-the,Matthew Yglesias
-72689224,2022-09-14 10:01:46,Let Joe Manchin have his pipeline ,free,2607,212,236,https://www.slowboring.com/p/let-joe-manchin-have-his-pipeline,Matthew Yglesias
-73006846,2022-09-15 10:01:18,Are teachers overpaid or underpaid?,paid,2300,430,159,https://www.slowboring.com/p/are-teachers-overpaid-or-underpaid,Matthew Yglesias
-73166055,2022-09-19 10:01:18,"For transportation innovation to work, we need parking reform",paid,1858,198,122,https://www.slowboring.com/p/for-transportation-innovation-to,
+72587432,2022-09-13 10:00:25,Immigrants could help alleviate the child care crisis ,paid,1698,276,115,https://www.slowboring.com/p/immigrants-could-help-alleviate-the,Matthew Yglesias
+72689224,2022-09-14 10:01:46,Let Joe Manchin have his pipeline ,free,2607,212,242,https://www.slowboring.com/p/let-joe-manchin-have-his-pipeline,Matthew Yglesias
+73006846,2022-09-15 10:01:18,Are teachers overpaid or underpaid?,paid,2300,430,160,https://www.slowboring.com/p/are-teachers-overpaid-or-underpaid,Matthew Yglesias
+73166055,2022-09-19 10:01:18,"For transportation innovation to work, we need parking reform",paid,1858,200,125,https://www.slowboring.com/p/for-transportation-innovation-to,
 73254041,2022-09-16 10:01:08,God save the mailbag ,paid,3521,308,100,https://www.slowboring.com/p/god-save-the-mailbag,Matthew Yglesias
-73546248,2022-09-20 10:01:21,Bring back the old bipartisan immigration consensus! ,free,3366,425,174,https://www.slowboring.com/p/bring-back-the-old-bipartisan-immigration,Matthew Yglesias
-73638721,2022-09-21 10:00:52,Russia's military and economic strategy is failing,free,3036,206,216,https://www.slowboring.com/p/russias-military-and-economic-strategy,Matthew Yglesias
-73868099,2022-09-22 10:00:44,It's time to commit to refilling the Strategic Petroleum Reserve,paid,2616,115,78,https://www.slowboring.com/p/its-time-to-commit-to-refilling-the,Matthew Yglesias
-74140735,2022-09-23 10:01:26,Roosevelt Island Mailbag,paid,3297,449,58,https://www.slowboring.com/p/roosevelt-island-mailbag,Matthew Yglesias
+73546248,2022-09-20 10:01:21,Bring back the old bipartisan immigration consensus! ,free,3366,426,180,https://www.slowboring.com/p/bring-back-the-old-bipartisan-immigration,Matthew Yglesias
+73638721,2022-09-21 10:00:52,Russia's military and economic strategy is failing,free,3036,208,229,https://www.slowboring.com/p/russias-military-and-economic-strategy,Matthew Yglesias
+73868099,2022-09-22 10:00:44,It's time to commit to refilling the Strategic Petroleum Reserve,free,2616,120,89,https://www.slowboring.com/p/its-time-to-commit-to-refilling-the,Matthew Yglesias
+74135684,2022-09-26 10:00:35,Police for America,paid,1875,316,156,https://www.slowboring.com/p/police-for-america,Matthew Yglesias
+74140735,2022-09-23 10:01:26,Roosevelt Island Mailbag,paid,3297,465,78,https://www.slowboring.com/p/roosevelt-island-mailbag,Matthew Yglesias
+74480700,2022-09-27 10:00:45,Beating climate change absolutely requires new technology,free,2344,208,218,https://www.slowboring.com/p/beating-climate-change-absolutely,Matthew Yglesias
+75013636,2022-09-28 10:01:01,"At last, an AI existential risk policy idea",paid,1677,219,104,https://www.slowboring.com/p/at-last-an-ai-existential-risk-policy,Matthew Yglesias
+75232689,2022-09-29 10:00:30,We can do better than special accommodations ,free,2046,224,209,https://www.slowboring.com/p/we-can-do-better-than-special-accommodations,Matthew Yglesias
+75489758,2022-09-30 10:01:52,Autumn vibes mailbag ,paid,3022,385,100,https://www.slowboring.com/p/autumn-vibes-mailbag,Matthew Yglesias
+75584109,2022-10-03 10:00:22,The best way to end mass incarceration is to catch more criminals ,free,2026,400,179,https://www.slowboring.com/p/the-best-way-to-end-mass-incarceration,Matthew Yglesias
+75632816,2022-10-07 10:00:12,Milan's Mailbag,paid,3223,300,80,https://www.slowboring.com/p/milans-mailbag,Milan Singh
+75812096,2022-10-05 10:01:08,"Book Review: Richard Reeves' ""Of Boys and Men"" ",free,2028,431,227,https://www.slowboring.com/p/book-review-richard-reeves-of-boys,Matthew Yglesias
+75920855,2022-10-04 10:01:03,"To save downtowns, we need to embrace windowless bedrooms",paid,2326,265,137,https://www.slowboring.com/p/to-save-downtowns-we-need-to-embrace,Matthew Yglesias
+76246796,2022-10-06 11:16:52,Ten years of YIMBYism have accomplished a lot,free,2606,227,168,https://www.slowboring.com/p/ten-years-of-yimbyism-have-accomplished,Matthew Yglesias
+76280739,2022-10-11 23:00:43,Reminder: Slow Boring Book Club Thursday,paid,248,4,25,https://www.slowboring.com/p/reminder-slow-boring-book-club-thursday,Kate Crawford
+76633342,2022-10-11 10:00:58,We need permitting reform for geothermal power,free,1896,67,105,https://www.slowboring.com/p/we-need-permitting-reform-for-geothermal,Matthew Yglesias
+76672613,2022-10-10 10:01:01,Columbus Day was the original woke holiday,paid,1256,160,135,https://www.slowboring.com/p/columbus-day-was-the-original-woke,Matthew Yglesias
+77568330,2022-10-12 10:01:00,Europe should look at hard rationing and price controls for natural gas,paid,2913,154,136,https://www.slowboring.com/p/europe-should-look-at-hard-rationing,Matthew Yglesias
+77653288,2022-10-13 10:01:05,YIMBYism without markets or supply and demand ,free,2017,251,130,https://www.slowboring.com/p/yimbyism-without-markets-or-supply,Matthew Yglesias
+77835827,2022-10-14 10:00:51,Mid-October mailbag,paid,3493,425,66,https://www.slowboring.com/p/mid-october-mailbag,Matthew Yglesias
