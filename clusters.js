@@ -6046,7 +6046,7 @@ window._clusterData = {
       "audience": "free",
       "word_count": 1974,
       "comments": 242,
-      "likes": 133,
+      "likes": 142,
       "url": "https://www.slowboring.com/p/deadweight-loss-explained",
       "authors": "M Singh"
     },
@@ -6189,7 +6189,7 @@ window._clusterData = {
       "audience": "paid",
       "word_count": 2530,
       "comments": 149,
-      "likes": 116,
+      "likes": 118,
       "url": "https://www.slowboring.com/p/what-is-queen-rhaenyras-tax-policy",
       "authors": "M Yglesias"
     },
@@ -6222,7 +6222,7 @@ window._clusterData = {
       "audience": "paid",
       "word_count": 2296,
       "comments": 312,
-      "likes": 214,
+      "likes": 217,
       "url": "https://www.slowboring.com/p/theres-no-substitute-for-being-right",
       "authors": "M Yglesias"
     },
@@ -6232,7 +6232,7 @@ window._clusterData = {
       "title": "Post-midterm mailbag",
       "audience": "paid",
       "word_count": 3951,
-      "comments": 368,
+      "comments": 369,
       "likes": 85,
       "url": "https://www.slowboring.com/p/post-midterm-mailbag",
       "authors": "M Yglesias"
@@ -6244,7 +6244,7 @@ window._clusterData = {
       "audience": "free",
       "word_count": 2050,
       "comments": 298,
-      "likes": 210,
+      "likes": 212,
       "url": "https://www.slowboring.com/p/democrats-pulled-off-one-of-the-best",
       "authors": "M Yglesias"
     },
@@ -6255,7 +6255,7 @@ window._clusterData = {
       "audience": "paid",
       "word_count": 362,
       "comments": 194,
-      "likes": 100,
+      "likes": 102,
       "url": "https://www.slowboring.com/p/a-short-veterans-day-post",
       "authors": "M Yglesias"
     },
@@ -6265,8 +6265,8 @@ window._clusterData = {
       "title": "Two years of strong and slow boring of hard boards",
       "audience": "paid",
       "word_count": 3253,
-      "comments": 275,
-      "likes": 205,
+      "comments": 276,
+      "likes": 208,
       "url": "https://www.slowboring.com/p/two-years-of-strong-and-slow-boring",
       "authors": "M Yglesias"
     },
@@ -6274,10 +6274,10 @@ window._clusterData = {
       "id": 84371323,
       "date": "2022-11-16",
       "title": "I would like to know Ron DeSantis\u2019 opinions on major policy issues",
-      "audience": "paid",
+      "audience": "free",
       "word_count": 2171,
-      "comments": 256,
-      "likes": 197,
+      "comments": 258,
+      "likes": 200,
       "url": "https://www.slowboring.com/p/i-would-like-to-know-ron-desantis",
       "authors": "M Yglesias"
     },
@@ -6287,8 +6287,8 @@ window._clusterData = {
       "title": "Some thoughts on the FTX collapse",
       "audience": "free",
       "word_count": 2771,
-      "comments": 537,
-      "likes": 190,
+      "comments": 538,
+      "likes": 194,
       "url": "https://www.slowboring.com/p/some-thoughts-on-the-ftx-implosion",
       "authors": "M Yglesias"
     },
@@ -6298,8 +6298,8 @@ window._clusterData = {
       "title": "Mailbag forever ",
       "audience": "paid",
       "word_count": 2733,
-      "comments": 259,
-      "likes": 92,
+      "comments": 261,
+      "likes": 96,
       "url": "https://www.slowboring.com/p/mailbag-forever-5f5",
       "authors": "M Yglesias"
     },
@@ -6309,9 +6309,119 @@ window._clusterData = {
       "title": "A Nancy Pelosi appreciation post ",
       "audience": "paid",
       "word_count": 1978,
-      "comments": 5,
-      "likes": 20,
+      "comments": 205,
+      "likes": 173,
       "url": "https://www.slowboring.com/p/a-nancy-pelosi-appreciation-post",
+      "authors": "M Yglesias"
+    },
+    {
+      "id": 85410902,
+      "date": "2022-11-22",
+      "title": "How to promote growth and equality without raising taxes ",
+      "audience": "free",
+      "word_count": 2345,
+      "comments": 228,
+      "likes": 151,
+      "url": "https://www.slowboring.com/p/how-to-promote-growth-and-equality",
+      "authors": "M Yglesias"
+    },
+    {
+      "id": 85908926,
+      "date": "2022-11-23",
+      "title": "How Jay Powell is bending time and upending the business world",
+      "audience": "free",
+      "word_count": 2292,
+      "comments": 113,
+      "likes": 161,
+      "url": "https://www.slowboring.com/p/how-jay-powell-is-bending-time-and",
+      "authors": "M Yglesias"
+    },
+    {
+      "id": 86017873,
+      "date": "2022-11-24",
+      "title": "Happy Thanksgiving",
+      "audience": "paid",
+      "word_count": 182,
+      "comments": 67,
+      "likes": 185,
+      "url": "https://www.slowboring.com/p/happy-thanksgiving",
+      "authors": "M Yglesias"
+    },
+    {
+      "id": 86223678,
+      "date": "2022-11-25",
+      "title": "Black Friday mailbag",
+      "audience": "paid",
+      "word_count": 3515,
+      "comments": 256,
+      "likes": 129,
+      "url": "https://www.slowboring.com/p/black-friday-mailbag",
+      "authors": "M Yglesias"
+    },
+    {
+      "id": 86347660,
+      "date": "2022-11-28",
+      "title": "Cities shouldn't reject growth in the name of climate mitigation",
+      "audience": "paid",
+      "word_count": 2408,
+      "comments": 248,
+      "likes": 139,
+      "url": "https://www.slowboring.com/p/cities-shouldnt-reject-growth-in",
+      "authors": "M Yglesias"
+    },
+    {
+      "id": 86783389,
+      "date": "2022-11-30",
+      "title": "New York City shouldn't be covered in sidewalk sheds",
+      "audience": "paid",
+      "word_count": 2204,
+      "comments": 143,
+      "likes": 195,
+      "url": "https://www.slowboring.com/p/new-york-city-shouldnt-be-covered",
+      "authors": "M Yglesias"
+    },
+    {
+      "id": 87219657,
+      "date": "2022-11-29",
+      "title": "A sappy Giving Tuesday post",
+      "audience": "free",
+      "word_count": 2647,
+      "comments": 215,
+      "likes": 184,
+      "url": "https://www.slowboring.com/p/a-sappy-giving-tuesday-post",
+      "authors": "M Yglesias"
+    },
+    {
+      "id": 87551177,
+      "date": "2022-12-01",
+      "title": "The climate left's plans for the next two years are bad",
+      "audience": "free",
+      "word_count": 2252,
+      "comments": 165,
+      "likes": 161,
+      "url": "https://www.slowboring.com/p/the-climate-lefts-plans-for-the-next",
+      "authors": "M Yglesias"
+    },
+    {
+      "id": 87749070,
+      "date": "2022-12-02",
+      "title": "Anti-Dutch Mailbag",
+      "audience": "paid",
+      "word_count": 4388,
+      "comments": 518,
+      "likes": 120,
+      "url": "https://www.slowboring.com/p/anti-dutch-mailbag",
+      "authors": "M Yglesias"
+    },
+    {
+      "id": 88097777,
+      "date": "2022-12-05",
+      "title": "A lot of the best political messages are really boring",
+      "audience": "free",
+      "word_count": 2390,
+      "comments": 348,
+      "likes": 128,
+      "url": "https://www.slowboring.com/p/a-lot-of-the-best-political-messages",
       "authors": "M Yglesias"
     }
   ],
@@ -6322,27 +6432,27 @@ window._clusterData = {
           "topTerms": [
             [
               "democrats",
-              57
+              58
             ],
             [
               "biden",
-              53
+              54
             ],
             [
               "trump",
-              52
+              51
             ],
             [
               "policy",
               49
             ],
             [
-              "housing",
+              "politics",
               46
             ],
             [
-              "politics",
-              46
+              "housing",
+              45
             ],
             [
               "political",
@@ -6350,15 +6460,11 @@ window._clusterData = {
             ],
             [
               "money",
-              43
+              44
             ],
             [
               "public",
               43
-            ],
-            [
-              "states",
-              42
             ],
             [
               "party",
@@ -6369,49 +6475,33 @@ window._clusterData = {
               41
             ],
             [
+              "states",
+              41
+            ],
+            [
               "tax",
               41
             ],
             [
-              "american",
-              41
+              "bad",
+              40
             ],
             [
-              "bad",
-              41
+              "american",
+              40
             ]
           ],
           "lowTerms": [
-            [
-              "bad decisions",
-              0
-            ],
-            [
-              "year inflation",
-              0
-            ],
-            [
-              "look chart",
-              0
-            ],
             [
               "crimping",
               0
             ],
             [
-              "dwellers",
+              "research suggests",
               0
             ],
             [
-              "overcoming",
-              0
-            ],
-            [
-              "exporter",
-              0
-            ],
-            [
-              "related issues",
+              "working hard",
               0
             ],
             [
@@ -6419,7 +6509,23 @@ window._clusterData = {
               0
             ],
             [
-              "sale price",
+              "eco",
+              0
+            ],
+            [
+              "does say",
+              0
+            ],
+            [
+              "american family",
+              0
+            ],
+            [
+              "induce people",
+              0
+            ],
+            [
+              "exporter",
               0
             ],
             [
@@ -6427,15 +6533,19 @@ window._clusterData = {
               0
             ],
             [
+              "look chart",
+              0
+            ],
+            [
               "arabia russia",
               0
             ],
             [
-              "belarus",
+              "nominal gross",
               0
             ],
             [
-              "nominal gross",
+              "belarus",
               0
             ],
             [
@@ -7017,7 +7127,1245 @@ window._clusterData = {
             84371323,
             84489473,
             84695778,
-            85218122
+            85218122,
+            85410902,
+            85908926,
+            86017873,
+            86223678,
+            86347660,
+            86783389,
+            87219657,
+            87551177,
+            87749070,
+            88097777
+          ]
+        }
+      ]
+    },
+    {
+      "clusters": [
+        {
+          "topTerms": [
+            [
+              "inflation",
+              73
+            ],
+            [
+              "tax",
+              65
+            ],
+            [
+              "money",
+              58
+            ],
+            [
+              "policy",
+              51
+            ],
+            [
+              "know",
+              51
+            ],
+            [
+              "economy",
+              49
+            ],
+            [
+              "labor",
+              48
+            ],
+            [
+              "world",
+              46
+            ],
+            [
+              "year",
+              45
+            ],
+            [
+              "ve",
+              45
+            ],
+            [
+              "bad",
+              45
+            ],
+            [
+              "child",
+              43
+            ],
+            [
+              "kind",
+              43
+            ],
+            [
+              "biden",
+              41
+            ],
+            [
+              "care",
+              41
+            ]
+          ],
+          "lowTerms": [
+            [
+              "supremacist",
+              0
+            ],
+            [
+              "relatively moderate",
+              0
+            ],
+            [
+              "social housing",
+              0
+            ],
+            [
+              "outcomes think",
+              0
+            ],
+            [
+              "president trump",
+              0
+            ],
+            [
+              "gerrymanders",
+              0
+            ],
+            [
+              "gop majority",
+              0
+            ],
+            [
+              "bats",
+              0
+            ],
+            [
+              "black voters",
+              0
+            ],
+            [
+              "hispanic vote",
+              0
+            ],
+            [
+              "wuhan",
+              0
+            ],
+            [
+              "percent black",
+              -1
+            ],
+            [
+              "urban rural",
+              -1
+            ],
+            [
+              "affordable housing",
+              -1
+            ],
+            [
+              "public housing",
+              -1
+            ]
+          ],
+          "postIds": [
+            18503568,
+            18763957,
+            19335206,
+            20151892,
+            20181001,
+            21025509,
+            21496045,
+            22223850,
+            24537925,
+            25629950,
+            27286020,
+            27708677,
+            28179971,
+            29431751,
+            29540230,
+            30087879,
+            30324466,
+            31019610,
+            31135140,
+            31205974,
+            31492838,
+            31499698,
+            31754871,
+            32083147,
+            32225523,
+            32246948,
+            32327195,
+            32380811,
+            32452765,
+            32517388,
+            32639465,
+            32681123,
+            32687718,
+            32719935,
+            32732742,
+            33073895,
+            33181330,
+            33385334,
+            33419617,
+            33527887,
+            33561876,
+            33619836,
+            33621408,
+            33623824,
+            33852109,
+            34138201,
+            34139213,
+            34189082,
+            34274481,
+            34495712,
+            34598585,
+            34805898,
+            34878921,
+            35068697,
+            35234508,
+            35331456,
+            35485569,
+            35574511,
+            35707392,
+            35736024,
+            35775832,
+            35971137,
+            36158790,
+            36203851,
+            36315083,
+            36414669,
+            36641597,
+            36964454,
+            37050919,
+            37075486,
+            37317231,
+            37443861,
+            37489725,
+            37513989,
+            37683483,
+            37860233,
+            37905476,
+            38260421,
+            38538877,
+            38685806,
+            38707895,
+            38861337,
+            39070202,
+            39198875,
+            39277028,
+            39567255,
+            39691221,
+            39788317,
+            39881555,
+            39976329,
+            40013889,
+            40717676,
+            40815332,
+            41019553,
+            41819786,
+            42019701,
+            42095638,
+            42483229,
+            42544154,
+            42642779,
+            42771495,
+            42849313,
+            43108837,
+            43462576,
+            43680098,
+            43776715,
+            43822350,
+            43861452,
+            43937960,
+            44069530,
+            44116431,
+            44164067,
+            44364076,
+            44365270,
+            44608127,
+            44832459,
+            44867270,
+            45073472,
+            45283189,
+            45304661,
+            45384490,
+            45497623,
+            45523273,
+            45612097,
+            46030715,
+            46339666,
+            46701030,
+            46838055,
+            46943642,
+            47133316,
+            47201646,
+            47340895,
+            47565914,
+            47628364,
+            47648339,
+            47951599,
+            48096690,
+            48296586,
+            48318249,
+            48427324,
+            48704934,
+            48771270,
+            48797501,
+            48889500,
+            49031868,
+            49184248,
+            49586092,
+            49884768,
+            49957000,
+            50420977,
+            50525181,
+            50890967,
+            50907408,
+            51206634,
+            51255546,
+            51320519,
+            51621477,
+            51677020,
+            52098549,
+            52275496,
+            52294719,
+            52318807,
+            52491210,
+            52767182,
+            52832260,
+            52906498,
+            53313492,
+            53938535,
+            54303445,
+            54679617,
+            54876506,
+            55178451,
+            55471340,
+            55715489,
+            55799999,
+            56289053,
+            56724202,
+            57548064,
+            58582964,
+            58893445,
+            58991483,
+            59115931,
+            59518168,
+            59628308,
+            60143292,
+            60539716,
+            61556524,
+            61636691,
+            62033902,
+            62102053,
+            62508623,
+            62667855,
+            62789022,
+            62988475,
+            63701446,
+            64793172,
+            65843580,
+            66061792,
+            66285562,
+            67028943,
+            67297001,
+            67862093,
+            68190824,
+            69004628,
+            69245031,
+            69515164,
+            69956089,
+            70000534,
+            70330779,
+            70469724,
+            71054684,
+            71488255,
+            72120500,
+            72130698,
+            72273018,
+            72587432,
+            73254041,
+            73546248,
+            75013636,
+            75489758,
+            75584109,
+            75632816,
+            76280739,
+            76672613,
+            77835827,
+            78751941,
+            79379632,
+            79622747,
+            79778119,
+            79827888,
+            80475018,
+            81292136,
+            81631713,
+            82102641,
+            83218989,
+            83696648,
+            84489473,
+            85908926,
+            86017873,
+            87219657,
+            87551177,
+            87749070
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "democrats",
+              189
+            ],
+            [
+              "trump",
+              151
+            ],
+            [
+              "party",
+              128
+            ],
+            [
+              "biden",
+              123
+            ],
+            [
+              "republicans",
+              110
+            ],
+            [
+              "senate",
+              94
+            ],
+            [
+              "politics",
+              90
+            ],
+            [
+              "vote",
+              89
+            ],
+            [
+              "manchin",
+              85
+            ],
+            [
+              "democratic",
+              82
+            ],
+            [
+              "voters",
+              78
+            ],
+            [
+              "political",
+              77
+            ],
+            [
+              "gop",
+              76
+            ],
+            [
+              "obama",
+              75
+            ],
+            [
+              "election",
+              73
+            ]
+          ],
+          "lowTerms": [
+            [
+              "slouching",
+              -2
+            ],
+            [
+              "slouching utopia",
+              -2
+            ],
+            [
+              "labor market",
+              -2
+            ],
+            [
+              "irs",
+              -2
+            ],
+            [
+              "lab",
+              -2
+            ],
+            [
+              "monkeypox",
+              -2
+            ],
+            [
+              "sense say",
+              -2
+            ],
+            [
+              "wealth gap",
+              -2
+            ],
+            [
+              "stock market",
+              -2
+            ],
+            [
+              "negro",
+              -3
+            ],
+            [
+              "1870",
+              -3
+            ],
+            [
+              "class struggle",
+              -3
+            ],
+            [
+              "king",
+              -3
+            ],
+            [
+              "amazon",
+              -3
+            ],
+            [
+              "wealth",
+              -4
+            ]
+          ],
+          "postIds": [
+            18135875,
+            18177334,
+            19286343,
+            19639907,
+            19674370,
+            20385917,
+            20388649,
+            21782308,
+            31099143,
+            31111321,
+            31175374,
+            31249622,
+            31707412,
+            31744223,
+            31938867,
+            32132668,
+            32339536,
+            32491521,
+            32818531,
+            32945630,
+            33117945,
+            33225505,
+            33723873,
+            34505451,
+            34726651,
+            34958079,
+            35023354,
+            35158309,
+            35728483,
+            36068169,
+            36270312,
+            36340664,
+            37095438,
+            37362427,
+            37486827,
+            37621689,
+            37935686,
+            38021094,
+            38521728,
+            39132207,
+            39401906,
+            39652693,
+            39814820,
+            40122162,
+            40561074,
+            40859634,
+            41221238,
+            41366749,
+            41538326,
+            41611441,
+            41717672,
+            41890896,
+            42005076,
+            42357605,
+            42593733,
+            42818394,
+            42994582,
+            44284522,
+            44411395,
+            44794053,
+            45612841,
+            46255603,
+            46630592,
+            47017468,
+            47275872,
+            47491031,
+            48152830,
+            48468569,
+            50313114,
+            50546657,
+            51043454,
+            51046626,
+            51403483,
+            51850560,
+            52218768,
+            52323997,
+            52577286,
+            52816815,
+            53251092,
+            53260750,
+            53302113,
+            53612371,
+            55324481,
+            57982533,
+            58394722,
+            59616580,
+            61349681,
+            61760608,
+            62060883,
+            64200864,
+            65785401,
+            66504795,
+            67128817,
+            67219249,
+            67642825,
+            67724659,
+            70608891,
+            70864744,
+            71786926,
+            74140735,
+            79072865,
+            81750627,
+            82320227,
+            83441825,
+            83900508,
+            84371323,
+            84695778,
+            85218122,
+            86223678,
+            88097777
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "vaccine",
+              170
+            ],
+            [
+              "covid",
+              140
+            ],
+            [
+              "vaccines",
+              125
+            ],
+            [
+              "china",
+              123
+            ],
+            [
+              "russia",
+              98
+            ],
+            [
+              "vaccinated",
+              87
+            ],
+            [
+              "virus",
+              78
+            ],
+            [
+              "ukraine",
+              77
+            ],
+            [
+              "trump",
+              70
+            ],
+            [
+              "health",
+              67
+            ],
+            [
+              "masks",
+              67
+            ],
+            [
+              "covid 19",
+              66
+            ],
+            [
+              "19",
+              65
+            ],
+            [
+              "pandemic",
+              65
+            ],
+            [
+              "public health",
+              63
+            ]
+          ],
+          "lowTerms": [
+            [
+              "slouching",
+              -2
+            ],
+            [
+              "slouching utopia",
+              -2
+            ],
+            [
+              "brad delong",
+              -2
+            ],
+            [
+              "wage",
+              -2
+            ],
+            [
+              "bus",
+              -2
+            ],
+            [
+              "wages",
+              -2
+            ],
+            [
+              "bigness",
+              -3
+            ],
+            [
+              "minimum wage",
+              -3
+            ],
+            [
+              "carbon tax",
+              -3
+            ],
+            [
+              "gerrymandering",
+              -3
+            ],
+            [
+              "wealth",
+              -3
+            ],
+            [
+              "delong",
+              -3
+            ],
+            [
+              "utopia",
+              -3
+            ],
+            [
+              "child care",
+              -4
+            ],
+            [
+              "amazon",
+              -5
+            ]
+          ],
+          "postIds": [
+            18980244,
+            21255649,
+            22581912,
+            24870617,
+            25928163,
+            26785599,
+            31559767,
+            31593691,
+            31814728,
+            31995237,
+            32070635,
+            32193481,
+            32760649,
+            32803727,
+            33112723,
+            33205193,
+            33310644,
+            33700824,
+            34656950,
+            35192912,
+            35242118,
+            35401484,
+            35481514,
+            36036186,
+            36480369,
+            36527916,
+            36778380,
+            36843889,
+            36906625,
+            37186799,
+            37207186,
+            37602910,
+            38120969,
+            38745208,
+            38843718,
+            38911753,
+            39031370,
+            39501472,
+            40057542,
+            40101165,
+            40223294,
+            40269001,
+            40445033,
+            40667497,
+            41065980,
+            41191192,
+            41876619,
+            42799609,
+            43395570,
+            44331429,
+            44385797,
+            44637943,
+            44963138,
+            45036946,
+            45439251,
+            45699207,
+            45716094,
+            46744436,
+            47140290,
+            47387100,
+            47817166,
+            48313805,
+            48557327,
+            48603804,
+            49319517,
+            49371173,
+            49495257,
+            49545670,
+            49698652,
+            50027852,
+            50154475,
+            51122253,
+            51509642,
+            51595945,
+            51906346,
+            52476450,
+            54003982,
+            55172787,
+            56809511,
+            57532707,
+            61904141,
+            62717990,
+            66833698,
+            69828105,
+            73638721,
+            78108991,
+            78427282,
+            79982868
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "housing",
+              210
+            ],
+            [
+              "city",
+              124
+            ],
+            [
+              "transit",
+              95
+            ],
+            [
+              "land",
+              89
+            ],
+            [
+              "cities",
+              73
+            ],
+            [
+              "construction",
+              68
+            ],
+            [
+              "amtrak",
+              66
+            ],
+            [
+              "station",
+              65
+            ],
+            [
+              "new york",
+              65
+            ],
+            [
+              "york",
+              65
+            ],
+            [
+              "parking",
+              60
+            ],
+            [
+              "rail",
+              59
+            ],
+            [
+              "demand",
+              59
+            ],
+            [
+              "metro",
+              57
+            ],
+            [
+              "trains",
+              57
+            ]
+          ],
+          "lowTerms": [
+            [
+              "cotton",
+              -2
+            ],
+            [
+              "fait",
+              -2
+            ],
+            [
+              "nato",
+              -2
+            ],
+            [
+              "shots",
+              -2
+            ],
+            [
+              "misinformation",
+              -2
+            ],
+            [
+              "powell",
+              -2
+            ],
+            [
+              "delong",
+              -2
+            ],
+            [
+              "clinton",
+              -2
+            ],
+            [
+              "student loan",
+              -2
+            ],
+            [
+              "ngdp",
+              -3
+            ],
+            [
+              "social security",
+              -3
+            ],
+            [
+              "forgiveness",
+              -3
+            ],
+            [
+              "ui",
+              -3
+            ],
+            [
+              "romney",
+              -5
+            ],
+            [
+              "ctc",
+              -7
+            ]
+          ],
+          "postIds": [
+            18586396,
+            22022458,
+            25631028,
+            26052510,
+            29852190,
+            31043012,
+            31867708,
+            31913564,
+            32299644,
+            34039930,
+            34407144,
+            34795251,
+            35565119,
+            35841942,
+            36374925,
+            36790995,
+            37135025,
+            37283393,
+            37783952,
+            37840867,
+            37860687,
+            38223101,
+            38235209,
+            38568767,
+            38599439,
+            39438399,
+            39521210,
+            40013897,
+            40304298,
+            40811123,
+            40930116,
+            41126571,
+            41219220,
+            41325034,
+            41674868,
+            41987541,
+            42166798,
+            42216941,
+            42254178,
+            42293229,
+            43078271,
+            43217704,
+            43489135,
+            45324667,
+            46047177,
+            46309170,
+            47077335,
+            47301886,
+            47420388,
+            48076067,
+            48220002,
+            49875916,
+            50312161,
+            50591662,
+            51236416,
+            53053394,
+            55315571,
+            58601559,
+            58867637,
+            60336780,
+            60621688,
+            60813397,
+            61042827,
+            65737481,
+            66679912,
+            71941523,
+            72689224,
+            73166055,
+            73868099,
+            74480700,
+            75232689,
+            75920855,
+            76246796,
+            76633342,
+            77568330,
+            77653288,
+            78234449,
+            81372927,
+            85410902,
+            86347660,
+            86783389
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "black",
+              174
+            ],
+            [
+              "racial",
+              164
+            ],
+            [
+              "white",
+              152
+            ],
+            [
+              "schools",
+              115
+            ],
+            [
+              "school",
+              109
+            ],
+            [
+              "police",
+              104
+            ],
+            [
+              "teachers",
+              96
+            ],
+            [
+              "race",
+              85
+            ],
+            [
+              "students",
+              76
+            ],
+            [
+              "white people",
+              76
+            ],
+            [
+              "racism",
+              74
+            ],
+            [
+              "college",
+              71
+            ],
+            [
+              "kids",
+              70
+            ],
+            [
+              "education",
+              68
+            ],
+            [
+              "crime",
+              65
+            ]
+          ],
+          "lowTerms": [
+            [
+              "bigness",
+              -3
+            ],
+            [
+              "ceiling",
+              -3
+            ],
+            [
+              "insurance",
+              -4
+            ],
+            [
+              "medicare",
+              -4
+            ],
+            [
+              "debt ceiling",
+              -4
+            ],
+            [
+              "trillion",
+              -4
+            ],
+            [
+              "reconciliation",
+              -4
+            ],
+            [
+              "monopoly",
+              -4
+            ],
+            [
+              "apple",
+              -4
+            ],
+            [
+              "taliban",
+              -5
+            ],
+            [
+              "afghanistan",
+              -5
+            ],
+            [
+              "filibuster",
+              -5
+            ],
+            [
+              "amazon",
+              -6
+            ],
+            [
+              "ui",
+              -8
+            ],
+            [
+              "manchin",
+              -11
+            ]
+          ],
+          "postIds": [
+            18642680,
+            19229056,
+            21384896,
+            24243372,
+            25273198,
+            29866749,
+            31358451,
+            31771252,
+            31923778,
+            32104296,
+            32416888,
+            32606158,
+            32608857,
+            32872379,
+            33880097,
+            33907831,
+            34346394,
+            34532548,
+            34560988,
+            35378482,
+            35640356,
+            36110503,
+            36559376,
+            36745286,
+            37391492,
+            37846642,
+            38102501,
+            38348118,
+            38366395,
+            38961287,
+            39090718,
+            39924073,
+            40369585,
+            40505560,
+            40605148,
+            41651022,
+            41661400,
+            42751863,
+            43195629,
+            43437512,
+            43503862,
+            43694106,
+            44244341,
+            44701852,
+            45091161,
+            45221732,
+            45362144,
+            47994408,
+            49001746,
+            49685582,
+            50645190,
+            56290221,
+            57340427,
+            57830726,
+            58251621,
+            59752737,
+            68903073,
+            71584256,
+            71970237,
+            73006846,
+            74135684,
+            75812096,
+            78581735
           ]
         }
       ]
@@ -7028,271 +8376,187 @@ window._clusterData = {
           "topTerms": [
             [
               "know",
-              62
-            ],
-            [
-              "school",
-              57
-            ],
-            [
-              "political",
-              53
-            ],
-            [
-              "politics",
-              53
-            ],
-            [
-              "bad",
-              52
-            ],
-            [
-              "police",
-              51
+              86
             ],
             [
               "book",
-              50
-            ],
-            [
-              "world",
-              49
-            ],
-            [
-              "american",
-              48
-            ],
-            [
-              "black",
-              47
-            ],
-            [
-              "white",
-              47
+              69
             ],
             [
               "ve",
-              47
+              64
             ],
             [
-              "war",
-              46
+              "world",
+              64
             ],
             [
-              "policy",
-              46
+              "politics",
+              64
+            ],
+            [
+              "political",
+              62
             ],
             [
               "kind",
-              46
+              59
+            ],
+            [
+              "movie",
+              58
+            ],
+            [
+              "media",
+              57
+            ],
+            [
+              "boring",
+              57
+            ],
+            [
+              "bad",
+              57
+            ],
+            [
+              "money",
+              53
+            ],
+            [
+              "slow boring",
+              53
+            ],
+            [
+              "slow",
+              52
+            ],
+            [
+              "year",
+              51
             ]
           ],
           "lowTerms": [
             [
-              "ceiling",
-              -1
-            ],
-            [
-              "tcja",
-              -1
-            ],
-            [
-              "oil price",
-              -1
-            ],
-            [
-              "gas tax",
-              -1
-            ],
-            [
-              "medicare",
-              -1
-            ],
-            [
-              "keystone",
-              -1
-            ],
-            [
-              "debt ceiling",
-              -1
-            ],
-            [
-              "carbon tax",
-              -1
-            ],
-            [
-              "global oil",
-              -1
-            ],
-            [
-              "public option",
-              -1
+              "desantis",
+              -2
             ],
             [
               "lumber",
-              -1
+              -2
             ],
             [
-              "climate provisions",
-              -1
+              "tariffs",
+              -2
+            ],
+            [
+              "gas tax",
+              -2
+            ],
+            [
+              "security medicare",
+              -3
             ],
             [
               "barrel",
-              -2
-            ],
-            [
-              "sinema",
-              -2
-            ],
-            [
-              "manchin",
               -3
+            ],
+            [
+              "global oil",
+              -3
+            ],
+            [
+              "gas",
+              -3
+            ],
+            [
+              "medicare",
+              -4
+            ],
+            [
+              "ceiling",
+              -4
+            ],
+            [
+              "romney",
+              -4
+            ],
+            [
+              "racial wealth",
+              -4
+            ],
+            [
+              "debt ceiling",
+              -5
+            ],
+            [
+              "wealth gap",
+              -6
+            ],
+            [
+              "oil",
+              -10
             ]
           ],
           "postIds": [
             18763957,
-            19229056,
             20151892,
             21025509,
-            21384896,
             22223850,
-            24243372,
-            24870617,
             27286020,
             28179971,
-            29866749,
             31019610,
             31135140,
-            31492838,
             31744223,
-            31771252,
-            31923778,
-            32416888,
+            32452765,
             32517388,
-            32608857,
-            32639465,
-            32872379,
             33181330,
-            33310644,
             33619836,
             33621408,
             33852109,
-            33880097,
-            33907831,
-            34346394,
-            34878921,
-            35068697,
-            35242118,
             35485569,
-            35640356,
-            36110503,
             36158790,
-            36315083,
-            36480369,
-            36527916,
-            36559376,
-            36745286,
-            36778380,
-            36843889,
-            36906625,
             36964454,
-            37050919,
             37207186,
             37317231,
-            37391492,
-            37513989,
             37683483,
-            37846642,
             37860233,
-            38102501,
-            38348118,
-            38366395,
             38538877,
             38685806,
-            38745208,
-            38911753,
-            38961287,
-            39090718,
-            39567255,
+            38707895,
             39788317,
-            39814820,
-            39924073,
             39976329,
             40013889,
-            40057542,
-            40101165,
-            40223294,
-            40269001,
-            40369585,
-            40505560,
-            40605148,
             41191192,
             42019701,
             42771495,
-            43195629,
-            43437512,
             43462576,
-            43503862,
-            43694106,
             43861452,
-            44069530,
-            44116431,
-            44244341,
-            44331429,
             44364076,
-            44701852,
-            45221732,
-            45362144,
             45384490,
             45497623,
-            45716094,
             46255603,
-            46701030,
             46838055,
-            47133316,
-            47140290,
             47201646,
             47340895,
             47565914,
             47628364,
             47648339,
-            47951599,
-            47994408,
             48096690,
-            48313805,
             48427324,
-            48557327,
-            48704934,
             48771270,
             48797501,
-            49001746,
             49031868,
             49184248,
-            49319517,
-            49371173,
-            49495257,
             49586092,
-            49685582,
-            49698652,
             49884768,
             49957000,
-            50027852,
-            50154475,
             50420977,
-            50645190,
-            50890967,
-            51122253,
             51206634,
             51255546,
-            51595945,
             51621477,
             51677020,
-            51906346,
             52098549,
-            52476450,
             52491210,
-            52577286,
-            52832260,
             53313492,
             54303445,
             54876506,
@@ -7300,24 +8564,16 @@ window._clusterData = {
             55471340,
             55715489,
             56289053,
-            56290221,
-            56724202,
-            57340427,
-            57532707,
             57548064,
-            57830726,
             58582964,
             58991483,
             59115931,
             59518168,
             59628308,
-            59752737,
             60143292,
             61636691,
-            62060883,
             62102053,
             62789022,
-            62988475,
             63701446,
             64793172,
             65843580,
@@ -7325,36 +8581,23 @@ window._clusterData = {
             67028943,
             67862093,
             68190824,
-            68903073,
             69004628,
             69245031,
             70000534,
             70330779,
             71054684,
             71488255,
-            71584256,
-            71970237,
             72120500,
             72130698,
-            73006846,
-            73254041,
-            73638721,
-            74135684,
             74140735,
             75013636,
-            75489758,
-            75584109,
             75632816,
-            75812096,
             76280739,
             76672613,
             77835827,
-            78108991,
-            78427282,
             79379632,
             79622747,
             79827888,
-            79982868,
             80475018,
             81292136,
             81631713,
@@ -7362,351 +8605,96 @@ window._clusterData = {
             83218989,
             83696648,
             84489473,
-            84695778
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "inflation",
-              115
-            ],
-            [
-              "tax",
-              103
-            ],
-            [
-              "climate",
-              83
-            ],
-            [
-              "economy",
-              72
-            ],
-            [
-              "child",
-              68
-            ],
-            [
-              "labor",
-              67
-            ],
-            [
-              "biden",
-              63
-            ],
-            [
-              "care",
-              63
-            ],
-            [
-              "prices",
-              62
-            ],
-            [
-              "money",
-              59
-            ],
-            [
-              "policy",
-              56
-            ],
-            [
-              "fed",
-              56
-            ],
-            [
-              "supply",
-              54
-            ],
-            [
-              "energy",
-              54
-            ],
-            [
-              "oil",
-              53
-            ]
-          ],
-          "lowTerms": [
-            [
-              "white supremacist",
-              -1
-            ],
-            [
-              "supremacist",
-              -1
-            ],
-            [
-              "pakistan",
-              -1
-            ],
-            [
-              "vax",
-              -1
-            ],
-            [
-              "gerrymanders",
-              -1
-            ],
-            [
-              "riot",
-              -1
-            ],
-            [
-              "israel",
-              -1
-            ],
-            [
-              "religion",
-              -2
-            ],
-            [
-              "misinformation",
-              -2
-            ],
-            [
-              "pence",
-              -2
-            ],
-            [
-              "mob",
-              -2
-            ],
-            [
-              "adams",
-              -2
-            ],
-            [
-              "taliban",
-              -3
-            ],
-            [
-              "afghanistan",
-              -3
-            ],
-            [
-              "homelessness",
-              -4
-            ]
-          ],
-          "postIds": [
-            18503568,
-            19335206,
-            20181001,
-            21496045,
-            24537925,
-            25629950,
-            27708677,
-            29431751,
-            29540230,
-            30087879,
-            30324466,
-            31205974,
-            31499698,
-            31754871,
-            32083147,
-            32104296,
-            32225523,
-            32246948,
-            32327195,
-            32380811,
-            32681123,
-            32687718,
-            32719935,
-            32732742,
-            33073895,
-            33385334,
-            33419617,
-            33527887,
-            33561876,
-            33623824,
-            34138201,
-            34139213,
-            34189082,
-            34274481,
-            34495712,
-            34598585,
-            34805898,
-            35234508,
-            35331456,
-            35574511,
-            35707392,
-            35736024,
-            35775832,
-            35971137,
-            36203851,
-            36414669,
-            36641597,
-            37075486,
-            37443861,
-            37489725,
-            37905476,
-            38021094,
-            38260421,
-            38521728,
-            38599439,
-            38707895,
-            38861337,
-            39070202,
-            39198875,
-            39277028,
-            39691221,
-            39881555,
-            40717676,
-            40815332,
-            41019553,
-            41819786,
-            42095638,
-            42216941,
-            42293229,
-            42483229,
-            42544154,
-            42642779,
-            42849313,
-            43108837,
-            43217704,
-            43680098,
-            43776715,
-            43822350,
-            43937960,
-            44164067,
-            44284522,
-            44365270,
-            44608127,
-            44832459,
-            44867270,
-            45073472,
-            45283189,
-            45304661,
-            45523273,
-            45612097,
-            46030715,
-            46047177,
-            46339666,
-            46943642,
-            47077335,
-            48152830,
-            48296586,
-            48318249,
-            48889500,
-            49875916,
-            50312161,
-            50313114,
-            50525181,
-            50907408,
-            51236416,
-            51320519,
-            52275496,
-            52294719,
-            52318807,
-            52767182,
-            53938535,
-            54003982,
-            54679617,
-            55799999,
-            58601559,
-            58893445,
-            60336780,
-            60539716,
-            61556524,
-            62033902,
-            62508623,
-            62667855,
-            65785401,
-            66061792,
-            66504795,
-            67297001,
-            69515164,
-            69956089,
-            70469724,
-            72273018,
-            72587432,
-            72689224,
-            73546248,
-            73868099,
-            74480700,
-            76633342,
-            77568330,
-            78234449,
-            78751941,
-            79778119
+            84695778,
+            85908926,
+            86017873,
+            86223678,
+            87219657,
+            87749070
           ]
         },
         {
           "topTerms": [
             [
               "democrats",
-              194
+              200
             ],
             [
               "trump",
-              161
+              163
             ],
             [
               "party",
-              133
+              136
             ],
             [
               "biden",
-              118
+              128
             ],
             [
               "republicans",
-              111
-            ],
-            [
-              "politics",
-              97
-            ],
-            [
-              "vote",
-              97
+              115
             ],
             [
               "senate",
-              97
+              101
+            ],
+            [
+              "vote",
+              100
+            ],
+            [
+              "politics",
+              96
             ],
             [
               "voters",
               89
             ],
             [
-              "democratic",
-              85
+              "manchin",
+              89
             ],
             [
-              "political",
-              81
+              "democratic",
+              88
             ],
             [
               "gop",
-              81
+              82
             ],
             [
-              "manchin",
+              "election",
+              80
+            ],
+            [
+              "political",
               80
             ],
             [
               "obama",
               79
-            ],
-            [
-              "election",
-              77
             ]
           ],
           "lowTerms": [
             [
-              "lab",
+              "delong",
               -2
             ],
             [
-              "audio",
+              "labor market",
               -2
             ],
             [
-              "cars",
+              "poor countries",
+              -2
+            ],
+            [
+              "slouching",
+              -2
+            ],
+            [
+              "slouching utopia",
               -2
             ],
             [
@@ -7714,54 +8702,45 @@ window._clusterData = {
               -2
             ],
             [
+              "warming",
+              -2
+            ],
+            [
               "omicron",
               -2
             ],
             [
-              "bus",
-              -3
+              "class struggle",
+              -2
             ],
             [
               "estate",
+              -2
+            ],
+            [
+              "ai",
+              -2
+            ],
+            [
+              "monkeypox",
               -3
-            ],
-            [
-              "brad",
-              -3
-            ],
-            [
-              "brad delong",
-              -4
-            ],
-            [
-              "slouching utopia",
-              -4
-            ],
-            [
-              "slouching",
-              -4
-            ],
-            [
-              "utopia",
-              -4
             ],
             [
               "irs",
-              -4
+              -3
             ],
             [
-              "delong",
-              -4
+              "lab",
+              -3
             ],
             [
               "1870",
-              -6
+              -4
             ]
           ],
           "postIds": [
             18135875,
             18177334,
-            18642680,
             19286343,
             19639907,
             19674370,
@@ -7777,16 +8756,13 @@ window._clusterData = {
             31707412,
             31938867,
             32132668,
-            32339536,
             32491521,
-            32606158,
             32818531,
             32945630,
             33117945,
             33225505,
             33723873,
             34505451,
-            34532548,
             34560988,
             34726651,
             34958079,
@@ -7804,23 +8780,22 @@ window._clusterData = {
             39132207,
             39401906,
             39652693,
-            40122162,
-            40561074,
             40859634,
             41221238,
             41366749,
             41538326,
             41611441,
-            41651022,
             41661400,
             41717672,
             41890896,
+            41987541,
             42005076,
             42357605,
             42593733,
             42751863,
             42818394,
             42994582,
+            44284522,
             44411395,
             44794053,
             45091161,
@@ -7829,6 +8804,7 @@ window._clusterData = {
             47017468,
             47275872,
             47491031,
+            48152830,
             48468569,
             50546657,
             51043454,
@@ -7837,18 +8813,19 @@ window._clusterData = {
             51850560,
             52218768,
             52323997,
+            52577286,
             52816815,
             53251092,
             53260750,
             53302113,
             53612371,
-            55324481,
             57982533,
             58251621,
             58394722,
             59616580,
             61349681,
             61760608,
+            62060883,
             64200864,
             67128817,
             67219249,
@@ -7870,969 +8847,106 @@ window._clusterData = {
         {
           "topTerms": [
             [
-              "housing",
-              271
-            ],
-            [
-              "city",
-              140
-            ],
-            [
-              "land",
-              102
-            ],
-            [
-              "transit",
-              95
-            ],
-            [
-              "cities",
-              80
-            ],
-            [
-              "homelessness",
-              77
-            ],
-            [
-              "construction",
-              75
-            ],
-            [
-              "parking",
-              69
-            ],
-            [
-              "york",
-              68
-            ],
-            [
-              "new york",
-              68
-            ],
-            [
-              "station",
-              67
-            ],
-            [
-              "metro",
-              64
-            ],
-            [
-              "demand",
-              63
-            ],
-            [
-              "amtrak",
-              63
-            ],
-            [
-              "rail",
-              59
-            ]
-          ],
-          "lowTerms": [
-            [
-              "berkeley",
-              -2
-            ],
-            [
-              "slouching",
-              -2
-            ],
-            [
-              "slouching utopia",
-              -2
-            ],
-            [
-              "brad delong",
-              -2
-            ],
-            [
-              "1870",
-              -2
-            ],
-            [
-              "fait",
-              -2
-            ],
-            [
-              "vaccinated",
-              -3
-            ],
-            [
-              "delong",
-              -3
-            ],
-            [
-              "loan",
-              -3
-            ],
-            [
-              "ctc",
-              -3
-            ],
-            [
-              "student loan",
-              -4
-            ],
-            [
-              "debt",
-              -4
-            ],
-            [
-              "forgiveness",
-              -5
-            ],
-            [
-              "romney",
-              -5
-            ],
-            [
-              "abortion",
-              -6
-            ]
-          ],
-          "postIds": [
-            18586396,
-            22022458,
-            25631028,
-            26052510,
-            29852190,
-            31043012,
-            31867708,
-            31913564,
-            32299644,
-            32452765,
-            34039930,
-            34407144,
-            34795251,
-            35378482,
-            35565119,
-            35841942,
-            36374925,
-            36790995,
-            37135025,
-            37283393,
-            37783952,
-            37840867,
-            37860687,
-            38223101,
-            38235209,
-            38568767,
-            39438399,
-            39521210,
-            40013897,
-            40304298,
-            40811123,
-            40930116,
-            41126571,
-            41219220,
-            41325034,
-            41674868,
-            41987541,
-            42166798,
-            42254178,
-            43078271,
-            43489135,
-            45324667,
-            46309170,
-            47301886,
-            47420388,
-            48076067,
-            48220002,
-            50591662,
-            52906498,
-            53053394,
-            55315571,
-            58867637,
-            60621688,
-            60813397,
-            61042827,
-            65737481,
-            66679912,
-            71941523,
-            73166055,
-            75232689,
-            75920855,
-            76246796,
-            77653288,
-            81372927
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "vaccine",
-              301
-            ],
-            [
-              "covid",
-              220
-            ],
-            [
-              "vaccines",
-              213
-            ],
-            [
-              "vaccinated",
-              156
-            ],
-            [
-              "health",
-              111
-            ],
-            [
-              "virus",
-              108
-            ],
-            [
-              "masks",
+              "russia",
               107
             ],
             [
-              "vaccination",
-              104
-            ],
-            [
-              "covid 19",
-              102
-            ],
-            [
-              "public health",
-              101
-            ],
-            [
-              "19",
-              100
-            ],
-            [
-              "pandemic",
-              97
-            ],
-            [
-              "fda",
-              94
-            ],
-            [
-              "cdc",
-              87
-            ],
-            [
-              "public",
-              85
-            ]
-          ],
-          "lowTerms": [
-            [
-              "immigrants",
-              -2
-            ],
-            [
-              "asylum",
-              -2
-            ],
-            [
-              "delong",
-              -2
-            ],
-            [
-              "monopoly",
-              -2
-            ],
-            [
-              "minimum wage",
-              -2
-            ],
-            [
-              "utopia",
-              -2
-            ],
-            [
-              "hawley",
-              -2
-            ],
-            [
-              "higher education",
-              -3
-            ],
-            [
-              "nominal",
-              -3
-            ],
-            [
-              "bigness",
-              -3
-            ],
-            [
-              "wages",
-              -3
-            ],
-            [
-              "immigration",
-              -4
-            ],
-            [
-              "ctc",
-              -5
-            ],
-            [
-              "amazon",
-              -5
-            ],
-            [
-              "child care",
-              -7
-            ]
-          ],
-          "postIds": [
-            18980244,
-            21255649,
-            22581912,
-            25928163,
-            26785599,
-            31559767,
-            31593691,
-            31814728,
-            31995237,
-            32070635,
-            32193481,
-            32760649,
-            32803727,
-            33112723,
-            33205193,
-            33700824,
-            34656950,
-            35192912,
-            35401484,
-            35481514,
-            36036186,
-            37186799,
-            37602910,
-            38120969,
-            38843718,
-            39031370,
-            39501472,
-            40445033,
-            40667497,
-            41065980,
-            41876619,
-            42799609,
-            43395570,
-            44385797,
-            44637943,
-            44963138,
-            45036946,
-            45439251,
-            45699207,
-            46744436,
-            47387100,
-            47817166,
-            48603804,
-            49545670,
-            51509642,
-            55172787,
-            56809511,
-            61904141,
-            62717990,
-            66833698,
-            69828105
-          ]
-        }
-      ]
-    },
-    {
-      "clusters": [
-        {
-          "topTerms": [
-            [
-              "know",
-              82
-            ],
-            [
-              "amazon",
-              66
-            ],
-            [
-              "book",
-              64
-            ],
-            [
-              "world",
-              63
-            ],
-            [
-              "ve",
-              62
-            ],
-            [
-              "political",
-              60
-            ],
-            [
-              "politics",
-              60
-            ],
-            [
-              "media",
-              60
-            ],
-            [
-              "kind",
-              58
-            ],
-            [
-              "bad",
-              58
-            ],
-            [
-              "movie",
-              55
-            ],
-            [
-              "boring",
-              52
-            ],
-            [
-              "money",
-              51
-            ],
-            [
-              "ai",
-              50
-            ],
-            [
-              "does",
-              49
-            ]
-          ],
-          "lowTerms": [
-            [
-              "oil prices",
-              -2
-            ],
-            [
-              "tcja",
-              -2
-            ],
-            [
-              "retention",
-              -2
-            ],
-            [
-              "reconciliation",
-              -2
-            ],
-            [
-              "keystone",
-              -2
-            ],
-            [
-              "global oil",
-              -3
-            ],
-            [
-              "gas tax",
-              -3
-            ],
-            [
-              "barrel",
-              -3
-            ],
-            [
-              "lumber",
-              -3
-            ],
-            [
-              "sinema",
-              -3
-            ],
-            [
-              "debt ceiling",
-              -3
-            ],
-            [
-              "dcps",
-              -4
-            ],
-            [
-              "teachers",
-              -4
-            ],
-            [
-              "oil",
-              -7
-            ],
-            [
-              "manchin",
-              -7
-            ]
-          ],
-          "postIds": [
-            18763957,
-            20151892,
-            21025509,
-            27286020,
-            30324466,
-            31019610,
-            31135140,
-            32517388,
-            32639465,
-            33181330,
-            33621408,
-            33852109,
-            35068697,
-            35485569,
-            36158790,
-            36964454,
-            37050919,
-            37207186,
-            37283393,
-            37317231,
-            37513989,
-            37683483,
-            37860233,
-            38538877,
-            38685806,
-            38707895,
-            39070202,
-            39788317,
-            39976329,
-            40013889,
-            40223294,
-            41191192,
-            42483229,
-            42771495,
-            43462576,
-            43861452,
-            44069530,
-            44331429,
-            44364076,
-            45384490,
-            45497623,
-            46838055,
-            47201646,
-            47340895,
-            47565914,
-            47628364,
-            47648339,
-            47951599,
-            48096690,
-            48427324,
-            48771270,
-            48797501,
-            48889500,
-            49031868,
-            49184248,
-            49586092,
-            49884768,
-            49957000,
-            50420977,
-            50890967,
-            51206634,
-            51255546,
-            51621477,
-            51677020,
-            52098549,
-            52318807,
-            52476450,
-            52491210,
-            52832260,
-            53313492,
-            54003982,
-            54303445,
-            54876506,
-            55471340,
-            55715489,
-            56289053,
-            57548064,
-            58582964,
-            58991483,
-            59115931,
-            59518168,
-            59628308,
-            60143292,
-            61636691,
-            62102053,
-            62789022,
-            63701446,
-            65843580,
-            66285562,
-            67028943,
-            67862093,
-            68190824,
-            69004628,
-            69245031,
-            70000534,
-            70330779,
-            71054684,
-            72120500,
-            72130698,
-            73254041,
-            74140735,
-            75013636,
-            75489758,
-            75632816,
-            76280739,
-            76672613,
-            77835827,
-            79379632,
-            79622747,
-            79827888,
-            80475018,
-            81292136,
-            81631713,
-            82102641,
-            83218989,
-            83696648,
-            84489473,
-            84695778
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "democrats",
-              172
-            ],
-            [
-              "party",
-              108
-            ],
-            [
-              "trump",
-              106
-            ],
-            [
-              "biden",
-              102
-            ],
-            [
-              "republicans",
-              100
-            ],
-            [
-              "tax",
-              95
-            ],
-            [
-              "manchin",
-              89
-            ],
-            [
-              "senate",
-              88
-            ],
-            [
-              "state",
-              77
-            ],
-            [
-              "politics",
-              75
-            ],
-            [
-              "vote",
-              75
-            ],
-            [
-              "democratic",
-              70
-            ],
-            [
-              "political",
-              66
-            ],
-            [
-              "abortion",
-              65
-            ],
-            [
-              "gop",
-              62
-            ]
-          ],
-          "lowTerms": [
-            [
-              "boring book",
-              -4
-            ],
-            [
-              "central america",
-              -4
-            ],
-            [
-              "book club",
-              -4
-            ],
-            [
-              "taliban",
-              -4
-            ],
-            [
-              "afghanistan",
-              -5
-            ],
-            [
-              "asylum",
-              -5
-            ],
-            [
-              "chinese",
-              -6
-            ],
-            [
-              "brad",
-              -6
-            ],
-            [
-              "brad delong",
-              -6
-            ],
-            [
               "china",
-              -6
-            ],
-            [
-              "slouching",
-              -6
-            ],
-            [
-              "slouching utopia",
-              -6
-            ],
-            [
-              "utopia",
-              -7
-            ],
-            [
-              "delong",
-              -7
-            ],
-            [
-              "1870",
-              -9
-            ]
-          ],
-          "postIds": [
-            18135875,
-            18503568,
-            19286343,
-            19639907,
-            19674370,
-            20385917,
-            20388649,
-            21496045,
-            21782308,
-            29540230,
-            31099143,
-            31111321,
-            31707412,
-            31744223,
-            31938867,
-            32225523,
-            32339536,
-            32491521,
-            32681123,
-            32818531,
-            32945630,
-            33117945,
-            33385334,
-            33561876,
-            33619836,
-            33623824,
-            33723873,
-            34505451,
-            34598585,
-            34726651,
-            34958079,
-            35023354,
-            35158309,
-            35234508,
-            35574511,
-            35728483,
-            36270312,
-            36315083,
-            36641597,
-            37362427,
-            37486827,
-            37621689,
-            37935686,
-            38021094,
-            39132207,
-            39401906,
-            39652693,
-            40122162,
-            40859634,
-            41221238,
-            41366749,
-            41538326,
-            41611441,
-            41651022,
-            41717672,
-            41890896,
-            42005076,
-            42357605,
-            42593733,
-            42818394,
-            42994582,
-            43776715,
-            44284522,
-            44608127,
-            44794053,
-            44867270,
-            45283189,
-            45612841,
-            46630592,
-            47017468,
-            47275872,
-            47491031,
-            48152830,
-            48468569,
-            50546657,
-            51043454,
-            51046626,
-            51403483,
-            51850560,
-            52218768,
-            52275496,
-            52816815,
-            53302113,
-            53612371,
-            57982533,
-            58394722,
-            59616580,
-            61349681,
-            62060883,
-            62988475,
-            64200864,
-            65785401,
-            66061792,
-            67128817,
-            67219249,
-            67297001,
-            67642825,
-            69515164,
-            70608891,
-            70864744,
-            71786926,
-            79072865,
-            81750627,
-            83441825,
-            83900508,
-            84371323
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "trump",
-              150
-            ],
-            [
-              "china",
-              130
-            ],
-            [
-              "biden",
-              119
-            ],
-            [
-              "immigration",
-              114
-            ],
-            [
-              "democrats",
-              91
-            ],
-            [
-              "russia",
-              87
-            ],
-            [
-              "obama",
-              75
-            ],
-            [
-              "war",
-              71
-            ],
-            [
-              "party",
-              70
+              103
             ],
             [
               "ukraine",
+              87
+            ],
+            [
+              "war",
+              74
+            ],
+            [
+              "racial",
               69
             ],
             [
-              "policy",
-              66
-            ],
-            [
-              "republicans",
-              66
-            ],
-            [
-              "politics",
-              65
-            ],
-            [
-              "political",
+              "white",
               61
+            ],
+            [
+              "military",
+              59
+            ],
+            [
+              "black",
+              57
+            ],
+            [
+              "states",
+              57
+            ],
+            [
+              "trump",
+              57
+            ],
+            [
+              "russian",
+              56
             ],
             [
               "american",
-              61
+              55
+            ],
+            [
+              "policy",
+              55
+            ],
+            [
+              "united",
+              54
+            ],
+            [
+              "united states",
+              52
             ]
           ],
           "lowTerms": [
             [
-              "means tested",
+              "new cars",
               -3
             ],
             [
-              "stores",
+              "retention",
               -3
             ],
             [
-              "ui",
+              "used cars",
               -3
             ],
             [
-              "google",
+              "teacher",
               -3
             ],
             [
-              "walmart",
-              -3
-            ],
-            [
-              "census",
-              -3
-            ],
-            [
-              "parking",
-              -3
-            ],
-            [
-              "geothermal",
-              -3
-            ],
-            [
-              "child care",
-              -3
-            ],
-            [
-              "store",
-              -3
-            ],
-            [
-              "alcohol",
+              "cars",
               -4
             ],
             [
-              "electricity",
+              "carbon tax",
               -4
+            ],
+            [
+              "used car",
+              -4
+            ],
+            [
+              "car",
+              -4
+            ],
+            [
+              "sinema",
+              -4
+            ],
+            [
+              "dcps",
+              -5
             ],
             [
               "bigness",
@@ -8840,448 +8954,314 @@ window._clusterData = {
             ],
             [
               "bus",
-              -7
+              -6
+            ],
+            [
+              "manchin",
+              -9
+            ],
+            [
+              "teachers",
+              -12
             ],
             [
               "amazon",
-              -14
+              -13
             ]
           ],
           "postIds": [
-            18177334,
-            22223850,
+            18642680,
+            19229056,
+            24243372,
             24870617,
-            28179971,
-            31175374,
-            31249622,
-            32132668,
-            33225505,
+            27708677,
+            29540230,
+            31492838,
+            32339536,
+            32606158,
             34139213,
+            34346394,
             35242118,
-            36340664,
+            35640356,
+            35736024,
+            35775832,
             36480369,
             36527916,
             36778380,
             36843889,
             36906625,
-            37095438,
+            37391492,
+            37846642,
+            38102501,
+            38366395,
             38745208,
             38911753,
+            39198875,
             39567255,
             39691221,
             39814820,
             40057542,
             40101165,
+            40223294,
             40269001,
             40561074,
             40815332,
+            42849313,
+            43680098,
+            44069530,
             44116431,
-            44411395,
+            44244341,
+            44331429,
+            44832459,
+            45283189,
+            45362144,
             45716094,
-            46255603,
+            47133316,
             47140290,
             48313805,
             48557327,
+            48704934,
+            49001746,
             49319517,
             49371173,
             49495257,
             49698652,
             50027852,
             50154475,
+            50645190,
             51122253,
+            51595945,
             51906346,
-            52323997,
-            52577286,
-            53251092,
-            55178451,
+            52275496,
+            52318807,
+            52476450,
+            54003982,
             55324481,
+            56290221,
             57532707,
-            58251621,
-            61760608,
-            64793172,
-            67724659,
+            62667855,
+            62988475,
+            65785401,
+            68903073,
+            71970237,
+            73254041,
             73546248,
+            73638721,
+            75489758,
             78108991,
             78427282,
-            79982868,
-            82320227,
-            85218122
+            79982868
           ]
         },
         {
           "topTerms": [
             [
-              "racial",
-              186
+              "tax",
+              157
             ],
             [
-              "black",
-              182
-            ],
-            [
-              "police",
-              178
-            ],
-            [
-              "white",
-              164
-            ],
-            [
-              "crime",
-              129
-            ],
-            [
-              "race",
-              92
-            ],
-            [
-              "white people",
-              86
-            ],
-            [
-              "racism",
-              80
-            ],
-            [
-              "wealth",
-              74
-            ],
-            [
-              "officers",
-              71
-            ],
-            [
-              "justice",
-              66
-            ],
-            [
-              "voters",
-              61
-            ],
-            [
-              "policing",
-              60
-            ],
-            [
-              "gap",
-              60
-            ],
-            [
-              "crimes",
-              59
-            ]
-          ],
-          "lowTerms": [
-            [
-              "student loan",
-              -3
-            ],
-            [
-              "visa",
-              -3
-            ],
-            [
-              "forgiveness",
-              -3
-            ],
-            [
-              "app",
-              -3
-            ],
-            [
-              "ctc",
-              -3
-            ],
-            [
-              "desantis",
-              -3
-            ],
-            [
-              "monopoly",
-              -3
-            ],
-            [
-              "loan",
-              -4
-            ],
-            [
-              "filibuster",
-              -4
-            ],
-            [
-              "legal immigration",
-              -4
-            ],
-            [
-              "apple",
-              -5
-            ],
-            [
-              "manchin",
-              -5
+              "transit",
+              120
             ],
             [
               "amtrak",
-              -6
+              90
             ],
             [
-              "tuition",
-              -7
+              "money",
+              89
             ],
             [
-              "asylum",
-              -7
-            ]
-          ],
-          "postIds": [
-            18642680,
-            19229056,
-            21384896,
-            24243372,
-            25273198,
-            31358451,
-            31492838,
-            31771252,
-            32104296,
-            32606158,
-            33310644,
-            33527887,
-            33880097,
-            33907831,
-            34346394,
-            34532548,
-            34560988,
-            34878921,
-            35378482,
-            35640356,
-            36068169,
-            36110503,
-            36745286,
-            37391492,
-            37846642,
-            38102501,
-            38348118,
-            38366395,
-            38961287,
-            39924073,
-            40505560,
-            41661400,
-            42751863,
-            43195629,
-            43437512,
-            44244341,
-            44701852,
-            45091161,
-            45362144,
-            46701030,
-            47133316,
-            48704934,
-            49001746,
-            49685582,
-            50645190,
-            53260750,
-            56724202,
-            62667855,
-            71970237,
-            74135684,
-            75584109,
-            78581735
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "vaccine",
-              299
+              "station",
+              80
             ],
             [
-              "covid",
-              220
+              "rail",
+              76
             ],
             [
-              "vaccines",
-              212
+              "city",
+              74
             ],
             [
-              "vaccinated",
-              155
+              "trains",
+              73
             ],
             [
-              "health",
-              111
+              "bus",
+              67
             ],
             [
-              "virus",
-              109
+              "train",
+              65
             ],
             [
-              "masks",
-              108
+              "taxes",
+              64
             ],
             [
-              "vaccination",
-              104
+              "income",
+              60
             ],
             [
-              "covid 19",
-              102
+              "amazon",
+              57
             ],
             [
-              "public health",
-              101
+              "infrastructure",
+              56
             ],
             [
-              "19",
-              100
-            ],
-            [
-              "pandemic",
-              98
-            ],
-            [
-              "fda",
-              94
-            ],
-            [
-              "cdc",
-              87
-            ],
-            [
-              "public",
-              85
+              "transportation",
+              54
             ]
           ],
           "lowTerms": [
             [
-              "subsidy",
-              -2
+              "mask",
+              -4
             ],
             [
-              "minimum wage",
-              -2
+              "utopia",
+              -4
             ],
             [
-              "immigrants",
-              -2
+              "nato",
+              -4
             ],
             [
-              "asylum",
-              -2
+              "delong",
+              -4
             ],
             [
-              "hawley",
-              -2
+              "powell",
+              -4
             ],
             [
-              "tuition",
-              -3
+              "karzai",
+              -4
             ],
             [
               "nominal",
-              -3
-            ],
-            [
-              "bigness",
-              -3
-            ],
-            [
-              "higher education",
-              -3
-            ],
-            [
-              "child",
-              -4
-            ],
-            [
-              "wages",
-              -4
-            ],
-            [
-              "immigration",
               -5
             ],
             [
-              "amazon",
+              "masks",
               -5
             ],
             [
-              "ctc",
+              "pakistan",
+              -5
+            ],
+            [
+              "ngdp",
+              -5
+            ],
+            [
+              "iran",
               -6
             ],
             [
-              "child care",
-              -9
+              "afghan",
+              -6
+            ],
+            [
+              "homelessness",
+              -11
+            ],
+            [
+              "taliban",
+              -15
+            ],
+            [
+              "afghanistan",
+              -18
             ]
           ],
           "postIds": [
-            18980244,
-            21255649,
-            22581912,
-            25928163,
-            26785599,
-            31559767,
-            31593691,
-            31995237,
-            32070635,
-            32193481,
-            32760649,
-            32803727,
-            33112723,
-            33205193,
-            33700824,
-            34656950,
-            35192912,
-            35401484,
-            35481514,
-            36036186,
-            37186799,
-            37602910,
-            38120969,
-            38843718,
-            39031370,
-            39501472,
-            40445033,
-            40667497,
-            41065980,
-            41876619,
-            42799609,
-            43395570,
-            44385797,
-            44637943,
-            44963138,
-            45036946,
-            45439251,
-            46744436,
-            47387100,
-            47817166,
-            48603804,
-            49545670,
-            51509642,
-            55172787,
-            56809511,
-            61904141,
-            62717990,
-            66833698,
-            69828105
+            18503568,
+            18586396,
+            22022458,
+            25631028,
+            26052510,
+            29852190,
+            30324466,
+            31499698,
+            31814728,
+            32083147,
+            32225523,
+            32327195,
+            32639465,
+            33385334,
+            33527887,
+            33561876,
+            33623824,
+            34039930,
+            34138201,
+            34598585,
+            34795251,
+            35068697,
+            35234508,
+            35574511,
+            36315083,
+            36641597,
+            37050919,
+            37283393,
+            37489725,
+            37513989,
+            37860687,
+            38021094,
+            38223101,
+            38861337,
+            39070202,
+            39277028,
+            39438399,
+            40122162,
+            40304298,
+            40811123,
+            41126571,
+            41325034,
+            41819786,
+            42254178,
+            42483229,
+            43489135,
+            43776715,
+            44608127,
+            44867270,
+            45324667,
+            45612097,
+            46309170,
+            47951599,
+            48889500,
+            52832260,
+            61042827,
+            65737481,
+            66679912,
+            67297001,
+            69515164,
+            73166055,
+            75232689,
+            78234449,
+            81372927
           ]
         },
         {
           "topTerms": [
             [
               "inflation",
-              312
+              287
             ],
             [
               "fed",
-              156
+              144
             ],
             [
               "economy",
-              143
+              132
             ],
             [
               "prices",
-              126
+              115
             ],
             [
               "labor",
@@ -9289,72 +9269,72 @@ window._clusterData = {
             ],
             [
               "supply",
-              99
-            ],
-            [
-              "demand",
               93
             ],
             [
+              "demand",
+              86
+            ],
+            [
+              "biden",
+              78
+            ],
+            [
               "price",
-              84
+              77
             ],
             [
               "employment",
-              76
-            ],
-            [
-              "stimulus",
-              76
-            ],
-            [
-              "pandemic",
-              75
-            ],
-            [
-              "unemployment",
-              75
-            ],
-            [
-              "jobs",
-              74
-            ],
-            [
-              "policy",
               73
             ],
             [
-              "growth",
+              "jobs",
               72
+            ],
+            [
+              "stimulus",
+              71
+            ],
+            [
+              "unemployment",
+              71
+            ],
+            [
+              "policy",
+              71
+            ],
+            [
+              "pandemic",
+              69
             ]
           ],
           "lowTerms": [
             [
-              "supreme",
-              -3
+              "legislature",
+              -4
             ],
             [
-              "affirmative action",
-              -3
-            ],
-            [
-              "racism",
-              -3
+              "supreme court",
+              -4
             ],
             [
               "pro choice",
-              -3
+              -4
             ],
             [
-              "astrazeneca",
-              -3
+              "ai",
+              -4
             ],
             [
-              "curriculum",
-              -3
+              "filibuster",
+              -4
             ],
             [
-              "selective",
+              "court",
+              -4
+            ],
+            [
+              "supreme",
               -4
             ],
             [
@@ -9362,32 +9342,32 @@ window._clusterData = {
               -4
             ],
             [
-              "fda",
-              -4
-            ],
-            [
-              "abortions",
-              -4
-            ],
-            [
-              "homelessness",
-              -4
-            ],
-            [
-              "marriage",
+              "nuclear",
               -5
             ],
             [
-              "nuclear",
-              -6
+              "abortions",
+              -5
+            ],
+            [
+              "gerrymandering",
+              -5
+            ],
+            [
+              "homelessness",
+              -5
             ],
             [
               "sex",
               -6
             ],
             [
+              "china",
+              -6
+            ],
+            [
               "abortion",
-              -12
+              -13
             ]
           ],
           "postIds": [
@@ -9396,7 +9376,9 @@ window._clusterData = {
             25629950,
             29431751,
             30087879,
+            31205974,
             31754871,
+            32104296,
             32246948,
             32380811,
             32719935,
@@ -9405,6 +9387,7 @@ window._clusterData = {
             34189082,
             34274481,
             34495712,
+            34805898,
             35331456,
             35971137,
             36203851,
@@ -9436,101 +9419,117 @@ window._clusterData = {
             60539716,
             61556524,
             69956089,
-            70469724,
             72273018,
+            72587432,
             78751941
           ]
         },
         {
           "topTerms": [
             [
-              "school",
+              "vaccine",
+              317
+            ],
+            [
+              "covid",
+              228
+            ],
+            [
+              "vaccines",
+              223
+            ],
+            [
+              "vaccinated",
               162
             ],
             [
-              "schools",
-              159
+              "virus",
+              112
             ],
             [
-              "child",
-              156
+              "health",
+              109
             ],
             [
-              "teachers",
-              142
+              "masks",
+              109
             ],
             [
-              "kids",
-              141
+              "vaccination",
+              108
             ],
             [
-              "child care",
-              110
+              "covid 19",
+              105
             ],
             [
-              "students",
+              "19",
               104
             ],
             [
-              "education",
-              93
+              "public health",
+              103
             ],
             [
-              "parents",
-              93
+              "pandemic",
+              100
             ],
             [
-              "ctc",
-              91
+              "fda",
+              99
             ],
             [
-              "care",
+              "cdc",
+              89
+            ],
+            [
+              "public",
               86
-            ],
-            [
-              "children",
-              84
-            ],
-            [
-              "college",
-              82
-            ],
-            [
-              "program",
-              74
-            ],
-            [
-              "tax",
-              68
             ]
           ],
           "lowTerms": [
             [
-              "utopia",
+              "tuition",
               -3
             ],
             [
-              "apple",
+              "student loan",
               -3
             ],
             [
-              "smallpox",
+              "slouching utopia",
               -3
             ],
             [
-              "debt ceiling",
+              "slouching",
               -3
             ],
             [
-              "cotton",
+              "student",
               -3
             ],
             [
-              "ceiling",
+              "wages",
               -3
             ],
             [
-              "lab",
+              "brad delong",
+              -3
+            ],
+            [
+              "brad",
+              -3
+            ],
+            [
+              "manchin",
+              -4
+            ],
+            [
+              "ctc",
+              -4
+            ],
+            [
+              "higher education",
               -4
             ],
             [
@@ -9538,116 +9537,109 @@ window._clusterData = {
               -4
             ],
             [
-              "monkeypox",
+              "utopia",
               -4
             ],
             [
-              "parking",
-              -4
-            ],
-            [
-              "outbreak",
-              -4
-            ],
-            [
-              "china",
-              -4
-            ],
-            [
-              "homelessness",
+              "immigration",
               -5
             ],
             [
-              "gun",
-              -6
-            ],
-            [
-              "wealth",
-              -12
+              "child care",
+              -9
             ]
           ],
           "postIds": [
-            27708677,
-            29866749,
-            31205974,
-            31499698,
-            31923778,
-            32083147,
-            32327195,
-            32416888,
-            32608857,
-            32687718,
-            32872379,
-            34138201,
-            34805898,
-            35707392,
-            35736024,
-            35775832,
-            36559376,
-            37489725,
-            38861337,
-            39090718,
-            39198875,
-            39277028,
-            40369585,
-            40605148,
-            41819786,
-            42019701,
-            42849313,
-            43503862,
-            43680098,
-            43694106,
-            44832459,
-            45221732,
-            45612097,
-            45699207,
-            46030715,
-            47994408,
-            50907408,
-            56290221,
-            57340427,
-            57830726,
-            59752737,
-            68903073,
-            71488255,
-            71584256,
-            72587432,
-            73006846,
-            75812096
+            18980244,
+            21255649,
+            22581912,
+            25928163,
+            26785599,
+            31559767,
+            31593691,
+            31995237,
+            32070635,
+            32193481,
+            32760649,
+            32803727,
+            33112723,
+            33205193,
+            33700824,
+            34656950,
+            35192912,
+            35401484,
+            36036186,
+            37186799,
+            37602910,
+            38120969,
+            38843718,
+            39031370,
+            39501472,
+            40445033,
+            40667497,
+            41065980,
+            41876619,
+            42799609,
+            43395570,
+            44385797,
+            44637943,
+            44963138,
+            45036946,
+            45439251,
+            46744436,
+            47387100,
+            47817166,
+            48603804,
+            49545670,
+            51509642,
+            55172787,
+            56809511,
+            61904141,
+            62717990,
+            66833698,
+            69828105
           ]
         },
         {
           "topTerms": [
             [
               "housing",
-              415
+              418
             ],
             [
               "city",
-              159
+              165
             ],
             [
               "land",
-              141
+              139
             ],
             [
               "homelessness",
-              131
+              132
             ],
             [
               "construction",
-              95
+              97
             ],
             [
               "cities",
-              90
+              95
             ],
             [
               "houses",
               89
             ],
             [
-              "parking",
+              "zoning",
+              82
+            ],
+            [
+              "buildings",
+              82
+            ],
+            [
+              "demand",
               82
             ],
             [
@@ -9655,61 +9647,45 @@ window._clusterData = {
               81
             ],
             [
-              "zoning",
+              "parking",
               80
             ],
             [
-              "demand",
-              80
+              "remote",
+              77
             ],
             [
-              "market",
-              76
+              "supply",
+              77
             ],
             [
-              "live",
-              76
-            ],
-            [
-              "buildings",
-              76
-            ],
-            [
-              "units",
-              74
+              "york",
+              77
             ]
           ],
           "lowTerms": [
             [
-              "abortions",
-              -3
+              "fed",
+              -4
             ],
             [
-              "fda",
-              -3
+              "crypto",
+              -4
             ],
             [
               "vaccines",
               -4
             ],
             [
-              "king",
-              -4
-            ],
-            [
-              "student loan",
-              -4
-            ],
-            [
               "romney",
-              -4
-            ],
-            [
-              "loan",
               -5
             ],
             [
-              "forgiveness",
+              "russia",
+              -5
+            ],
+            [
+              "ctc",
               -5
             ],
             [
@@ -9717,7 +9693,7 @@ window._clusterData = {
               -5
             ],
             [
-              "vaccine",
+              "fda",
               -5
             ],
             [
@@ -9725,31 +9701,37 @@ window._clusterData = {
               -5
             ],
             [
-              "fed",
+              "manchin",
+              -5
+            ],
+            [
+              "debt",
+              -6
+            ],
+            [
+              "vaccine",
               -6
             ],
             [
               "ai",
-              -7
-            ],
-            [
-              "debt",
-              -7
+              -6
             ],
             [
               "abortion",
+              -8
+            ],
+            [
+              "amtrak",
               -12
             ]
           ],
           "postIds": [
-            18586396,
-            29852190,
             31043012,
             31867708,
             31913564,
             32299644,
-            32452765,
             34407144,
+            35378482,
             35565119,
             35841942,
             36374925,
@@ -9764,7 +9746,6 @@ window._clusterData = {
             40930116,
             41219220,
             41674868,
-            41987541,
             42166798,
             43078271,
             47420388,
@@ -9780,70 +9761,72 @@ window._clusterData = {
             71941523,
             75920855,
             76246796,
-            77653288
+            77653288,
+            85410902,
+            86783389
           ]
         },
         {
           "topTerms": [
             [
               "climate",
-              241
+              280
             ],
             [
               "gas",
-              178
+              175
             ],
             [
               "oil",
-              177
+              169
             ],
             [
               "energy",
-              157
+              168
             ],
             [
               "carbon",
-              148
+              160
             ],
             [
               "electricity",
-              128
-            ],
-            [
-              "fossil",
-              97
-            ],
-            [
-              "nuclear",
-              96
+              134
             ],
             [
               "emissions",
-              96
+              120
             ],
             [
               "climate change",
-              93
+              105
             ],
             [
-              "russia",
-              84
+              "fossil",
+              104
+            ],
+            [
+              "nuclear",
+              100
             ],
             [
               "solar",
-              83
+              88
             ],
             [
               "tax",
-              81
+              79
             ],
             [
               "geothermal",
-              73
+              77
             ],
             [
               "renewables",
-              71
+              73
+            ],
+            [
+              "fuel",
+              73
             ]
           ],
           "lowTerms": [
@@ -9852,31 +9835,15 @@ window._clusterData = {
               -2
             ],
             [
-              "parents",
-              -2
-            ],
-            [
-              "apple",
+              "uk",
               -2
             ],
             [
               "privacy",
-              -3
+              -2
             ],
             [
-              "trump",
-              -3
-            ],
-            [
-              "forgiveness",
-              -3
-            ],
-            [
-              "homeless",
-              -3
-            ],
-            [
-              "hawley",
+              "parents",
               -3
             ],
             [
@@ -9888,19 +9855,35 @@ window._clusterData = {
               -3
             ],
             [
-              "adams",
+              "bonus",
+              -3
+            ],
+            [
+              "dune",
               -3
             ],
             [
               "ngdp",
-              -4
+              -3
             ],
             [
-              "ui",
+              "homeless",
+              -3
+            ],
+            [
+              "adams",
               -4
             ],
             [
               "ctc",
+              -5
+            ],
+            [
+              "vaccine",
+              -6
+            ],
+            [
+              "ui",
               -6
             ],
             [
@@ -9920,7 +9903,6 @@ window._clusterData = {
             42544154,
             43217704,
             44365270,
-            45324667,
             46047177,
             46339666,
             47077335,
@@ -9929,171 +9911,329 @@ window._clusterData = {
             50312161,
             50313114,
             51236416,
-            51595945,
             55799999,
             58601559,
             58893445,
             62033902,
             62508623,
+            66061792,
             66504795,
             72689224,
-            73638721,
             73868099,
             74480700,
             76633342,
             77568330,
-            78234449,
-            79778119
+            79778119,
+            86347660,
+            87551177
           ]
         },
         {
           "topTerms": [
             [
-              "transit",
-              244
+              "schools",
+              241
             ],
             [
-              "amtrak",
-              240
+              "school",
+              226
             ],
             [
-              "station",
-              195
+              "teachers",
+              202
             ],
             [
-              "rail",
-              189
+              "students",
+              171
             ],
             [
-              "trains",
-              178
+              "education",
+              151
             ],
             [
-              "train",
-              166
+              "kids",
+              136
             ],
             [
-              "bus",
-              143
+              "college",
+              134
             ],
             [
-              "city",
-              141
+              "student",
+              111
             ],
             [
-              "transportation",
-              119
+              "black",
+              92
             ],
             [
-              "metro",
-              113
+              "debt",
+              79
             ],
             [
-              "infrastructure",
-              95
+              "scores",
+              78
             ],
             [
-              "service",
-              95
+              "teacher",
+              72
             ],
             [
-              "stations",
-              93
+              "selective",
+              69
             ],
             [
-              "money",
-              90
+              "racial",
+              68
             ],
             [
-              "new york",
-              87
+              "higher education",
+              67
             ]
           ],
           "lowTerms": [
             [
-              "abundance",
+              "irs",
+              -5
+            ],
+            [
+              "manchin",
+              -5
+            ],
+            [
+              "monopoly",
+              -5
+            ],
+            [
+              "sense say",
+              -5
+            ],
+            [
+              "prison",
+              -5
+            ],
+            [
+              "alcohol",
+              -5
+            ],
+            [
+              "parking",
               -6
             ],
             [
-              "brad delong",
+              "crime",
+              -6
+            ],
+            [
+              "crimes",
+              -6
+            ],
+            [
+              "class struggle",
               -7
             ],
             [
-              "apple",
+              "taliban",
               -7
             ],
             [
-              "student",
+              "afghanistan",
               -7
             ],
             [
-              "slouching utopia",
-              -7
-            ],
-            [
-              "slouching",
-              -7
-            ],
-            [
-              "vacancy",
-              -7
-            ],
-            [
-              "rent",
-              -7
-            ],
-            [
-              "brad",
-              -7
-            ],
-            [
-              "delong",
-              -8
-            ],
-            [
-              "1870",
+              "gun",
               -9
             ],
             [
-              "wealth",
-              -9
+              "amazon",
+              -11
             ],
             [
-              "ctc",
-              -9
-            ],
-            [
-              "utopia",
-              -10
-            ],
-            [
-              "homelessness",
-              -22
+              "king",
+              -15
             ]
           ],
           "postIds": [
-            22022458,
-            25631028,
-            26052510,
-            31814728,
-            34039930,
-            34795251,
-            37860687,
-            38223101,
-            39438399,
-            40304298,
-            40811123,
-            41126571,
-            41325034,
-            42254178,
-            43489135,
-            46309170,
-            61042827,
-            65737481,
-            66679912,
-            73166055,
-            75232689,
-            81372927
+            21496045,
+            29866749,
+            31923778,
+            32416888,
+            32608857,
+            32681123,
+            32687718,
+            32872379,
+            33907831,
+            35707392,
+            36110503,
+            36559376,
+            39090718,
+            40369585,
+            40605148,
+            41651022,
+            43503862,
+            43694106,
+            45221732,
+            45699207,
+            46030715,
+            47994408,
+            50890967,
+            50907408,
+            57340427,
+            59752737,
+            70469724,
+            71584256,
+            73006846,
+            75812096
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "police",
+              403
+            ],
+            [
+              "crime",
+              295
+            ],
+            [
+              "officers",
+              163
+            ],
+            [
+              "policing",
+              135
+            ],
+            [
+              "cops",
+              134
+            ],
+            [
+              "crimes",
+              124
+            ],
+            [
+              "murder",
+              110
+            ],
+            [
+              "black",
+              91
+            ],
+            [
+              "murders",
+              90
+            ],
+            [
+              "enforcement",
+              75
+            ],
+            [
+              "prison",
+              75
+            ],
+            [
+              "gun",
+              72
+            ],
+            [
+              "violence",
+              71
+            ],
+            [
+              "police officers",
+              71
+            ],
+            [
+              "shootings",
+              70
+            ]
+          ],
+          "lowTerms": [
+            [
+              "loans",
+              -3
+            ],
+            [
+              "manufactured",
+              -3
+            ],
+            [
+              "remote work",
+              -3
+            ],
+            [
+              "loan forgiveness",
+              -4
+            ],
+            [
+              "tuition",
+              -4
+            ],
+            [
+              "station",
+              -4
+            ],
+            [
+              "remote",
+              -4
+            ],
+            [
+              "land",
+              -4
+            ],
+            [
+              "student loan",
+              -4
+            ],
+            [
+              "amtrak",
+              -5
+            ],
+            [
+              "forgiveness",
+              -7
+            ],
+            [
+              "loan",
+              -7
+            ],
+            [
+              "ctc",
+              -8
+            ],
+            [
+              "debt",
+              -8
+            ],
+            [
+              "romney",
+              -10
+            ]
+          ],
+          "postIds": [
+            21384896,
+            31771252,
+            33310644,
+            33880097,
+            34532548,
+            34878921,
+            35481514,
+            36745286,
+            38348118,
+            38961287,
+            39924073,
+            40505560,
+            43195629,
+            43437512,
+            44701852,
+            46701030,
+            49685582,
+            56724202,
+            57830726,
+            74135684,
+            75584109,
+            88097777
           ]
         }
       ]
@@ -10103,275 +10243,55 @@ window._clusterData = {
         {
           "topTerms": [
             [
-              "know",
-              92
-            ],
-            [
-              "book",
-              76
-            ],
-            [
-              "ve",
-              66
-            ],
-            [
-              "politics",
-              66
-            ],
-            [
-              "political",
-              66
-            ],
-            [
-              "world",
-              66
-            ],
-            [
-              "media",
-              60
-            ],
-            [
-              "boring",
-              60
-            ],
-            [
-              "kind",
-              59
-            ],
-            [
-              "bad",
-              59
-            ],
-            [
-              "movie",
-              57
-            ],
-            [
-              "slow boring",
-              56
-            ],
-            [
-              "slow",
-              55
-            ],
-            [
-              "war",
-              53
-            ],
-            [
-              "trump",
-              53
-            ]
-          ],
-          "lowTerms": [
-            [
-              "oil prices",
-              -3
-            ],
-            [
-              "gasoline",
-              -3
-            ],
-            [
-              "global oil",
-              -4
-            ],
-            [
-              "racial wealth",
-              -4
-            ],
-            [
-              "public option",
-              -4
-            ],
-            [
-              "barrel",
-              -4
-            ],
-            [
-              "sinema",
-              -4
-            ],
-            [
-              "gas tax",
-              -4
-            ],
-            [
-              "retention",
-              -4
-            ],
-            [
-              "wealth gap",
-              -5
-            ],
-            [
-              "manchin",
-              -5
-            ],
-            [
-              "dcps",
-              -6
-            ],
-            [
-              "medicare",
-              -6
-            ],
-            [
-              "oil",
-              -13
-            ],
-            [
-              "teachers",
-              -14
-            ]
-          ],
-          "postIds": [
-            20151892,
-            21025509,
-            22223850,
-            28179971,
-            32452765,
-            32517388,
-            32639465,
-            33181330,
-            33852109,
-            35242118,
-            36158790,
-            36480369,
-            36964454,
-            37207186,
-            37317231,
-            37860233,
-            38538877,
-            38685806,
-            38745208,
-            39567255,
-            39788317,
-            40013889,
-            41191192,
-            42771495,
-            43462576,
-            43861452,
-            44331429,
-            44364076,
-            45384490,
-            45497623,
-            45716094,
-            46255603,
-            47201646,
-            47340895,
-            47565914,
-            47648339,
-            48096690,
-            48427324,
-            48771270,
-            48797501,
-            49031868,
-            49184248,
-            49586092,
-            49884768,
-            49957000,
-            50420977,
-            51206634,
-            51255546,
-            51621477,
-            51677020,
-            52098549,
-            52491210,
-            53313492,
-            54303445,
-            55178451,
-            55471340,
-            55715489,
-            56289053,
-            57548064,
-            58582964,
-            58991483,
-            59115931,
-            59518168,
-            59628308,
-            60143292,
-            61636691,
-            62102053,
-            62789022,
-            63701446,
-            64793172,
-            65843580,
-            66285562,
-            67028943,
-            67862093,
-            68190824,
-            69004628,
-            69245031,
-            70000534,
-            71054684,
-            72120500,
-            72130698,
-            73254041,
-            74140735,
-            76280739,
-            76672613,
-            77835827,
-            79379632,
-            79622747,
-            79827888,
-            80475018,
-            81631713,
-            82102641,
-            83218989,
-            83696648,
-            84489473,
-            84695778
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "trump",
-              199
-            ],
-            [
               "democrats",
-              177
+              202
             ],
             [
-              "immigration",
-              123
-            ],
-            [
-              "biden",
-              122
+              "trump",
+              167
             ],
             [
               "party",
-              122
+              138
+            ],
+            [
+              "biden",
+              129
             ],
             [
               "republicans",
-              114
+              120
             ],
             [
-              "abortion",
+              "senate",
               103
             ],
             [
+              "vote",
+              99
+            ],
+            [
               "politics",
-              97
+              95
             ],
             [
-              "obama",
-              92
+              "manchin",
+              89
             ],
             [
-              "gop",
-              86
+              "democratic",
+              88
             ],
             [
               "voters",
+              85
+            ],
+            [
+              "gop",
               84
             ],
             [
-              "vote",
+              "election",
               81
             ],
             [
@@ -10379,129 +10299,167 @@ window._clusterData = {
               80
             ],
             [
-              "democratic",
+              "obama",
               79
-            ],
-            [
-              "senate",
-              78
             ]
           ],
           "lowTerms": [
             [
-              "ukraine",
-              -5
+              "slouching",
+              -2
             ],
             [
-              "apple",
-              -5
+              "delong",
+              -2
             ],
             [
-              "remote",
-              -5
-            ],
-            [
-              "ui",
-              -5
-            ],
-            [
-              "bus",
-              -5
-            ],
-            [
-              "wealth gap",
-              -5
+              "sense say",
+              -2
             ],
             [
               "omicron",
-              -5
+              -3
             ],
             [
-              "google",
-              -5
+              "wealth gap",
+              -3
             ],
             [
-              "parking",
-              -6
+              "monkeypox",
+              -3
             ],
             [
-              "store",
-              -6
+              "stock market",
+              -3
             ],
             [
-              "bigness",
-              -6
+              "negro",
+              -3
             ],
             [
-              "russia",
-              -7
+              "class struggle",
+              -3
             ],
             [
-              "ctc",
-              -9
+              "labor market",
+              -4
             ],
             [
-              "wealth",
-              -10
+              "king",
+              -4
+            ],
+            [
+              "lab",
+              -4
+            ],
+            [
+              "1870",
+              -4
             ],
             [
               "amazon",
-              -21
+              -5
+            ],
+            [
+              "wealth",
+              -5
             ]
           ],
           "postIds": [
             18135875,
+            18177334,
             19286343,
             19639907,
+            19674370,
+            20385917,
             20388649,
             21782308,
+            31099143,
+            31111321,
+            31175374,
             31249622,
             31707412,
+            31938867,
             32132668,
-            32339536,
             32491521,
+            32818531,
+            32945630,
+            33117945,
             33225505,
-            34139213,
+            33723873,
             34505451,
+            34726651,
+            34958079,
+            35023354,
+            35158309,
             35728483,
+            36068169,
             36270312,
             36340664,
             37095438,
+            37362427,
             37486827,
+            37621689,
             37935686,
+            38021094,
             39132207,
+            39401906,
             39652693,
-            39691221,
+            40122162,
             40561074,
+            40859634,
+            41221238,
+            41366749,
+            41538326,
+            41611441,
+            41717672,
+            41890896,
+            41987541,
             42005076,
             42357605,
             42593733,
+            42818394,
+            42994582,
+            44284522,
             44411395,
             44794053,
             45612841,
+            46630592,
+            47017468,
+            47275872,
+            47491031,
+            48152830,
             48468569,
+            50546657,
+            51043454,
             51046626,
             51403483,
+            51850560,
+            52218768,
             52323997,
             52816815,
             53251092,
             53302113,
             53612371,
             55324481,
-            58251621,
+            57982533,
+            58394722,
+            59616580,
             61349681,
             61760608,
-            62988475,
+            64200864,
             67128817,
             67219249,
+            67642825,
             67724659,
             70608891,
             70864744,
             71786926,
-            73546248,
+            79072865,
             81750627,
             82320227,
             83441825,
+            83900508,
             84371323,
             85218122
           ]
@@ -10509,416 +10467,275 @@ window._clusterData = {
         {
           "topTerms": [
             [
-              "tax",
-              192
-            ],
-            [
-              "police",
-              153
-            ],
-            [
-              "child",
-              129
-            ],
-            [
-              "crime",
-              116
-            ],
-            [
-              "ctc",
-              97
-            ],
-            [
-              "income",
-              85
-            ],
-            [
-              "money",
-              81
-            ],
-            [
-              "child care",
-              80
-            ],
-            [
-              "taxes",
-              76
-            ],
-            [
-              "care",
-              75
-            ],
-            [
-              "program",
-              68
-            ],
-            [
-              "programs",
-              63
-            ],
-            [
-              "biden",
-              62
-            ],
-            [
-              "poverty",
-              60
-            ],
-            [
-              "officers",
-              59
-            ]
-          ],
-          "lowTerms": [
-            [
-              "transmission",
-              -2
-            ],
-            [
-              "affirmative action",
-              -2
-            ],
-            [
-              "nrc",
-              -2
-            ],
-            [
-              "swing voters",
-              -3
-            ],
-            [
-              "ukrainian",
-              -3
-            ],
-            [
-              "forgiveness",
-              -3
-            ],
-            [
-              "powell",
-              -3
-            ],
-            [
-              "reactor",
-              -3
-            ],
-            [
-              "amazon",
-              -3
-            ],
-            [
-              "china",
-              -3
-            ],
-            [
-              "reactors",
-              -3
-            ],
-            [
-              "lab",
-              -3
-            ],
-            [
-              "renewables",
-              -4
-            ],
-            [
-              "electricity",
-              -5
-            ],
-            [
-              "nuclear",
-              -6
-            ]
-          ],
-          "postIds": [
-            21384896,
-            27708677,
-            31205974,
-            31499698,
-            31771252,
-            32083147,
-            32225523,
-            32327195,
-            33310644,
-            33385334,
-            33561876,
-            33623824,
-            33880097,
-            34138201,
-            34598585,
-            34878921,
-            35234508,
-            35574511,
-            35707392,
-            35736024,
-            35775832,
-            36315083,
-            36641597,
-            36745286,
-            37489725,
-            38348118,
-            38861337,
-            39198875,
-            39277028,
-            39924073,
-            41819786,
-            42849313,
-            43195629,
-            43437512,
-            43680098,
-            43776715,
-            44608127,
-            44701852,
-            44832459,
-            44867270,
-            45612097,
-            46701030,
-            48889500,
-            49685582,
-            56724202,
-            57830726,
-            66061792,
-            67297001,
-            69515164,
-            72587432,
-            74135684,
-            75584109
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "democrats",
-              217
-            ],
-            [
-              "party",
-              149
-            ],
-            [
-              "manchin",
-              136
-            ],
-            [
-              "biden",
-              133
-            ],
-            [
-              "senate",
-              125
-            ],
-            [
-              "trump",
-              125
-            ],
-            [
-              "republicans",
-              117
-            ],
-            [
-              "vote",
-              111
-            ],
-            [
-              "democratic",
-              93
-            ],
-            [
-              "state",
-              93
+              "know",
+              84
             ],
             [
               "politics",
-              90
-            ],
-            [
-              "election",
-              81
-            ],
-            [
-              "voters",
-              80
+              68
             ],
             [
               "political",
-              79
+              68
             ],
             [
-              "house",
-              78
+              "book",
+              66
+            ],
+            [
+              "world",
+              64
+            ],
+            [
+              "policy",
+              62
+            ],
+            [
+              "bad",
+              61
+            ],
+            [
+              "ve",
+              61
+            ],
+            [
+              "kind",
+              58
+            ],
+            [
+              "american",
+              57
+            ],
+            [
+              "money",
+              57
+            ],
+            [
+              "states",
+              55
+            ],
+            [
+              "movie",
+              53
+            ],
+            [
+              "war",
+              53
+            ],
+            [
+              "school",
+              52
             ]
           ],
           "lowTerms": [
             [
-              "lab",
-              -7
+              "spread virus",
+              -1
             ],
             [
-              "chinese",
-              -7
+              "barrel",
+              -1
             ],
             [
-              "migrants",
-              -8
+              "travel restrictions",
+              -1
             ],
             [
-              "irs",
-              -8
+              "quitting",
+              -1
             ],
             [
-              "asylum claims",
-              -8
+              "gas tax",
+              -1
             ],
             [
-              "visas",
-              -8
+              "keystone",
+              -1
             ],
             [
-              "1870",
-              -8
+              "lumber",
+              -2
             ],
             [
-              "china",
-              -9
+              "global oil",
+              -2
             ],
             [
-              "teachers",
-              -10
+              "output gap",
+              -2
             ],
             [
-              "mexico",
-              -10
+              "bonus ui",
+              -2
             ],
             [
-              "central america",
-              -11
+              "child care",
+              -2
             ],
             [
-              "immigrants",
-              -11
+              "labor supply",
+              -3
             ],
             [
-              "legal immigration",
-              -11
+              "racial wealth",
+              -3
             ],
             [
-              "immigration",
-              -19
+              "wealth gap",
+              -4
             ],
             [
-              "asylum",
-              -23
+              "ui",
+              -4
             ]
           ],
           "postIds": [
-            18177334,
-            19674370,
-            20385917,
-            31099143,
-            31111321,
-            31175374,
+            21025509,
+            22223850,
+            28179971,
+            31019610,
             31744223,
-            31938867,
-            32818531,
-            32945630,
-            33117945,
-            33723873,
-            34726651,
-            34958079,
-            35023354,
-            35158309,
-            37362427,
-            37621689,
-            38021094,
-            39401906,
-            40122162,
-            40859634,
-            41221238,
-            41366749,
-            41538326,
-            41611441,
-            41717672,
-            41890896,
-            41987541,
-            42818394,
-            42994582,
-            44284522,
-            46630592,
-            47017468,
-            47275872,
-            47491031,
-            48152830,
-            51043454,
-            51850560,
-            52218768,
-            57982533,
-            58394722,
-            59616580,
+            32339536,
+            32452765,
+            32517388,
+            32639465,
+            33181330,
+            33619836,
+            33621408,
+            35068697,
+            36480369,
+            36527916,
+            38685806,
+            38745208,
+            39567255,
+            39814820,
+            39976329,
+            40223294,
+            42019701,
+            43462576,
+            44116431,
+            44331429,
+            45384490,
+            46255603,
+            47340895,
+            47565914,
+            47628364,
+            47648339,
+            48096690,
+            48704934,
+            48797501,
+            48889500,
+            49184248,
+            49586092,
+            49884768,
+            50420977,
+            50890967,
+            51206634,
+            51255546,
+            51621477,
+            51677020,
+            52098549,
+            52491210,
+            52906498,
+            53313492,
+            54303445,
+            55471340,
+            55715489,
+            56289053,
+            57548064,
+            58582964,
+            58991483,
+            59518168,
+            59628308,
+            61636691,
             62060883,
-            64200864,
-            67642825,
-            79072865,
-            83900508
+            62789022,
+            63701446,
+            64793172,
+            65843580,
+            66285562,
+            67028943,
+            67862093,
+            68190824,
+            69004628,
+            69245031,
+            70000534,
+            72130698,
+            73254041,
+            74140735,
+            75489758,
+            75632816,
+            76672613,
+            77835827,
+            79379632,
+            79827888,
+            80475018,
+            82102641,
+            83218989,
+            84489473,
+            84695778,
+            86223678,
+            87219657,
+            87749070
           ]
         },
         {
           "topTerms": [
             [
               "vaccine",
-              305
+              320
             ],
             [
               "covid",
-              222
+              229
             ],
             [
               "vaccines",
-              215
+              225
             ],
             [
               "vaccinated",
-              158
-            ],
-            [
-              "health",
-              114
+              163
             ],
             [
               "virus",
-              108
+              112
+            ],
+            [
+              "health",
+              110
             ],
             [
               "masks",
-              108
+              109
             ],
             [
               "vaccination",
-              105
+              109
             ],
             [
               "covid 19",
-              103
-            ],
-            [
-              "public health",
-              102
+              106
             ],
             [
               "19",
-              101
+              104
             ],
             [
-              "pandemic",
-              98
+              "public health",
+              103
             ],
             [
               "fda",
-              96
+              100
+            ],
+            [
+              "pandemic",
+              100
             ],
             [
               "cdc",
-              88
+              89
             ],
             [
               "public",
@@ -10927,39 +10744,27 @@ window._clusterData = {
           ],
           "lowTerms": [
             [
-              "married",
-              -2
-            ],
-            [
-              "subsidy",
-              -2
-            ],
-            [
-              "monopoly",
-              -2
-            ],
-            [
-              "minimum wage",
-              -2
-            ],
-            [
               "tuition",
-              -2
-            ],
-            [
-              "hawley",
-              -2
-            ],
-            [
-              "nominal",
-              -2
-            ],
-            [
-              "bigness",
               -3
             ],
             [
-              "higher education",
+              "minimum wage",
+              -3
+            ],
+            [
+              "student",
+              -3
+            ],
+            [
+              "slouching utopia",
+              -3
+            ],
+            [
+              "slouching",
+              -3
+            ],
+            [
+              "brad delong",
               -3
             ],
             [
@@ -10967,24 +10772,36 @@ window._clusterData = {
               -3
             ],
             [
-              "child",
+              "brad",
               -3
             ],
             [
-              "immigration",
+              "higher education",
               -4
             ],
             [
-              "amazon",
-              -5
+              "manchin",
+              -4
+            ],
+            [
+              "delong",
+              -4
+            ],
+            [
+              "utopia",
+              -4
             ],
             [
               "ctc",
-              -7
+              -4
+            ],
+            [
+              "immigration",
+              -5
             ],
             [
               "child care",
-              -8
+              -9
             ]
           ],
           "postIds": [
@@ -11006,7 +10823,6 @@ window._clusterData = {
             34656950,
             35192912,
             35401484,
-            35481514,
             36036186,
             37186799,
             37602910,
@@ -11029,6 +10845,7 @@ window._clusterData = {
             47387100,
             47817166,
             48603804,
+            49545670,
             51509642,
             55172787,
             56809511,
@@ -11041,240 +10858,69 @@ window._clusterData = {
         {
           "topTerms": [
             [
-              "labor",
-              107
-            ],
-            [
-              "health",
-              102
-            ],
-            [
-              "economy",
-              92
-            ],
-            [
-              "care",
-              91
-            ],
-            [
-              "debt",
-              89
-            ],
-            [
-              "workers",
-              74
-            ],
-            [
-              "jobs",
-              73
-            ],
-            [
-              "ui",
-              68
-            ],
-            [
-              "money",
-              67
-            ],
-            [
-              "student",
-              66
-            ],
-            [
-              "employment",
-              66
-            ],
-            [
-              "job",
-              65
-            ],
-            [
-              "loan",
-              65
-            ],
-            [
-              "market",
-              63
-            ],
-            [
-              "insurance",
-              61
-            ]
-          ],
-          "lowTerms": [
-            [
-              "achievement gap",
-              -4
-            ],
-            [
-              "free speech",
-              -5
-            ],
-            [
-              "adams",
-              -5
-            ],
-            [
-              "racist",
-              -5
-            ],
-            [
-              "kendi",
-              -5
-            ],
-            [
-              "station",
-              -5
-            ],
-            [
-              "achievement",
-              -6
-            ],
-            [
-              "ctc",
-              -6
-            ],
-            [
-              "chinese",
-              -6
-            ],
-            [
-              "china",
-              -6
-            ],
-            [
-              "taliban",
-              -8
-            ],
-            [
-              "iran",
-              -8
-            ],
-            [
-              "misinformation",
-              -8
-            ],
-            [
-              "afghanistan",
-              -10
-            ],
-            [
-              "oil",
-              -19
-            ]
-          ],
-          "postIds": [
-            18503568,
-            21496045,
-            24537925,
-            29431751,
-            29540230,
-            30087879,
-            31019610,
-            31754871,
-            32380811,
-            32681123,
-            32719935,
-            33073895,
-            33527887,
-            34274481,
-            34805898,
-            35331456,
-            36203851,
-            37075486,
-            40223294,
-            40815332,
-            43822350,
-            44069530,
-            45283189,
-            45304661,
-            45523273,
-            46030715,
-            46838055,
-            46943642,
-            48296586,
-            48704934,
-            52275496,
-            52318807,
-            54003982,
-            54876506,
-            62667855,
-            65785401,
-            69956089,
-            70469724,
-            72273018
-          ]
-        },
-        {
-          "topTerms": [
-            [
               "housing",
-              438
+              422
             ],
             [
               "city",
-              160
+              171
             ],
             [
               "land",
-              147
+              141
             ],
             [
               "homelessness",
-              139
+              133
             ],
             [
               "construction",
+              99
+            ],
+            [
+              "cities",
               98
             ],
             [
               "houses",
-              94
-            ],
-            [
-              "cities",
               90
             ],
             [
-              "homes",
-              86
+              "buildings",
+              84
             ],
             [
               "zoning",
-              84
-            ],
-            [
-              "demand",
-              84
+              82
             ],
             [
               "parking",
-              84
+              82
             ],
             [
-              "market",
+              "homes",
+              81
+            ],
+            [
+              "demand",
+              81
+            ],
+            [
+              "new york",
               80
             ],
             [
-              "supply",
+              "york",
               80
             ],
             [
-              "buildings",
-              79
-            ],
-            [
-              "units",
+              "remote",
               78
             ]
           ],
           "lowTerms": [
             [
-              "relief",
-              -4
-            ],
-            [
-              "black",
+              "powell",
               -4
             ],
             [
@@ -11282,19 +10928,15 @@ window._clusterData = {
               -4
             ],
             [
-              "student loan",
-              -4
-            ],
-            [
-              "fed",
+              "romney",
               -5
             ],
             [
-              "king",
+              "ctc",
               -5
             ],
             [
-              "ngdp",
+              "kendi",
               -5
             ],
             [
@@ -11302,35 +10944,45 @@ window._clusterData = {
               -5
             ],
             [
-              "forgiveness",
-              -5
+              "black",
+              -6
             ],
             [
-              "loan",
-              -5
+              "ngdp",
+              -6
+            ],
+            [
+              "fed",
+              -6
+            ],
+            [
+              "fda",
+              -6
             ],
             [
               "ai",
-              -6
+              -7
             ],
             [
-              "romney",
-              -6
-            ],
-            [
-              "debt",
-              -9
-            ],
-            [
-              "amtrak",
-              -11
+              "vaccines",
+              -8
             ],
             [
               "abortion",
-              -13
+              -8
+            ],
+            [
+              "amtrak",
+              -8
+            ],
+            [
+              "vaccine",
+              -10
             ]
           ],
           "postIds": [
+            18586396,
+            29852190,
             31043012,
             31867708,
             31913564,
@@ -11356,7 +11008,6 @@ window._clusterData = {
             48076067,
             48220002,
             50591662,
-            52906498,
             53053394,
             55315571,
             58867637,
@@ -11365,95 +11016,577 @@ window._clusterData = {
             71941523,
             75920855,
             76246796,
-            77653288
+            77653288,
+            85410902,
+            86783389
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "child",
+              223
+            ],
+            [
+              "child care",
+              164
+            ],
+            [
+              "care",
+              155
+            ],
+            [
+              "ctc",
+              132
+            ],
+            [
+              "tax",
+              132
+            ],
+            [
+              "program",
+              100
+            ],
+            [
+              "kids",
+              96
+            ],
+            [
+              "parents",
+              92
+            ],
+            [
+              "income",
+              86
+            ],
+            [
+              "families",
+              85
+            ],
+            [
+              "money",
+              85
+            ],
+            [
+              "health",
+              84
+            ],
+            [
+              "programs",
+              82
+            ],
+            [
+              "poverty",
+              80
+            ],
+            [
+              "children",
+              79
+            ]
+          ],
+          "lowTerms": [
+            [
+              "remote work",
+              -4
+            ],
+            [
+              "student",
+              -4
+            ],
+            [
+              "boring book",
+              -4
+            ],
+            [
+              "proportional",
+              -4
+            ],
+            [
+              "1870",
+              -5
+            ],
+            [
+              "chicago",
+              -5
+            ],
+            [
+              "brad",
+              -6
+            ],
+            [
+              "slouching",
+              -6
+            ],
+            [
+              "slouching utopia",
+              -6
+            ],
+            [
+              "remote",
+              -6
+            ],
+            [
+              "brad delong",
+              -6
+            ],
+            [
+              "forgiveness",
+              -6
+            ],
+            [
+              "utopia",
+              -7
+            ],
+            [
+              "delong",
+              -7
+            ],
+            [
+              "oil",
+              -12
+            ]
+          ],
+          "postIds": [
+            27708677,
+            29540230,
+            31205974,
+            31499698,
+            32083147,
+            32225523,
+            32327195,
+            32687718,
+            34138201,
+            34805898,
+            35707392,
+            35736024,
+            35775832,
+            36641597,
+            37489725,
+            38861337,
+            39198875,
+            39277028,
+            41819786,
+            42849313,
+            43680098,
+            43776715,
+            44069530,
+            44608127,
+            44832459,
+            45283189,
+            45612097,
+            46838055,
+            52275496,
+            52318807,
+            54003982,
+            54876506,
+            56290221,
+            62667855,
+            62988475,
+            65785401,
+            68903073,
+            72587432
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "climate",
+              205
+            ],
+            [
+              "immigration",
+              141
+            ],
+            [
+              "labor",
+              119
+            ],
+            [
+              "biden",
+              103
+            ],
+            [
+              "economy",
+              93
+            ],
+            [
+              "climate change",
+              80
+            ],
+            [
+              "jobs",
+              76
+            ],
+            [
+              "workers",
+              74
+            ],
+            [
+              "employment",
+              72
+            ],
+            [
+              "carbon",
+              70
+            ],
+            [
+              "policy",
+              68
+            ],
+            [
+              "asylum",
+              64
+            ],
+            [
+              "care",
+              64
+            ],
+            [
+              "change",
+              63
+            ],
+            [
+              "job",
+              62
+            ]
+          ],
+          "lowTerms": [
+            [
+              "free speech",
+              -5
+            ],
+            [
+              "voting",
+              -5
+            ],
+            [
+              "musk",
+              -5
+            ],
+            [
+              "roe",
+              -6
+            ],
+            [
+              "vote",
+              -6
+            ],
+            [
+              "desantis",
+              -6
+            ],
+            [
+              "filibuster",
+              -6
+            ],
+            [
+              "privacy",
+              -6
+            ],
+            [
+              "homelessness",
+              -6
+            ],
+            [
+              "legislature",
+              -7
+            ],
+            [
+              "legislatures",
+              -7
+            ],
+            [
+              "abortions",
+              -7
+            ],
+            [
+              "ai",
+              -8
+            ],
+            [
+              "gerrymandering",
+              -9
+            ],
+            [
+              "abortion",
+              -15
+            ]
+          ],
+          "postIds": [
+            18503568,
+            20181001,
+            29431751,
+            30087879,
+            31754871,
+            32380811,
+            32732742,
+            33073895,
+            34139213,
+            34274481,
+            35331456,
+            36203851,
+            37075486,
+            38521728,
+            39691221,
+            40717676,
+            40815332,
+            42095638,
+            42544154,
+            43822350,
+            44365270,
+            45304661,
+            45523273,
+            46339666,
+            46943642,
+            48296586,
+            48318249,
+            50313114,
+            55178451,
+            62508623,
+            66504795,
+            69956089,
+            72273018,
+            73546248
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "tax",
+              205
+            ],
+            [
+              "oil",
+              197
+            ],
+            [
+              "gas",
+              167
+            ],
+            [
+              "energy",
+              144
+            ],
+            [
+              "carbon",
+              114
+            ],
+            [
+              "electricity",
+              112
+            ],
+            [
+              "climate",
+              107
+            ],
+            [
+              "price",
+              88
+            ],
+            [
+              "prices",
+              87
+            ],
+            [
+              "fossil",
+              81
+            ],
+            [
+              "taxes",
+              79
+            ],
+            [
+              "nuclear",
+              79
+            ],
+            [
+              "solar",
+              75
+            ],
+            [
+              "emissions",
+              72
+            ],
+            [
+              "production",
+              71
+            ]
+          ],
+          "lowTerms": [
+            [
+              "refugees",
+              -4
+            ],
+            [
+              "unemployed",
+              -5
+            ],
+            [
+              "israel",
+              -5
+            ],
+            [
+              "taliban",
+              -5
+            ],
+            [
+              "language",
+              -6
+            ],
+            [
+              "chinese",
+              -6
+            ],
+            [
+              "ngdp",
+              -7
+            ],
+            [
+              "teachers",
+              -8
+            ],
+            [
+              "bonus",
+              -8
+            ],
+            [
+              "child care",
+              -8
+            ],
+            [
+              "china",
+              -9
+            ],
+            [
+              "powell",
+              -9
+            ],
+            [
+              "fed",
+              -10
+            ],
+            [
+              "homelessness",
+              -12
+            ],
+            [
+              "ui",
+              -16
+            ]
+          ],
+          "postIds": [
+            33385334,
+            33561876,
+            33623824,
+            35234508,
+            35574511,
+            38260421,
+            38599439,
+            42216941,
+            42293229,
+            43217704,
+            44867270,
+            45324667,
+            46047177,
+            47077335,
+            49875916,
+            50312161,
+            51236416,
+            55799999,
+            58601559,
+            58893445,
+            62033902,
+            66061792,
+            67297001,
+            69515164,
+            72689224,
+            73868099,
+            74480700,
+            76633342,
+            77568330,
+            78234449,
+            79778119,
+            87551177
           ]
         },
         {
           "topTerms": [
             [
               "racial",
-              255
+              256
             ],
             [
               "black",
-              231
+              235
             ],
             [
               "white",
-              225
+              231
             ],
             [
               "race",
-              128
+              127
             ],
             [
               "white people",
-              123
+              126
             ],
             [
               "wealth",
-              107
+              108
             ],
             [
               "racism",
-              105
+              106
             ],
             [
               "voters",
-              92
+              94
             ],
             [
-              "democrats",
+              "politics",
+              80
+            ],
+            [
+              "king",
               79
             ],
             [
               "gap",
-              78
-            ],
-            [
-              "politics",
-              78
+              79
             ],
             [
               "racist",
-              78
+              79
             ],
             [
-              "king",
-              78
+              "democrats",
+              77
             ],
             [
               "discrimination",
-              72
+              73
             ],
             [
               "justice",
-              71
+              73
             ]
           ],
           "lowTerms": [
             [
+              "mask",
+              -4
+            ],
+            [
               "debt ceiling",
-              -4
-            ],
-            [
-              "asylum claims",
-              -4
-            ],
-            [
-              "desantis",
-              -4
-            ],
-            [
-              "bigness",
-              -4
-            ],
-            [
-              "app",
               -5
             ],
             [
-              "google",
+              "filibuster",
+              -5
+            ],
+            [
+              "legal immigration",
               -5
             ],
             [
@@ -11461,36 +11594,44 @@ window._clusterData = {
               -5
             ],
             [
-              "store",
+              "restaurants",
               -5
             ],
             [
-              "loan",
+              "ui",
+              -5
+            ],
+            [
+              "bipartisan",
+              -5
+            ],
+            [
+              "ai",
+              -5
+            ],
+            [
+              "reconciliation",
               -6
-            ],
-            [
-              "monopoly",
-              -6
-            ],
-            [
-              "legal immigration",
-              -6
-            ],
-            [
-              "apple",
-              -7
-            ],
-            [
-              "amazon",
-              -9
             ],
             [
               "tuition",
+              -6
+            ],
+            [
+              "desantis",
+              -6
+            ],
+            [
+              "masks",
+              -6
+            ],
+            [
+              "manchin",
               -9
             ],
             [
               "asylum",
-              -13
+              -9
             ]
           ],
           "postIds": [
@@ -11499,33 +11640,30 @@ window._clusterData = {
             24243372,
             25273198,
             31358451,
-            31492838,
             32104296,
             32606158,
+            33527887,
             33907831,
             34346394,
             34532548,
             34560988,
             35378482,
             35640356,
-            36068169,
             36110503,
             37391492,
             37846642,
             38102501,
             38366395,
             38961287,
-            40505560,
             41661400,
             42751863,
             44244341,
             45091161,
             45362144,
-            47133316,
             49001746,
             50645190,
             53260750,
-            68903073,
+            58251621,
             71970237,
             78581735
           ]
@@ -11533,248 +11671,81 @@ window._clusterData = {
         {
           "topTerms": [
             [
-              "schools",
-              221
-            ],
-            [
-              "school",
-              217
-            ],
-            [
-              "teachers",
-              190
-            ],
-            [
-              "students",
-              155
-            ],
-            [
-              "kids",
-              138
-            ],
-            [
-              "education",
-              136
-            ],
-            [
-              "college",
-              125
-            ],
-            [
-              "student",
-              84
-            ],
-            [
-              "black",
-              81
-            ],
-            [
-              "scores",
-              72
-            ],
-            [
-              "teacher",
-              69
-            ],
-            [
-              "parents",
-              67
-            ],
-            [
-              "high",
-              66
-            ],
-            [
-              "test",
-              64
-            ],
-            [
-              "selective",
-              63
-            ]
-          ],
-          "lowTerms": [
-            [
-              "filibuster",
-              -4
-            ],
-            [
-              "parking",
-              -4
-            ],
-            [
-              "doses",
-              -4
-            ],
-            [
-              "king",
-              -4
-            ],
-            [
-              "trillion",
-              -4
-            ],
-            [
-              "joe manchin",
-              -5
-            ],
-            [
-              "ui",
-              -5
-            ],
-            [
-              "reconciliation",
-              -5
-            ],
-            [
-              "delong",
-              -5
-            ],
-            [
-              "astrazeneca",
-              -5
-            ],
-            [
-              "irs",
-              -5
-            ],
-            [
-              "sinema",
-              -6
-            ],
-            [
-              "crimes",
-              -6
-            ],
-            [
-              "wealth",
-              -8
-            ],
-            [
-              "manchin",
-              -16
-            ]
-          ],
-          "postIds": [
-            29866749,
-            31923778,
-            32416888,
-            32608857,
-            32687718,
-            32872379,
-            33619836,
-            33621408,
-            36559376,
-            39090718,
-            40369585,
-            40605148,
-            41651022,
-            42019701,
-            43503862,
-            43694106,
-            45221732,
-            45699207,
-            47994408,
-            50546657,
-            50890967,
-            50907408,
-            56290221,
-            57340427,
-            59752737,
-            71488255,
-            71584256,
-            73006846,
-            75489758,
-            75632816,
-            75812096
-          ]
-        },
-        {
-          "topTerms": [
-            [
               "inflation",
-              401
+              434
             ],
             [
               "fed",
-              187
+              204
             ],
             [
               "prices",
-              165
+              163
             ],
             [
               "economy",
-              145
+              140
             ],
             [
               "price",
-              118
+              120
             ],
             [
               "supply",
-              111
+              101
             ],
             [
               "demand",
-              100
-            ],
-            [
-              "labor",
-              94
+              90
             ],
             [
               "nominal",
-              78
-            ],
-            [
-              "growth",
-              77
-            ],
-            [
-              "policy",
-              76
-            ],
-            [
-              "stimulus",
-              76
+              86
             ],
             [
               "rates",
-              75
+              84
             ],
             [
-              "pandemic",
-              74
+              "stimulus",
+              79
+            ],
+            [
+              "policy",
+              79
             ],
             [
               "monetary",
-              72
+              79
+            ],
+            [
+              "growth",
+              78
+            ],
+            [
+              "labor",
+              76
+            ],
+            [
+              "powell",
+              71
             ]
           ],
           "lowTerms": [
             [
-              "astrazeneca",
+              "hungary",
               -3
             ],
             [
-              "marriage",
+              "reactors",
               -3
             ],
             [
-              "sex",
+              "central america",
               -3
             ],
             [
-              "supreme",
-              -3
-            ],
-            [
-              "ukrainian",
-              -3
-            ],
-            [
-              "court",
+              "asylum claims",
               -3
             ],
             [
@@ -11782,11 +11753,19 @@ window._clusterData = {
               -3
             ],
             [
-              "ea",
-              -3
+              "nato",
+              -4
             ],
             [
-              "selective",
+              "reactor",
+              -4
+            ],
+            [
+              "teachers",
+              -4
+            ],
+            [
+              "homelessness",
               -4
             ],
             [
@@ -11794,30 +11773,32 @@ window._clusterData = {
               -4
             ],
             [
-              "nato",
+              "border",
               -4
             ],
             [
-              "abortion",
-              -5
+              "renewables",
+              -4
+            ],
+            [
+              "ukrainian",
+              -4
             ],
             [
               "nuclear",
-              -6
+              -5
             ],
             [
-              "filibuster",
-              -6
-            ],
-            [
-              "police",
-              -6
+              "asylum",
+              -9
             ]
           ],
           "postIds": [
             19335206,
+            24537925,
             25629950,
             32246948,
+            32719935,
             33419617,
             34189082,
             34495712,
@@ -11848,32 +11829,497 @@ window._clusterData = {
         {
           "topTerms": [
             [
-              "transit",
-              223
+              "king",
+              120
             ],
             [
-              "amtrak",
-              215
+              "know",
+              80
+            ],
+            [
+              "book",
+              70
+            ],
+            [
+              "ve",
+              70
+            ],
+            [
+              "slow",
+              69
+            ],
+            [
+              "year",
+              69
+            ],
+            [
+              "slow boring",
+              68
+            ],
+            [
+              "boring",
+              68
+            ],
+            [
+              "remote",
+              64
+            ],
+            [
+              "day",
+              61
+            ],
+            [
+              "movie",
+              59
+            ],
+            [
+              "media",
+              59
+            ],
+            [
+              "pandemic",
+              57
+            ],
+            [
+              "world",
+              55
+            ],
+            [
+              "politics",
+              54
+            ]
+          ],
+          "lowTerms": [
+            [
+              "child care",
+              -14
+            ],
+            [
+              "prc",
+              -16
+            ],
+            [
+              "romney",
+              -16
+            ],
+            [
+              "housing",
+              -17
+            ],
+            [
+              "fda",
+              -18
+            ],
+            [
+              "vaccine",
+              -21
+            ],
+            [
+              "gas",
+              -22
+            ],
+            [
+              "prices",
+              -25
+            ],
+            [
+              "musk",
+              -27
+            ],
+            [
+              "teachers",
+              -30
+            ],
+            [
+              "price",
+              -30
+            ],
+            [
+              "medicare",
+              -32
+            ],
+            [
+              "chinese",
+              -41
+            ],
+            [
+              "oil",
+              -43
+            ],
+            [
+              "china",
+              -74
+            ]
+          ],
+          "postIds": [
+            20151892,
+            31492838,
+            33852109,
+            36158790,
+            36315083,
+            36964454,
+            37860233,
+            38538877,
+            40013889,
+            41191192,
+            42771495,
+            43861452,
+            44364076,
+            45497623,
+            47133316,
+            47201646,
+            48427324,
+            48771270,
+            49031868,
+            59115931,
+            60143292,
+            62102053,
+            71488255,
+            72120500,
+            76280739,
+            79622747,
+            81631713,
+            83696648,
+            86017873
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "russia",
+              285
+            ],
+            [
+              "china",
+              227
+            ],
+            [
+              "ukraine",
+              225
+            ],
+            [
+              "russian",
+              151
+            ],
+            [
+              "war",
+              134
+            ],
+            [
+              "putin",
+              116
+            ],
+            [
+              "military",
+              108
+            ],
+            [
+              "ukrainian",
+              103
+            ],
+            [
+              "chinese",
+              95
+            ],
+            [
+              "nato",
+              84
+            ],
+            [
+              "afghanistan",
+              84
+            ],
+            [
+              "countries",
+              78
+            ],
+            [
+              "western",
+              70
+            ],
+            [
+              "europe",
+              68
+            ],
+            [
+              "united",
+              63
+            ]
+          ],
+          "lowTerms": [
+            [
+              "irs",
+              -5
+            ],
+            [
+              "vote",
+              -5
+            ],
+            [
+              "gerrymandering",
+              -6
+            ],
+            [
+              "voter",
+              -7
+            ],
+            [
+              "carbon tax",
+              -7
+            ],
+            [
+              "college",
+              -7
+            ],
+            [
+              "bus",
+              -7
+            ],
+            [
+              "vaccinated",
+              -7
+            ],
+            [
+              "carbon",
+              -8
+            ],
+            [
+              "abortion",
+              -9
+            ],
+            [
+              "tax",
+              -10
+            ],
+            [
+              "vaccine",
+              -10
+            ],
+            [
+              "amazon",
+              -13
+            ],
+            [
+              "teachers",
+              -14
+            ],
+            [
+              "voters",
+              -15
+            ]
+          ],
+          "postIds": [
+            24870617,
+            35242118,
+            36778380,
+            36843889,
+            36906625,
+            38911753,
+            40057542,
+            40101165,
+            40269001,
+            45716094,
+            47140290,
+            48313805,
+            48557327,
+            49319517,
+            49371173,
+            49495257,
+            49698652,
+            50027852,
+            50154475,
+            51122253,
+            51595945,
+            51906346,
+            57532707,
+            73638721,
+            78108991,
+            78427282,
+            79982868
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "schools",
+              250
+            ],
+            [
+              "school",
+              230
+            ],
+            [
+              "teachers",
+              202
+            ],
+            [
+              "students",
+              180
+            ],
+            [
+              "education",
+              162
+            ],
+            [
+              "college",
+              141
+            ],
+            [
+              "student",
+              130
+            ],
+            [
+              "kids",
+              130
+            ],
+            [
+              "debt",
+              104
+            ],
+            [
+              "loan",
+              80
+            ],
+            [
+              "scores",
+              79
+            ],
+            [
+              "black",
+              79
+            ],
+            [
+              "higher education",
+              78
+            ],
+            [
+              "teacher",
+              72
+            ],
+            [
+              "selective",
+              71
+            ]
+          ],
+          "lowTerms": [
+            [
+              "apple",
+              -5
+            ],
+            [
+              "prison",
+              -5
+            ],
+            [
+              "monopoly",
+              -5
+            ],
+            [
+              "negro",
+              -5
             ],
             [
               "station",
-              175
+              -5
+            ],
+            [
+              "1870",
+              -6
+            ],
+            [
+              "sense say",
+              -6
+            ],
+            [
+              "parking",
+              -7
+            ],
+            [
+              "crime",
+              -7
+            ],
+            [
+              "crimes",
+              -7
+            ],
+            [
+              "class struggle",
+              -8
+            ],
+            [
+              "gun",
+              -9
+            ],
+            [
+              "amazon",
+              -12
+            ],
+            [
+              "ctc",
+              -14
+            ],
+            [
+              "king",
+              -19
+            ]
+          ],
+          "postIds": [
+            21496045,
+            29866749,
+            31923778,
+            32416888,
+            32608857,
+            32681123,
+            32872379,
+            36559376,
+            39090718,
+            40369585,
+            40605148,
+            41651022,
+            43503862,
+            43694106,
+            45221732,
+            45699207,
+            46030715,
+            47994408,
+            50907408,
+            57340427,
+            59752737,
+            70469724,
+            71584256,
+            73006846,
+            75812096
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "transit",
+              231
+            ],
+            [
+              "amtrak",
+              211
+            ],
+            [
+              "station",
+              173
             ],
             [
               "rail",
-              170
+              167
             ],
             [
               "trains",
-              160
+              158
             ],
             [
               "train",
-              149
+              146
             ],
             [
               "city",
-              135
+              139
             ],
             [
               "bus",
@@ -11881,23 +12327,23 @@ window._clusterData = {
             ],
             [
               "transportation",
-              110
+              109
             ],
             [
               "metro",
-              103
-            ],
-            [
-              "money",
-              91
+              101
             ],
             [
               "infrastructure",
               90
             ],
             [
-              "service",
+              "money",
               88
+            ],
+            [
+              "service",
+              85
             ],
             [
               "new york",
@@ -11910,19 +12356,11 @@ window._clusterData = {
           ],
           "lowTerms": [
             [
-              "rent",
-              -4
-            ],
-            [
-              "trump",
+              "1870",
               -5
             ],
             [
-              "romney",
-              -5
-            ],
-            [
-              "vacancy",
+              "misinformation",
               -5
             ],
             [
@@ -11930,7 +12368,7 @@ window._clusterData = {
               -5
             ],
             [
-              "russia",
+              "slouching",
               -5
             ],
             [
@@ -11938,48 +12376,54 @@ window._clusterData = {
               -5
             ],
             [
-              "slouching",
-              -5
-            ],
-            [
               "brad",
               -5
             ],
             [
-              "1870",
+              "student",
+              -5
+            ],
+            [
+              "afghanistan",
+              -5
+            ],
+            [
+              "homeless",
+              -5
+            ],
+            [
+              "abortion",
               -6
             ],
             [
-              "ctc",
-              -6
-            ],
-            [
-              "ukraine",
+              "vacancy",
               -6
             ],
             [
               "delong",
-              -7
+              -6
             ],
             [
               "utopia",
               -7
             ],
             [
+              "trump",
+              -8
+            ],
+            [
               "homelessness",
-              -14
+              -22
             ]
           ],
           "postIds": [
-            18586396,
             22022458,
             25631028,
             26052510,
-            29852190,
             31814728,
             34039930,
+            34598585,
             34795251,
-            35068697,
             37283393,
             37860687,
             38223101,
@@ -11990,292 +12434,139 @@ window._clusterData = {
             41325034,
             42254178,
             43489135,
-            45324667,
             46309170,
             61042827,
             65737481,
             66679912,
             73166055,
             75232689,
-            81372927
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "climate",
-              339
-            ],
-            [
-              "china",
-              205
-            ],
-            [
-              "climate change",
-              136
-            ],
-            [
-              "carbon",
-              128
-            ],
-            [
-              "change",
-              98
-            ],
-            [
-              "chinese",
-              92
-            ],
-            [
-              "emissions",
-              85
-            ],
-            [
-              "biden",
-              67
-            ],
-            [
-              "policy",
-              63
-            ],
-            [
-              "energy",
-              62
-            ],
-            [
-              "carbon tax",
-              54
-            ],
-            [
-              "fossil",
-              50
-            ],
-            [
-              "economists",
-              48
-            ],
-            [
-              "democrats",
-              48
-            ],
-            [
-              "tax",
-              48
-            ]
-          ],
-          "lowTerms": [
-            [
-              "slouching utopia",
-              -5
-            ],
-            [
-              "slouching",
-              -5
-            ],
-            [
-              "delong",
-              -5
-            ],
-            [
-              "ohio",
-              -5
-            ],
-            [
-              "ballot",
-              -5
-            ],
-            [
-              "bonus",
-              -5
-            ],
-            [
-              "florida",
-              -5
-            ],
-            [
-              "vaccinated",
-              -6
-            ],
-            [
-              "utopia",
-              -6
-            ],
-            [
-              "legislatures",
-              -6
-            ],
-            [
-              "vote",
-              -6
-            ],
-            [
-              "ui",
-              -7
-            ],
-            [
-              "gerrymandering",
-              -7
-            ],
-            [
-              "vaccine",
-              -8
-            ],
-            [
-              "abortion",
-              -9
-            ]
-          ],
-          "postIds": [
-            20181001,
-            32732742,
-            36527916,
-            36778380,
-            36843889,
-            36906625,
-            38260421,
-            38521728,
-            38911753,
-            39814820,
-            40717676,
-            42095638,
-            42544154,
-            44116431,
-            44365270,
-            46339666,
-            48318249,
-            49319517,
-            49545670,
-            50313114,
-            62508623,
-            66504795,
-            78108991,
-            79778119,
-            79982868
+            81372927,
+            86347660
           ]
         },
         {
           "topTerms": [
             [
               "amazon",
-              233
-            ],
-            [
-              "china",
-              122
+              194
             ],
             [
               "companies",
-              120
+              99
+            ],
+            [
+              "twitter",
+              97
             ],
             [
               "apple",
-              117
-            ],
-            [
-              "business",
               95
             ],
             [
               "facebook",
-              95
+              93
             ],
             [
-              "tech",
-              94
-            ],
-            [
-              "google",
+              "china",
               92
-            ],
-            [
-              "twitter",
-              92
-            ],
-            [
-              "company",
-              85
-            ],
-            [
-              "store",
-              84
             ],
             [
               "media",
-              79
+              89
+            ],
+            [
+              "tech",
+              88
+            ],
+            [
+              "business",
+              85
+            ],
+            [
+              "google",
+              81
             ],
             [
               "musk",
               75
             ],
             [
-              "monopoly",
+              "company",
               73
             ],
             [
-              "labor",
-              72
+              "content",
+              69
+            ],
+            [
+              "store",
+              67
+            ],
+            [
+              "know",
+              62
             ]
           ],
           "lowTerms": [
             [
-              "debt",
-              -14
+              "central america",
+              -10
             ],
             [
-              "desantis",
-              -16
+              "oil",
+              -11
             ],
             [
-              "mask",
-              -16
+              "biden",
+              -11
             ],
             [
-              "romney",
-              -17
-            ],
-            [
-              "amtrak",
-              -17
-            ],
-            [
-              "housing",
-              -20
-            ],
-            [
-              "taliban",
-              -20
-            ],
-            [
-              "asylum",
-              -21
-            ],
-            [
-              "ctc",
-              -22
-            ],
-            [
-              "afghanistan",
-              -22
-            ],
-            [
-              "masks",
-              -26
+              "iran",
+              -11
             ],
             [
               "king",
-              -28
+              -12
             ],
             [
-              "immigration",
-              -28
+              "border",
+              -13
+            ],
+            [
+              "vaccinated",
+              -15
+            ],
+            [
+              "ctc",
+              -16
+            ],
+            [
+              "taliban",
+              -17
             ],
             [
               "inflation",
-              -29
+              -17
             ],
             [
-              "homelessness",
+              "afghanistan",
+              -19
+            ],
+            [
+              "housing",
+              -25
+            ],
+            [
+              "amtrak",
+              -27
+            ],
+            [
+              "asylum",
               -31
+            ],
+            [
+              "immigration",
+              -42
             ]
           ],
           "postIds": [
@@ -12285,313 +12576,172 @@ window._clusterData = {
             31135140,
             35485569,
             37050919,
+            37207186,
+            37317231,
             37513989,
             37683483,
             38707895,
             39070202,
-            39976329,
+            39788317,
             42483229,
-            47628364,
             47951599,
+            49957000,
             52476450,
             52577286,
             52832260,
             70330779,
+            71054684,
             75013636,
-            81292136
+            81292136,
+            85908926
           ]
         },
         {
           "topTerms": [
             [
-              "oil",
-              279
+              "police",
+              435
             ],
             [
-              "gas",
-              251
+              "crime",
+              320
             ],
             [
-              "energy",
-              211
+              "officers",
+              177
             ],
             [
-              "electricity",
-              182
+              "policing",
+              146
             ],
             [
-              "nuclear",
-              140
+              "cops",
+              145
             ],
             [
-              "carbon",
-              130
+              "crimes",
+              133
             ],
             [
-              "solar",
-              123
+              "murder",
+              120
             ],
             [
-              "fossil",
-              117
+              "murders",
+              98
             ],
             [
-              "prices",
-              116
+              "prison",
+              81
             ],
             [
-              "price",
-              109
+              "enforcement",
+              80
             ],
             [
-              "renewables",
-              107
+              "black",
+              79
             ],
             [
-              "geothermal",
-              101
+              "gun",
+              78
             ],
             [
-              "climate",
-              97
+              "police officers",
+              76
             ],
             [
-              "production",
-              97
+              "violence",
+              76
             ],
             [
-              "wind",
-              92
+              "shootings",
+              76
             ]
           ],
           "lowTerms": [
             [
-              "yang",
+              "bahn",
+              -4
+            ],
+            [
+              "stations",
+              -4
+            ],
+            [
+              "apple",
+              -5
+            ],
+            [
+              "tunnel",
+              -5
+            ],
+            [
+              "loan",
+              -5
+            ],
+            [
+              "forgiveness",
+              -5
+            ],
+            [
+              "debt",
               -6
             ],
             [
-              "immigration",
-              -6
-            ],
-            [
-              "accounts",
-              -6
-            ],
-            [
-              "cdc",
+              "trains",
               -7
             ],
             [
-              "homeless",
+              "land",
               -7
             ],
             [
-              "language",
-              -7
+              "rail",
+              -8
             ],
             [
-              "ngdp",
-              -7
-            ],
-            [
-              "masks",
-              -7
-            ],
-            [
-              "chinese",
-              -7
+              "wealth",
+              -8
             ],
             [
               "ctc",
               -10
             ],
             [
-              "china",
+              "station",
               -11
             ],
             [
-              "powell",
-              -11
+              "amtrak",
+              -12
             ],
             [
-              "city",
+              "romney",
               -13
-            ],
-            [
-              "homelessness",
-              -17
-            ],
-            [
-              "fed",
-              -19
             ]
           ],
           "postIds": [
-            38599439,
-            42216941,
-            42293229,
-            43217704,
-            46047177,
-            47077335,
-            49875916,
-            50312161,
-            51236416,
-            55799999,
-            58601559,
-            58893445,
-            62033902,
-            72689224,
-            73868099,
-            74480700,
-            76633342,
-            77568330,
-            78234449
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "russia",
-              414
-            ],
-            [
-              "ukraine",
-              331
-            ],
-            [
-              "russian",
-              226
-            ],
-            [
-              "putin",
-              171
-            ],
-            [
-              "ukrainian",
-              160
-            ],
-            [
-              "war",
-              154
-            ],
-            [
-              "nato",
-              118
-            ],
-            [
-              "military",
-              117
-            ],
-            [
-              "china",
-              113
-            ],
-            [
-              "europe",
-              95
-            ],
-            [
-              "countries",
-              93
-            ],
-            [
-              "western",
-              89
-            ],
-            [
-              "afghanistan",
-              83
-            ],
-            [
-              "gas",
-              81
-            ],
-            [
-              "european",
-              74
-            ]
-          ],
-          "lowTerms": [
-            [
-              "water",
-              -4
-            ],
-            [
-              "remote",
-              -4
-            ],
-            [
-              "irs",
-              -5
-            ],
-            [
-              "facebook",
-              -5
-            ],
-            [
-              "pro choice",
-              -5
-            ],
-            [
-              "yang",
-              -5
-            ],
-            [
-              "abortions",
-              -5
-            ],
-            [
-              "medicare",
-              -6
-            ],
-            [
-              "carbon tax",
-              -6
-            ],
-            [
-              "voters",
-              -6
-            ],
-            [
-              "google",
-              -7
-            ],
-            [
-              "teachers",
-              -7
-            ],
-            [
-              "carbon",
-              -11
-            ],
-            [
-              "abortion",
-              -13
-            ],
-            [
-              "amazon",
-              -14
-            ]
-          ],
-          "postIds": [
-            24870617,
-            40057542,
-            40101165,
-            40269001,
-            47140290,
-            48313805,
-            48557327,
-            49371173,
-            49495257,
-            49698652,
-            50027852,
-            50154475,
-            51122253,
-            51595945,
-            51906346,
-            57532707,
-            73638721,
-            78427282
+            21384896,
+            31771252,
+            33310644,
+            33880097,
+            34878921,
+            35481514,
+            36745286,
+            38348118,
+            39924073,
+            40505560,
+            43195629,
+            43437512,
+            44701852,
+            46701030,
+            49685582,
+            56724202,
+            57830726,
+            74135684,
+            75584109,
+            88097777
           ]
         }
       ]
@@ -12601,105 +12751,85 @@ window._clusterData = {
         {
           "topTerms": [
             [
-              "know",
-              78
-            ],
-            [
               "politics",
-              69
+              75
             ],
             [
               "political",
-              69
+              72
+            ],
+            [
+              "know",
+              72
+            ],
+            [
+              "democrats",
+              67
             ],
             [
               "policy",
-              63
+              66
             ],
             [
-              "world",
-              63
+              "abortion",
+              61
+            ],
+            [
+              "trump",
+              61
             ],
             [
               "bad",
-              62
-            ],
-            [
-              "ve",
-              62
-            ],
-            [
-              "money",
               60
             ],
             [
-              "book",
-              60
-            ],
-            [
-              "kind",
-              58
-            ],
-            [
-              "american",
-              56
-            ],
-            [
-              "states",
-              56
+              "party",
+              59
             ],
             [
               "state",
-              55
+              59
+            ],
+            [
+              "ve",
+              59
             ],
             [
               "public",
-              54
+              58
             ],
             [
-              "war",
-              52
+              "states",
+              57
+            ],
+            [
+              "world",
+              57
+            ],
+            [
+              "kind",
+              55
             ]
           ],
           "lowTerms": [
             [
-              "oil price",
+              "unemployment benefits",
               -1
             ],
             [
-              "dcps",
+              "economic situation",
               -1
             ],
             [
-              "price oil",
+              "arp",
               -1
             ],
             [
-              "quitting",
+              "tariffs",
               -1
             ],
             [
-              "keystone",
-              -1
-            ],
-            [
-              "omicron",
-              -1
-            ],
-            [
-              "oil prices",
-              -1
-            ],
-            [
-              "gas tax",
-              -1
-            ],
-            [
-              "retention",
-              -1
-            ],
-            [
-              "lumber",
+              "bonus ui",
               -1
             ],
             [
@@ -12707,7 +12837,7 @@ window._clusterData = {
               -1
             ],
             [
-              "racial wealth",
+              "omicron",
               -2
             ],
             [
@@ -12715,8 +12845,28 @@ window._clusterData = {
               -2
             ],
             [
-              "wealth gap",
+              "output gap",
               -2
+            ],
+            [
+              "gas tax",
+              -2
+            ],
+            [
+              "lumber",
+              -2
+            ],
+            [
+              "output",
+              -2
+            ],
+            [
+              "racial wealth",
+              -2
+            ],
+            [
+              "wealth gap",
+              -3
             ],
             [
               "labor supply",
@@ -12725,10 +12875,11 @@ window._clusterData = {
           ],
           "postIds": [
             21025509,
+            21782308,
             22223850,
-            28179971,
-            31019610,
             31744223,
+            32132668,
+            32339536,
             32452765,
             32517388,
             32639465,
@@ -12737,53 +12888,64 @@ window._clusterData = {
             33621408,
             33852109,
             35068697,
-            37283393,
+            35728483,
+            38102501,
             38685806,
+            39567255,
             39814820,
-            43462576,
-            46838055,
+            39976329,
+            40122162,
+            40223294,
+            44331429,
+            46255603,
             47340895,
-            47565914,
+            47628364,
             47648339,
             48096690,
             48427324,
+            48704934,
+            48771270,
             48797501,
-            49031868,
             49184248,
             49586092,
-            49884768,
             49957000,
             50420977,
+            50546657,
             50890967,
+            51046626,
             51206634,
             51255546,
             51677020,
             52098549,
             52491210,
-            52906498,
             53313492,
-            54003982,
             54303445,
             54876506,
+            55324481,
             55471340,
             55715489,
             56289053,
             57548064,
+            58251621,
             58582964,
             58991483,
             59628308,
+            61349681,
             61636691,
             62060883,
             62789022,
+            62988475,
             63701446,
             64793172,
             65843580,
             66285562,
             67028943,
+            67219249,
             67862093,
             68190824,
             69004628,
             70000534,
+            71054684,
             72130698,
             73254041,
             74140735,
@@ -12792,111 +12954,121 @@ window._clusterData = {
             77835827,
             79379632,
             80475018,
-            81631713,
             82102641,
             83218989,
             84489473,
-            84695778
+            84695778,
+            86223678,
+            87219657,
+            87749070
           ]
         },
         {
           "topTerms": [
             [
               "democrats",
-              206
+              214
             ],
             [
               "trump",
-              191
+              171
             ],
             [
               "party",
-              148
+              147
             ],
             [
               "biden",
-              127
+              138
             ],
             [
               "republicans",
-              121
-            ],
-            [
-              "vote",
-              109
-            ],
-            [
-              "politics",
-              106
+              122
             ],
             [
               "senate",
-              103
+              110
             ],
             [
-              "voters",
+              "vote",
+              108
+            ],
+            [
+              "manchin",
+              101
+            ],
+            [
+              "politics",
               99
             ],
             [
               "democratic",
-              93
+              94
+            ],
+            [
+              "voters",
+              94
             ],
             [
               "gop",
-              92
+              87
             ],
             [
               "election",
-              88
-            ],
-            [
-              "political",
               86
             ],
             [
               "obama",
-              84
+              82
             ],
             [
-              "manchin",
-              80
+              "political",
+              81
             ]
           ],
           "lowTerms": [
             [
-              "amazon",
+              "negro",
+              -2
+            ],
+            [
+              "expectancy",
+              -2
+            ],
+            [
+              "life expectancy",
+              -2
+            ],
+            [
+              "lab leak",
+              -2
+            ],
+            [
+              "nominal",
               -3
             ],
             [
-              "warming",
+              "labor market",
               -3
             ],
             [
-              "forgiveness",
+              "monkeypox",
               -3
             ],
             [
-              "cheap",
+              "estate",
               -3
             ],
             [
-              "productivity",
+              "class struggle",
               -3
             ],
             [
-              "lab",
+              "king",
               -3
             ],
             [
-              "doses",
-              -4
-            ],
-            [
-              "loans",
-              -4
-            ],
-            [
-              "loan",
+              "ai",
               -4
             ],
             [
@@ -12904,65 +13076,66 @@ window._clusterData = {
               -4
             ],
             [
-              "electricity",
-              -5
-            ],
-            [
-              "ai",
-              -5
-            ],
-            [
               "irs",
-              -5
-            ],
-            [
-              "child care",
-              -8
+              -4
             ],
             [
               "wealth",
-              -9
+              -4
+            ],
+            [
+              "lab",
+              -5
             ]
           ],
           "postIds": [
             18135875,
+            18177334,
             19286343,
             19639907,
             19674370,
             20385917,
             20388649,
-            21782308,
+            31099143,
             31111321,
             31175374,
             31249622,
             31707412,
-            32132668,
+            31938867,
             32491521,
             32818531,
             33117945,
             33225505,
+            33723873,
             34505451,
             34726651,
+            34958079,
             35023354,
             35158309,
-            35728483,
             36068169,
             36270312,
             36340664,
             37095438,
             37362427,
             37486827,
+            37621689,
             37935686,
+            38021094,
             39132207,
+            39401906,
+            40859634,
             41366749,
             41538326,
+            41611441,
             41717672,
+            41890896,
             41987541,
             42005076,
             42357605,
             42593733,
             42818394,
             42994582,
+            44284522,
             44411395,
             45612841,
             46630592,
@@ -12970,7 +13143,6 @@ window._clusterData = {
             47275872,
             47491031,
             48468569,
-            50546657,
             51043454,
             51403483,
             51850560,
@@ -12978,21 +13150,24 @@ window._clusterData = {
             52323997,
             52816815,
             53251092,
+            53260750,
             53302113,
+            53612371,
             57982533,
-            58251621,
             58394722,
             59616580,
             61760608,
             64200864,
             67128817,
-            67724659,
+            67642825,
+            70608891,
             70864744,
             71786926,
             79072865,
             81750627,
             82320227,
             83441825,
+            83900508,
             84371323,
             85218122
           ]
@@ -13000,301 +13175,134 @@ window._clusterData = {
         {
           "topTerms": [
             [
-              "amazon",
-              147
-            ],
-            [
-              "know",
-              83
-            ],
-            [
-              "companies",
-              79
-            ],
-            [
-              "media",
-              78
-            ],
-            [
-              "facebook",
-              76
-            ],
-            [
-              "tech",
-              70
-            ],
-            [
-              "twitter",
-              68
-            ],
-            [
-              "google",
-              67
-            ],
-            [
-              "movie",
-              64
-            ],
-            [
-              "book",
-              64
-            ],
-            [
-              "apple",
-              63
-            ],
-            [
-              "business",
-              62
-            ],
-            [
-              "ve",
-              62
-            ],
-            [
-              "world",
-              62
-            ],
-            [
-              "kind",
-              61
-            ]
-          ],
-          "lowTerms": [
-            [
-              "inflation",
-              -10
-            ],
-            [
-              "medicaid",
-              -10
-            ],
-            [
-              "russia",
-              -10
-            ],
-            [
-              "manchin",
-              -11
-            ],
-            [
-              "gas",
-              -11
-            ],
-            [
-              "asylum",
-              -13
-            ],
-            [
-              "oil",
-              -14
-            ],
-            [
-              "racial",
-              -14
-            ],
-            [
-              "romney",
-              -14
-            ],
-            [
-              "desantis",
-              -15
-            ],
-            [
-              "immigration",
-              -16
-            ],
-            [
-              "homelessness",
-              -18
-            ],
-            [
-              "medicare",
-              -21
-            ],
-            [
-              "abortion",
-              -22
-            ],
-            [
-              "housing",
-              -26
-            ]
-          ],
-          "postIds": [
-            18763957,
-            20151892,
-            27286020,
-            30324466,
-            31135140,
-            35485569,
-            36158790,
-            36964454,
-            37050919,
-            37317231,
-            37513989,
-            37683483,
-            37860233,
-            38538877,
-            38707895,
-            39070202,
-            39788317,
-            39976329,
-            40013889,
-            42483229,
-            42771495,
-            43861452,
-            44364076,
-            45384490,
-            45497623,
-            47201646,
-            47628364,
-            47951599,
-            48771270,
-            51621477,
-            52577286,
-            52832260,
-            59115931,
-            59518168,
-            60143292,
-            69245031,
-            70330779,
-            71054684,
-            71488255,
-            75013636,
-            81292136,
-            83696648
-          ]
-        },
-        {
-          "topTerms": [
-            [
               "vaccine",
-              362
-            ],
-            [
-              "vaccines",
-              247
+              327
             ],
             [
               "covid",
-              223
+              230
+            ],
+            [
+              "vaccines",
+              229
             ],
             [
               "vaccinated",
-              178
-            ],
-            [
-              "vaccination",
-              118
-            ],
-            [
-              "fda",
-              117
-            ],
-            [
-              "covid 19",
-              101
-            ],
-            [
-              "19",
-              100
+              166
             ],
             [
               "health",
-              98
-            ],
-            [
-              "public health",
-              98
-            ],
-            [
-              "masks",
-              97
+              112
             ],
             [
               "virus",
-              97
+              112
+            ],
+            [
+              "vaccination",
+              111
+            ],
+            [
+              "masks",
+              109
+            ],
+            [
+              "covid 19",
+              106
+            ],
+            [
+              "19",
+              105
+            ],
+            [
+              "public health",
+              104
+            ],
+            [
+              "fda",
+              103
+            ],
+            [
+              "pandemic",
+              99
             ],
             [
               "cdc",
               91
             ],
             [
-              "pfizer",
-              90
-            ],
-            [
-              "pandemic",
+              "public",
               87
             ]
           ],
           "lowTerms": [
             [
-              "hiring",
-              -2
-            ],
-            [
-              "leaned",
-              -2
-            ],
-            [
-              "country does",
-              -2
-            ],
-            [
-              "luther",
-              -2
-            ],
-            [
-              "luther king",
-              -2
-            ],
-            [
-              "martin luther",
-              -2
-            ],
-            [
-              "prc",
-              -2
-            ],
-            [
-              "musk",
+              "nominal",
               -3
             ],
             [
-              "russia",
+              "asylum",
               -3
             ],
             [
-              "negro",
+              "tuition",
               -3
             ],
             [
-              "sense say",
+              "slouching",
               -3
             ],
             [
-              "class struggle",
+              "slouching utopia",
+              -3
+            ],
+            [
+              "brad delong",
+              -3
+            ],
+            [
+              "brad",
+              -3
+            ],
+            [
+              "wages",
+              -3
+            ],
+            [
+              "higher education",
               -4
             ],
             [
+              "delong",
+              -4
+            ],
+            [
+              "manchin",
+              -4
+            ],
+            [
+              "utopia",
+              -4
+            ],
+            [
+              "ctc",
+              -5
+            ],
+            [
+              "immigration",
+              -5
+            ],
+            [
               "child care",
-              -6
-            ],
-            [
-              "china",
               -8
-            ],
-            [
-              "king",
-              -13
             ]
           ],
           "postIds": [
             18980244,
+            21255649,
+            22581912,
             25928163,
+            26785599,
             31559767,
             31593691,
             31995237,
@@ -13303,16 +13311,20 @@ window._clusterData = {
             32760649,
             32803727,
             33112723,
+            33205193,
             33700824,
             34656950,
             35192912,
+            35401484,
             36036186,
             37186799,
             37602910,
+            38120969,
             38843718,
             39031370,
             39501472,
             40445033,
+            40667497,
             41065980,
             41876619,
             42799609,
@@ -13328,77 +13340,79 @@ window._clusterData = {
             48603804,
             51509642,
             55172787,
+            56809511,
             61904141,
             62717990,
-            66833698
+            66833698,
+            69828105
           ]
         },
         {
           "topTerms": [
             [
               "housing",
-              429
+              409
             ],
             [
               "city",
-              159
+              167
             ],
             [
               "land",
-              145
+              137
             ],
             [
               "homelessness",
-              136
+              128
             ],
             [
               "construction",
-              98
-            ],
-            [
-              "houses",
-              92
+              97
             ],
             [
               "cities",
-              90
+              96
             ],
             [
-              "demand",
-              85
-            ],
-            [
-              "homes",
-              84
-            ],
-            [
-              "parking",
-              83
-            ],
-            [
-              "zoning",
-              82
-            ],
-            [
-              "supply",
-              80
-            ],
-            [
-              "market",
-              80
+              "houses",
+              87
             ],
             [
               "buildings",
-              78
+              81
             ],
             [
-              "live",
-              76
+              "demand",
+              81
+            ],
+            [
+              "zoning",
+              80
+            ],
+            [
+              "parking",
+              80
+            ],
+            [
+              "homes",
+              79
+            ],
+            [
+              "york",
+              79
+            ],
+            [
+              "new york",
+              79
+            ],
+            [
+              "remote",
+              77
             ]
           ],
           "lowTerms": [
             [
-              "vaccines",
+              "trial",
               -4
             ],
             [
@@ -13406,15 +13420,23 @@ window._clusterData = {
               -4
             ],
             [
-              "obama",
+              "powell",
               -4
             ],
             [
-              "student loan",
+              "debt",
               -4
             ],
             [
-              "ngdp",
+              "kendi",
+              -4
+            ],
+            [
+              "manchin",
+              -4
+            ],
+            [
+              "fed",
               -5
             ],
             [
@@ -13422,40 +13444,32 @@ window._clusterData = {
               -5
             ],
             [
-              "vaccine",
+              "ngdp",
               -5
             ],
             [
-              "king",
-              -5
+              "fda",
+              -6
             ],
             [
-              "forgiveness",
-              -5
+              "ai",
+              -6
             ],
             [
-              "loan",
-              -5
+              "vaccines",
+              -6
+            ],
+            [
+              "abortion",
+              -6
             ],
             [
               "amtrak",
               -6
             ],
             [
-              "romney",
-              -6
-            ],
-            [
-              "ai",
-              -7
-            ],
-            [
-              "debt",
-              -9
-            ],
-            [
-              "abortion",
-              -11
+              "vaccine",
+              -8
             ]
           ],
           "postIds": [
@@ -13482,11 +13496,11 @@ window._clusterData = {
             41674868,
             42166798,
             43078271,
-            47301886,
             47420388,
             48076067,
             48220002,
             50591662,
+            52906498,
             53053394,
             55315571,
             58867637,
@@ -13495,229 +13509,389 @@ window._clusterData = {
             71941523,
             75920855,
             76246796,
-            77653288
+            77653288,
+            85410902,
+            86783389
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "king",
+              108
+            ],
+            [
+              "know",
+              105
+            ],
+            [
+              "book",
+              98
+            ],
+            [
+              "slow boring",
+              78
+            ],
+            [
+              "1870",
+              78
+            ],
+            [
+              "boring",
+              77
+            ],
+            [
+              "slow",
+              76
+            ],
+            [
+              "movie",
+              76
+            ],
+            [
+              "ve",
+              69
+            ],
+            [
+              "world",
+              67
+            ],
+            [
+              "ai",
+              63
+            ],
+            [
+              "year",
+              62
+            ],
+            [
+              "matt",
+              61
+            ],
+            [
+              "utopia",
+              61
+            ],
+            [
+              "brad",
+              61
+            ]
+          ],
+          "lowTerms": [
+            [
+              "gas",
+              -19
+            ],
+            [
+              "care",
+              -21
+            ],
+            [
+              "republicans",
+              -22
+            ],
+            [
+              "desantis",
+              -23
+            ],
+            [
+              "oil",
+              -24
+            ],
+            [
+              "musk",
+              -24
+            ],
+            [
+              "housing",
+              -24
+            ],
+            [
+              "medicaid",
+              -25
+            ],
+            [
+              "child care",
+              -25
+            ],
+            [
+              "chinese",
+              -28
+            ],
+            [
+              "teachers",
+              -30
+            ],
+            [
+              "trump",
+              -32
+            ],
+            [
+              "romney",
+              -33
+            ],
+            [
+              "medicare",
+              -41
+            ],
+            [
+              "china",
+              -53
+            ]
+          ],
+          "postIds": [
+            20151892,
+            31492838,
+            36964454,
+            37860233,
+            38538877,
+            40013889,
+            42771495,
+            43462576,
+            43861452,
+            44364076,
+            45384490,
+            45497623,
+            47133316,
+            47201646,
+            47565914,
+            49031868,
+            49884768,
+            51621477,
+            55178451,
+            59115931,
+            59518168,
+            62102053,
+            69245031,
+            72120500,
+            76280739,
+            76672613,
+            79622747,
+            79827888,
+            81631713,
+            83696648,
+            86017873
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "inflation",
+              405
+            ],
+            [
+              "fed",
+              187
+            ],
+            [
+              "prices",
+              163
+            ],
+            [
+              "economy",
+              143
+            ],
+            [
+              "price",
+              118
+            ],
+            [
+              "supply",
+              110
+            ],
+            [
+              "demand",
+              98
+            ],
+            [
+              "labor",
+              90
+            ],
+            [
+              "growth",
+              79
+            ],
+            [
+              "nominal",
+              78
+            ],
+            [
+              "stimulus",
+              77
+            ],
+            [
+              "rates",
+              77
+            ],
+            [
+              "policy",
+              76
+            ],
+            [
+              "monetary",
+              72
+            ],
+            [
+              "pandemic",
+              71
+            ]
+          ],
+          "lowTerms": [
+            [
+              "court",
+              -3
+            ],
+            [
+              "ukrainian",
+              -3
+            ],
+            [
+              "pro choice",
+              -3
+            ],
+            [
+              "nrc",
+              -3
+            ],
+            [
+              "selective",
+              -4
+            ],
+            [
+              "abortions",
+              -4
+            ],
+            [
+              "renewables",
+              -4
+            ],
+            [
+              "putin",
+              -4
+            ],
+            [
+              "reactors",
+              -4
+            ],
+            [
+              "nato",
+              -4
+            ],
+            [
+              "reactor",
+              -4
+            ],
+            [
+              "sex",
+              -4
+            ],
+            [
+              "marriage",
+              -5
+            ],
+            [
+              "nuclear",
+              -8
+            ],
+            [
+              "abortion",
+              -10
+            ]
+          ],
+          "postIds": [
+            19335206,
+            25629950,
+            32246948,
+            33419617,
+            34189082,
+            34495712,
+            35971137,
+            36414669,
+            37443861,
+            37905476,
+            39881555,
+            41019553,
+            42642779,
+            43108837,
+            43937960,
+            44164067,
+            45073472,
+            47301886,
+            50525181,
+            51320519,
+            52294719,
+            52767182,
+            53938535,
+            54679617,
+            60336780,
+            60539716,
+            61556524,
+            69956089,
+            72273018,
+            78751941
           ]
         },
         {
           "topTerms": [
             [
               "racial",
-              269
+              281
             ],
             [
               "black",
-              239
+              247
             ],
             [
               "white",
-              234
-            ],
-            [
-              "race",
-              133
+              245
             ],
             [
               "white people",
-              130
+              137
+            ],
+            [
+              "race",
+              132
             ],
             [
               "wealth",
-              117
+              129
             ],
             [
               "racism",
-              109
+              111
             ],
             [
               "voters",
               90
             ],
             [
-              "king",
-              86
+              "gap",
+              89
             ],
             [
-              "gap",
-              83
+              "king",
+              86
             ],
             [
               "racist",
               81
             ],
             [
-              "politics",
-              76
-            ],
-            [
               "discrimination",
-              76
+              80
             ],
             [
               "justice",
+              77
+            ],
+            [
+              "hispanic",
               73
             ],
             [
-              "democrats",
-              71
-            ]
-          ],
-          "lowTerms": [
-            [
-              "app",
-              -5
-            ],
-            [
-              "filibuster",
-              -5
-            ],
-            [
-              "bigness",
-              -5
-            ],
-            [
-              "revenue",
-              -5
-            ],
-            [
-              "asylum claims",
-              -5
-            ],
-            [
-              "google",
-              -5
-            ],
-            [
-              "store",
-              -6
-            ],
-            [
-              "monopoly",
-              -6
-            ],
-            [
-              "desantis",
-              -6
-            ],
-            [
-              "apple",
-              -7
-            ],
-            [
-              "legal immigration",
-              -7
-            ],
-            [
-              "teachers",
-              -7
-            ],
-            [
-              "tuition",
-              -9
-            ],
-            [
-              "amazon",
-              -11
-            ],
-            [
-              "asylum",
-              -16
-            ]
-          ],
-          "postIds": [
-            18642680,
-            19229056,
-            24243372,
-            25273198,
-            31358451,
-            31492838,
-            32104296,
-            32606158,
-            33907831,
-            34346394,
-            34532548,
-            34560988,
-            35378482,
-            35640356,
-            36110503,
-            37391492,
-            37846642,
-            38102501,
-            38366395,
-            38961287,
-            41661400,
-            42751863,
-            44244341,
-            45091161,
-            45362144,
-            47133316,
-            49001746,
-            50645190,
-            53260750,
-            71970237,
-            78581735
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "democrats",
-              164
-            ],
-            [
-              "biden",
-              147
-            ],
-            [
-              "debt",
-              129
-            ],
-            [
-              "manchin",
-              128
-            ],
-            [
-              "senate",
-              105
-            ],
-            [
-              "republicans",
-              95
-            ],
-            [
-              "party",
-              95
-            ],
-            [
-              "money",
-              88
-            ],
-            [
-              "tax",
-              87
-            ],
-            [
-              "student",
-              87
-            ],
-            [
-              "loan",
-              84
-            ],
-            [
-              "congress",
-              83
-            ],
-            [
-              "state",
-              74
-            ],
-            [
-              "trump",
-              69
-            ],
-            [
-              "policy",
-              67
+              "class",
+              73
             ]
           ],
           "lowTerms": [
@@ -13726,164 +13900,186 @@ window._clusterData = {
               -5
             ],
             [
-              "boys",
+              "russia",
               -5
             ],
             [
-              "religion",
-              -5
-            ],
-            [
-              "language",
-              -5
-            ],
-            [
-              "ukrainian",
-              -5
-            ],
-            [
-              "immigrants",
+              "bipartisan",
               -6
             ],
             [
-              "sex",
+              "restaurants",
               -6
             ],
             [
-              "cars",
+              "filibuster",
               -6
             ],
             [
-              "meat",
+              "ea",
               -6
             ],
             [
-              "racism",
-              -7
-            ],
-            [
-              "masks",
-              -7
-            ],
-            [
-              "russian",
-              -8
-            ],
-            [
-              "remote",
-              -8
+              "legal immigration",
+              -6
             ],
             [
               "teachers",
+              -7
+            ],
+            [
+              "ai",
               -8
             ],
             [
-              "asylum",
+              "mask",
+              -8
+            ],
+            [
+              "manchin",
+              -8
+            ],
+            [
+              "abortion",
               -9
+            ],
+            [
+              "masks",
+              -11
+            ],
+            [
+              "desantis",
+              -13
+            ],
+            [
+              "asylum",
+              -14
             ]
           ],
           "postIds": [
-            18177334,
-            21496045,
-            31099143,
-            31938867,
-            32380811,
-            32681123,
-            32945630,
-            33561876,
-            33723873,
-            34598585,
-            34958079,
-            37621689,
-            38021094,
-            39401906,
-            39652693,
-            40859634,
-            41221238,
-            41611441,
-            41890896,
-            44284522,
-            46030715,
-            48152830,
-            51320519,
-            52275496,
-            52767182,
-            67642825,
-            70469724,
-            70608891,
-            83900508
+            18642680,
+            19229056,
+            24243372,
+            25273198,
+            31358451,
+            32104296,
+            32606158,
+            33527887,
+            34346394,
+            34532548,
+            34560988,
+            35378482,
+            35640356,
+            36110503,
+            37391492,
+            37846642,
+            38366395,
+            38961287,
+            41661400,
+            42751863,
+            44244341,
+            45091161,
+            45362144,
+            49001746,
+            50645190,
+            71970237,
+            78581735
           ]
         },
         {
           "topTerms": [
             [
               "child",
-              283
+              270
             ],
             [
               "child care",
-              199
+              192
             ],
             [
               "ctc",
-              191
+              179
             ],
             [
               "tax",
-              162
+              174
             ],
             [
               "care",
-              156
+              160
             ],
             [
               "kids",
-              122
+              113
             ],
             [
               "program",
-              116
+              113
             ],
             [
               "parents",
-              115
+              108
             ],
             [
               "poverty",
-              105
-            ],
-            [
-              "families",
-              104
-            ],
-            [
-              "tax credit",
-              102
-            ],
-            [
-              "children",
-              101
+              100
             ],
             [
               "income",
+              100
+            ],
+            [
+              "families",
+              99
+            ],
+            [
+              "tax credit",
               97
             ],
             [
-              "programs",
+              "money",
               95
             ],
             [
-              "biden",
-              95
+              "children",
+              94
+            ],
+            [
+              "programs",
+              93
             ]
           ],
           "lowTerms": [
             [
+              "city",
+              -4
+            ],
+            [
+              "vaccine",
+              -5
+            ],
+            [
+              "higher education",
+              -5
+            ],
+            [
+              "asylum",
+              -5
+            ],
+            [
               "student debt",
+              -5
+            ],
+            [
+              "debt relief",
+              -6
+            ],
+            [
+              "loan forgiveness",
               -7
             ],
             [
-              "outbreak",
+              "debt",
               -7
             ],
             [
@@ -13891,52 +14087,28 @@ window._clusterData = {
               -7
             ],
             [
-              "debt relief",
-              -7
-            ],
-            [
-              "homelessness",
+              "student loan",
               -8
-            ],
-            [
-              "lab",
-              -8
-            ],
-            [
-              "masks",
-              -8
-            ],
-            [
-              "loan forgiveness",
-              -9
             ],
             [
               "loans",
-              -10
-            ],
-            [
-              "wealth",
-              -10
-            ],
-            [
-              "student loan",
-              -11
+              -8
             ],
             [
               "loan",
-              -13
+              -9
             ],
             [
               "student",
-              -14
+              -11
             ],
             [
-              "debt",
-              -14
+              "amazon",
+              -12
             ],
             [
               "forgiveness",
-              -17
+              -13
             ]
           ],
           "postIds": [
@@ -13948,19 +14120,22 @@ window._clusterData = {
             32327195,
             32687718,
             34138201,
-            34805898,
             35707392,
             35736024,
             35775832,
             37489725,
             38861337,
             39198875,
+            39277028,
             41819786,
             42849313,
             43680098,
+            43776715,
             44608127,
             44832459,
             45612097,
+            48152830,
+            52275496,
             56290221,
             68903073,
             72587432
@@ -13970,96 +14145,116 @@ window._clusterData = {
           "topTerms": [
             [
               "transit",
-              245
+              243
             ],
             [
               "amtrak",
-              242
+              225
             ],
             [
               "station",
-              198
+              184
             ],
             [
               "rail",
-              190
+              178
             ],
             [
               "trains",
-              180
+              169
             ],
             [
               "train",
-              168
-            ],
-            [
-              "bus",
-              145
+              156
             ],
             [
               "city",
-              141
+              144
+            ],
+            [
+              "bus",
+              137
             ],
             [
               "transportation",
-              120
+              114
             ],
             [
               "metro",
-              113
+              107
             ],
             [
               "infrastructure",
-              96
+              91
             ],
             [
               "service",
-              96
-            ],
-            [
-              "stations",
-              94
-            ],
-            [
-              "money",
-              89
+              90
             ],
             [
               "new york",
-              88
+              89
+            ],
+            [
+              "york",
+              89
+            ],
+            [
+              "stations",
+              89
             ]
           ],
           "lowTerms": [
             [
-              "forgiveness",
-              -7
+              "abundance",
+              -6
+            ],
+            [
+              "ukraine",
+              -6
+            ],
+            [
+              "brad delong",
+              -6
+            ],
+            [
+              "slouching",
+              -6
+            ],
+            [
+              "slouching utopia",
+              -6
+            ],
+            [
+              "1870",
+              -6
+            ],
+            [
+              "student",
+              -6
+            ],
+            [
+              "brad",
+              -6
             ],
             [
               "vacancy",
               -7
             ],
             [
-              "rent",
+              "homeless",
               -7
             ],
             [
-              "brad delong",
+              "delong",
               -8
             ],
             [
-              "russia",
+              "trump",
               -8
             ],
             [
-              "slouching utopia",
-              -8
-            ],
-            [
-              "slouching",
-              -8
-            ],
-            [
-              "brad",
+              "utopia",
               -9
             ],
             [
@@ -14067,28 +14262,8 @@ window._clusterData = {
               -9
             ],
             [
-              "delong",
-              -10
-            ],
-            [
-              "student",
-              -10
-            ],
-            [
-              "1870",
-              -10
-            ],
-            [
-              "utopia",
-              -12
-            ],
-            [
-              "wealth",
-              -12
-            ],
-            [
               "homelessness",
-              -25
+              -27
             ]
           ],
           "postIds": [
@@ -14098,6 +14273,7 @@ window._clusterData = {
             31814728,
             34039930,
             34795251,
+            37283393,
             37860687,
             38223101,
             39438399,
@@ -14120,150 +14296,303 @@ window._clusterData = {
         {
           "topTerms": [
             [
-              "china",
-              279
+              "labor",
+              139
             ],
             [
-              "covid",
-              138
+              "care",
+              120
             ],
             [
-              "chinese",
-              133
+              "immigration",
+              106
             ],
             [
-              "virus",
-              122
+              "child care",
+              104
             ],
             [
-              "pandemic",
-              95
+              "child",
+              103
             ],
             [
               "health",
-              89
+              99
             ],
             [
-              "trump",
-              87
+              "workers",
+              98
             ],
             [
-              "masks",
-              87
+              "economy",
+              94
             ],
             [
-              "lab",
+              "jobs",
               85
             ],
             [
-              "covid 19",
-              72
+              "ui",
+              81
             ],
             [
-              "19",
-              71
+              "employment",
+              76
             ],
             [
-              "public health",
-              70
+              "amazon",
+              76
             ],
             [
-              "cotton",
-              62
+              "job",
+              75
             ],
             [
-              "war",
-              59
+              "wage",
+              66
             ],
             [
-              "mask",
-              59
+              "policy",
+              65
             ]
           ],
           "lowTerms": [
             [
-              "bigness",
+              "achievement",
+              -7
+            ],
+            [
+              "chinese government",
+              -7
+            ],
+            [
+              "king",
               -8
             ],
             [
-              "asylum",
+              "filibuster",
               -8
             ],
             [
-              "immigration",
+              "gas tax",
               -8
             ],
             [
-              "bahn",
+              "sinema",
               -8
             ],
             [
-              "higher education",
+              "gerrymandering",
               -8
             ],
             [
-              "astrazeneca",
-              -10
+              "gasoline",
+              -9
             ],
             [
-              "loan",
-              -10
+              "voting",
+              -9
             ],
             [
-              "debt",
-              -10
+              "prc",
+              -9
             ],
             [
-              "student",
-              -10
-            ],
-            [
-              "station",
+              "vote",
               -11
             ],
             [
-              "voters",
-              -14
+              "manchin",
+              -18
             ],
             [
-              "college",
-              -14
-            ],
-            [
-              "child care",
-              -17
+              "chinese",
+              -26
             ],
             [
               "oil",
-              -17
+              -29
             ],
             [
-              "amazon",
-              -21
+              "china",
+              -50
             ]
           ],
           "postIds": [
-            21255649,
-            22581912,
-            33205193,
-            35401484,
+            29431751,
+            29540230,
+            30087879,
+            31754871,
+            33073895,
+            34274481,
+            34805898,
+            35331456,
+            36203851,
+            37075486,
+            40815332,
+            43822350,
+            44069530,
+            45283189,
+            45304661,
+            45523273,
+            46838055,
+            46943642,
+            48296586,
+            52318807,
+            54003982,
+            60143292,
+            62667855,
+            65785401
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "china",
+              284
+            ],
+            [
+              "chinese",
+              135
+            ],
+            [
+              "biden",
+              114
+            ],
+            [
+              "trump",
+              111
+            ],
+            [
+              "immigration",
+              110
+            ],
+            [
+              "war",
+              85
+            ],
+            [
+              "military",
+              77
+            ],
+            [
+              "afghanistan",
+              75
+            ],
+            [
+              "american",
+              67
+            ],
+            [
+              "united",
+              65
+            ],
+            [
+              "united states",
+              64
+            ],
+            [
+              "asylum",
+              61
+            ],
+            [
+              "taliban",
+              60
+            ],
+            [
+              "states",
+              60
+            ],
+            [
+              "obama",
+              60
+            ]
+          ],
+          "lowTerms": [
+            [
+              "bonus",
+              -6
+            ],
+            [
+              "homelessness",
+              -6
+            ],
+            [
+              "yang",
+              -6
+            ],
+            [
+              "voter",
+              -6
+            ],
+            [
+              "walmart",
+              -6
+            ],
+            [
+              "retail",
+              -6
+            ],
+            [
+              "teacher",
+              -6
+            ],
+            [
+              "gas",
+              -8
+            ],
+            [
+              "manchin",
+              -9
+            ],
+            [
+              "voters",
+              -9
+            ],
+            [
+              "ui",
+              -10
+            ],
+            [
+              "bigness",
+              -10
+            ],
+            [
+              "bus",
+              -17
+            ],
+            [
+              "teachers",
+              -18
+            ],
+            [
+              "amazon",
+              -33
+            ]
+          ],
+          "postIds": [
+            24870617,
+            28179971,
+            34139213,
+            35242118,
+            36480369,
             36527916,
             36778380,
             36843889,
             36906625,
-            37207186,
-            38120969,
+            38745208,
             38911753,
-            40667497,
+            39691221,
+            40057542,
+            40101165,
+            40561074,
             41191192,
             44116431,
-            44331429,
             45716094,
             49319517,
             49545670,
-            52476450,
-            56809511,
-            69828105,
+            67724659,
+            73546248,
             78108991,
             79982868
           ]
@@ -14271,468 +14600,170 @@ window._clusterData = {
         {
           "topTerms": [
             [
-              "schools",
-              270
+              "amazon",
+              215
             ],
             [
-              "school",
-              257
+              "china",
+              134
             ],
             [
-              "teachers",
-              236
+              "apple",
+              112
             ],
             [
-              "students",
-              188
+              "companies",
+              110
             ],
             [
-              "education",
-              161
+              "twitter",
+              107
             ],
             [
-              "kids",
-              157
+              "facebook",
+              98
             ],
             [
-              "college",
-              144
+              "tech",
+              95
             ],
             [
-              "student",
-              103
+              "business",
+              93
             ],
             [
-              "black",
-              96
+              "musk",
+              92
             ],
             [
-              "scores",
+              "media",
               88
             ],
             [
-              "teacher",
-              85
+              "google",
+              87
             ],
             [
-              "selective",
-              77
+              "company",
+              81
             ],
             [
-              "test",
-              76
+              "store",
+              74
             ],
             [
-              "high",
+              "market",
               72
             ],
             [
-              "parents",
+              "content",
               71
             ]
           ],
           "lowTerms": [
             [
-              "slouching utopia",
-              -8
-            ],
-            [
-              "slouching",
-              -8
-            ],
-            [
-              "billion",
-              -8
-            ],
-            [
-              "parking",
-              -8
-            ],
-            [
-              "brad delong",
-              -9
-            ],
-            [
-              "brad",
-              -9
-            ],
-            [
-              "filibuster",
-              -9
-            ],
-            [
-              "utopia",
-              -9
-            ],
-            [
-              "amazon",
-              -10
-            ],
-            [
-              "gun",
-              -10
-            ],
-            [
-              "1870",
-              -10
-            ],
-            [
-              "wealth",
+              "poverty",
               -11
             ],
             [
-              "delong",
-              -11
+              "biden",
+              -12
             ],
             [
-              "king",
-              -16
+              "class struggle",
+              -13
             ],
             [
-              "manchin",
-              -24
-            ]
-          ],
-          "postIds": [
-            29866749,
-            31923778,
-            32416888,
-            32608857,
-            32872379,
-            36559376,
-            39090718,
-            40369585,
-            40605148,
-            41651022,
-            42019701,
-            43503862,
-            43694106,
-            45221732,
-            45699207,
-            47994408,
-            50907408,
-            57340427,
-            59752737,
-            71584256,
-            73006846,
-            75812096
-          ]
-        },
-        {
-          "topTerms": [
+              "border",
+              -14
+            ],
+            [
+              "iran",
+              -14
+            ],
+            [
+              "vaccinated",
+              -18
+            ],
             [
               "inflation",
-              487
+              -19
             ],
             [
-              "fed",
-              229
+              "ctc",
+              -19
             ],
             [
-              "prices",
-              169
+              "taliban",
+              -22
             ],
             [
-              "economy",
-              138
+              "afghanistan",
+              -24
             ],
             [
-              "price",
-              126
+              "housing",
+              -26
             ],
             [
-              "nominal",
-              96
-            ],
-            [
-              "supply",
-              93
-            ],
-            [
-              "rates",
-              89
-            ],
-            [
-              "monetary",
-              89
-            ],
-            [
-              "policy",
-              85
-            ],
-            [
-              "stimulus",
-              83
-            ],
-            [
-              "demand",
-              81
-            ],
-            [
-              "growth",
-              78
-            ],
-            [
-              "powell",
-              77
-            ],
-            [
-              "target",
-              73
-            ]
-          ],
-          "lowTerms": [
-            [
-              "wind",
-              -6
-            ],
-            [
-              "mask",
-              -6
-            ],
-            [
-              "fossil fuels",
-              -6
-            ],
-            [
-              "fuels",
-              -6
-            ],
-            [
-              "california",
-              -6
-            ],
-            [
-              "masks",
-              -6
-            ],
-            [
-              "solar",
-              -7
-            ],
-            [
-              "homelessness",
-              -7
-            ],
-            [
-              "geothermal",
-              -8
-            ],
-            [
-              "electricity",
-              -8
-            ],
-            [
-              "nuclear",
-              -8
+              "amtrak",
+              -29
             ],
             [
               "asylum",
-              -9
+              -32
             ],
             [
-              "renewables",
-              -10
-            ],
-            [
-              "amazon",
-              -11
-            ],
-            [
-              "teachers",
-              -12
-            ]
-          ],
-          "postIds": [
-            19335206,
-            24537925,
-            32719935,
-            33419617,
-            34189082,
-            34495712,
-            35971137,
-            37443861,
-            39881555,
-            42642779,
-            43108837,
-            43937960,
-            44164067,
-            45073472,
-            50525181,
-            52294719,
-            54679617,
-            60336780,
-            60539716,
-            61556524,
-            78751941
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "labor",
-              183
-            ],
-            [
-              "economy",
-              155
-            ],
-            [
-              "inflation",
-              144
-            ],
-            [
-              "jobs",
-              122
-            ],
-            [
-              "workers",
-              117
-            ],
-            [
-              "supply",
-              108
-            ],
-            [
-              "employment",
-              108
-            ],
-            [
-              "demand",
-              108
-            ],
-            [
-              "ui",
-              105
-            ],
-            [
-              "pandemic",
-              101
-            ],
-            [
-              "job",
-              95
-            ],
-            [
-              "market",
-              92
-            ],
-            [
-              "unemployment",
-              91
+              "king",
+              -33
             ],
             [
               "immigration",
-              89
-            ],
-            [
-              "fed",
-              88
-            ]
-          ],
-          "lowTerms": [
-            [
-              "amtrak",
-              -9
-            ],
-            [
-              "selective",
-              -9
-            ],
-            [
-              "irs",
-              -9
-            ],
-            [
-              "marriage",
-              -9
-            ],
-            [
-              "roe",
-              -9
-            ],
-            [
-              "gun",
-              -9
-            ],
-            [
-              "students",
-              -10
-            ],
-            [
-              "vaccine",
-              -10
-            ],
-            [
-              "abortions",
-              -11
-            ],
-            [
-              "sex",
-              -12
-            ],
-            [
-              "ai",
-              -13
-            ],
-            [
-              "fda",
-              -13
-            ],
-            [
-              "station",
-              -14
-            ],
-            [
-              "ea",
-              -14
-            ],
-            [
-              "abortion",
-              -33
+              -44
             ]
           ],
           "postIds": [
-            25629950,
-            29431751,
-            30087879,
-            31754871,
-            32246948,
-            33073895,
-            34274481,
-            35331456,
-            36203851,
-            36414669,
-            37075486,
-            37905476,
-            41019553,
-            43822350,
-            45304661,
-            45523273,
-            46943642,
-            48296586,
-            53938535,
-            69956089,
-            72273018
+            18763957,
+            27286020,
+            30324466,
+            31135140,
+            35485569,
+            37050919,
+            37207186,
+            37317231,
+            37513989,
+            37683483,
+            38707895,
+            39070202,
+            39788317,
+            42483229,
+            47951599,
+            52476450,
+            52577286,
+            52832260,
+            70330779,
+            75013636,
+            81292136,
+            85908926
           ]
         },
         {
           "topTerms": [
             [
               "police",
-              428
+              434
             ],
             [
               "crime",
-              320
+              319
             ],
             [
               "officers",
-              174
+              176
             ],
             [
               "policing",
-              148
+              146
             ],
             [
               "cops",
@@ -14740,26 +14771,34 @@ window._clusterData = {
             ],
             [
               "crimes",
-              134
+              133
             ],
             [
               "murder",
-              120
+              119
             ],
             [
               "murders",
-              99
+              97
             ],
             [
               "prison",
-              83
+              81
+            ],
+            [
+              "enforcement",
+              80
             ],
             [
               "black",
-              77
+              79
             ],
             [
-              "shootings",
+              "gun",
+              79
+            ],
+            [
+              "police officers",
               76
             ],
             [
@@ -14767,45 +14806,33 @@ window._clusterData = {
               76
             ],
             [
-              "gun",
+              "shootings",
               75
-            ],
-            [
-              "police officers",
-              75
-            ],
-            [
-              "enforcement",
-              73
             ]
           ],
           "lowTerms": [
             [
-              "estate",
+              "remote work",
               -4
             ],
             [
-              "loan",
+              "tunnel",
               -4
-            ],
-            [
-              "land",
-              -5
             ],
             [
               "apple",
+              -4
+            ],
+            [
+              "remote",
+              -5
+            ],
+            [
+              "loan",
               -5
             ],
             [
               "forgiveness",
-              -5
-            ],
-            [
-              "ctc",
-              -5
-            ],
-            [
-              "musk",
               -6
             ],
             [
@@ -14813,32 +14840,36 @@ window._clusterData = {
               -6
             ],
             [
-              "king",
-              -7
+              "land",
+              -6
             ],
             [
-              "romney",
-              -8
+              "debt",
+              -6
             ],
             [
               "rail",
-              -8
-            ],
-            [
-              "station",
-              -8
-            ],
-            [
-              "china",
-              -8
-            ],
-            [
-              "amtrak",
-              -12
+              -7
             ],
             [
               "wealth",
-              -13
+              -7
+            ],
+            [
+              "station",
+              -9
+            ],
+            [
+              "ctc",
+              -10
+            ],
+            [
+              "amtrak",
+              -11
+            ],
+            [
+              "romney",
+              -12
             ]
           ],
           "postIds": [
@@ -14860,150 +14891,151 @@ window._clusterData = {
             56724202,
             57830726,
             74135684,
-            75584109
+            75584109,
+            88097777
           ]
         },
         {
           "topTerms": [
             [
               "tax",
-              400
+              379
             ],
             [
               "taxes",
-              167
+              149
             ],
             [
               "income",
-              138
-            ],
-            [
-              "rich",
-              108
-            ],
-            [
-              "wealth",
-              106
-            ],
-            [
-              "revenue",
-              103
-            ],
-            [
-              "irs",
-              97
+              128
             ],
             [
               "oil",
-              96
+              117
             ],
             [
               "money",
-              84
+              100
             ],
             [
-              "consumption",
-              83
+              "rich",
+              97
             ],
             [
-              "capital",
-              73
+              "revenue",
+              95
+            ],
+            [
+              "irs",
+              89
+            ],
+            [
+              "wealth",
+              87
             ],
             [
               "price",
-              72
+              77
             ],
             [
-              "carbon",
-              68
-            ],
-            [
-              "taxing",
-              63
+              "consumption",
+              76
             ],
             [
               "prices",
-              63
+              72
+            ],
+            [
+              "biden",
+              72
+            ],
+            [
+              "debt",
+              68
+            ],
+            [
+              "capital",
+              67
             ]
           ],
           "lowTerms": [
+            [
+              "homelessness",
+              -7
+            ],
+            [
+              "trans",
+              -7
+            ],
+            [
+              "ngdp",
+              -7
+            ],
+            [
+              "pakistan",
+              -8
+            ],
             [
               "bonus",
               -8
             ],
             [
-              "teachers",
-              -8
-            ],
-            [
               "powell",
-              -9
+              -8
             ],
             [
               "nrc",
               -9
             ],
             [
-              "filibuster",
+              "reactor",
+              -9
+            ],
+            [
+              "reactors",
               -9
             ],
             [
               "afghan",
-              -9
-            ],
-            [
-              "reactor",
-              -10
-            ],
-            [
-              "reactors",
-              -10
-            ],
-            [
-              "ai",
-              -10
-            ],
-            [
-              "israel",
               -10
             ],
             [
               "ui",
-              -14
-            ],
-            [
-              "taliban",
-              -20
+              -15
             ],
             [
               "nuclear",
-              -21
-            ],
-            [
-              "afghanistan",
-              -22
+              -18
             ],
             [
               "child care",
-              -25
+              -23
+            ],
+            [
+              "taliban",
+              -23
+            ],
+            [
+              "afghanistan",
+              -26
             ]
           ],
           "postIds": [
             18503568,
+            32380811,
             33385334,
-            33527887,
+            33561876,
             33623824,
+            34598585,
             35234508,
             35574511,
             36315083,
             36641597,
-            39277028,
-            40122162,
-            43776715,
             44867270,
             48889500,
             50312161,
             58893445,
+            62033902,
             66061792,
             67297001,
             69515164,
@@ -15013,536 +15045,387 @@ window._clusterData = {
         {
           "topTerms": [
             [
-              "immigration",
-              210
+              "climate",
+              514
             ],
             [
-              "trump",
-              127
-            ],
-            [
-              "biden",
-              122
-            ],
-            [
-              "asylum",
-              113
-            ],
-            [
-              "afghanistan",
-              83
-            ],
-            [
-              "book",
-              82
-            ],
-            [
-              "know",
-              80
-            ],
-            [
-              "war",
-              75
-            ],
-            [
-              "immigrants",
-              72
-            ],
-            [
-              "obama",
-              72
-            ],
-            [
-              "taliban",
-              70
-            ],
-            [
-              "1870",
-              67
-            ],
-            [
-              "united",
-              64
-            ],
-            [
-              "military",
-              63
-            ],
-            [
-              "united states",
-              62
-            ]
-          ],
-          "lowTerms": [
-            [
-              "medicare",
-              -16
-            ],
-            [
-              "bigness",
-              -16
-            ],
-            [
-              "sinema",
-              -17
-            ],
-            [
-              "insurance",
-              -18
-            ],
-            [
-              "store",
-              -18
-            ],
-            [
-              "price",
-              -20
-            ],
-            [
-              "health",
-              -21
-            ],
-            [
-              "health care",
-              -21
-            ],
-            [
-              "schools",
-              -21
-            ],
-            [
-              "inflation",
-              -24
-            ],
-            [
-              "prices",
-              -24
-            ],
-            [
-              "filibuster",
-              -27
-            ],
-            [
-              "teachers",
-              -40
-            ],
-            [
-              "manchin",
-              -49
-            ],
-            [
-              "amazon",
-              -50
-            ]
-          ],
-          "postIds": [
-            34139213,
-            35242118,
-            36480369,
-            38745208,
-            39567255,
-            39691221,
-            40057542,
-            40101165,
-            40561074,
-            40815332,
-            46255603,
-            55178451,
-            62102053,
-            72120500,
-            73546248,
-            76280739,
-            76672613,
-            79622747,
-            79827888
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "russia",
-              423
-            ],
-            [
-              "ukraine",
-              339
-            ],
-            [
-              "russian",
-              232
-            ],
-            [
-              "putin",
-              176
-            ],
-            [
-              "ukrainian",
-              164
-            ],
-            [
-              "war",
-              153
-            ],
-            [
-              "nato",
-              120
-            ],
-            [
-              "military",
-              115
-            ],
-            [
-              "china",
-              114
-            ],
-            [
-              "europe",
-              96
-            ],
-            [
-              "countries",
-              94
-            ],
-            [
-              "western",
-              91
-            ],
-            [
-              "gas",
-              80
-            ],
-            [
-              "afghanistan",
-              79
-            ],
-            [
-              "european",
-              76
-            ]
-          ],
-          "lowTerms": [
-            [
-              "income",
-              -4
-            ],
-            [
-              "vaccinated",
-              -4
-            ],
-            [
-              "abortions",
-              -4
-            ],
-            [
-              "geothermal",
-              -4
-            ],
-            [
-              "teachers",
-              -4
-            ],
-            [
-              "hydrogen",
-              -4
-            ],
-            [
-              "yang",
-              -4
-            ],
-            [
-              "amazon",
-              -5
-            ],
-            [
-              "irs",
-              -5
-            ],
-            [
-              "google",
-              -5
-            ],
-            [
-              "electricity",
-              -5
-            ],
-            [
-              "carbon tax",
-              -5
-            ],
-            [
-              "water",
-              -7
-            ],
-            [
-              "carbon",
-              -10
-            ],
-            [
-              "abortion",
-              -10
-            ]
-          ],
-          "postIds": [
-            24870617,
-            40269001,
-            47140290,
-            48313805,
-            48557327,
-            49371173,
-            49495257,
-            49698652,
-            50027852,
-            50154475,
-            51122253,
-            51595945,
-            51906346,
-            57532707,
-            73638721,
-            78427282
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "abortion",
-              221
-            ],
-            [
-              "health",
-              214
-            ],
-            [
-              "medicare",
-              136
-            ],
-            [
-              "care",
-              135
-            ],
-            [
-              "health care",
-              112
-            ],
-            [
-              "insurance",
-              108
-            ],
-            [
-              "public",
-              88
-            ],
-            [
-              "medicaid",
-              85
-            ],
-            [
-              "doctors",
-              84
-            ],
-            [
-              "democrats",
-              83
-            ],
-            [
-              "states",
-              76
-            ],
-            [
-              "health insurance",
-              76
-            ],
-            [
-              "medical",
-              70
-            ],
-            [
-              "rights",
-              68
-            ],
-            [
-              "abortions",
-              66
-            ]
-          ],
-          "lowTerms": [
-            [
-              "iran",
-              -19
-            ],
-            [
-              "remote",
-              -20
-            ],
-            [
-              "teachers",
-              -22
-            ],
-            [
-              "oil",
-              -26
-            ],
-            [
-              "slouching",
-              -27
-            ],
-            [
-              "slouching utopia",
-              -27
-            ],
-            [
-              "brad delong",
-              -27
-            ],
-            [
-              "1870",
-              -28
-            ],
-            [
-              "brad",
-              -30
-            ],
-            [
-              "utopia",
-              -33
-            ],
-            [
-              "delong",
-              -33
-            ],
-            [
-              "ctc",
-              -35
-            ],
-            [
-              "biden",
-              -35
-            ],
-            [
-              "taliban",
-              -40
-            ],
-            [
-              "afghanistan",
-              -49
-            ]
-          ],
-          "postIds": [
-            26785599,
-            29540230,
-            32339536,
-            40223294,
-            44069530,
-            45283189,
-            48704934,
-            51046626,
-            52318807,
-            53612371,
-            55324481,
-            61349681,
-            62667855,
-            62988475,
-            65785401,
-            67219249
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "oil",
-              279
-            ],
-            [
-              "gas",
-              258
-            ],
-            [
-              "energy",
-              223
-            ],
-            [
-              "electricity",
+              "climate change",
               198
             ],
             [
-              "nuclear",
-              154
-            ],
-            [
               "carbon",
-              137
+              190
             ],
             [
-              "solar",
-              133
+              "emissions",
+              152
+            ],
+            [
+              "change",
+              139
+            ],
+            [
+              "energy",
+              103
             ],
             [
               "fossil",
-              124
+              82
+            ],
+            [
+              "carbon tax",
+              80
+            ],
+            [
+              "gas",
+              75
+            ],
+            [
+              "democrats",
+              74
+            ],
+            [
+              "policy",
+              71
+            ],
+            [
+              "fossil fuel",
+              65
+            ],
+            [
+              "economists",
+              64
+            ],
+            [
+              "biden",
+              64
+            ],
+            [
+              "fuel",
+              63
+            ]
+          ],
+          "lowTerms": [
+            [
+              "county",
+              -7
+            ],
+            [
+              "ctc",
+              -7
+            ],
+            [
+              "georgia",
+              -7
+            ],
+            [
+              "parents",
+              -7
+            ],
+            [
+              "redistricting",
+              -7
+            ],
+            [
+              "wealth",
+              -7
+            ],
+            [
+              "mob",
+              -7
+            ],
+            [
+              "google",
+              -8
+            ],
+            [
+              "taliban",
+              -8
+            ],
+            [
+              "afghanistan",
+              -8
+            ],
+            [
+              "legislatures",
+              -9
+            ],
+            [
+              "gerrymandering",
+              -10
+            ],
+            [
+              "amazon",
+              -10
+            ],
+            [
+              "privacy",
+              -13
+            ],
+            [
+              "census",
+              -14
+            ]
+          ],
+          "postIds": [
+            20181001,
+            32732742,
+            38260421,
+            38521728,
+            40717676,
+            42095638,
+            42544154,
+            44365270,
+            44794053,
+            46339666,
+            48318249,
+            50313114,
+            62508623,
+            66504795,
+            79778119,
+            86347660,
+            87551177
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "schools",
+              257
+            ],
+            [
+              "school",
+              246
+            ],
+            [
+              "teachers",
+              225
+            ],
+            [
+              "students",
+              179
+            ],
+            [
+              "kids",
+              155
+            ],
+            [
+              "education",
+              149
+            ],
+            [
+              "college",
+              135
+            ],
+            [
+              "black",
+              129
+            ],
+            [
+              "white",
+              93
+            ],
+            [
+              "racial",
+              92
+            ],
+            [
+              "scores",
+              85
+            ],
+            [
+              "student",
+              84
+            ],
+            [
+              "teacher",
+              82
+            ],
+            [
+              "test",
+              76
+            ],
+            [
+              "selective",
+              73
+            ]
+          ],
+          "lowTerms": [
+            [
+              "king",
+              -8
+            ],
+            [
+              "fed",
+              -8
+            ],
+            [
+              "trillion",
+              -8
+            ],
+            [
+              "health insurance",
+              -8
+            ],
+            [
+              "irs",
+              -8
+            ],
+            [
+              "economy",
+              -9
+            ],
+            [
+              "unemployment insurance",
+              -10
+            ],
+            [
+              "medicare",
+              -10
+            ],
+            [
+              "unemployment",
+              -12
+            ],
+            [
+              "insurance",
+              -15
+            ],
+            [
+              "taliban",
+              -17
+            ],
+            [
+              "manchin",
+              -18
+            ],
+            [
+              "afghanistan",
+              -19
+            ],
+            [
+              "amazon",
+              -24
+            ],
+            [
+              "ui",
+              -25
+            ]
+          ],
+          "postIds": [
+            29866749,
+            31923778,
+            32416888,
+            32608857,
+            33907831,
+            36559376,
+            40369585,
+            40605148,
+            41651022,
+            42019701,
+            43503862,
+            43694106,
+            45221732,
+            47994408,
+            59752737,
+            71584256,
+            75812096
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "oil",
+              256
+            ],
+            [
+              "gas",
+              252
+            ],
+            [
+              "energy",
+              227
+            ],
+            [
+              "electricity",
+              202
+            ],
+            [
+              "nuclear",
+              165
+            ],
+            [
+              "carbon",
+              143
+            ],
+            [
+              "solar",
+              137
+            ],
+            [
+              "fossil",
+              128
+            ],
+            [
+              "climate",
+              127
             ],
             [
               "renewables",
               116
             ],
             [
-              "climate",
-              110
-            ],
-            [
               "geothermal",
-              110
-            ],
-            [
-              "prices",
-              108
-            ],
-            [
-              "price",
-              102
+              112
             ],
             [
               "wind",
-              100
+              104
             ],
             [
-              "production",
-              96
+              "emissions",
+              104
+            ],
+            [
+              "prices",
+              101
+            ],
+            [
+              "price",
+              95
             ]
           ],
           "lowTerms": [
             [
-              "rates",
-              -8
+              "adams",
+              -10
             ],
             [
-              "ngdp",
-              -8
+              "ui",
+              -10
             ],
             [
-              "accounts",
-              -8
+              "gun",
+              -11
             ],
             [
-              "apple",
-              -8
-            ],
-            [
-              "economists",
-              -8
+              "bus",
+              -11
             ],
             [
               "yang",
-              -9
+              -12
+            ],
+            [
+              "fed",
+              -12
             ],
             [
               "chinese",
-              -9
+              -12
             ],
             [
-              "amazon",
-              -9
-            ],
-            [
-              "powell",
+              "irs",
               -12
             ],
             [
@@ -15550,24 +15433,28 @@ window._clusterData = {
               -13
             ],
             [
-              "irs",
-              -14
-            ],
-            [
-              "china",
-              -15
+              "teachers",
+              -13
             ],
             [
               "homelessness",
-              -17
+              -15
+            ],
+            [
+              "vaccine",
+              -16
+            ],
+            [
+              "china",
+              -16
             ],
             [
               "city",
-              -18
+              -20
             ],
             [
-              "fed",
-              -24
+              "immigration",
+              -22
             ]
           ],
           "postIds": [
@@ -15581,7 +15468,6 @@ window._clusterData = {
             51236416,
             55799999,
             58601559,
-            62033902,
             72689224,
             73868099,
             74480700,
@@ -15592,3312 +15478,126 @@ window._clusterData = {
         {
           "topTerms": [
             [
-              "climate",
-              537
-            ],
-            [
-              "climate change",
-              213
-            ],
-            [
-              "carbon",
-              205
-            ],
-            [
-              "change",
-              149
-            ],
-            [
-              "emissions",
-              131
-            ],
-            [
-              "energy",
-              92
-            ],
-            [
-              "carbon tax",
-              90
-            ],
-            [
-              "fossil",
-              82
-            ],
-            [
-              "economists",
-              75
-            ],
-            [
-              "policy",
-              73
-            ],
-            [
-              "democrats",
-              72
-            ],
-            [
-              "immigration",
-              65
-            ],
-            [
-              "gas",
-              64
-            ],
-            [
-              "tax",
-              64
-            ],
-            [
-              "fossil fuel",
-              64
-            ]
-          ],
-          "lowTerms": [
-            [
-              "wealth",
-              -6
-            ],
-            [
-              "governor",
-              -6
-            ],
-            [
-              "bonus",
-              -6
-            ],
-            [
-              "roe",
-              -6
-            ],
-            [
-              "used car",
-              -6
-            ],
-            [
-              "parents",
-              -6
-            ],
-            [
-              "surge",
-              -7
-            ],
-            [
-              "rationing",
-              -7
-            ],
-            [
-              "ui",
-              -7
-            ],
-            [
-              "romney",
-              -8
-            ],
-            [
-              "car",
-              -8
-            ],
-            [
-              "abortion",
-              -8
-            ],
-            [
-              "debt",
-              -9
-            ],
-            [
-              "king",
-              -9
-            ],
-            [
-              "desantis",
-              -12
-            ]
-          ],
-          "postIds": [
-            20181001,
-            32732742,
-            38260421,
-            38521728,
-            40717676,
-            42095638,
-            42544154,
-            44365270,
-            44794053,
-            46339666,
-            48318249,
-            50313114,
-            62508623,
-            66504795,
-            79778119
-          ]
-        }
-      ]
-    },
-    {
-      "clusters": [
-        {
-          "topTerms": [
-            [
-              "know",
-              78
-            ],
-            [
-              "political",
-              70
-            ],
-            [
-              "politics",
-              69
-            ],
-            [
-              "policy",
-              66
-            ],
-            [
-              "world",
-              64
-            ],
-            [
-              "bad",
-              64
-            ],
-            [
-              "money",
-              62
-            ],
-            [
-              "ve",
-              62
-            ],
-            [
-              "book",
-              59
-            ],
-            [
-              "american",
-              58
-            ],
-            [
-              "kind",
-              58
-            ],
-            [
-              "states",
-              58
-            ],
-            [
-              "war",
-              56
-            ],
-            [
-              "state",
-              55
-            ],
-            [
-              "public",
-              54
-            ]
-          ],
-          "lowTerms": [
-            [
-              "keystone",
-              -1
-            ],
-            [
-              "oil price",
-              -1
-            ],
-            [
-              "price oil",
-              -1
-            ],
-            [
-              "wealth gap",
-              -1
-            ],
-            [
-              "bonus ui",
-              -1
-            ],
-            [
-              "ui",
-              -1
-            ],
-            [
-              "oil prices",
-              -1
-            ],
-            [
-              "gas tax",
-              -2
-            ],
-            [
-              "retention",
-              -2
-            ],
-            [
-              "barrel",
-              -2
-            ],
-            [
-              "omicron",
-              -2
-            ],
-            [
-              "dcps",
-              -2
-            ],
-            [
-              "lumber",
-              -2
-            ],
-            [
-              "global oil",
-              -2
-            ],
-            [
-              "labor supply",
-              -4
-            ]
-          ],
-          "postIds": [
-            21025509,
-            22223850,
-            28179971,
-            31019610,
-            32517388,
-            32639465,
-            33181330,
-            33621408,
-            33852109,
-            35068697,
-            36480369,
-            37283393,
-            38685806,
-            38745208,
-            39567255,
-            39814820,
-            47340895,
-            48096690,
-            48427324,
-            48797501,
-            49184248,
-            49586092,
-            49884768,
-            49957000,
-            50420977,
-            50890967,
-            51206634,
-            51255546,
-            51677020,
-            52098549,
-            52491210,
-            53313492,
-            54303445,
-            55471340,
-            55715489,
-            56289053,
-            58582964,
-            58991483,
-            59628308,
-            60539716,
-            61636691,
-            62060883,
-            62789022,
-            63701446,
-            65737481,
-            65843580,
-            66285562,
-            67028943,
-            67862093,
-            68190824,
-            69004628,
-            70000534,
-            71054684,
-            72130698,
-            73254041,
-            75489758,
-            77835827,
-            80475018,
-            81631713,
-            82102641,
-            83218989,
-            84489473,
-            84695778
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "democrats",
-              224
-            ],
-            [
-              "trump",
-              169
-            ],
-            [
-              "party",
-              161
-            ],
-            [
-              "biden",
-              128
-            ],
-            [
-              "republicans",
-              126
-            ],
-            [
-              "senate",
-              122
-            ],
-            [
-              "vote",
-              121
-            ],
-            [
-              "manchin",
-              113
-            ],
-            [
-              "politics",
-              105
-            ],
-            [
-              "democratic",
-              100
-            ],
-            [
-              "voters",
-              98
-            ],
-            [
-              "election",
-              93
-            ],
-            [
-              "gop",
-              92
-            ],
-            [
-              "state",
-              89
-            ],
-            [
-              "political",
-              87
-            ]
-          ],
-          "lowTerms": [
-            [
-              "monkeypox",
-              -5
-            ],
-            [
-              "1870",
-              -5
-            ],
-            [
-              "countries",
-              -5
-            ],
-            [
-              "income",
-              -5
-            ],
-            [
-              "doctors",
-              -6
-            ],
-            [
-              "estate",
-              -6
-            ],
-            [
-              "child care",
-              -6
-            ],
-            [
-              "legal immigration",
-              -7
-            ],
-            [
-              "lab",
-              -7
-            ],
-            [
-              "central america",
-              -8
-            ],
-            [
-              "irs",
-              -9
-            ],
-            [
-              "asylum",
-              -10
-            ],
-            [
-              "chinese",
-              -10
-            ],
-            [
-              "wealth",
-              -11
-            ],
-            [
-              "china",
-              -16
-            ]
-          ],
-          "postIds": [
-            18135875,
-            19639907,
-            19674370,
-            20385917,
-            20388649,
-            31099143,
-            31111321,
-            31175374,
-            31249622,
-            31707412,
-            31938867,
-            32818531,
-            33117945,
-            34726651,
-            34958079,
-            35023354,
-            35158309,
-            36270312,
-            36340664,
-            37362427,
-            37486827,
-            37621689,
-            39132207,
-            40859634,
-            41366749,
-            41611441,
-            41717672,
-            41890896,
-            42357605,
-            42818394,
-            42994582,
-            46630592,
-            47017468,
-            47275872,
-            47491031,
-            51043454,
-            51403483,
-            51850560,
-            52816815,
-            57982533,
-            58394722,
-            59616580,
-            64200864,
-            67128817,
-            79072865,
-            83441825,
-            83900508
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "housing",
-              443
-            ],
-            [
-              "city",
-              161
-            ],
-            [
-              "land",
-              149
-            ],
-            [
-              "homelessness",
-              140
-            ],
-            [
-              "construction",
-              100
-            ],
-            [
-              "houses",
-              95
-            ],
-            [
-              "cities",
-              91
-            ],
-            [
-              "homes",
-              86
-            ],
-            [
-              "parking",
-              85
-            ],
-            [
-              "zoning",
-              85
-            ],
-            [
-              "demand",
-              85
-            ],
-            [
-              "supply",
-              81
-            ],
-            [
-              "market",
-              81
-            ],
-            [
-              "buildings",
-              80
-            ],
-            [
-              "units",
-              78
-            ]
-          ],
-          "lowTerms": [
-            [
-              "obama",
-              -4
-            ],
-            [
-              "loan",
-              -4
-            ],
-            [
-              "forgiveness",
-              -4
-            ],
-            [
               "russia",
-              -5
-            ],
-            [
-              "ngdp",
-              -5
-            ],
-            [
-              "fait",
-              -5
-            ],
-            [
-              "vaccines",
-              -5
-            ],
-            [
-              "black",
-              -5
-            ],
-            [
-              "vaccine",
-              -6
-            ],
-            [
-              "romney",
-              -6
-            ],
-            [
-              "king",
-              -7
-            ],
-            [
-              "ai",
-              -7
-            ],
-            [
-              "debt",
-              -7
-            ],
-            [
-              "amtrak",
-              -10
-            ],
-            [
-              "abortion",
-              -12
-            ]
-          ],
-          "postIds": [
-            29852190,
-            31043012,
-            31867708,
-            31913564,
-            32299644,
-            34407144,
-            35565119,
-            35841942,
-            36374925,
-            36790995,
-            37135025,
-            37783952,
-            37840867,
-            38235209,
-            38568767,
-            39521210,
-            40013897,
-            40930116,
-            41219220,
-            41674868,
-            43078271,
-            47420388,
-            48076067,
-            48220002,
-            50591662,
-            53053394,
-            55315571,
-            58867637,
-            60621688,
-            60813397,
-            71941523,
-            75920855,
-            76246796,
-            77653288
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "vaccine",
-              390
-            ],
-            [
-              "vaccines",
-              263
-            ],
-            [
-              "covid",
-              223
-            ],
-            [
-              "vaccinated",
-              187
-            ],
-            [
-              "fda",
-              128
-            ],
-            [
-              "vaccination",
-              124
-            ],
-            [
-              "covid 19",
-              101
-            ],
-            [
-              "19",
-              99
-            ],
-            [
-              "pfizer",
-              97
-            ],
-            [
-              "public health",
-              95
-            ],
-            [
-              "cdc",
-              92
-            ],
-            [
-              "virus",
-              91
-            ],
-            [
-              "health",
-              91
-            ],
-            [
-              "masks",
-              90
-            ],
-            [
-              "doses",
-              88
-            ]
-          ],
-          "lowTerms": [
-            [
-              "prc",
-              -3
-            ],
-            [
-              "luther king",
-              -3
-            ],
-            [
-              "martin luther",
-              -3
-            ],
-            [
-              "luther",
-              -3
-            ],
-            [
-              "country does",
-              -3
-            ],
-            [
-              "negro",
-              -4
-            ],
-            [
-              "ui",
-              -4
-            ],
-            [
-              "sense say",
-              -4
-            ],
-            [
-              "struggle",
-              -4
-            ],
-            [
-              "hiring",
-              -4
-            ],
-            [
-              "cotton",
-              -5
-            ],
-            [
-              "class struggle",
-              -6
-            ],
-            [
-              "child care",
-              -7
-            ],
-            [
-              "china",
-              -15
-            ],
-            [
-              "king",
-              -17
-            ]
-          ],
-          "postIds": [
-            18980244,
-            25928163,
-            31559767,
-            31593691,
-            31995237,
-            32070635,
-            32193481,
-            32803727,
-            33112723,
-            33700824,
-            34656950,
-            36036186,
-            37186799,
-            38843718,
-            39031370,
-            39501472,
-            40445033,
-            41065980,
-            41876619,
-            42799609,
-            44385797,
-            44637943,
-            44963138,
-            45036946,
-            45439251,
-            46744436,
-            47387100,
-            51509642,
-            55172787,
-            61904141,
-            62717990
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "trump",
-              233
-            ],
-            [
-              "democrats",
-              176
-            ],
-            [
-              "immigration",
-              173
-            ],
-            [
-              "biden",
-              170
-            ],
-            [
-              "republicans",
-              122
-            ],
-            [
-              "party",
-              117
-            ],
-            [
-              "obama",
-              110
-            ],
-            [
-              "gop",
-              89
-            ],
-            [
-              "politics",
-              87
-            ],
-            [
-              "policy",
-              84
-            ],
-            [
-              "abortion",
-              83
-            ],
-            [
-              "asylum",
-              81
-            ],
-            [
-              "senate",
-              81
-            ],
-            [
-              "democratic",
-              78
-            ],
-            [
-              "election",
-              74
-            ]
-          ],
-          "lowTerms": [
-            [
-              "electricity",
-              -8
-            ],
-            [
-              "census",
-              -9
-            ],
-            [
-              "wealth gap",
-              -9
-            ],
-            [
-              "russian",
-              -10
-            ],
-            [
-              "russia",
-              -10
+              439
             ],
             [
               "ukraine",
-              -11
-            ],
-            [
-              "parking",
-              -11
-            ],
-            [
-              "monopoly",
-              -11
-            ],
-            [
-              "ai",
-              -12
-            ],
-            [
-              "bigness",
-              -12
-            ],
-            [
-              "store",
-              -14
-            ],
-            [
-              "racial",
-              -15
-            ],
-            [
-              "google",
-              -16
-            ],
-            [
-              "wealth",
-              -18
-            ],
-            [
-              "amazon",
-              -43
-            ]
-          ],
-          "postIds": [
-            19286343,
-            32491521,
-            33225505,
-            33723873,
-            34139213,
-            34505451,
-            37095438,
-            37935686,
-            39691221,
-            40561074,
-            42593733,
-            44411395,
-            44794053,
-            45612841,
-            53251092,
-            61760608,
-            67724659,
-            70864744,
-            71786926,
-            73546248,
-            81750627,
-            82320227,
-            84371323,
-            85218122
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "child",
-              284
-            ],
-            [
-              "child care",
-              200
-            ],
-            [
-              "ctc",
-              189
-            ],
-            [
-              "care",
-              157
-            ],
-            [
-              "tax",
-              155
-            ],
-            [
-              "kids",
-              127
-            ],
-            [
-              "parents",
-              118
-            ],
-            [
-              "program",
-              115
-            ],
-            [
-              "families",
-              105
-            ],
-            [
-              "poverty",
-              105
-            ],
-            [
-              "children",
-              104
-            ],
-            [
-              "tax credit",
-              101
-            ],
-            [
-              "income",
-              96
-            ],
-            [
-              "programs",
-              94
-            ],
-            [
-              "money",
-              91
-            ]
-          ],
-          "lowTerms": [
-            [
-              "outbreak",
-              -7
-            ],
-            [
-              "oil",
-              -7
-            ],
-            [
-              "student debt",
-              -7
-            ],
-            [
-              "debt relief",
-              -8
-            ],
-            [
-              "masks",
-              -8
-            ],
-            [
-              "homelessness",
-              -8
-            ],
-            [
-              "lab",
-              -9
-            ],
-            [
-              "loan forgiveness",
-              -10
-            ],
-            [
-              "loans",
-              -11
-            ],
-            [
-              "wealth",
-              -12
-            ],
-            [
-              "student loan",
-              -13
-            ],
-            [
-              "student",
-              -15
-            ],
-            [
-              "loan",
-              -16
-            ],
-            [
-              "debt",
-              -18
-            ],
-            [
-              "forgiveness",
-              -18
-            ]
-          ],
-          "postIds": [
-            27708677,
-            31205974,
-            31499698,
-            32083147,
-            32225523,
-            32327195,
-            32687718,
-            34138201,
-            34805898,
-            35707392,
-            35736024,
-            35775832,
-            37489725,
-            38861337,
-            39198875,
-            41819786,
-            42849313,
-            43680098,
-            44608127,
-            44832459,
-            45612097,
-            56290221,
-            68903073,
-            72587432
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "know",
-              113
-            ],
-            [
-              "book",
-              99
-            ],
-            [
-              "boring",
-              80
-            ],
-            [
-              "slow boring",
-              78
-            ],
-            [
-              "ve",
-              78
-            ],
-            [
-              "slow",
-              76
-            ],
-            [
-              "1870",
-              74
-            ],
-            [
-              "media",
-              74
-            ],
-            [
-              "movie",
-              74
-            ],
-            [
-              "world",
-              71
-            ],
-            [
-              "matt",
-              66
-            ],
-            [
-              "read",
-              66
-            ],
-            [
-              "year",
-              66
-            ],
-            [
-              "kind",
-              65
-            ],
-            [
-              "ai",
-              60
-            ]
-          ],
-          "lowTerms": [
-            [
-              "tax",
-              -13
-            ],
-            [
-              "medicaid",
-              -13
-            ],
-            [
-              "black",
-              -13
-            ],
-            [
-              "price",
-              -14
-            ],
-            [
-              "vaccine",
-              -14
-            ],
-            [
-              "gas",
-              -18
-            ],
-            [
-              "manchin",
-              -19
-            ],
-            [
-              "housing",
-              -23
-            ],
-            [
-              "abortion",
-              -23
-            ],
-            [
-              "prices",
-              -24
-            ],
-            [
-              "racial",
-              -25
-            ],
-            [
-              "medicare",
-              -32
-            ],
-            [
-              "chinese",
-              -34
-            ],
-            [
-              "oil",
-              -44
-            ],
-            [
-              "china",
-              -63
-            ]
-          ],
-          "postIds": [
-            20151892,
-            36964454,
-            37860233,
-            38538877,
-            40013889,
-            42019701,
-            42771495,
-            43462576,
-            43861452,
-            44364076,
-            45384490,
-            45497623,
-            47201646,
-            47565914,
-            47648339,
-            48771270,
-            49031868,
-            51621477,
-            59115931,
-            59518168,
-            60143292,
-            69245031,
-            75632816,
-            83696648
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "debt",
-              146
-            ],
-            [
-              "biden",
-              136
-            ],
-            [
-              "democrats",
-              130
-            ],
-            [
-              "tax",
-              122
-            ],
-            [
-              "manchin",
-              111
-            ],
-            [
-              "money",
-              101
-            ],
-            [
-              "student",
-              100
-            ],
-            [
-              "loan",
-              98
-            ],
-            [
-              "inflation",
-              93
-            ],
-            [
-              "senate",
-              86
-            ],
-            [
-              "congress",
-              80
-            ],
-            [
-              "republicans",
-              78
-            ],
-            [
-              "spending",
-              75
-            ],
-            [
-              "policy",
-              71
-            ],
-            [
-              "student loan",
-              70
-            ]
-          ],
-          "lowTerms": [
-            [
-              "immigration",
-              -7
-            ],
-            [
-              "racist",
-              -7
-            ],
-            [
-              "religious",
-              -7
-            ],
-            [
-              "facebook",
-              -7
-            ],
-            [
-              "religion",
-              -7
+              353
             ],
             [
               "russian",
-              -8
-            ],
-            [
-              "asylum",
-              -8
-            ],
-            [
-              "misinformation",
-              -8
-            ],
-            [
-              "masks",
-              -9
-            ],
-            [
-              "sex",
-              -9
-            ],
-            [
-              "teachers",
-              -10
-            ],
-            [
-              "amazon",
-              -10
-            ],
-            [
-              "racism",
-              -10
-            ],
-            [
-              "hispanic",
-              -10
-            ],
-            [
-              "remote",
-              -12
-            ]
-          ],
-          "postIds": [
-            18503568,
-            21496045,
-            24537925,
-            32380811,
-            32681123,
-            32719935,
-            32945630,
-            33561876,
-            34598585,
-            38021094,
-            39401906,
-            39652693,
-            41221238,
-            44284522,
-            46030715,
-            48152830,
-            51320519,
-            52275496,
-            52767182,
-            66061792,
-            67642825,
-            70469724,
-            70608891
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "black",
-              187
-            ],
-            [
-              "white",
-              182
-            ],
-            [
-              "racial",
-              172
-            ],
-            [
-              "trump",
-              137
-            ],
-            [
-              "democrats",
-              133
-            ],
-            [
-              "voters",
-              115
-            ],
-            [
-              "politics",
-              107
-            ],
-            [
-              "race",
-              104
-            ],
-            [
-              "party",
-              95
-            ],
-            [
-              "white people",
-              91
-            ],
-            [
-              "racism",
-              84
-            ],
-            [
-              "political",
-              82
-            ],
-            [
-              "obama",
-              78
-            ],
-            [
-              "vote",
-              78
-            ],
-            [
-              "left",
-              75
-            ]
-          ],
-          "lowTerms": [
-            [
-              "higher education",
-              -7
-            ],
-            [
-              "infrastructure",
-              -7
-            ],
-            [
-              "ui",
-              -9
-            ],
-            [
-              "loan forgiveness",
-              -9
-            ],
-            [
-              "tuition",
-              -9
-            ],
-            [
-              "child care",
-              -9
-            ],
-            [
-              "trillion",
-              -10
-            ],
-            [
-              "student",
-              -11
-            ],
-            [
-              "billion",
-              -12
-            ],
-            [
-              "loans",
-              -12
-            ],
-            [
-              "ctc",
-              -15
-            ],
-            [
-              "student loan",
-              -16
-            ],
-            [
-              "forgiveness",
-              -16
-            ],
-            [
-              "debt",
-              -21
-            ],
-            [
-              "loan",
-              -23
-            ]
-          ],
-          "postIds": [
-            21782308,
-            25273198,
-            31358451,
-            32132668,
-            33907831,
-            34532548,
-            34560988,
-            36068169,
-            37846642,
-            38102501,
-            41538326,
-            41661400,
-            42005076,
-            42751863,
-            45091161,
-            48468569,
-            52323997,
-            53260750,
-            53302113,
-            58251621,
-            78581735
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "transit",
-              246
-            ],
-            [
-              "amtrak",
               243
             ],
             [
-              "station",
-              198
+              "putin",
+              184
             ],
             [
-              "rail",
-              191
+              "ukrainian",
+              171
             ],
             [
-              "trains",
-              181
-            ],
-            [
-              "train",
-              168
-            ],
-            [
-              "bus",
-              145
-            ],
-            [
-              "city",
-              139
-            ],
-            [
-              "transportation",
-              120
-            ],
-            [
-              "metro",
-              113
-            ],
-            [
-              "infrastructure",
-              96
-            ],
-            [
-              "service",
-              96
-            ],
-            [
-              "stations",
-              94
-            ],
-            [
-              "money",
-              90
-            ],
-            [
-              "new york",
-              87
-            ]
-          ],
-          "lowTerms": [
-            [
-              "homeless",
-              -7
-            ],
-            [
-              "vacancy",
-              -8
-            ],
-            [
-              "russia",
-              -8
-            ],
-            [
-              "rent",
-              -8
-            ],
-            [
-              "brad delong",
-              -8
-            ],
-            [
-              "slouching",
-              -9
-            ],
-            [
-              "slouching utopia",
-              -9
-            ],
-            [
-              "ctc",
-              -9
-            ],
-            [
-              "student",
-              -9
-            ],
-            [
-              "brad",
-              -10
-            ],
-            [
-              "delong",
-              -10
-            ],
-            [
-              "1870",
-              -11
-            ],
-            [
-              "wealth",
-              -12
-            ],
-            [
-              "utopia",
-              -12
-            ],
-            [
-              "homelessness",
-              -27
-            ]
-          ],
-          "postIds": [
-            22022458,
-            25631028,
-            26052510,
-            31814728,
-            34039930,
-            34795251,
-            37860687,
-            38223101,
-            39438399,
-            40304298,
-            40811123,
-            41126571,
-            41325034,
-            42254178,
-            43489135,
-            46309170,
-            61042827,
-            66679912,
-            73166055,
-            75232689,
-            81372927
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "racial",
-              292
-            ],
-            [
-              "black",
-              240
-            ],
-            [
-              "white",
-              237
-            ],
-            [
-              "wealth",
-              146
-            ],
-            [
-              "white people",
-              136
-            ],
-            [
-              "race",
-              136
-            ],
-            [
-              "racism",
-              111
-            ],
-            [
-              "king",
-              104
-            ],
-            [
-              "gap",
-              95
-            ],
-            [
-              "discrimination",
-              84
-            ],
-            [
-              "racist",
-              80
-            ],
-            [
-              "wealth gap",
-              77
-            ],
-            [
-              "justice",
-              76
-            ],
-            [
-              "class",
-              75
-            ],
-            [
-              "poor",
-              70
-            ]
-          ],
-          "lowTerms": [
-            [
-              "asylum claims",
-              -8
-            ],
-            [
-              "ukraine",
-              -8
-            ],
-            [
-              "border",
-              -9
-            ],
-            [
-              "facebook",
-              -9
-            ],
-            [
-              "filibuster",
-              -9
-            ],
-            [
-              "abortion",
-              -9
-            ],
-            [
-              "legal immigration",
-              -10
-            ],
-            [
-              "vaccinated",
-              -10
-            ],
-            [
-              "teacher",
-              -11
-            ],
-            [
-              "amazon",
-              -11
-            ],
-            [
-              "manchin",
-              -12
-            ],
-            [
-              "desantis",
-              -14
-            ],
-            [
-              "immigration",
-              -24
-            ],
-            [
-              "asylum",
-              -26
-            ],
-            [
-              "teachers",
-              -31
-            ]
-          ],
-          "postIds": [
-            18642680,
-            19229056,
-            24243372,
-            31492838,
-            32104296,
-            32606158,
-            33527887,
-            34346394,
-            35378482,
-            35640356,
-            36110503,
-            37391492,
-            38366395,
-            38961287,
-            44244341,
-            45362144,
-            47133316,
-            49001746,
-            50645190,
-            71970237
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "covid",
-              226
-            ],
-            [
-              "health",
-              161
-            ],
-            [
-              "masks",
+              "war",
               154
             ],
             [
-              "virus",
-              153
+              "nato",
+              124
             ],
             [
-              "pandemic",
-              143
+              "military",
+              116
             ],
             [
-              "public health",
-              120
-            ],
-            [
-              "vaccine",
-              113
-            ],
-            [
-              "covid 19",
-              111
-            ],
-            [
-              "vaccines",
-              111
-            ],
-            [
-              "mask",
-              110
-            ],
-            [
-              "19",
-              109
+              "europe",
+              100
             ],
             [
               "china",
-              98
+              96
             ],
             [
-              "vaccinated",
-              93
+              "western",
+              94
             ],
             [
-              "public",
-              92
+              "countries",
+              94
             ],
             [
-              "cdc",
-              82
-            ]
-          ],
-          "lowTerms": [
-            [
-              "immigrants",
-              -13
+              "gas",
+              84
             ],
             [
-              "antitrust",
-              -14
-            ],
-            [
-              "child",
-              -14
-            ],
-            [
-              "store",
-              -15
-            ],
-            [
-              "child care",
-              -15
-            ],
-            [
-              "tech",
-              -15
-            ],
-            [
-              "debt",
-              -16
-            ],
-            [
-              "bigness",
-              -18
-            ],
-            [
-              "google",
-              -19
-            ],
-            [
-              "ctc",
-              -20
-            ],
-            [
-              "monopoly",
-              -21
-            ],
-            [
-              "asylum",
-              -24
-            ],
-            [
-              "oil",
-              -30
-            ],
-            [
-              "immigration",
-              -33
-            ],
-            [
-              "amazon",
-              -59
-            ]
-          ],
-          "postIds": [
-            21255649,
-            22581912,
-            26785599,
-            32760649,
-            33205193,
-            35401484,
-            36158790,
-            37602910,
-            38120969,
-            40667497,
-            41191192,
-            42166798,
-            43395570,
-            44331429,
-            47817166,
-            49545670,
-            56809511,
-            66833698,
-            69828105
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "police",
-              436
-            ],
-            [
-              "crime",
-              327
-            ],
-            [
-              "officers",
-              178
-            ],
-            [
-              "policing",
-              150
-            ],
-            [
-              "cops",
-              146
-            ],
-            [
-              "crimes",
-              137
-            ],
-            [
-              "murder",
-              123
-            ],
-            [
-              "murders",
-              101
-            ],
-            [
-              "prison",
-              85
-            ],
-            [
-              "black",
+              "european",
               79
             ],
             [
-              "shootings",
-              78
-            ],
-            [
-              "violence",
+              "afghanistan",
               77
-            ],
-            [
-              "police officers",
-              76
-            ],
-            [
-              "gun",
-              76
-            ],
-            [
-              "enforcement",
-              75
             ]
           ],
           "lowTerms": [
             [
-              "land",
-              -4
+              "electricity",
+              -5
             ],
             [
-              "apple",
-              -4
+              "free speech",
+              -5
+            ],
+            [
+              "voters",
+              -5
+            ],
+            [
+              "ctc",
+              -5
+            ],
+            [
+              "income",
+              -5
+            ],
+            [
+              "google",
+              -5
+            ],
+            [
+              "cdc",
+              -5
+            ],
+            [
+              "vaccinated",
+              -5
             ],
             [
               "abortion",
               -5
             ],
             [
-              "college",
-              -6
-            ],
-            [
-              "musk",
-              -6
-            ],
-            [
-              "loan",
-              -6
-            ],
-            [
-              "forgiveness",
-              -6
-            ],
-            [
-              "debt",
-              -6
-            ],
-            [
-              "trains",
-              -7
-            ],
-            [
-              "china",
-              -8
-            ],
-            [
-              "rail",
-              -8
-            ],
-            [
-              "romney",
-              -8
-            ],
-            [
-              "station",
-              -8
-            ],
-            [
-              "wealth",
-              -10
-            ],
-            [
-              "amtrak",
-              -13
-            ]
-          ],
-          "postIds": [
-            21384896,
-            31771252,
-            33310644,
-            33880097,
-            34878921,
-            35481514,
-            36745286,
-            38348118,
-            39924073,
-            40505560,
-            43195629,
-            43437512,
-            44701852,
-            46701030,
-            49685582,
-            56724202,
-            57830726,
-            74135684,
-            75584109
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "housing",
-              143
-            ],
-            [
-              "trump",
-              103
-            ],
-            [
-              "democrats",
-              101
-            ],
-            [
-              "city",
-              85
-            ],
-            [
-              "party",
-              83
-            ],
-            [
-              "biden",
-              82
-            ],
-            [
-              "politics",
-              78
-            ],
-            [
-              "political",
-              69
-            ],
-            [
-              "state",
-              67
-            ],
-            [
-              "policy",
-              62
-            ],
-            [
-              "republicans",
-              61
-            ],
-            [
-              "tax",
-              61
-            ],
-            [
-              "house",
-              59
-            ],
-            [
-              "land",
-              58
-            ],
-            [
-              "public",
-              58
-            ]
-          ],
-          "lowTerms": [
-            [
-              "geothermal",
-              -1
-            ],
-            [
-              "electricity",
-              -1
-            ],
-            [
-              "exports",
-              -1
-            ],
-            [
-              "fait",
-              -1
-            ],
-            [
-              "aluminum",
-              -1
-            ],
-            [
-              "reactors",
-              -2
-            ],
-            [
-              "gas",
-              -2
-            ],
-            [
-              "drilling",
-              -2
-            ],
-            [
-              "nrc",
-              -2
-            ],
-            [
-              "renewables",
-              -2
-            ],
-            [
-              "reactor",
-              -2
-            ],
-            [
-              "racial wealth",
-              -2
-            ],
-            [
-              "natural gas",
-              -3
-            ],
-            [
-              "forgiveness",
-              -3
-            ],
-            [
-              "wealth gap",
-              -3
-            ]
-          ],
-          "postIds": [
-            18177334,
-            18586396,
-            31744223,
-            32452765,
-            33619836,
-            35192912,
-            35728483,
-            36315083,
-            40122162,
-            41987541,
-            46255603,
-            48603804,
-            52218768,
-            52906498,
-            57548064,
-            64793172,
-            74140735,
-            79379632
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "inflation",
-              543
-            ],
-            [
-              "fed",
-              251
-            ],
-            [
-              "prices",
-              193
-            ],
-            [
-              "economy",
-              144
-            ],
-            [
-              "price",
-              143
-            ],
-            [
-              "nominal",
-              108
-            ],
-            [
-              "supply",
-              104
-            ],
-            [
-              "monetary",
-              97
-            ],
-            [
-              "rates",
-              94
-            ],
-            [
-              "demand",
-              88
-            ],
-            [
-              "policy",
-              86
-            ],
-            [
-              "powell",
-              86
-            ],
-            [
-              "stimulus",
-              83
-            ],
-            [
-              "growth",
-              82
-            ],
-            [
-              "target",
-              80
-            ]
-          ],
-          "lowTerms": [
-            [
-              "gerrymandering",
-              -6
-            ],
-            [
-              "wind",
-              -7
-            ],
-            [
-              "reactors",
-              -7
-            ],
-            [
-              "vote",
-              -7
-            ],
-            [
-              "homelessness",
-              -7
-            ],
-            [
-              "california",
-              -7
-            ],
-            [
-              "fossil fuels",
-              -7
-            ],
-            [
-              "fuels",
-              -7
-            ],
-            [
-              "solar",
-              -8
-            ],
-            [
-              "asylum",
-              -9
-            ],
-            [
-              "geothermal",
-              -9
-            ],
-            [
-              "electricity",
-              -9
-            ],
-            [
-              "renewables",
-              -10
-            ],
-            [
-              "nuclear",
-              -12
-            ],
-            [
-              "amazon",
-              -19
-            ]
-          ],
-          "postIds": [
-            19335206,
-            33419617,
-            34189082,
-            34495712,
-            35971137,
-            37443861,
-            39881555,
-            42642779,
-            43108837,
-            43937960,
-            44164067,
-            45073472,
-            50525181,
-            52294719,
-            60336780,
-            78751941
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "schools",
-              270
-            ],
-            [
-              "school",
-              255
-            ],
-            [
-              "teachers",
-              227
-            ],
-            [
-              "students",
-              193
-            ],
-            [
-              "education",
-              169
-            ],
-            [
-              "college",
-              153
-            ],
-            [
-              "kids",
-              150
-            ],
-            [
-              "student",
-              121
-            ],
-            [
-              "black",
-              107
-            ],
-            [
-              "scores",
-              88
-            ],
-            [
-              "teacher",
-              82
-            ],
-            [
-              "debt",
-              82
-            ],
-            [
-              "selective",
-              79
-            ],
-            [
-              "test",
-              75
-            ],
-            [
-              "racial",
-              75
-            ]
-          ],
-          "lowTerms": [
-            [
-              "utopia",
-              -8
-            ],
-            [
-              "irs",
-              -8
-            ],
-            [
-              "1870",
-              -8
-            ],
-            [
-              "insurance",
-              -9
-            ],
-            [
-              "cars",
-              -9
-            ],
-            [
-              "alcohol",
-              -9
-            ],
-            [
-              "king",
-              -9
-            ],
-            [
-              "delong",
-              -9
-            ],
-            [
-              "gun",
-              -10
-            ],
-            [
-              "crimes",
-              -10
-            ],
-            [
-              "parking",
-              -10
-            ],
-            [
-              "amazon",
-              -10
-            ],
-            [
-              "crime",
-              -12
-            ],
-            [
-              "ui",
-              -12
-            ],
-            [
-              "manchin",
-              -20
-            ]
-          ],
-          "postIds": [
-            29866749,
-            31923778,
-            32416888,
-            32608857,
-            36559376,
-            39090718,
-            41651022,
-            43503862,
-            43694106,
-            45221732,
-            47994408,
-            50907408,
-            57340427,
-            59752737,
-            71584256,
-            75812096
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "labor",
-              199
-            ],
-            [
-              "economy",
-              150
-            ],
-            [
-              "immigration",
-              138
-            ],
-            [
-              "jobs",
-              130
-            ],
-            [
-              "workers",
-              128
-            ],
-            [
-              "employment",
-              117
-            ],
-            [
-              "ui",
-              111
-            ],
-            [
-              "biden",
-              102
-            ],
-            [
-              "care",
-              102
-            ],
-            [
-              "supply",
-              101
-            ],
-            [
-              "job",
-              100
-            ],
-            [
-              "demand",
-              100
-            ],
-            [
-              "child care",
-              93
-            ],
-            [
-              "labor market",
-              92
-            ],
-            [
-              "unemployment",
-              91
-            ]
-          ],
-          "lowTerms": [
-            [
-              "chinese",
-              -9
-            ],
-            [
-              "affirmative action",
-              -9
-            ],
-            [
-              "selective",
-              -9
-            ],
-            [
-              "movie",
-              -9
-            ],
-            [
-              "nuclear",
-              -10
-            ],
-            [
-              "abortions",
-              -10
-            ],
-            [
-              "station",
-              -11
-            ],
-            [
-              "fda",
-              -11
-            ],
-            [
-              "sex",
-              -12
-            ],
-            [
-              "students",
-              -12
-            ],
-            [
-              "irs",
-              -12
-            ],
-            [
-              "china",
-              -16
-            ],
-            [
-              "ea",
-              -16
-            ],
-            [
-              "ai",
-              -18
-            ],
-            [
-              "abortion",
-              -26
-            ]
-          ],
-          "postIds": [
-            29431751,
-            30087879,
-            31754871,
-            34274481,
-            35331456,
-            36203851,
-            37075486,
-            40815332,
-            41019553,
-            43822350,
-            45304661,
-            45523273,
-            46943642,
-            48296586,
-            69956089,
-            72273018
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "china",
-              393
-            ],
-            [
-              "chinese",
-              187
-            ],
-            [
-              "biden",
-              103
-            ],
-            [
-              "war",
-              102
-            ],
-            [
-              "military",
-              92
-            ],
-            [
-              "russia",
-              91
-            ],
-            [
-              "apple",
-              86
-            ],
-            [
-              "trump",
-              84
-            ],
-            [
-              "afghanistan",
-              79
-            ],
-            [
-              "musk",
-              75
-            ],
-            [
-              "cotton",
-              68
-            ],
-            [
-              "lab",
-              67
-            ],
-            [
-              "virus",
-              67
-            ],
-            [
-              "american",
-              67
-            ],
-            [
-              "trade",
-              64
-            ]
-          ],
-          "lowTerms": [
-            [
-              "representation",
-              -9
-            ],
-            [
-              "voting",
-              -9
-            ],
-            [
-              "insurance",
-              -9
-            ],
-            [
-              "non college",
-              -9
-            ],
-            [
-              "hispanic",
-              -10
-            ],
-            [
-              "districts",
-              -10
-            ],
-            [
-              "gerrymandering",
-              -12
-            ],
-            [
-              "ui",
-              -12
-            ],
-            [
-              "vaccinated",
-              -13
-            ],
-            [
-              "voter",
-              -13
-            ],
-            [
-              "college",
-              -14
-            ],
-            [
-              "remote",
-              -14
-            ],
-            [
-              "vote",
-              -15
-            ],
-            [
-              "bus",
-              -15
-            ],
-            [
-              "voters",
-              -30
-            ]
-          ],
-          "postIds": [
-            24870617,
-            35242118,
-            36527916,
-            36778380,
-            36843889,
-            36906625,
-            38911753,
-            40057542,
-            40101165,
-            44116431,
-            45716094,
-            49319517,
-            51906346,
-            78108991,
-            79982868
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "climate",
-              534
-            ],
-            [
-              "climate change",
-              212
-            ],
-            [
-              "carbon",
-              207
-            ],
-            [
-              "change",
-              147
-            ],
-            [
-              "emissions",
-              132
-            ],
-            [
-              "energy",
-              94
-            ],
-            [
               "carbon tax",
-              92
-            ],
-            [
-              "fossil",
-              82
-            ],
-            [
-              "tax",
-              80
-            ],
-            [
-              "economists",
-              76
-            ],
-            [
-              "policy",
-              71
-            ],
-            [
-              "gas",
-              67
-            ],
-            [
-              "warming",
-              64
-            ],
-            [
-              "fossil fuel",
-              64
-            ],
-            [
-              "democrats",
-              62
-            ]
-          ],
-          "lowTerms": [
-            [
-              "schools",
               -6
             ],
             [
-              "governor",
+              "irs",
               -6
             ],
-            [
-              "medicaid",
-              -7
-            ],
-            [
-              "rationing",
-              -7
-            ],
-            [
-              "ui",
-              -7
-            ],
-            [
-              "surge",
-              -7
-            ],
-            [
-              "parents",
-              -7
-            ],
-            [
-              "king",
-              -7
-            ],
-            [
-              "pro choice",
-              -7
-            ],
-            [
-              "abortions",
-              -8
-            ],
-            [
-              "trump",
-              -8
-            ],
-            [
-              "roe",
-              -9
-            ],
-            [
-              "romney",
-              -9
-            ],
-            [
-              "desantis",
-              -15
-            ],
-            [
-              "abortion",
-              -21
-            ]
-          ],
-          "postIds": [
-            20181001,
-            32732742,
-            38260421,
-            38521728,
-            40717676,
-            42095638,
-            42544154,
-            44365270,
-            46339666,
-            48318249,
-            50313114,
-            62508623,
-            66504795,
-            79778119
-          ]
-        },
-        {
-          "topTerms": [
             [
               "amazon",
-              166
-            ],
-            [
-              "china",
-              159
-            ],
-            [
-              "apple",
-              105
-            ],
-            [
-              "companies",
-              97
-            ],
-            [
-              "twitter",
-              96
-            ],
-            [
-              "media",
-              90
-            ],
-            [
-              "facebook",
-              87
-            ],
-            [
-              "business",
-              84
-            ],
-            [
-              "tech",
-              79
-            ],
-            [
-              "chinese",
-              78
-            ],
-            [
-              "google",
-              76
-            ],
-            [
-              "musk",
-              75
-            ],
-            [
-              "know",
-              74
-            ],
-            [
-              "content",
-              71
-            ],
-            [
-              "company",
-              69
-            ]
-          ],
-          "lowTerms": [
-            [
-              "child care",
-              -13
-            ],
-            [
-              "medicare",
-              -13
-            ],
-            [
-              "king",
-              -13
-            ],
-            [
-              "inflation",
-              -13
-            ],
-            [
-              "student",
-              -14
-            ],
-            [
-              "fed",
-              -15
-            ],
-            [
-              "asylum",
-              -15
-            ],
-            [
-              "forgiveness",
-              -17
-            ],
-            [
-              "student loan",
-              -17
-            ],
-            [
-              "racial",
-              -18
-            ],
-            [
-              "loan",
-              -21
-            ],
-            [
-              "immigration",
-              -22
-            ],
-            [
-              "debt",
-              -26
-            ],
-            [
-              "homelessness",
-              -29
-            ],
-            [
-              "housing",
-              -30
-            ]
-          ],
-          "postIds": [
-            18763957,
-            27286020,
-            31135140,
-            37207186,
-            37317231,
-            37683483,
-            39788317,
-            39976329,
-            52476450,
-            52577286,
-            52832260,
-            70330779,
-            75013636,
-            81292136
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "russia",
-              460
-            ],
-            [
-              "ukraine",
-              370
-            ],
-            [
-              "russian",
-              254
-            ],
-            [
-              "putin",
-              193
-            ],
-            [
-              "ukrainian",
-              181
-            ],
-            [
-              "war",
-              159
-            ],
-            [
-              "nato",
-              131
-            ],
-            [
-              "military",
-              118
-            ],
-            [
-              "europe",
-              104
-            ],
-            [
-              "western",
-              97
-            ],
-            [
-              "countries",
-              95
-            ],
-            [
-              "china",
-              84
-            ],
-            [
-              "gas",
-              82
-            ],
-            [
-              "afghanistan",
-              81
-            ],
-            [
-              "european",
-              81
-            ]
-          ],
-          "lowTerms": [
-            [
-              "facebook",
               -7
-            ],
-            [
-              "inflation",
-              -7
-            ],
-            [
-              "apple",
-              -7
-            ],
-            [
-              "income",
-              -7
-            ],
-            [
-              "musk",
-              -8
-            ],
-            [
-              "medicare",
-              -8
-            ],
-            [
-              "free speech",
-              -8
-            ],
-            [
-              "google",
-              -8
-            ],
-            [
-              "twitter",
-              -9
-            ],
-            [
-              "electricity",
-              -9
-            ],
-            [
-              "tax",
-              -10
-            ],
-            [
-              "carbon",
-              -11
             ],
             [
               "water",
-              -12
+              -8
             ],
             [
-              "amazon",
-              -12
+              "tax",
+              -10
             ],
             [
-              "abortion",
-              -17
+              "carbon",
+              -12
             ]
           ],
           "postIds": [
@@ -18912,6 +15612,7 @@ window._clusterData = {
             50154475,
             51122253,
             51595945,
+            51906346,
             57532707,
             73638721,
             78427282
@@ -18920,1232 +15621,273 @@ window._clusterData = {
         {
           "topTerms": [
             [
-              "abortion",
-              246
-            ],
-            [
-              "health",
-              187
-            ],
-            [
-              "medicare",
-              140
-            ],
-            [
-              "care",
-              129
-            ],
-            [
-              "democrats",
-              120
-            ],
-            [
-              "health care",
-              104
-            ],
-            [
-              "insurance",
-              99
-            ],
-            [
-              "medicaid",
-              84
-            ],
-            [
-              "public",
-              80
-            ],
-            [
-              "doctors",
-              76
-            ],
-            [
-              "immigration",
-              75
-            ],
-            [
-              "republicans",
-              75
-            ],
-            [
-              "pro",
-              74
-            ],
-            [
-              "abortions",
-              74
-            ],
-            [
-              "trump",
-              74
-            ]
-          ],
-          "lowTerms": [
-            [
-              "growth",
-              -19
-            ],
-            [
-              "climate",
-              -19
-            ],
-            [
-              "wealth",
-              -19
-            ],
-            [
-              "tax",
-              -21
-            ],
-            [
-              "ctc",
-              -27
-            ],
-            [
-              "slouching utopia",
-              -29
-            ],
-            [
-              "slouching",
-              -29
-            ],
-            [
-              "brad delong",
-              -29
-            ],
-            [
-              "1870",
-              -31
-            ],
-            [
-              "brad",
-              -32
-            ],
-            [
-              "remote",
-              -32
-            ],
-            [
-              "delong",
-              -36
-            ],
-            [
-              "utopia",
-              -36
-            ],
-            [
-              "taliban",
-              -38
-            ],
-            [
-              "afghanistan",
-              -47
-            ]
-          ],
-          "postIds": [
-            29540230,
-            32339536,
-            45283189,
-            50546657,
-            51046626,
-            53612371,
-            55324481,
-            61349681,
-            62988475,
-            65785401,
-            67219249
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "tax",
-              475
-            ],
-            [
-              "taxes",
-              199
-            ],
-            [
-              "income",
-              169
-            ],
-            [
-              "rich",
-              130
-            ],
-            [
-              "irs",
-              122
-            ],
-            [
-              "wealth",
-              121
-            ],
-            [
-              "revenue",
-              120
-            ],
-            [
-              "consumption",
-              93
-            ],
-            [
-              "money",
-              93
-            ],
-            [
-              "capital",
-              85
-            ],
-            [
-              "taxing",
-              74
-            ],
-            [
-              "estate",
-              74
-            ],
-            [
-              "income tax",
-              73
-            ],
-            [
-              "business",
-              69
-            ],
-            [
-              "alcohol",
-              66
-            ]
-          ],
-          "lowTerms": [
-            [
-              "manchin",
-              -14
-            ],
-            [
-              "filibuster",
-              -15
-            ],
-            [
-              "child care",
-              -16
-            ],
-            [
-              "nrc",
-              -17
-            ],
-            [
-              "renewables",
-              -18
-            ],
-            [
-              "solar",
-              -18
-            ],
-            [
-              "fed",
-              -18
-            ],
-            [
-              "reactor",
-              -18
-            ],
-            [
-              "powell",
-              -19
-            ],
-            [
-              "reactors",
-              -19
-            ],
-            [
-              "ui",
-              -19
-            ],
-            [
-              "taliban",
-              -27
-            ],
-            [
-              "electricity",
-              -27
-            ],
-            [
-              "afghanistan",
-              -31
-            ],
-            [
-              "nuclear",
-              -46
-            ]
-          ],
-          "postIds": [
-            33385334,
-            33623824,
-            35234508,
-            35574511,
-            36641597,
-            39277028,
-            43776715,
-            44867270,
-            48889500,
-            67297001,
-            69515164
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "gas",
-              255
-            ],
-            [
-              "oil",
-              252
-            ],
-            [
-              "energy",
-              236
-            ],
-            [
-              "electricity",
-              223
-            ],
-            [
-              "nuclear",
-              177
-            ],
-            [
-              "solar",
-              150
-            ],
-            [
-              "carbon",
-              148
-            ],
-            [
-              "fossil",
-              133
-            ],
-            [
-              "renewables",
-              130
-            ],
-            [
-              "climate",
-              130
-            ],
-            [
-              "geothermal",
-              122
-            ],
-            [
-              "wind",
-              111
-            ],
-            [
-              "emissions",
-              101
-            ],
-            [
-              "natural gas",
-              90
-            ],
-            [
-              "water",
-              88
-            ]
-          ],
-          "lowTerms": [
-            [
-              "immigration",
-              -18
-            ],
-            [
-              "monetary policy",
-              -18
-            ],
-            [
-              "nominal",
-              -19
-            ],
-            [
-              "nato",
-              -20
-            ],
-            [
-              "income",
-              -20
-            ],
-            [
-              "monetary",
-              -20
-            ],
-            [
-              "trump",
-              -20
-            ],
-            [
-              "powell",
-              -22
-            ],
-            [
-              "china",
-              -22
-            ],
-            [
-              "rates",
-              -25
-            ],
-            [
-              "ukraine",
-              -28
-            ],
-            [
-              "irs",
-              -29
-            ],
-            [
-              "ukrainian",
-              -30
-            ],
-            [
-              "inflation",
-              -50
-            ],
-            [
-              "fed",
-              -53
-            ]
-          ],
-          "postIds": [
-            38599439,
-            42216941,
-            42293229,
-            43217704,
-            45324667,
-            46047177,
-            47077335,
-            51236416,
-            72689224,
-            74480700,
-            76633342
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "inflation",
-              271
-            ],
-            [
-              "prices",
-              153
-            ],
-            [
-              "economy",
-              145
-            ],
-            [
-              "supply",
-              125
-            ],
-            [
-              "labor",
-              123
-            ],
-            [
-              "demand",
-              122
-            ],
-            [
-              "fed",
-              119
-            ],
-            [
-              "price",
-              106
-            ],
-            [
-              "pandemic",
-              104
-            ],
-            [
-              "housing",
-              99
-            ],
-            [
-              "market",
-              94
-            ],
-            [
-              "oil",
-              89
-            ],
-            [
-              "jobs",
-              86
-            ],
-            [
-              "workers",
-              75
-            ],
-            [
-              "growth",
-              75
-            ]
-          ],
-          "lowTerms": [
-            [
-              "police",
-              -9
-            ],
-            [
-              "abortions",
-              -9
-            ],
-            [
-              "climate provisions",
-              -9
-            ],
-            [
-              "filibuster",
-              -10
-            ],
-            [
-              "station",
-              -10
-            ],
-            [
-              "amtrak",
-              -10
-            ],
-            [
-              "asylum",
-              -10
-            ],
-            [
-              "astrazeneca",
-              -11
-            ],
-            [
-              "marriage",
-              -11
-            ],
-            [
-              "ctc",
-              -13
-            ],
-            [
-              "fda",
-              -16
-            ],
-            [
-              "vaccine",
-              -18
-            ],
-            [
-              "climate change",
-              -20
-            ],
-            [
-              "abortion",
-              -29
-            ],
-            [
-              "climate",
-              -48
-            ]
-          ],
-          "postIds": [
-            25629950,
-            32246948,
-            33073895,
-            36414669,
-            37905476,
-            47301886,
-            53938535,
-            54679617,
-            61556524
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "amazon",
-              293
-            ],
-            [
-              "companies",
-              140
-            ],
-            [
-              "labor",
-              123
-            ],
-            [
-              "apple",
-              122
-            ],
-            [
-              "google",
-              105
-            ],
-            [
-              "tech",
-              105
-            ],
-            [
-              "business",
-              105
-            ],
-            [
-              "store",
-              100
-            ],
-            [
-              "facebook",
-              99
-            ],
-            [
-              "company",
-              97
-            ],
-            [
-              "market",
-              91
-            ],
-            [
-              "monopoly",
-              86
-            ],
-            [
-              "twitter",
-              83
-            ],
-            [
-              "workers",
-              78
-            ],
-            [
-              "bigness",
-              77
-            ]
-          ],
-          "lowTerms": [
-            [
-              "abortion",
-              -25
-            ],
-            [
-              "immigration",
-              -26
-            ],
-            [
-              "mask",
-              -26
-            ],
-            [
-              "desantis",
-              -29
-            ],
-            [
-              "covid",
-              -30
-            ],
-            [
-              "homelessness",
-              -30
-            ],
-            [
-              "romney",
-              -32
-            ],
-            [
-              "trump",
-              -33
-            ],
-            [
-              "ctc",
-              -33
-            ],
-            [
-              "amtrak",
-              -34
-            ],
-            [
-              "taliban",
-              -36
-            ],
-            [
-              "afghanistan",
-              -40
-            ],
-            [
-              "inflation",
-              -40
-            ],
-            [
-              "masks",
-              -40
-            ],
-            [
-              "king",
-              -43
-            ]
-          ],
-          "postIds": [
-            30324466,
-            35485569,
-            37050919,
-            37513989,
-            38707895,
-            39070202,
-            42483229,
-            47628364,
-            47951599
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "oil",
-              301
-            ],
-            [
-              "gas",
-              231
-            ],
-            [
-              "tax",
-              217
-            ],
-            [
-              "prices",
-              170
-            ],
-            [
-              "energy",
-              170
-            ],
-            [
-              "russia",
-              155
-            ],
-            [
-              "price",
-              151
-            ],
-            [
-              "inflation",
-              141
-            ],
-            [
-              "electricity",
-              124
-            ],
-            [
-              "production",
-              106
-            ],
-            [
-              "carbon",
-              102
-            ],
-            [
-              "supply",
-              93
-            ],
-            [
-              "ukraine",
-              91
-            ],
-            [
-              "fossil",
-              91
-            ],
-            [
-              "nuclear",
-              85
-            ]
-          ],
-          "lowTerms": [
-            [
-              "masks",
-              -11
-            ],
-            [
-              "civil rights",
-              -12
-            ],
-            [
-              "civil",
-              -12
-            ],
-            [
-              "forgiveness",
-              -12
-            ],
-            [
-              "child",
-              -13
-            ],
-            [
-              "virus",
-              -13
-            ],
-            [
-              "care",
-              -13
+              "debt",
+              224
             ],
             [
               "student",
-              -14
+              174
             ],
             [
-              "amtrak",
-              -15
+              "loan",
+              156
             ],
             [
-              "ui",
-              -16
-            ],
-            [
-              "child care",
-              -17
-            ],
-            [
-              "health",
-              -17
-            ],
-            [
-              "filibuster",
-              -18
-            ],
-            [
-              "homelessness",
-              -20
-            ],
-            [
-              "king",
-              -23
-            ]
-          ],
-          "postIds": [
-            49875916,
-            50312161,
-            55799999,
-            58601559,
-            58893445,
-            62033902,
-            73868099,
-            77568330,
-            78234449
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "health",
-              194
-            ],
-            [
-              "care",
-              131
-            ],
-            [
-              "abortion",
-              127
-            ],
-            [
-              "health care",
-              91
-            ],
-            [
-              "insurance",
-              89
-            ],
-            [
-              "public",
-              89
-            ],
-            [
-              "medicare",
-              88
-            ],
-            [
-              "states",
-              78
-            ],
-            [
-              "doctors",
-              72
-            ],
-            [
-              "covid",
-              68
-            ],
-            [
-              "child",
-              67
-            ],
-            [
-              "united",
-              65
-            ],
-            [
-              "countries",
-              65
-            ],
-            [
-              "child care",
-              64
-            ],
-            [
-              "medicaid",
-              63
-            ]
-          ],
-          "lowTerms": [
-            [
-              "slouching",
-              -14
-            ],
-            [
-              "slouching utopia",
-              -14
-            ],
-            [
-              "brad",
-              -15
-            ],
-            [
-              "brad delong",
-              -15
-            ],
-            [
-              "utopia",
-              -17
-            ],
-            [
-              "party",
-              -18
-            ],
-            [
-              "seats",
-              -18
-            ],
-            [
-              "delong",
-              -19
-            ],
-            [
-              "election",
-              -20
-            ],
-            [
-              "vote",
-              -22
-            ],
-            [
-              "senate",
-              -27
-            ],
-            [
-              "taliban",
-              -27
-            ],
-            [
-              "afghanistan",
-              -31
-            ],
-            [
-              "manchin",
-              -40
-            ],
-            [
-              "biden",
-              -40
-            ]
-          ],
-          "postIds": [
-            40223294,
-            44069530,
-            46838055,
-            48704934,
-            52318807,
-            54003982,
-            54876506,
-            62667855
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "immigration",
-              138
-            ],
-            [
-              "book",
-              134
-            ],
-            [
-              "1870",
-              124
-            ],
-            [
-              "know",
-              120
-            ],
-            [
-              "utopia",
-              108
-            ],
-            [
-              "delong",
-              101
-            ],
-            [
-              "brad",
-              100
-            ],
-            [
-              "slow boring",
-              97
-            ],
-            [
-              "king",
-              95
-            ],
-            [
-              "slow",
-              95
-            ],
-            [
-              "boring",
-              92
-            ],
-            [
-              "brad delong",
-              84
-            ],
-            [
-              "slouching",
-              84
-            ],
-            [
-              "slouching utopia",
-              84
-            ],
-            [
-              "afghanistan",
-              81
-            ]
-          ],
-          "lowTerms": [
-            [
-              "insurance",
-              -41
-            ],
-            [
-              "filibuster",
-              -44
-            ],
-            [
-              "schools",
-              -46
-            ],
-            [
-              "prices",
-              -48
-            ],
-            [
-              "health care",
-              -49
-            ],
-            [
-              "chinese",
-              -50
-            ],
-            [
-              "health",
-              -60
-            ],
-            [
-              "care",
-              -62
-            ],
-            [
-              "medicare",
-              -63
-            ],
-            [
-              "amazon",
-              -66
-            ],
-            [
-              "democrats",
-              -66
-            ],
-            [
-              "abortion",
-              -71
-            ],
-            [
-              "manchin",
-              -75
-            ],
-            [
-              "teachers",
-              -87
-            ],
-            [
-              "china",
-              -106
-            ]
-          ],
-          "postIds": [
-            55178451,
-            62102053,
-            72120500,
-            76280739,
-            76672613,
-            79622747,
-            79827888
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "schools",
-              279
-            ],
-            [
-              "teachers",
-              276
-            ],
-            [
-              "school",
-              267
-            ],
-            [
-              "students",
-              179
-            ],
-            [
-              "kids",
-              166
+              "forgiveness",
+              115
             ],
             [
               "education",
-              149
+              114
+            ],
+            [
+              "student loan",
+              112
             ],
             [
               "college",
-              128
+              101
             ],
             [
-              "teacher",
-              98
-            ],
-            [
-              "scores",
+              "higher education",
               92
             ],
             [
-              "test",
+              "schools",
+              90
+            ],
+            [
+              "money",
+              89
+            ],
+            [
+              "students",
+              88
+            ],
+            [
+              "loans",
+              88
+            ],
+            [
+              "tax",
+              80
+            ],
+            [
+              "relief",
+              80
+            ],
+            [
+              "wealth",
               77
-            ],
-            [
-              "parents",
-              74
-            ],
-            [
-              "high",
-              73
-            ],
-            [
-              "dcps",
-              70
-            ],
-            [
-              "selective",
-              70
-            ],
-            [
-              "children",
-              70
             ]
           ],
           "lowTerms": [
             [
-              "wealth gap",
-              -18
+              "car",
+              -12
             ],
             [
-              "filibuster",
-              -19
+              "production",
+              -12
             ],
             [
-              "civil",
-              -19
+              "married",
+              -12
             ],
             [
-              "delong",
-              -19
+              "children",
+              -13
             ],
             [
-              "medicare",
-              -20
+              "russian",
+              -14
             ],
             [
-              "fed",
-              -20
-            ],
-            [
-              "nuclear",
-              -20
-            ],
-            [
-              "civil rights",
-              -21
+              "hispanic",
+              -15
             ],
             [
               "1870",
+              -16
+            ],
+            [
+              "immigration",
+              -16
+            ],
+            [
+              "meat",
+              -16
+            ],
+            [
+              "voters",
+              -19
+            ],
+            [
+              "cars",
+              -20
+            ],
+            [
+              "child care",
+              -33
+            ],
+            [
+              "oil",
+              -34
+            ],
+            [
+              "child",
+              -37
+            ],
+            [
+              "ctc",
+              -38
+            ]
+          ],
+          "postIds": [
+            21496045,
+            24537925,
+            31019610,
+            32681123,
+            32719935,
+            32945630,
+            39090718,
+            39652693,
+            41221238,
+            46030715,
+            57340427,
+            70469724
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "schools",
+              214
+            ],
+            [
+              "school",
+              212
+            ],
+            [
+              "teachers",
+              210
+            ],
+            [
+              "students",
+              134
+            ],
+            [
+              "kids",
+              129
+            ],
+            [
+              "education",
+              117
+            ],
+            [
+              "college",
+              107
+            ],
+            [
+              "covid",
+              90
+            ],
+            [
+              "labor",
+              88
+            ],
+            [
+              "pandemic",
+              84
+            ],
+            [
+              "teacher",
+              73
+            ],
+            [
+              "scores",
+              68
+            ],
+            [
+              "remote",
+              64
+            ],
+            [
+              "high",
+              64
+            ],
+            [
+              "student",
+              60
+            ]
+          ],
+          "lowTerms": [
+            [
+              "fed",
+              -15
+            ],
+            [
+              "senate",
+              -15
+            ],
+            [
+              "racial wealth",
+              -16
+            ],
+            [
+              "nuclear",
+              -17
+            ],
+            [
+              "gun",
+              -19
+            ],
+            [
+              "wealth gap",
+              -20
+            ],
+            [
+              "chinese",
+              -20
+            ],
+            [
+              "abortion",
+              -21
+            ],
+            [
+              "filibuster",
               -23
+            ],
+            [
+              "rights",
+              -24
             ],
             [
               "manchin",
               -24
             ],
             [
-              "ai",
+              "racial",
               -25
             ],
             [
-              "abortion",
-              -29
+              "medicare",
+              -28
             ],
             [
-              "rights",
-              -31
+              "china",
+              -42
             ],
             [
               "wealth",
-              -49
-            ],
-            [
-              "king",
-              -51
+              -47
             ]
           ],
           "postIds": [
             32872379,
-            40369585,
-            40605148,
+            36158790,
             45699207,
+            50907408,
             71488255,
             73006846
           ]
@@ -20157,97 +15899,93 @@ window._clusterData = {
         {
           "topTerms": [
             [
-              "politics",
-              78
-            ],
-            [
-              "political",
+              "know",
               75
             ],
             [
-              "democrats",
-              74
+              "politics",
+              73
             ],
             [
-              "know",
-              72
+              "political",
+              71
             ],
             [
-              "party",
-              69
-            ],
-            [
-              "policy",
+              "housing",
               68
             ],
             [
-              "school",
-              67
+              "policy",
+              64
             ],
             [
-              "russia",
-              66
-            ],
-            [
-              "trump",
-              65
+              "democrats",
+              64
             ],
             [
               "bad",
-              64
+              63
             ],
             [
-              "state",
-              64
+              "world",
+              61
             ],
             [
               "ve",
               61
             ],
             [
-              "world",
+              "party",
               60
             ],
             [
-              "american",
+              "state",
               60
+            ],
+            [
+              "money",
+              59
+            ],
+            [
+              "kind",
+              58
+            ],
+            [
+              "city",
+              57
             ],
             [
               "states",
-              59
+              57
             ]
           ],
           "lowTerms": [
             [
-              "lumber",
+              "300 week",
               -1
             ],
             [
-              "detention",
+              "pandemic related",
               -1
             ],
             [
-              "vaccinated",
+              "climate left",
               -1
             ],
             [
-              "people vaccinated",
+              "hesitancy",
               -1
             ],
             [
-              "unemployment benefits",
+              "quitting",
               -1
             ],
             [
-              "vaccinate",
+              "tight labor",
               -1
             ],
             [
-              "statistical discrimination",
-              -1
-            ],
-            [
-              "stock market",
+              "global oil",
               -1
             ],
             [
@@ -20255,12 +15993,20 @@ window._clusterData = {
               -1
             ],
             [
-              "hate crimes",
+              "unemployment benefits",
+              -1
+            ],
+            [
+              "lumber",
               -1
             ],
             [
               "ui",
-              -2
+              -1
+            ],
+            [
+              "output gap",
+              -1
             ],
             [
               "labor supply",
@@ -20271,144 +16017,331 @@ window._clusterData = {
               -3
             ],
             [
-              "omicron",
-              -3
-            ],
-            [
               "wealth gap",
-              -4
+              -3
             ]
           ],
           "postIds": [
-            31019610,
+            21025509,
             31744223,
+            32517388,
+            32639465,
+            33181330,
             33619836,
             33621408,
+            35068697,
+            37283393,
             38685806,
+            39788317,
+            39814820,
+            39976329,
+            40122162,
+            44331429,
+            45324667,
+            46255603,
             47340895,
+            47628364,
+            47648339,
             48096690,
             48797501,
+            49184248,
             49586092,
             49957000,
             50420977,
             50890967,
+            51206634,
             51255546,
+            51677020,
             52098549,
             52491210,
+            52906498,
             53313492,
             54303445,
             55471340,
             56289053,
+            57548064,
+            58582964,
+            58991483,
             59628308,
+            62060883,
+            62789022,
             63701446,
+            64793172,
+            65843580,
             66285562,
             67028943,
             67862093,
             69004628,
+            70000534,
+            71054684,
             72130698,
             74140735,
             75489758,
             77835827,
             79379632,
+            80475018,
             82102641,
             83218989,
-            84695778
+            84695778,
+            86223678,
+            87219657,
+            87749070
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "democrats",
+              221
+            ],
+            [
+              "trump",
+              196
+            ],
+            [
+              "party",
+              154
+            ],
+            [
+              "biden",
+              132
+            ],
+            [
+              "republicans",
+              130
+            ],
+            [
+              "vote",
+              114
+            ],
+            [
+              "senate",
+              110
+            ],
+            [
+              "politics",
+              107
+            ],
+            [
+              "voters",
+              104
+            ],
+            [
+              "democratic",
+              98
+            ],
+            [
+              "gop",
+              97
+            ],
+            [
+              "election",
+              93
+            ],
+            [
+              "political",
+              87
+            ],
+            [
+              "obama",
+              87
+            ],
+            [
+              "manchin",
+              86
+            ]
+          ],
+          "lowTerms": [
+            [
+              "poor countries",
+              -3
+            ],
+            [
+              "vaccines",
+              -3
+            ],
+            [
+              "ctc",
+              -3
+            ],
+            [
+              "class struggle",
+              -4
+            ],
+            [
+              "omicron",
+              -4
+            ],
+            [
+              "irs",
+              -4
+            ],
+            [
+              "warming",
+              -4
+            ],
+            [
+              "ai",
+              -4
+            ],
+            [
+              "king",
+              -5
+            ],
+            [
+              "1870",
+              -5
+            ],
+            [
+              "lab",
+              -6
+            ],
+            [
+              "wealth",
+              -6
+            ],
+            [
+              "child care",
+              -7
+            ],
+            [
+              "chinese",
+              -8
+            ],
+            [
+              "china",
+              -15
+            ]
+          ],
+          "postIds": [
+            18135875,
+            19286343,
+            19639907,
+            19674370,
+            20385917,
+            20388649,
+            31111321,
+            31249622,
+            31707412,
+            32491521,
+            33117945,
+            33225505,
+            34505451,
+            34726651,
+            34958079,
+            35023354,
+            36270312,
+            36340664,
+            37935686,
+            39132207,
+            41366749,
+            42357605,
+            42593733,
+            42818394,
+            44411395,
+            45612841,
+            46630592,
+            51403483,
+            52323997,
+            52816815,
+            57982533,
+            58394722,
+            59616580,
+            61760608,
+            64200864,
+            67128817,
+            70608891,
+            79072865,
+            81750627,
+            83441825
           ]
         },
         {
           "topTerms": [
             [
               "vaccine",
-              397
+              372
             ],
             [
               "vaccines",
-              266
+              257
             ],
             [
               "covid",
-              218
+              229
             ],
             [
               "vaccinated",
-              188
+              182
             ],
             [
               "fda",
-              132
+              122
             ],
             [
               "vaccination",
-              124
-            ],
-            [
-              "pfizer",
-              99
-            ],
-            [
-              "covid 19",
-              98
-            ],
-            [
-              "19",
-              96
-            ],
-            [
-              "public health",
-              92
-            ],
-            [
-              "doses",
-              91
-            ],
-            [
-              "cdc",
-              90
+              120
             ],
             [
               "health",
-              88
+              109
             ],
             [
               "virus",
-              88
+              107
+            ],
+            [
+              "covid 19",
+              105
+            ],
+            [
+              "19",
+              104
+            ],
+            [
+              "public health",
+              101
             ],
             [
               "masks",
-              84
+              96
+            ],
+            [
+              "cdc",
+              93
+            ],
+            [
+              "pfizer",
+              93
+            ],
+            [
+              "pandemic",
+              91
             ]
           ],
           "lowTerms": [
             [
-              "country does",
+              "ctc",
               -4
             ],
             [
-              "luther king",
+              "higher education",
               -4
             ],
             [
-              "luther",
+              "superstar",
               -4
             ],
             [
-              "martin luther",
+              "class struggle",
               -4
             ],
             [
-              "child care",
+              "social security",
               -4
             ],
             [
-              "ui",
-              -4
-            ],
-            [
-              "negro",
-              -4
-            ],
-            [
-              "sense say",
+              "mccain",
               -5
             ],
             [
@@ -20416,28 +16349,36 @@ window._clusterData = {
               -5
             ],
             [
-              "struggle",
+              "pakistan",
               -5
             ],
             [
-              "romney",
+              "afghan",
               -5
             ],
             [
-              "cotton",
+              "child care",
               -6
             ],
             [
-              "class struggle",
+              "iran",
               -7
             ],
             [
-              "china",
+              "romney",
+              -10
+            ],
+            [
+              "taliban",
               -12
             ],
             [
               "king",
-              -20
+              -13
+            ],
+            [
+              "afghanistan",
+              -15
             ]
           ],
           "postIds": [
@@ -20459,361 +16400,375 @@ window._clusterData = {
             39501472,
             40445033,
             41065980,
+            41876619,
+            42799609,
+            43395570,
             44385797,
             44637943,
             44963138,
             45036946,
             45439251,
+            46744436,
             47387100,
             51509642,
             55172787,
+            56809511,
             61904141,
-            62717990
+            62717990,
+            66833698
           ]
         },
         {
           "topTerms": [
             [
-              "democrats",
-              237
+              "know",
+              99
             ],
             [
-              "party",
-              174
-            ],
-            [
-              "trump",
-              160
-            ],
-            [
-              "vote",
-              138
-            ],
-            [
-              "senate",
-              135
-            ],
-            [
-              "manchin",
-              134
-            ],
-            [
-              "biden",
-              127
-            ],
-            [
-              "republicans",
-              126
-            ],
-            [
-              "politics",
-              107
-            ],
-            [
-              "voters",
-              107
-            ],
-            [
-              "democratic",
-              106
-            ],
-            [
-              "election",
-              100
-            ],
-            [
-              "state",
-              98
-            ],
-            [
-              "gop",
-              94
-            ],
-            [
-              "political",
-              87
-            ]
-          ],
-          "lowTerms": [
-            [
-              "fed",
-              -12
-            ],
-            [
-              "immigrants",
-              -13
-            ],
-            [
-              "wealth",
-              -13
-            ],
-            [
-              "lab",
-              -13
-            ],
-            [
-              "income",
-              -14
-            ],
-            [
-              "doctors",
-              -14
-            ],
-            [
-              "countries",
-              -15
-            ],
-            [
-              "legal immigration",
-              -15
-            ],
-            [
-              "central america",
-              -15
-            ],
-            [
-              "irs",
-              -16
-            ],
-            [
-              "mexico",
-              -16
-            ],
-            [
-              "chinese",
-              -22
-            ],
-            [
-              "immigration",
-              -27
-            ],
-            [
-              "asylum",
-              -30
-            ],
-            [
-              "china",
-              -40
-            ]
-          ],
-          "postIds": [
-            18135875,
-            19674370,
-            31111321,
-            31938867,
-            33117945,
-            34726651,
-            35023354,
-            35158309,
-            36270312,
-            37362427,
-            39132207,
-            41366749,
-            41717672,
-            42818394,
-            42994582,
-            46630592,
-            47275872,
-            47491031,
-            51043454,
-            51850560,
-            52218768,
-            57982533,
-            64200864
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "trump",
-              221
-            ],
-            [
-              "democrats",
-              205
-            ],
-            [
-              "party",
-              141
-            ],
-            [
-              "republicans",
-              133
-            ],
-            [
-              "abortion",
-              123
-            ],
-            [
-              "biden",
-              122
-            ],
-            [
-              "politics",
-              106
-            ],
-            [
-              "immigration",
-              101
-            ],
-            [
-              "gop",
-              101
-            ],
-            [
-              "vote",
-              97
-            ],
-            [
-              "voters",
-              94
-            ],
-            [
-              "senate",
-              93
-            ],
-            [
-              "obama",
+              "king",
               91
             ],
             [
-              "democratic",
-              90
+              "book",
+              84
             ],
             [
-              "election",
-              87
+              "boring",
+              75
+            ],
+            [
+              "ve",
+              75
+            ],
+            [
+              "movie",
+              74
+            ],
+            [
+              "slow boring",
+              73
+            ],
+            [
+              "slow",
+              71
+            ],
+            [
+              "world",
+              69
+            ],
+            [
+              "media",
+              66
+            ],
+            [
+              "year",
+              63
+            ],
+            [
+              "ai",
+              62
+            ],
+            [
+              "kind",
+              61
+            ],
+            [
+              "day",
+              61
+            ],
+            [
+              "matt",
+              60
             ]
           ],
           "lowTerms": [
             [
-              "delong",
-              -8
-            ],
-            [
-              "productivity",
-              -8
-            ],
-            [
-              "parking",
-              -8
-            ],
-            [
-              "bigness",
-              -8
-            ],
-            [
-              "ukraine",
-              -8
-            ],
-            [
-              "russia",
-              -8
-            ],
-            [
-              "labor market",
-              -9
-            ],
-            [
-              "1870",
-              -10
-            ],
-            [
-              "ctc",
-              -10
-            ],
-            [
-              "wealth gap",
-              -10
-            ],
-            [
-              "housing",
+              "vaccine",
               -11
             ],
             [
-              "ui",
-              -13
+              "tariffs",
+              -11
             ],
             [
-              "child care",
-              -13
+              "prc",
+              -12
             ],
             [
-              "wealth",
+              "trump",
+              -15
+            ],
+            [
+              "teachers",
+              -16
+            ],
+            [
+              "price",
               -17
             ],
             [
-              "amazon",
-              -30
+              "racial",
+              -17
+            ],
+            [
+              "romney",
+              -18
+            ],
+            [
+              "medicare",
+              -19
+            ],
+            [
+              "gas",
+              -20
+            ],
+            [
+              "prices",
+              -21
+            ],
+            [
+              "chinese",
+              -31
+            ],
+            [
+              "housing",
+              -33
+            ],
+            [
+              "oil",
+              -42
+            ],
+            [
+              "china",
+              -55
             ]
           ],
           "postIds": [
-            19286343,
-            19639907,
-            20388649,
-            31249622,
-            31707412,
-            32491521,
-            36340664,
-            37486827,
-            37935686,
-            42357605,
-            50546657,
-            51403483,
-            52816815,
-            53251092,
-            59616580,
-            61760608,
-            67128817,
-            70864744,
-            71786926,
-            79072865,
-            81750627,
-            83441825,
-            84371323
+            20151892,
+            33852109,
+            36964454,
+            37860233,
+            38538877,
+            40013889,
+            42771495,
+            43462576,
+            43861452,
+            44364076,
+            45497623,
+            47201646,
+            48427324,
+            48771270,
+            49031868,
+            49884768,
+            51621477,
+            55715489,
+            59115931,
+            59518168,
+            60143292,
+            61636691,
+            62102053,
+            68190824,
+            69245031,
+            71488255,
+            75632816,
+            81631713,
+            83696648,
+            84489473,
+            86017873
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "democrats",
+              220
+            ],
+            [
+              "biden",
+              177
+            ],
+            [
+              "manchin",
+              176
+            ],
+            [
+              "party",
+              144
+            ],
+            [
+              "senate",
+              136
+            ],
+            [
+              "republicans",
+              112
+            ],
+            [
+              "vote",
+              104
+            ],
+            [
+              "trump",
+              96
+            ],
+            [
+              "democratic",
+              93
+            ],
+            [
+              "congress",
+              87
+            ],
+            [
+              "house",
+              87
+            ],
+            [
+              "state",
+              81
+            ],
+            [
+              "joe",
+              79
+            ],
+            [
+              "election",
+              75
+            ],
+            [
+              "politics",
+              75
+            ]
+          ],
+          "lowTerms": [
+            [
+              "king",
+              -8
+            ],
+            [
+              "nominal",
+              -8
+            ],
+            [
+              "medical",
+              -8
+            ],
+            [
+              "travel restrictions",
+              -8
+            ],
+            [
+              "quarantine",
+              -8
+            ],
+            [
+              "alcohol",
+              -9
+            ],
+            [
+              "public health",
+              -9
+            ],
+            [
+              "lab",
+              -9
+            ],
+            [
+              "monkeypox",
+              -10
+            ],
+            [
+              "doctors",
+              -10
+            ],
+            [
+              "mask",
+              -10
+            ],
+            [
+              "outbreak",
+              -10
+            ],
+            [
+              "health",
+              -11
+            ],
+            [
+              "travel",
+              -11
+            ],
+            [
+              "masks",
+              -21
+            ]
+          ],
+          "postIds": [
+            18177334,
+            31099143,
+            31938867,
+            32818531,
+            32945630,
+            33723873,
+            34598585,
+            35158309,
+            37362427,
+            37621689,
+            38021094,
+            39401906,
+            40859634,
+            41611441,
+            41717672,
+            41890896,
+            42994582,
+            44284522,
+            47017468,
+            47275872,
+            47491031,
+            48152830,
+            51043454,
+            51850560,
+            52218768,
+            67642825,
+            83900508
           ]
         },
         {
           "topTerms": [
             [
               "housing",
-              495
-            ],
-            [
-              "homelessness",
-              161
-            ],
-            [
-              "land",
-              159
+              462
             ],
             [
               "city",
-              159
+              154
+            ],
+            [
+              "land",
+              151
+            ],
+            [
+              "homelessness",
+              148
             ],
             [
               "construction",
-              106
+              102
             ],
             [
               "houses",
-              105
-            ],
-            [
-              "homes",
-              95
+              98
             ],
             [
               "zoning",
-              95
+              91
+            ],
+            [
+              "homes",
+              91
             ],
             [
               "parking",
-              89
-            ],
-            [
-              "units",
-              87
+              88
             ],
             [
               "cities",
@@ -20821,81 +16776,85 @@ window._clusterData = {
             ],
             [
               "buildings",
-              86
-            ],
-            [
-              "market",
-              80
+              85
             ],
             [
               "supply",
-              80
+              84
             ],
             [
-              "live",
+              "market",
+              82
+            ],
+            [
+              "units",
+              81
+            ],
+            [
+              "demand",
               79
             ]
           ],
           "lowTerms": [
             [
+              "passenger rail",
+              -5
+            ],
+            [
               "irs",
-              -6
+              -5
             ],
             [
-              "stimulus",
-              -6
+              "rescue",
+              -5
             ],
             [
-              "mask",
+              "misinformation",
+              -5
+            ],
+            [
+              "russia",
+              -5
+            ],
+            [
+              "ctc",
               -6
             ],
             [
               "amazon",
-              -7
+              -6
             ],
             [
-              "fed",
-              -7
+              "masks",
+              -6
             ],
             [
-              "employment",
-              -7
+              "economists",
+              -6
+            ],
+            [
+              "passenger",
+              -6
             ],
             [
               "romney",
               -7
             ],
             [
-              "economists",
-              -7
-            ],
-            [
-              "passenger",
-              -8
-            ],
-            [
-              "russia",
-              -8
-            ],
-            [
-              "misinformation",
-              -8
-            ],
-            [
-              "masks",
-              -9
-            ],
-            [
               "ui",
-              -11
+              -8
             ],
             [
               "trump",
-              -12
+              -11
+            ],
+            [
+              "king",
+              -13
             ],
             [
               "amtrak",
-              -28
+              -24
             ]
           ],
           "postIds": [
@@ -20910,292 +16869,1334 @@ window._clusterData = {
             37783952,
             38568767,
             39521210,
+            40013897,
             40930116,
             41219220,
             43078271,
             47420388,
             48220002,
+            50591662,
             53053394,
             55315571,
             58867637,
             60621688,
             71941523,
             76246796,
-            77653288
+            77653288,
+            85410902
           ]
         },
         {
           "topTerms": [
             [
-              "know",
-              105
+              "black",
+              170
             ],
             [
-              "book",
-              84
-            ],
-            [
-              "movie",
-              78
-            ],
-            [
-              "ai",
-              75
-            ],
-            [
-              "world",
-              74
-            ],
-            [
-              "ve",
-              71
-            ],
-            [
-              "media",
-              70
-            ],
-            [
-              "boring",
-              67
-            ],
-            [
-              "kind",
-              66
-            ],
-            [
-              "school",
-              64
-            ],
-            [
-              "bad",
-              64
-            ],
-            [
-              "read",
-              62
-            ],
-            [
-              "political",
-              62
-            ],
-            [
-              "amazon",
-              61
-            ],
-            [
-              "slow boring",
-              61
-            ]
-          ],
-          "lowTerms": [
-            [
-              "debt ceiling",
-              -8
-            ],
-            [
-              "russia",
-              -8
-            ],
-            [
-              "white people",
-              -8
-            ],
-            [
-              "joe manchin",
-              -9
-            ],
-            [
-              "racial wealth",
-              -9
-            ],
-            [
-              "reconciliation",
-              -10
-            ],
-            [
-              "immigration",
-              -11
-            ],
-            [
-              "sinema",
-              -11
-            ],
-            [
-              "wealth gap",
-              -11
-            ],
-            [
-              "obama",
-              -12
-            ],
-            [
-              "democrats",
-              -13
+              "white",
+              167
             ],
             [
               "racial",
+              149
+            ],
+            [
+              "trump",
+              146
+            ],
+            [
+              "democrats",
+              142
+            ],
+            [
+              "voters",
+              114
+            ],
+            [
+              "politics",
+              109
+            ],
+            [
+              "party",
+              102
+            ],
+            [
+              "race",
+              94
+            ],
+            [
+              "political",
+              84
+            ],
+            [
+              "vote",
+              82
+            ],
+            [
+              "white people",
+              81
+            ],
+            [
+              "left",
+              77
+            ],
+            [
+              "obama",
+              77
+            ],
+            [
+              "racism",
+              75
+            ]
+          ],
+          "lowTerms": [
+            [
+              "apple",
+              -6
+            ],
+            [
+              "trillion",
+              -7
+            ],
+            [
+              "loan forgiveness",
+              -7
+            ],
+            [
+              "amtrak",
+              -7
+            ],
+            [
+              "water",
+              -7
+            ],
+            [
+              "infrastructure",
+              -8
+            ],
+            [
+              "ai",
+              -9
+            ],
+            [
+              "loans",
+              -10
+            ],
+            [
+              "child care",
+              -10
+            ],
+            [
+              "student loan",
+              -12
+            ],
+            [
+              "ctc",
+              -12
+            ],
+            [
+              "billion",
+              -12
+            ],
+            [
+              "forgiveness",
+              -12
+            ],
+            [
+              "debt",
               -15
             ],
             [
-              "biden",
-              -19
-            ],
-            [
-              "oil",
-              -24
-            ],
-            [
-              "manchin",
-              -29
+              "loan",
+              -18
             ]
           ],
           "postIds": [
-            33181330,
-            36964454,
-            42019701,
-            45497623,
-            47201646,
-            47565914,
-            47648339,
-            48771270,
-            49184248,
-            49884768,
-            51621477,
-            55715489,
-            58582964,
-            58991483,
-            59518168,
-            68190824,
-            69245031,
-            70330779,
-            75013636,
-            75632816,
-            84489473
+            21782308,
+            25273198,
+            31358451,
+            32132668,
+            33907831,
+            34532548,
+            34560988,
+            35728483,
+            36068169,
+            37095438,
+            37846642,
+            38102501,
+            41538326,
+            41651022,
+            41661400,
+            42005076,
+            42751863,
+            45091161,
+            48468569,
+            53260750,
+            53302113,
+            58251621,
+            78581735
           ]
         },
         {
           "topTerms": [
             [
-              "schools",
-              273
+              "child",
+              279
             ],
             [
-              "school",
-              257
+              "tax",
+              197
             ],
             [
-              "teachers",
-              239
+              "child care",
+              196
             ],
             [
-              "students",
-              189
+              "ctc",
+              193
             ],
             [
-              "education",
-              163
+              "care",
+              158
+            ],
+            [
+              "program",
+              118
             ],
             [
               "kids",
-              153
+              113
             ],
             [
-              "college",
-              147
+              "parents",
+              109
             ],
             [
-              "student",
-              108
+              "income",
+              106
             ],
             [
-              "black",
-              95
+              "tax credit",
+              104
             ],
             [
-              "scores",
-              89
+              "poverty",
+              104
             ],
             [
-              "teacher",
-              86
+              "money",
+              103
             ],
             [
-              "selective",
-              77
+              "families",
+              102
             ],
             [
-              "test",
-              76
+              "plan",
+              97
             ],
             [
-              "high",
-              72
-            ],
-            [
-              "higher education",
-              69
+              "programs",
+              97
             ]
           ],
           "lowTerms": [
             [
-              "crimes",
+              "misinformation",
+              -5
+            ],
+            [
+              "vaccine",
+              -5
+            ],
+            [
+              "loan forgiveness",
+              -5
+            ],
+            [
+              "nominal",
+              -5
+            ],
+            [
+              "economists",
+              -5
+            ],
+            [
+              "degrees",
+              -6
+            ],
+            [
+              "2016",
+              -6
+            ],
+            [
+              "loans",
+              -6
+            ],
+            [
+              "voters",
               -8
             ],
             [
-              "class struggle",
+              "trump",
               -8
+            ],
+            [
+              "student",
+              -9
+            ],
+            [
+              "forgiveness",
+              -10
+            ],
+            [
+              "asylum",
+              -12
             ],
             [
               "amazon",
+              -15
+            ],
+            [
+              "immigration",
+              -17
+            ]
+          ],
+          "postIds": [
+            27708677,
+            31205974,
+            31499698,
+            32083147,
+            32225523,
+            32327195,
+            33561876,
+            34138201,
+            35707392,
+            35736024,
+            35775832,
+            37489725,
+            38861337,
+            39277028,
+            41819786,
+            42849313,
+            43680098,
+            43776715,
+            44608127,
+            44832459,
+            45612097,
+            72587432
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "labor",
+              186
+            ],
+            [
+              "inflation",
+              151
+            ],
+            [
+              "economy",
+              151
+            ],
+            [
+              "immigration",
+              119
+            ],
+            [
+              "jobs",
+              117
+            ],
+            [
+              "workers",
+              116
+            ],
+            [
+              "biden",
+              112
+            ],
+            [
+              "supply",
+              108
+            ],
+            [
+              "demand",
+              107
+            ],
+            [
+              "employment",
+              107
+            ],
+            [
+              "pandemic",
+              96
+            ],
+            [
+              "ui",
+              96
+            ],
+            [
+              "job",
+              93
+            ],
+            [
+              "amazon",
+              90
+            ],
+            [
+              "fed",
+              89
+            ]
+          ],
+          "lowTerms": [
+            [
+              "court",
+              -10
+            ],
+            [
+              "rights",
+              -10
+            ],
+            [
+              "water",
+              -10
+            ],
+            [
+              "roe",
+              -10
+            ],
+            [
+              "pro choice",
+              -11
+            ],
+            [
+              "marriage",
+              -11
+            ],
+            [
+              "ea",
+              -13
+            ],
+            [
+              "gun",
+              -13
+            ],
+            [
+              "chinese",
+              -13
+            ],
+            [
+              "sex",
+              -13
+            ],
+            [
+              "ai",
+              -14
+            ],
+            [
+              "abortions",
+              -14
+            ],
+            [
+              "filibuster",
+              -16
+            ],
+            [
+              "china",
+              -29
+            ],
+            [
+              "abortion",
+              -40
+            ]
+          ],
+          "postIds": [
+            25629950,
+            29431751,
+            30087879,
+            31754871,
+            32246948,
+            33073895,
+            34274481,
+            35331456,
+            36203851,
+            36414669,
+            37075486,
+            37905476,
+            41019553,
+            43822350,
+            45304661,
+            45523273,
+            46943642,
+            48296586,
+            53938535,
+            69956089,
+            72273018
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "transit",
+              259
+            ],
+            [
+              "amtrak",
+              238
+            ],
+            [
+              "station",
+              196
+            ],
+            [
+              "rail",
+              188
+            ],
+            [
+              "trains",
+              179
+            ],
+            [
+              "train",
+              165
+            ],
+            [
+              "city",
+              151
+            ],
+            [
+              "bus",
+              147
+            ],
+            [
+              "transportation",
+              120
+            ],
+            [
+              "metro",
+              113
+            ],
+            [
+              "infrastructure",
+              96
+            ],
+            [
+              "service",
+              94
+            ],
+            [
+              "stations",
+              94
+            ],
+            [
+              "new york",
+              92
+            ],
+            [
+              "york",
+              92
+            ]
+          ],
+          "lowTerms": [
+            [
+              "ctc",
+              -8
+            ],
+            [
+              "vacancy",
+              -8
+            ],
+            [
+              "abundance",
+              -8
+            ],
+            [
+              "oil",
+              -8
+            ],
+            [
+              "homeless",
               -9
             ],
             [
-              "parking",
+              "brad delong",
               -9
+            ],
+            [
+              "slouching utopia",
+              -9
+            ],
+            [
+              "slouching",
+              -9
+            ],
+            [
+              "trump",
+              -10
+            ],
+            [
+              "brad",
+              -10
+            ],
+            [
+              "student",
+              -10
+            ],
+            [
+              "delong",
+              -11
+            ],
+            [
+              "1870",
+              -11
+            ],
+            [
+              "utopia",
+              -13
+            ],
+            [
+              "homelessness",
+              -30
+            ]
+          ],
+          "postIds": [
+            22022458,
+            25631028,
+            26052510,
+            31814728,
+            34039930,
+            34795251,
+            37860687,
+            38223101,
+            39438399,
+            40304298,
+            40811123,
+            41126571,
+            41325034,
+            42254178,
+            43489135,
+            46309170,
+            61042827,
+            66679912,
+            73166055,
+            75232689,
+            81372927
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "police",
+              435
+            ],
+            [
+              "crime",
+              320
+            ],
+            [
+              "officers",
+              177
+            ],
+            [
+              "policing",
+              146
+            ],
+            [
+              "cops",
+              145
+            ],
+            [
+              "crimes",
+              133
+            ],
+            [
+              "murder",
+              120
+            ],
+            [
+              "murders",
+              98
+            ],
+            [
+              "prison",
+              82
+            ],
+            [
+              "enforcement",
+              80
+            ],
+            [
+              "black",
+              79
+            ],
+            [
+              "gun",
+              78
+            ],
+            [
+              "police officers",
+              76
+            ],
+            [
+              "violence",
+              76
+            ],
+            [
+              "shootings",
+              76
+            ]
+          ],
+          "lowTerms": [
+            [
+              "penn",
+              -4
+            ],
+            [
+              "bahn",
+              -4
+            ],
+            [
+              "stations",
+              -4
+            ],
+            [
+              "tunnel",
+              -5
+            ],
+            [
+              "loan",
+              -6
+            ],
+            [
+              "forgiveness",
+              -6
+            ],
+            [
+              "trains",
+              -7
+            ],
+            [
+              "land",
+              -7
+            ],
+            [
+              "debt",
+              -8
+            ],
+            [
+              "rail",
+              -8
             ],
             [
               "wealth",
               -9
             ],
             [
-              "gun",
+              "ctc",
+              -9
+            ],
+            [
+              "station",
+              -11
+            ],
+            [
+              "romney",
+              -12
+            ],
+            [
+              "amtrak",
+              -12
+            ]
+          ],
+          "postIds": [
+            21384896,
+            31771252,
+            33310644,
+            33880097,
+            34878921,
+            35481514,
+            36745286,
+            38348118,
+            39924073,
+            40505560,
+            43195629,
+            43437512,
+            44701852,
+            46701030,
+            49685582,
+            56724202,
+            57830726,
+            74135684,
+            75584109,
+            88097777
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "inflation",
+              507
+            ],
+            [
+              "fed",
+              238
+            ],
+            [
+              "prices",
+              180
+            ],
+            [
+              "economy",
+              142
+            ],
+            [
+              "price",
+              133
+            ],
+            [
+              "nominal",
+              101
+            ],
+            [
+              "supply",
+              100
+            ],
+            [
+              "rates",
+              93
+            ],
+            [
+              "monetary",
+              92
+            ],
+            [
+              "policy",
+              85
+            ],
+            [
+              "demand",
+              85
+            ],
+            [
+              "stimulus",
+              83
+            ],
+            [
+              "powell",
+              83
+            ],
+            [
+              "growth",
+              81
+            ],
+            [
+              "target",
+              76
+            ]
+          ],
+          "lowTerms": [
+            [
+              "ukrainian",
+              -6
+            ],
+            [
+              "google",
+              -6
+            ],
+            [
+              "irs",
+              -6
+            ],
+            [
+              "estate",
+              -6
+            ],
+            [
+              "border",
+              -6
+            ],
+            [
+              "electricity",
+              -6
+            ],
+            [
+              "bigness",
+              -7
+            ],
+            [
+              "monopoly",
+              -7
+            ],
+            [
+              "california",
+              -7
+            ],
+            [
+              "teachers",
+              -7
+            ],
+            [
+              "renewables",
+              -8
+            ],
+            [
+              "nuclear",
               -10
             ],
             [
-              "slouching utopia",
-              -11
-            ],
-            [
-              "slouching",
-              -11
-            ],
-            [
-              "brad delong",
-              -11
-            ],
-            [
-              "brad",
+              "immigration",
               -12
             ],
             [
-              "utopia",
-              -12
-            ],
-            [
-              "delong",
+              "asylum",
               -14
             ],
             [
-              "1870",
+              "amazon",
+              -21
+            ]
+          ],
+          "postIds": [
+            19335206,
+            33419617,
+            34189082,
+            34495712,
+            35971137,
+            37443861,
+            39881555,
+            42642779,
+            43108837,
+            43937960,
+            44164067,
+            45073472,
+            50525181,
+            52294719,
+            52767182,
+            54679617,
+            60336780,
+            60539716,
+            78751941
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "amazon",
+              241
+            ],
+            [
+              "companies",
+              118
+            ],
+            [
+              "apple",
+              113
+            ],
+            [
+              "twitter",
+              110
+            ],
+            [
+              "facebook",
+              106
+            ],
+            [
+              "tech",
+              104
+            ],
+            [
+              "business",
+              99
+            ],
+            [
+              "china",
+              98
+            ],
+            [
+              "google",
+              96
+            ],
+            [
+              "musk",
+              91
+            ],
+            [
+              "media",
+              91
+            ],
+            [
+              "company",
+              88
+            ],
+            [
+              "store",
+              81
+            ],
+            [
+              "content",
+              75
+            ],
+            [
+              "market",
+              75
+            ]
+          ],
+          "lowTerms": [
+            [
+              "poverty",
               -15
             ],
             [
-              "manchin",
-              -19
+              "oil",
+              -15
+            ],
+            [
+              "border",
+              -17
+            ],
+            [
+              "iran",
+              -21
+            ],
+            [
+              "vaccinated",
+              -22
+            ],
+            [
+              "ctc",
+              -23
+            ],
+            [
+              "biden",
+              -24
+            ],
+            [
+              "inflation",
+              -26
+            ],
+            [
+              "amtrak",
+              -32
+            ],
+            [
+              "taliban",
+              -32
+            ],
+            [
+              "housing",
+              -33
+            ],
+            [
+              "afghanistan",
+              -36
             ],
             [
               "king",
+              -36
+            ],
+            [
+              "asylum",
+              -37
+            ],
+            [
+              "immigration",
+              -52
+            ]
+          ],
+          "postIds": [
+            18763957,
+            27286020,
+            30324466,
+            31135140,
+            35485569,
+            37050919,
+            37317231,
+            37513989,
+            37683483,
+            38707895,
+            39070202,
+            42483229,
+            47951599,
+            52577286,
+            52832260,
+            70330779,
+            75013636,
+            81292136,
+            85908926
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "racial",
+              295
+            ],
+            [
+              "white",
+              247
+            ],
+            [
+              "black",
+              247
+            ],
+            [
+              "wealth",
+              142
+            ],
+            [
+              "white people",
+              141
+            ],
+            [
+              "race",
+              134
+            ],
+            [
+              "racism",
+              112
+            ],
+            [
+              "king",
+              109
+            ],
+            [
+              "gap",
+              95
+            ],
+            [
+              "discrimination",
+              84
+            ],
+            [
+              "racist",
+              80
+            ],
+            [
+              "justice",
+              79
+            ],
+            [
+              "class",
+              78
+            ],
+            [
+              "wealth gap",
+              77
+            ],
+            [
+              "voters",
+              74
+            ]
+          ],
+          "lowTerms": [
+            [
+              "teacher",
+              -9
+            ],
+            [
+              "bipartisan",
+              -9
+            ],
+            [
+              "masks",
+              -9
+            ],
+            [
+              "pro choice",
+              -9
+            ],
+            [
+              "car",
+              -9
+            ],
+            [
+              "legal immigration",
+              -9
+            ],
+            [
+              "abortions",
+              -10
+            ],
+            [
+              "medicare",
+              -10
+            ],
+            [
+              "filibuster",
+              -13
+            ],
+            [
+              "manchin",
+              -17
+            ],
+            [
+              "desantis",
+              -20
+            ],
+            [
+              "immigration",
+              -20
+            ],
+            [
+              "asylum",
               -21
+            ],
+            [
+              "teachers",
+              -25
+            ],
+            [
+              "abortion",
+              -26
+            ]
+          ],
+          "postIds": [
+            18642680,
+            19229056,
+            24243372,
+            31492838,
+            32104296,
+            32606158,
+            33527887,
+            35378482,
+            35640356,
+            36110503,
+            37391492,
+            38366395,
+            38961287,
+            44244341,
+            45362144,
+            47133316,
+            49001746,
+            50645190,
+            71970237
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "schools",
+              278
+            ],
+            [
+              "school",
+              263
+            ],
+            [
+              "teachers",
+              249
+            ],
+            [
+              "students",
+              193
+            ],
+            [
+              "kids",
+              163
+            ],
+            [
+              "education",
+              162
+            ],
+            [
+              "college",
+              142
+            ],
+            [
+              "black",
+              106
+            ],
+            [
+              "student",
+              98
+            ],
+            [
+              "scores",
+              92
+            ],
+            [
+              "teacher",
+              89
+            ],
+            [
+              "test",
+              80
+            ],
+            [
+              "selective",
+              78
+            ],
+            [
+              "parents",
+              72
+            ],
+            [
+              "high",
+              72
+            ]
+          ],
+          "lowTerms": [
+            [
+              "gun",
+              -9
+            ],
+            [
+              "irs",
+              -9
+            ],
+            [
+              "iran",
+              -9
+            ],
+            [
+              "health insurance",
+              -10
+            ],
+            [
+              "health care",
+              -10
+            ],
+            [
+              "class struggle",
+              -11
+            ],
+            [
+              "fed",
+              -11
+            ],
+            [
+              "medicare",
+              -13
+            ],
+            [
+              "manchin",
+              -14
+            ],
+            [
+              "insurance",
+              -15
+            ],
+            [
+              "amazon",
+              -16
+            ],
+            [
+              "ui",
+              -16
+            ],
+            [
+              "taliban",
+              -19
+            ],
+            [
+              "afghanistan",
+              -22
+            ],
+            [
+              "king",
+              -26
             ]
           ],
           "postIds": [
@@ -21205,17 +18206,15 @@ window._clusterData = {
             32608857,
             32872379,
             36559376,
-            39090718,
             40369585,
             40605148,
-            41651022,
+            42019701,
             43503862,
             43694106,
             45221732,
             45699207,
             47994408,
             50907408,
-            57340427,
             59752737,
             71584256,
             73006846,
@@ -21225,234 +18224,362 @@ window._clusterData = {
         {
           "topTerms": [
             [
+              "abortion",
+              177
+            ],
+            [
+              "trump",
+              174
+            ],
+            [
+              "health",
+              130
+            ],
+            [
               "democrats",
-              182
+              123
             ],
             [
-              "manchin",
-              134
-            ],
-            [
-              "biden",
-              131
-            ],
-            [
-              "debt",
-              117
-            ],
-            [
-              "senate",
-              108
-            ],
-            [
-              "party",
-              106
+              "medicare",
+              113
             ],
             [
               "republicans",
-              103
+              105
             ],
             [
-              "tax",
+              "care",
+              95
+            ],
+            [
+              "immigration",
               94
             ],
             [
-              "climate",
-              90
+              "policy",
+              88
             ],
             [
-              "money",
-              82
+              "politics",
+              81
             ],
             [
-              "congress",
+              "conservative",
               80
             ],
             [
-              "state",
+              "romney",
               79
             ],
             [
-              "student",
-              76
+              "gop",
+              78
             ],
             [
-              "loan",
-              74
+              "medicaid",
+              77
             ],
             [
-              "democratic",
-              71
+              "public",
+              77
             ]
           ],
           "lowTerms": [
             [
-              "migration",
-              -6
+              "slouching utopia",
+              -20
             ],
             [
-              "asylum claims",
-              -6
+              "supply",
+              -20
             ],
             [
-              "mexico",
-              -6
+              "demand",
+              -20
             ],
             [
-              "delong",
-              -7
+              "chinese",
+              -21
             ],
             [
-              "central america",
-              -7
+              "wealth",
+              -21
+            ],
+            [
+              "billion",
+              -22
+            ],
+            [
+              "brad",
+              -22
+            ],
+            [
+              "trillion",
+              -24
             ],
             [
               "utopia",
-              -7
+              -24
             ],
             [
-              "legal immigration",
-              -7
-            ],
-            [
-              "immigrant",
-              -8
-            ],
-            [
-              "masks",
-              -8
+              "delong",
+              -25
             ],
             [
               "1870",
-              -9
+              -25
             ],
             [
-              "teachers",
-              -11
+              "amazon",
+              -25
             ],
             [
-              "remote",
-              -12
+              "king",
+              -27
             ],
             [
-              "immigrants",
-              -12
+              "manchin",
+              -33
             ],
             [
-              "asylum",
-              -19
-            ],
-            [
-              "immigration",
-              -20
+              "china",
+              -34
             ]
           ],
           "postIds": [
-            21496045,
-            31099143,
-            32681123,
-            32945630,
-            34958079,
-            37621689,
-            38021094,
-            39652693,
-            40859634,
-            41221238,
-            41611441,
-            41890896,
-            44284522,
-            46030715,
-            48152830,
-            52275496,
-            52767182,
-            66061792,
-            67642825,
-            70608891,
-            83900508
+            29540230,
+            32339536,
+            37486827,
+            44794053,
+            45283189,
+            50546657,
+            51046626,
+            53251092,
+            53612371,
+            55324481,
+            61349681,
+            62988475,
+            65785401,
+            67219249,
+            70864744,
+            71786926,
+            84371323
           ]
         },
         {
           "topTerms": [
             [
-              "black",
-              179
+              "covid",
+              218
             ],
             [
-              "white",
-              178
-            ],
-            [
-              "racial",
-              159
+              "vaccine",
+              170
             ],
             [
               "trump",
-              155
+              143
             ],
             [
-              "democrats",
-              150
+              "masks",
+              135
             ],
             [
-              "voters",
-              124
+              "vaccines",
+              130
             ],
             [
-              "politics",
-              112
+              "pandemic",
+              126
             ],
             [
-              "party",
-              108
+              "virus",
+              120
             ],
             [
-              "race",
+              "vaccinated",
+              107
+            ],
+            [
+              "health",
+              104
+            ],
+            [
+              "covid 19",
+              103
+            ],
+            [
+              "public health",
+              102
+            ],
+            [
+              "19",
+              101
+            ],
+            [
+              "mask",
               98
             ],
             [
-              "vote",
-              88
+              "public",
+              91
             ],
             [
-              "white people",
-              87
-            ],
-            [
-              "political",
-              85
-            ],
-            [
-              "obama",
-              84
-            ],
-            [
-              "left",
-              79
-            ],
-            [
-              "racism",
-              79
+              "cdc",
+              74
             ]
           ],
           "lowTerms": [
             [
-              "nuclear",
-              -10
+              "immigration",
+              -13
             ],
             [
-              "higher education",
-              -10
+              "brad delong",
+              -13
             ],
             [
-              "loan forgiveness",
-              -10
+              "brad",
+              -14
             ],
             [
-              "tuition",
-              -11
+              "senate",
+              -14
             ],
             [
               "child care",
+              -15
+            ],
+            [
+              "joe manchin",
+              -15
+            ],
+            [
+              "sinema",
+              -15
+            ],
+            [
+              "delong",
+              -16
+            ],
+            [
+              "utopia",
+              -16
+            ],
+            [
+              "racial",
+              -17
+            ],
+            [
+              "1870",
+              -18
+            ],
+            [
+              "reconciliation",
+              -18
+            ],
+            [
+              "filibuster",
+              -25
+            ],
+            [
+              "wealth",
+              -30
+            ],
+            [
+              "manchin",
+              -50
+            ]
+          ],
+          "postIds": [
+            21255649,
+            22581912,
+            26785599,
+            32760649,
+            33205193,
+            35192912,
+            35401484,
+            36158790,
+            37207186,
+            37602910,
+            38120969,
+            40667497,
+            41191192,
+            47817166,
+            48603804,
+            69828105
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "housing",
+              251
+            ],
+            [
+              "city",
+              186
+            ],
+            [
+              "york",
+              112
+            ],
+            [
+              "new york",
+              112
+            ],
+            [
+              "cities",
+              112
+            ],
+            [
+              "tax",
+              97
+            ],
+            [
+              "land",
+              96
+            ],
+            [
+              "remote",
+              95
+            ],
+            [
+              "transit",
+              94
+            ],
+            [
+              "construction",
+              77
+            ],
+            [
+              "pandemic",
+              74
+            ],
+            [
+              "demand",
+              74
+            ],
+            [
+              "homelessness",
+              71
+            ],
+            [
+              "metro",
+              67
+            ],
+            [
+              "buildings",
+              66
+            ]
+          ],
+          "lowTerms": [
+            [
+              "racial",
+              -12
+            ],
+            [
+              "electricity",
               -13
             ],
             [
@@ -21460,139 +18587,2466 @@ window._clusterData = {
               -13
             ],
             [
-              "china",
+              "manchin",
               -13
             ],
             [
-              "loans",
+              "doses",
+              -13
+            ],
+            [
+              "filibuster",
               -14
             ],
             [
-              "billion",
+              "vaccines",
+              -15
+            ],
+            [
+              "nuclear",
+              -15
+            ],
+            [
+              "fed",
+              -16
+            ],
+            [
+              "chinese",
+              -16
+            ],
+            [
+              "child care",
+              -17
+            ],
+            [
+              "inflation",
+              -21
+            ],
+            [
+              "fda",
+              -25
+            ],
+            [
+              "china",
+              -28
+            ],
+            [
+              "vaccine",
+              -29
+            ]
+          ],
+          "postIds": [
+            18586396,
+            29852190,
+            31913564,
+            32452765,
+            35565119,
+            36315083,
+            37840867,
+            38235209,
+            41674868,
+            41987541,
+            42166798,
+            48076067,
+            60813397,
+            65737481,
+            75920855,
+            86783389
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "debt",
+              189
+            ],
+            [
+              "student",
+              140
+            ],
+            [
+              "loan",
+              131
+            ],
+            [
+              "tax",
+              104
+            ],
+            [
+              "forgiveness",
+              95
+            ],
+            [
+              "money",
+              95
+            ],
+            [
+              "student loan",
+              94
+            ],
+            [
+              "education",
+              85
+            ],
+            [
+              "inflation",
+              85
+            ],
+            [
+              "biden",
+              78
+            ],
+            [
+              "fed",
+              77
+            ],
+            [
+              "stimulus",
+              76
+            ],
+            [
+              "college",
+              74
+            ],
+            [
+              "policy",
+              73
+            ],
+            [
+              "relief",
+              72
+            ]
+          ],
+          "lowTerms": [
+            [
+              "production",
+              -9
+            ],
+            [
+              "gas",
+              -9
+            ],
+            [
+              "delong",
+              -9
+            ],
+            [
+              "racism",
+              -10
+            ],
+            [
+              "russian",
+              -10
+            ],
+            [
+              "utopia",
+              -10
+            ],
+            [
+              "car",
+              -11
+            ],
+            [
+              "racist",
+              -11
+            ],
+            [
+              "1870",
+              -14
+            ],
+            [
+              "meat",
+              -14
+            ],
+            [
+              "hispanic",
+              -15
+            ],
+            [
+              "cars",
+              -16
+            ],
+            [
+              "teachers",
+              -17
+            ],
+            [
+              "voters",
+              -18
+            ],
+            [
+              "oil",
+              -34
+            ]
+          ],
+          "postIds": [
+            18503568,
+            21496045,
+            24537925,
+            31019610,
+            32380811,
+            32681123,
+            32719935,
+            39090718,
+            39652693,
+            41221238,
+            46030715,
+            51320519,
+            52275496,
+            57340427,
+            70469724
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "child",
+              147
+            ],
+            [
+              "care",
+              126
+            ],
+            [
+              "child care",
+              114
+            ],
+            [
+              "health",
+              98
+            ],
+            [
+              "kids",
+              84
+            ],
+            [
+              "racial",
+              78
+            ],
+            [
+              "immigration",
+              73
+            ],
+            [
+              "parents",
+              71
+            ],
+            [
+              "states",
+              70
+            ],
+            [
+              "program",
+              70
+            ],
+            [
+              "vaccine",
+              68
+            ],
+            [
+              "policy",
+              67
+            ],
+            [
+              "children",
+              66
+            ],
+            [
+              "black",
+              65
+            ],
+            [
+              "white",
+              65
+            ]
+          ],
+          "lowTerms": [
+            [
+              "secret congress",
+              -6
+            ],
+            [
+              "pelosi",
+              -6
+            ],
+            [
+              "mcconnell",
+              -6
+            ],
+            [
+              "remote",
+              -7
+            ],
+            [
+              "vote",
+              -8
+            ],
+            [
+              "debt",
+              -8
+            ],
+            [
+              "student loan",
+              -9
+            ],
+            [
+              "schumer",
+              -9
+            ],
+            [
+              "seats",
+              -10
+            ],
+            [
+              "loan",
+              -10
+            ],
+            [
+              "forgiveness",
+              -10
+            ],
+            [
+              "sinema",
+              -11
+            ],
+            [
+              "joe manchin",
+              -11
+            ],
+            [
+              "senate",
+              -12
+            ],
+            [
+              "manchin",
+              -33
+            ]
+          ],
+          "postIds": [
+            32687718,
+            34346394,
+            34805898,
+            39198875,
+            39567255,
+            40223294,
+            44069530,
+            46838055,
+            48704934,
+            52318807,
+            54003982,
+            54876506,
+            56290221,
+            62667855,
+            68903073
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "climate",
+              531
+            ],
+            [
+              "climate change",
+              204
+            ],
+            [
+              "carbon",
+              195
+            ],
+            [
+              "emissions",
+              158
+            ],
+            [
+              "change",
+              143
+            ],
+            [
+              "energy",
+              107
+            ],
+            [
+              "fossil",
+              85
+            ],
+            [
+              "carbon tax",
+              80
+            ],
+            [
+              "gas",
+              78
+            ],
+            [
+              "policy",
+              69
+            ],
+            [
+              "democrats",
+              69
+            ],
+            [
+              "fossil fuel",
+              67
+            ],
+            [
+              "electricity",
+              66
+            ],
+            [
+              "economists",
+              65
+            ],
+            [
+              "fuel",
+              65
+            ]
+          ],
+          "lowTerms": [
+            [
+              "redistricting",
+              -7
+            ],
+            [
+              "mob",
+              -7
+            ],
+            [
+              "legislature",
+              -7
+            ],
+            [
+              "google",
+              -7
+            ],
+            [
+              "parents",
+              -9
+            ],
+            [
+              "ctc",
+              -9
+            ],
+            [
+              "desantis",
+              -9
+            ],
+            [
+              "legislatures",
+              -9
+            ],
+            [
+              "amazon",
+              -9
+            ],
+            [
+              "gerrymandering",
+              -11
+            ],
+            [
+              "wealth",
+              -11
+            ],
+            [
+              "privacy",
+              -13
+            ],
+            [
+              "abortion",
+              -13
+            ],
+            [
+              "trump",
+              -14
+            ],
+            [
+              "census",
+              -14
+            ]
+          ],
+          "postIds": [
+            20181001,
+            32732742,
+            38521728,
+            40717676,
+            42095638,
+            42544154,
+            44365270,
+            46339666,
+            48318249,
+            50313114,
+            62508623,
+            66504795,
+            86347660,
+            87551177
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "russia",
+              472
+            ],
+            [
+              "ukraine",
+              380
+            ],
+            [
+              "russian",
+              264
+            ],
+            [
+              "putin",
+              198
+            ],
+            [
+              "ukrainian",
+              186
+            ],
+            [
+              "war",
+              151
+            ],
+            [
+              "nato",
+              132
+            ],
+            [
+              "military",
+              110
+            ],
+            [
+              "europe",
+              107
+            ],
+            [
+              "western",
+              98
+            ],
+            [
+              "countries",
+              96
+            ],
+            [
+              "gas",
+              95
+            ],
+            [
+              "european",
+              85
+            ],
+            [
+              "oil",
+              84
+            ],
+            [
+              "poland",
+              67
+            ]
+          ],
+          "lowTerms": [
+            [
+              "cotton",
+              -6
+            ],
+            [
+              "electricity",
+              -6
+            ],
+            [
+              "remote",
+              -6
+            ],
+            [
+              "covid",
+              -6
+            ],
+            [
+              "census",
+              -6
+            ],
+            [
+              "abortion",
+              -7
+            ],
+            [
+              "free speech",
+              -7
+            ],
+            [
+              "mask",
+              -7
+            ],
+            [
+              "cdc",
+              -7
+            ],
+            [
+              "masks",
+              -8
+            ],
+            [
+              "ctc",
+              -8
+            ],
+            [
+              "amtrak",
+              -9
+            ],
+            [
+              "lab",
+              -9
+            ],
+            [
+              "carbon",
+              -11
+            ],
+            [
+              "water",
+              -13
+            ]
+          ],
+          "postIds": [
+            47140290,
+            48313805,
+            48557327,
+            49371173,
+            49495257,
+            49698652,
+            50027852,
+            50154475,
+            51122253,
+            51595945,
+            57532707,
+            73638721,
+            78427282
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "immigration",
+              261
+            ],
+            [
+              "asylum",
+              142
+            ],
+            [
+              "book",
+              111
+            ],
+            [
+              "know",
+              105
+            ],
+            [
+              "1870",
+              104
+            ],
+            [
+              "immigrants",
+              94
+            ],
+            [
+              "utopia",
+              86
+            ],
+            [
+              "delong",
+              81
+            ],
+            [
+              "brad",
+              80
+            ],
+            [
+              "biden",
+              77
+            ],
+            [
+              "economic",
+              70
+            ],
+            [
+              "mexico",
+              69
+            ],
+            [
+              "slouching",
+              67
+            ],
+            [
+              "slouching utopia",
+              67
+            ],
+            [
+              "brad delong",
+              67
+            ]
+          ],
+          "lowTerms": [
+            [
+              "station",
+              -25
+            ],
+            [
+              "mask",
+              -25
+            ],
+            [
+              "medicare",
+              -26
+            ],
+            [
+              "transit",
+              -26
+            ],
+            [
+              "desantis",
+              -26
+            ],
+            [
+              "bus",
+              -26
+            ],
+            [
+              "manchin",
+              -27
+            ],
+            [
+              "virus",
+              -29
+            ],
+            [
+              "covid",
+              -31
+            ],
+            [
+              "amazon",
+              -32
+            ],
+            [
+              "fed",
+              -32
+            ],
+            [
+              "romney",
+              -33
+            ],
+            [
+              "inflation",
+              -36
+            ],
+            [
+              "musk",
+              -38
+            ],
+            [
+              "masks",
+              -42
+            ]
+          ],
+          "postIds": [
+            34139213,
+            39691221,
+            40815332,
+            45384490,
+            47565914,
+            55178451,
+            72120500,
+            73546248,
+            76280739,
+            76672613,
+            79622747,
+            79827888
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "china",
+              471
+            ],
+            [
+              "chinese",
+              227
+            ],
+            [
+              "apple",
+              117
+            ],
+            [
+              "musk",
+              103
+            ],
+            [
+              "trump",
+              102
+            ],
+            [
+              "biden",
+              83
+            ],
+            [
+              "war",
+              80
+            ],
+            [
+              "twitter",
+              79
+            ],
+            [
+              "lab",
+              78
+            ],
+            [
+              "virus",
+              77
+            ],
+            [
+              "cotton",
+              77
+            ],
+            [
+              "military",
+              77
+            ],
+            [
+              "prc",
+              75
+            ],
+            [
+              "trade",
+              72
+            ],
+            [
+              "speech",
+              66
+            ]
+          ],
+          "lowTerms": [
+            [
+              "job",
+              -12
+            ],
+            [
+              "medicare",
+              -12
+            ],
+            [
+              "gerrymandering",
+              -12
+            ],
+            [
+              "vote",
+              -14
+            ],
+            [
+              "delong",
+              -14
+            ],
+            [
+              "unemployed",
+              -14
+            ],
+            [
+              "utopia",
+              -16
+            ],
+            [
+              "bonus",
+              -17
+            ],
+            [
+              "gas",
+              -18
+            ],
+            [
+              "college",
+              -18
+            ],
+            [
+              "king",
+              -20
+            ],
+            [
+              "insurance",
+              -21
+            ],
+            [
+              "voters",
+              -21
+            ],
+            [
+              "abortion",
+              -30
+            ],
+            [
+              "ui",
+              -33
+            ]
+          ],
+          "postIds": [
+            36527916,
+            36778380,
+            36843889,
+            36906625,
+            38911753,
+            44116431,
+            49319517,
+            49545670,
+            52476450,
+            78108991,
+            79982868
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "oil",
+              267
+            ],
+            [
+              "tax",
+              204
+            ],
+            [
+              "gas",
+              194
+            ],
+            [
+              "inflation",
+              182
+            ],
+            [
+              "prices",
+              179
+            ],
+            [
+              "price",
+              155
+            ],
+            [
+              "russia",
+              152
+            ],
+            [
+              "energy",
+              141
+            ],
+            [
+              "supply",
+              108
+            ],
+            [
+              "production",
+              102
+            ],
+            [
+              "ukraine",
+              96
+            ],
+            [
+              "electricity",
+              93
+            ],
+            [
+              "demand",
+              85
+            ],
+            [
+              "russian",
+              83
+            ],
+            [
+              "cars",
+              78
+            ]
+          ],
+          "lowTerms": [
+            [
+              "doctors",
+              -12
+            ],
+            [
+              "child",
+              -12
+            ],
+            [
+              "health insurance",
+              -12
+            ],
+            [
+              "afghanistan",
+              -12
+            ],
+            [
+              "forgiveness",
               -14
             ],
             [
               "student",
+              -15
+            ],
+            [
+              "king",
+              -15
+            ],
+            [
+              "medicare",
               -16
             ],
             [
-              "student loan",
+              "taliban",
               -18
             ],
             [
-              "forgiveness",
+              "insurance",
+              -18
+            ],
+            [
+              "health care",
               -19
             ],
             [
-              "ctc",
+              "child care",
               -19
             ],
             [
-              "debt",
+              "ui",
               -24
             ],
             [
-              "loan",
+              "care",
+              -25
+            ],
+            [
+              "health",
               -26
             ]
           ],
           "postIds": [
+            47301886,
+            49875916,
+            50312161,
+            55799999,
+            58893445,
+            61556524,
+            62033902,
+            73868099,
+            77568330,
+            78234449
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "tax",
+              477
+            ],
+            [
+              "taxes",
+              195
+            ],
+            [
+              "income",
+              163
+            ],
+            [
+              "rich",
+              127
+            ],
+            [
+              "wealth",
+              122
+            ],
+            [
+              "irs",
+              122
+            ],
+            [
+              "revenue",
+              119
+            ],
+            [
+              "money",
+              102
+            ],
+            [
+              "oil",
+              94
+            ],
+            [
+              "consumption",
+              93
+            ],
+            [
+              "capital",
+              87
+            ],
+            [
+              "debt",
+              73
+            ],
+            [
+              "estate",
+              72
+            ],
+            [
+              "income tax",
+              72
+            ],
+            [
+              "taxing",
+              72
+            ]
+          ],
+          "lowTerms": [
+            [
+              "amtrak",
+              -19
+            ],
+            [
+              "manchin",
+              -19
+            ],
+            [
+              "nrc",
+              -19
+            ],
+            [
+              "reactor",
+              -20
+            ],
+            [
+              "powell",
+              -20
+            ],
+            [
+              "renewables",
+              -21
+            ],
+            [
+              "reactors",
+              -21
+            ],
+            [
+              "solar",
+              -21
+            ],
+            [
+              "fed",
+              -24
+            ],
+            [
+              "ui",
+              -27
+            ],
+            [
+              "electricity",
+              -31
+            ],
+            [
+              "taliban",
+              -41
+            ],
+            [
+              "child care",
+              -44
+            ],
+            [
+              "afghanistan",
+              -49
+            ],
+            [
+              "nuclear",
+              -51
+            ]
+          ],
+          "postIds": [
+            33385334,
+            33623824,
+            35234508,
+            35574511,
+            36641597,
+            44867270,
+            48889500,
+            67297001,
+            69515164
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "gas",
+              253
+            ],
+            [
+              "energy",
+              244
+            ],
+            [
+              "electricity",
+              236
+            ],
+            [
+              "oil",
+              232
+            ],
+            [
+              "nuclear",
+              199
+            ],
+            [
+              "solar",
+              161
+            ],
+            [
+              "carbon",
+              151
+            ],
+            [
+              "fossil",
+              139
+            ],
+            [
+              "renewables",
+              137
+            ],
+            [
+              "geothermal",
+              129
+            ],
+            [
+              "climate",
+              124
+            ],
+            [
+              "wind",
+              121
+            ],
+            [
+              "emissions",
+              112
+            ],
+            [
+              "regulatory",
+              96
+            ],
+            [
+              "zero carbon",
+              94
+            ]
+          ],
+          "lowTerms": [
+            [
+              "yang",
+              -18
+            ],
+            [
+              "clinton",
+              -18
+            ],
+            [
+              "rates",
+              -19
+            ],
+            [
+              "capital",
+              -19
+            ],
+            [
+              "vaccine",
+              -20
+            ],
+            [
+              "china",
+              -25
+            ],
+            [
+              "city",
+              -25
+            ],
+            [
+              "ukraine",
+              -26
+            ],
+            [
+              "irs",
+              -27
+            ],
+            [
+              "ukrainian",
+              -29
+            ],
+            [
+              "tax",
+              -32
+            ],
+            [
+              "fed",
+              -35
+            ],
+            [
+              "teachers",
+              -38
+            ],
+            [
+              "inflation",
+              -39
+            ],
+            [
+              "immigration",
+              -41
+            ]
+          ],
+          "postIds": [
+            38599439,
+            42216941,
+            42293229,
+            43217704,
+            46047177,
+            47077335,
+            51236416,
+            74480700,
+            76633342
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "china",
+              222
+            ],
+            [
+              "russia",
+              180
+            ],
+            [
+              "war",
+              145
+            ],
+            [
+              "ukraine",
+              138
+            ],
+            [
+              "afghanistan",
+              128
+            ],
+            [
+              "military",
+              122
+            ],
+            [
+              "taliban",
+              99
+            ],
+            [
+              "biden",
+              95
+            ],
+            [
+              "chinese",
+              94
+            ],
+            [
+              "russian",
+              86
+            ],
+            [
+              "trump",
+              81
+            ],
+            [
+              "united",
+              79
+            ],
+            [
+              "united states",
+              76
+            ],
+            [
+              "states",
+              75
+            ],
+            [
+              "nuclear",
+              74
+            ]
+          ],
+          "lowTerms": [
+            [
+              "monopoly",
+              -17
+            ],
+            [
+              "car",
+              -18
+            ],
+            [
+              "dcps",
+              -18
+            ],
+            [
+              "google",
+              -19
+            ],
+            [
+              "store",
+              -21
+            ],
+            [
+              "teacher",
+              -21
+            ],
+            [
+              "bigness",
+              -22
+            ],
+            [
+              "manchin",
+              -24
+            ],
+            [
+              "climate",
+              -25
+            ],
+            [
+              "voters",
+              -26
+            ],
+            [
+              "bus",
+              -26
+            ],
+            [
+              "tax",
+              -27
+            ],
+            [
+              "vaccine",
+              -34
+            ],
+            [
+              "teachers",
+              -63
+            ],
+            [
+              "amazon",
+              -80
+            ]
+          ],
+          "postIds": [
+            24870617,
+            35242118,
+            36480369,
+            38745208,
+            40057542,
+            40101165,
+            40269001,
+            51906346,
+            73254041
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "biden",
+              186
+            ],
+            [
+              "china",
+              185
+            ],
+            [
+              "trump",
+              181
+            ],
+            [
+              "democrats",
+              132
+            ],
+            [
+              "party",
+              97
+            ],
+            [
+              "republicans",
+              91
+            ],
+            [
+              "senate",
+              90
+            ],
+            [
+              "obama",
+              88
+            ],
+            [
+              "chinese",
+              87
+            ],
+            [
+              "afghanistan",
+              86
+            ],
+            [
+              "war",
+              75
+            ],
+            [
+              "president",
+              75
+            ],
+            [
+              "political",
+              72
+            ],
+            [
+              "taliban",
+              72
+            ],
+            [
+              "congress",
+              69
+            ]
+          ],
+          "lowTerms": [
+            [
+              "climate change",
+              -12
+            ],
+            [
+              "teacher",
+              -13
+            ],
+            [
+              "land",
+              -13
+            ],
+            [
+              "carbon tax",
+              -13
+            ],
+            [
+              "carbon",
+              -14
+            ],
+            [
+              "emissions",
+              -15
+            ],
+            [
+              "racial",
+              -16
+            ],
+            [
+              "parking",
+              -16
+            ],
+            [
+              "transit",
+              -16
+            ],
+            [
+              "wealth",
+              -20
+            ],
+            [
+              "child care",
+              -21
+            ],
+            [
+              "bus",
+              -26
+            ],
+            [
+              "climate",
+              -29
+            ],
+            [
+              "amazon",
+              -36
+            ],
+            [
+              "teachers",
+              -38
+            ]
+          ],
+          "postIds": [
+            22223850,
+            28179971,
+            31175374,
+            40561074,
+            45716094,
+            67724659,
+            82320227,
+            85218122
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "climate",
+              345
+            ],
+            [
+              "oil",
+              190
+            ],
+            [
+              "tax",
+              190
+            ],
+            [
+              "carbon",
+              187
+            ],
+            [
+              "gas",
+              181
+            ],
+            [
+              "energy",
+              171
+            ],
+            [
+              "emissions",
+              135
+            ],
+            [
+              "climate change",
+              128
+            ],
+            [
+              "electricity",
+              120
+            ],
+            [
+              "fossil",
+              108
+            ],
+            [
+              "price",
+              89
+            ],
+            [
+              "prices",
+              88
+            ],
+            [
+              "change",
+              86
+            ],
+            [
+              "fuel",
+              79
+            ],
+            [
+              "carbon tax",
+              78
+            ]
+          ],
+          "lowTerms": [
+            [
+              "insurance",
+              -6
+            ],
+            [
+              "troops",
+              -6
+            ],
+            [
+              "israel",
+              -7
+            ],
+            [
+              "karzai",
+              -7
+            ],
+            [
+              "pakistan",
+              -7
+            ],
+            [
+              "bonus",
+              -7
+            ],
+            [
+              "census",
+              -8
+            ],
+            [
+              "afghan",
+              -8
+            ],
+            [
+              "military",
+              -9
+            ],
+            [
+              "privacy",
+              -9
+            ],
+            [
+              "homelessness",
+              -11
+            ],
+            [
+              "child care",
+              -14
+            ],
+            [
+              "ui",
+              -16
+            ],
+            [
+              "taliban",
+              -20
+            ],
+            [
+              "afghanistan",
+              -21
+            ]
+          ],
+          "postIds": [
+            38260421,
+            58601559,
+            66061792,
+            72689224,
+            79778119
+          ]
+        }
+      ]
+    },
+    {
+      "clusters": [
+        {
+          "topTerms": [
+            [
+              "know",
+              82
+            ],
+            [
+              "politics",
+              74
+            ],
+            [
+              "political",
+              72
+            ],
+            [
+              "world",
+              64
+            ],
+            [
+              "bad",
+              64
+            ],
+            [
+              "money",
+              64
+            ],
+            [
+              "ve",
+              64
+            ],
+            [
+              "policy",
+              62
+            ],
+            [
+              "book",
+              62
+            ],
+            [
+              "kind",
+              61
+            ],
+            [
+              "state",
+              59
+            ],
+            [
+              "democrats",
+              59
+            ],
+            [
+              "party",
+              58
+            ],
+            [
+              "school",
+              57
+            ],
+            [
+              "media",
+              57
+            ]
+          ],
+          "lowTerms": [
+            [
+              "unemployment benefits",
+              -1
+            ],
+            [
+              "price oil",
+              -1
+            ],
+            [
+              "tariffs",
+              -1
+            ],
+            [
+              "climate left",
+              -1
+            ],
+            [
+              "barrel",
+              -1
+            ],
+            [
+              "gas tax",
+              -1
+            ],
+            [
+              "bonus ui",
+              -1
+            ],
+            [
+              "omicron",
+              -2
+            ],
+            [
+              "output gap",
+              -2
+            ],
+            [
+              "global oil",
+              -2
+            ],
+            [
+              "ui",
+              -2
+            ],
+            [
+              "racial wealth",
+              -2
+            ],
+            [
+              "lumber",
+              -3
+            ],
+            [
+              "wealth gap",
+              -3
+            ],
+            [
+              "labor supply",
+              -4
+            ]
+          ],
+          "postIds": [
+            21025509,
+            27286020,
+            31744223,
+            32517388,
+            32639465,
+            33181330,
+            33619836,
+            33621408,
+            35068697,
+            37283393,
+            37317231,
+            38685806,
+            39788317,
+            39976329,
+            47340895,
+            47628364,
+            47648339,
+            48096690,
+            48427324,
+            49184248,
+            49957000,
+            50420977,
+            51206634,
+            51255546,
+            51677020,
+            52098549,
+            52491210,
+            53313492,
+            54303445,
+            55715489,
+            56289053,
+            57548064,
+            58582964,
+            58991483,
+            59628308,
+            61636691,
+            62060883,
+            62789022,
+            66285562,
+            67028943,
+            67862093,
+            68190824,
+            69004628,
+            70000534,
+            71054684,
+            72130698,
+            77835827,
+            79379632,
+            82102641,
+            84489473,
+            86223678,
+            87219657,
+            87749070
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "democrats",
+              217
+            ],
+            [
+              "trump",
+              190
+            ],
+            [
+              "party",
+              157
+            ],
+            [
+              "republicans",
+              125
+            ],
+            [
+              "biden",
+              119
+            ],
+            [
+              "vote",
+              119
+            ],
+            [
+              "politics",
+              111
+            ],
+            [
+              "senate",
+              109
+            ],
+            [
+              "voters",
+              108
+            ],
+            [
+              "democratic",
+              98
+            ],
+            [
+              "gop",
+              96
+            ],
+            [
+              "election",
+              95
+            ],
+            [
+              "political",
+              90
+            ],
+            [
+              "manchin",
+              87
+            ],
+            [
+              "state",
+              82
+            ]
+          ],
+          "lowTerms": [
+            [
+              "lab",
+              -5
+            ],
+            [
+              "student",
+              -5
+            ],
+            [
+              "estate",
+              -6
+            ],
+            [
+              "ctc",
+              -6
+            ],
+            [
+              "loans",
+              -6
+            ],
+            [
+              "loan",
+              -6
+            ],
+            [
+              "higher education",
+              -6
+            ],
+            [
+              "income",
+              -7
+            ],
+            [
+              "labor market",
+              -8
+            ],
+            [
+              "child",
+              -9
+            ],
+            [
+              "irs",
+              -10
+            ],
+            [
+              "chinese",
+              -11
+            ],
+            [
+              "wealth",
+              -12
+            ],
+            [
+              "child care",
+              -13
+            ],
+            [
+              "china",
+              -23
+            ]
+          ],
+          "postIds": [
+            18135875,
+            19639907,
+            19674370,
+            20388649,
             21782308,
-            25273198,
-            31358451,
-            32132668,
-            34532548,
-            34560988,
-            35728483,
-            36068169,
-            37095438,
-            37846642,
-            41538326,
-            41661400,
-            42005076,
-            42751863,
-            45091161,
-            48468569,
-            52323997,
-            53302113,
-            58251621,
-            78581735
+            31111321,
+            31175374,
+            31249622,
+            31707412,
+            33117945,
+            34726651,
+            36270312,
+            36340664,
+            39132207,
+            41366749,
+            42593733,
+            42818394,
+            51403483,
+            52816815,
+            57982533,
+            58394722,
+            59616580,
+            64200864,
+            67128817,
+            79072865,
+            83441825
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "housing",
+              472
+            ],
+            [
+              "city",
+              157
+            ],
+            [
+              "land",
+              153
+            ],
+            [
+              "homelessness",
+              152
+            ],
+            [
+              "construction",
+              103
+            ],
+            [
+              "houses",
+              100
+            ],
+            [
+              "zoning",
+              93
+            ],
+            [
+              "homes",
+              92
+            ],
+            [
+              "parking",
+              90
+            ],
+            [
+              "cities",
+              87
+            ],
+            [
+              "buildings",
+              86
+            ],
+            [
+              "units",
+              83
+            ],
+            [
+              "supply",
+              82
+            ],
+            [
+              "market",
+              81
+            ],
+            [
+              "demand",
+              77
+            ]
+          ],
+          "lowTerms": [
+            [
+              "rescue",
+              -5
+            ],
+            [
+              "passenger rail",
+              -5
+            ],
+            [
+              "masks",
+              -6
+            ],
+            [
+              "ctc",
+              -6
+            ],
+            [
+              "misinformation",
+              -6
+            ],
+            [
+              "passenger",
+              -7
+            ],
+            [
+              "irs",
+              -7
+            ],
+            [
+              "russia",
+              -7
+            ],
+            [
+              "economists",
+              -7
+            ],
+            [
+              "ui",
+              -7
+            ],
+            [
+              "romney",
+              -8
+            ],
+            [
+              "amazon",
+              -10
+            ],
+            [
+              "trump",
+              -11
+            ],
+            [
+              "king",
+              -12
+            ],
+            [
+              "amtrak",
+              -25
+            ]
+          ],
+          "postIds": [
+            31043012,
+            31867708,
+            32299644,
+            34407144,
+            35841942,
+            36374925,
+            36790995,
+            37135025,
+            37783952,
+            38568767,
+            39521210,
+            40013897,
+            40930116,
+            41219220,
+            43078271,
+            47420388,
+            48220002,
+            50591662,
+            53053394,
+            55315571,
+            58867637,
+            60621688,
+            71941523,
+            76246796,
+            77653288,
+            85410902
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "vaccine",
+              364
+            ],
+            [
+              "vaccines",
+              253
+            ],
+            [
+              "covid",
+              238
+            ],
+            [
+              "vaccinated",
+              182
+            ],
+            [
+              "vaccination",
+              121
+            ],
+            [
+              "fda",
+              118
+            ],
+            [
+              "health",
+              115
+            ],
+            [
+              "virus",
+              112
+            ],
+            [
+              "covid 19",
+              109
+            ],
+            [
+              "19",
+              108
+            ],
+            [
+              "public health",
+              107
+            ],
+            [
+              "masks",
+              107
+            ],
+            [
+              "pandemic",
+              96
+            ],
+            [
+              "cdc",
+              96
+            ],
+            [
+              "pfizer",
+              90
+            ]
+          ],
+          "lowTerms": [
+            [
+              "pakistan",
+              -3
+            ],
+            [
+              "higher education",
+              -3
+            ],
+            [
+              "housing",
+              -3
+            ],
+            [
+              "boston",
+              -4
+            ],
+            [
+              "nominal",
+              -4
+            ],
+            [
+              "musk",
+              -4
+            ],
+            [
+              "land",
+              -4
+            ],
+            [
+              "romney",
+              -4
+            ],
+            [
+              "king",
+              -4
+            ],
+            [
+              "iran",
+              -5
+            ],
+            [
+              "wages",
+              -5
+            ],
+            [
+              "taliban",
+              -6
+            ],
+            [
+              "immigration",
+              -6
+            ],
+            [
+              "child care",
+              -8
+            ],
+            [
+              "afghanistan",
+              -9
+            ]
+          ],
+          "postIds": [
+            18980244,
+            25928163,
+            31995237,
+            32803727,
+            33112723,
+            34656950,
+            36036186,
+            37186799,
+            38843718,
+            39501472,
+            40445033,
+            41876619,
+            42799609,
+            43395570,
+            44385797,
+            44637943,
+            45036946,
+            45439251,
+            46744436,
+            47387100,
+            51509642,
+            55172787,
+            56809511,
+            66833698
           ]
         },
         {
           "topTerms": [
             [
               "transit",
-              250
+              252
             ],
             [
               "amtrak",
-              248
+              232
             ],
             [
               "station",
-              202
+              192
             ],
             [
               "rail",
-              195
-            ],
-            [
-              "trains",
               184
             ],
             [
-              "train",
-              171
+              "trains",
+              175
             ],
             [
-              "bus",
-              148
+              "train",
+              161
             ],
             [
               "city",
-              139
+              148
+            ],
+            [
+              "bus",
+              142
             ],
             [
               "transportation",
-              123
+              117
             ],
             [
               "metro",
-              114
+              111
             ],
             [
               "infrastructure",
-              98
+              93
             ],
             [
               "service",
-              97
+              93
             ],
             [
               "stations",
-              96
-            ],
-            [
-              "money",
-              90
+              92
             ],
             [
               "new york",
-              87
+              91
+            ],
+            [
+              "york",
+              91
             ]
           ],
           "lowTerms": [
             [
-              "abundance",
-              -8
+              "trump",
+              -7
             ],
             [
-              "student",
-              -8
+              "abundance",
+              -7
+            ],
+            [
+              "oil",
+              -7
             ],
             [
               "vacancy",
+              -7
+            ],
+            [
+              "homeless",
               -8
             ],
             [
@@ -21601,43 +21055,35 @@ window._clusterData = {
             ],
             [
               "slouching utopia",
-              -9
+              -8
             ],
             [
               "slouching",
-              -9
+              -8
             ],
             [
-              "ctc",
-              -9
-            ],
-            [
-              "rent",
+              "student",
               -9
             ],
             [
               "brad",
-              -10
+              -9
+            ],
+            [
+              "1870",
+              -9
             ],
             [
               "delong",
               -10
             ],
             [
-              "housing",
-              -11
-            ],
-            [
-              "1870",
-              -12
+              "ctc",
+              -10
             ],
             [
               "utopia",
-              -13
-            ],
-            [
-              "wealth",
-              -13
+              -11
             ],
             [
               "homelessness",
@@ -21662,7 +21108,9 @@ window._clusterData = {
             43489135,
             46309170,
             61042827,
+            65737481,
             66679912,
+            73166055,
             75232689,
             81372927
           ]
@@ -21670,160 +21118,160 @@ window._clusterData = {
         {
           "topTerms": [
             [
-              "racial",
-              296
-            ],
-            [
-              "black",
-              246
-            ],
-            [
-              "white",
-              240
-            ],
-            [
-              "wealth",
-              145
-            ],
-            [
-              "race",
-              139
-            ],
-            [
-              "white people",
-              138
-            ],
-            [
-              "racism",
-              113
-            ],
-            [
               "king",
-              104
+              116
             ],
             [
-              "gap",
-              96
+              "know",
+              100
             ],
             [
-              "discrimination",
-              84
+              "book",
+              87
             ],
             [
-              "racist",
-              82
+              "movie",
+              81
             ],
             [
-              "justice",
-              78
+              "boring",
+              81
             ],
             [
-              "wealth gap",
+              "slow boring",
+              79
+            ],
+            [
+              "slow",
               77
             ],
             [
-              "class",
+              "ve",
               75
             ],
             [
-              "voters",
-              71
+              "media",
+              72
+            ],
+            [
+              "world",
+              67
+            ],
+            [
+              "year",
+              67
+            ],
+            [
+              "ai",
+              65
+            ],
+            [
+              "day",
+              64
+            ],
+            [
+              "matt",
+              63
+            ],
+            [
+              "1870",
+              63
             ]
           ],
           "lowTerms": [
             [
-              "store",
-              -7
+              "medicaid",
+              -22
             ],
             [
-              "fda",
-              -8
+              "price",
+              -23
             ],
             [
-              "asylum claims",
-              -8
-            ],
-            [
-              "teacher",
-              -8
-            ],
-            [
-              "border",
-              -8
-            ],
-            [
-              "filibuster",
-              -8
-            ],
-            [
-              "facebook",
-              -9
-            ],
-            [
-              "legal immigration",
-              -10
-            ],
-            [
-              "vaccinated",
-              -13
-            ],
-            [
-              "manchin",
-              -13
-            ],
-            [
-              "desantis",
-              -13
-            ],
-            [
-              "amazon",
-              -14
-            ],
-            [
-              "immigration",
+              "trump",
               -24
             ],
             [
-              "teachers",
+              "care",
+              -24
+            ],
+            [
+              "prices",
               -25
             ],
             [
-              "asylum",
-              -25
+              "romney",
+              -27
+            ],
+            [
+              "chinese",
+              -28
+            ],
+            [
+              "vaccine",
+              -31
+            ],
+            [
+              "teachers",
+              -33
+            ],
+            [
+              "child care",
+              -33
+            ],
+            [
+              "immigration",
+              -35
+            ],
+            [
+              "housing",
+              -38
+            ],
+            [
+              "medicare",
+              -40
+            ],
+            [
+              "oil",
+              -41
+            ],
+            [
+              "china",
+              -48
             ]
           ],
           "postIds": [
-            18642680,
-            19229056,
-            24243372,
             31492838,
-            32104296,
-            32606158,
-            33527887,
-            33907831,
-            35378482,
-            35640356,
-            36110503,
-            37391492,
-            38366395,
-            38961287,
-            44244341,
-            45362144,
+            36964454,
+            37860233,
+            38538877,
+            40013889,
+            42771495,
+            43462576,
+            43861452,
+            44364076,
+            45497623,
             47133316,
-            49001746,
-            50645190,
-            71970237
+            47201646,
+            49031868,
+            49884768,
+            51621477,
+            59115931,
+            59518168,
+            70330779,
+            81631713,
+            86017873
           ]
         },
         {
           "topTerms": [
             [
               "police",
-              432
+              433
             ],
             [
               "crime",
-              324
+              318
             ],
             [
               "officers",
@@ -21831,84 +21279,80 @@ window._clusterData = {
             ],
             [
               "policing",
-              149
-            ],
-            [
-              "cops",
               145
             ],
             [
+              "cops",
+              144
+            ],
+            [
               "crimes",
-              135
+              133
             ],
             [
               "murder",
-              122
+              119
             ],
             [
               "murders",
-              100
-            ],
-            [
-              "prison",
-              84
+              97
             ],
             [
               "black",
+              82
+            ],
+            [
+              "prison",
+              81
+            ],
+            [
+              "enforcement",
               80
             ],
             [
-              "shootings",
-              77
-            ],
-            [
-              "violence",
-              77
-            ],
-            [
               "gun",
-              76
+              77
             ],
             [
               "police officers",
               76
             ],
             [
-              "enforcement",
-              74
+              "violence",
+              76
+            ],
+            [
+              "shootings",
+              75
             ]
           ],
           "lowTerms": [
             [
-              "king",
+              "apple",
               -4
             ],
             [
-              "apple",
+              "bahn",
+              -4
+            ],
+            [
+              "stations",
               -5
             ],
             [
-              "debt",
-              -5
-            ],
-            [
-              "land",
+              "tunnel",
               -5
             ],
             [
               "loan",
-              -5
+              -6
+            ],
+            [
+              "wealth",
+              -6
             ],
             [
               "forgiveness",
-              -5
-            ],
-            [
-              "ctc",
-              -5
-            ],
-            [
-              "musk",
               -6
             ],
             [
@@ -21916,28 +21360,32 @@ window._clusterData = {
               -7
             ],
             [
-              "romney",
-              -8
+              "debt",
+              -7
+            ],
+            [
+              "land",
+              -7
             ],
             [
               "rail",
-              -9
+              -8
             ],
             [
-              "china",
-              -9
-            ],
-            [
-              "station",
-              -9
-            ],
-            [
-              "wealth",
+              "ctc",
               -10
             ],
             [
+              "station",
+              -11
+            ],
+            [
               "amtrak",
-              -14
+              -11
+            ],
+            [
+              "romney",
+              -13
             ]
           ],
           "postIds": [
@@ -21959,279 +21407,716 @@ window._clusterData = {
             56724202,
             57830726,
             74135684,
-            75584109
+            75584109,
+            88097777
           ]
         },
         {
           "topTerms": [
             [
-              "know",
+              "black",
+              186
+            ],
+            [
+              "white",
+              181
+            ],
+            [
+              "racial",
+              168
+            ],
+            [
+              "trump",
+              135
+            ],
+            [
+              "democrats",
+              128
+            ],
+            [
+              "voters",
               113
             ],
             [
-              "book",
-              108
+              "politics",
+              106
             ],
             [
-              "1870",
+              "race",
+              102
+            ],
+            [
+              "party",
               93
             ],
             [
-              "slow boring",
-              88
+              "white people",
+              90
             ],
             [
-              "slow",
-              87
+              "racism",
+              83
             ],
             [
-              "boring",
-              87
+              "political",
+              82
             ],
             [
-              "utopia",
+              "vote",
               77
             ],
             [
-              "ve",
-              75
+              "left",
+              73
             ],
             [
-              "brad",
-              74
-            ],
-            [
-              "delong",
+              "obama",
               72
-            ],
-            [
-              "year",
-              71
-            ],
-            [
-              "matt",
-              68
-            ],
-            [
-              "media",
-              66
-            ],
-            [
-              "world",
-              65
-            ],
-            [
-              "king",
-              63
             ]
           ],
           "lowTerms": [
             [
-              "pro choice",
-              -24
+              "package",
+              -6
             ],
             [
-              "health",
-              -24
+              "tuition",
+              -7
             ],
             [
-              "racial",
-              -25
+              "loan forgiveness",
+              -7
             ],
             [
-              "medicaid",
-              -25
+              "ai",
+              -7
             ],
             [
-              "musk",
-              -26
+              "infrastructure",
+              -8
             ],
             [
-              "health care",
-              -26
+              "ui",
+              -8
             ],
             [
-              "housing",
-              -31
+              "trillion",
+              -8
             ],
             [
-              "teachers",
-              -33
+              "loans",
+              -10
             ],
             [
-              "price",
-              -33
+              "ctc",
+              -12
             ],
             [
-              "prices",
-              -41
+              "billion",
+              -12
             ],
             [
-              "oil",
-              -48
+              "student loan",
+              -13
             ],
             [
-              "medicare",
-              -53
+              "child care",
+              -13
             ],
             [
-              "chinese",
-              -62
+              "forgiveness",
+              -13
             ],
             [
-              "abortion",
-              -70
+              "debt",
+              -16
             ],
             [
-              "china",
-              -120
+              "loan",
+              -19
             ]
           ],
           "postIds": [
-            20151892,
-            37860233,
-            38538877,
-            40013889,
-            42771495,
-            43861452,
-            44364076,
-            45384490,
-            49031868,
-            59115931,
-            60143292,
-            62102053,
-            71488255,
-            72120500,
-            76280739,
-            76672613,
-            79622747,
-            79827888,
-            83696648
+            25273198,
+            31358451,
+            32132668,
+            33907831,
+            34532548,
+            34560988,
+            35728483,
+            36068169,
+            37846642,
+            38102501,
+            41538326,
+            41651022,
+            41661400,
+            42751863,
+            45091161,
+            53260750,
+            53302113,
+            58251621,
+            78581735
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "labor",
+              184
+            ],
+            [
+              "economy",
+              153
+            ],
+            [
+              "inflation",
+              148
+            ],
+            [
+              "jobs",
+              118
+            ],
+            [
+              "workers",
+              116
+            ],
+            [
+              "biden",
+              115
+            ],
+            [
+              "employment",
+              110
+            ],
+            [
+              "ui",
+              105
+            ],
+            [
+              "demand",
+              104
+            ],
+            [
+              "supply",
+              102
+            ],
+            [
+              "pandemic",
+              101
+            ],
+            [
+              "job",
+              96
+            ],
+            [
+              "unemployment",
+              95
+            ],
+            [
+              "fed",
+              94
+            ],
+            [
+              "amazon",
+              94
+            ]
+          ],
+          "lowTerms": [
+            [
+              "court",
+              -10
+            ],
+            [
+              "amtrak",
+              -11
+            ],
+            [
+              "roe",
+              -12
+            ],
+            [
+              "water",
+              -12
+            ],
+            [
+              "pro choice",
+              -12
+            ],
+            [
+              "filibuster",
+              -13
+            ],
+            [
+              "gun",
+              -13
+            ],
+            [
+              "marriage",
+              -14
+            ],
+            [
+              "ea",
+              -15
+            ],
+            [
+              "abortions",
+              -15
+            ],
+            [
+              "sex",
+              -15
+            ],
+            [
+              "ai",
+              -16
+            ],
+            [
+              "chinese",
+              -17
+            ],
+            [
+              "china",
+              -36
+            ],
+            [
+              "abortion",
+              -45
+            ]
+          ],
+          "postIds": [
+            25629950,
+            29431751,
+            31754871,
+            32246948,
+            33073895,
+            34274481,
+            35331456,
+            36203851,
+            36414669,
+            37075486,
+            37905476,
+            41019553,
+            45304661,
+            45523273,
+            46943642,
+            48296586,
+            69956089,
+            72273018
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "schools",
+              286
+            ],
+            [
+              "school",
+              270
+            ],
+            [
+              "teachers",
+              262
+            ],
+            [
+              "students",
+              195
+            ],
+            [
+              "kids",
+              169
+            ],
+            [
+              "education",
+              161
+            ],
+            [
+              "college",
+              142
+            ],
+            [
+              "black",
+              112
+            ],
+            [
+              "scores",
+              95
+            ],
+            [
+              "teacher",
+              94
+            ],
+            [
+              "student",
+              90
+            ],
+            [
+              "test",
+              83
+            ],
+            [
+              "selective",
+              79
+            ],
+            [
+              "parents",
+              76
+            ],
+            [
+              "white",
+              74
+            ]
+          ],
+          "lowTerms": [
+            [
+              "iran",
+              -12
+            ],
+            [
+              "class struggle",
+              -12
+            ],
+            [
+              "health insurance",
+              -12
+            ],
+            [
+              "health care",
+              -12
+            ],
+            [
+              "nuclear",
+              -13
+            ],
+            [
+              "manchin",
+              -13
+            ],
+            [
+              "wealth",
+              -15
+            ],
+            [
+              "medicare",
+              -16
+            ],
+            [
+              "fed",
+              -16
+            ],
+            [
+              "insurance",
+              -18
+            ],
+            [
+              "amazon",
+              -20
+            ],
+            [
+              "ui",
+              -20
+            ],
+            [
+              "taliban",
+              -24
+            ],
+            [
+              "afghanistan",
+              -27
+            ],
+            [
+              "king",
+              -30
+            ]
+          ],
+          "postIds": [
+            29866749,
+            31923778,
+            32416888,
+            32608857,
+            32872379,
+            36559376,
+            40369585,
+            40605148,
+            43503862,
+            43694106,
+            45221732,
+            45699207,
+            47994408,
+            59752737,
+            71584256,
+            73006846,
+            75812096
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "racial",
+              307
+            ],
+            [
+              "black",
+              260
+            ],
+            [
+              "white",
+              259
+            ],
+            [
+              "white people",
+              147
+            ],
+            [
+              "wealth",
+              140
+            ],
+            [
+              "race",
+              140
+            ],
+            [
+              "racism",
+              118
+            ],
+            [
+              "king",
+              101
+            ],
+            [
+              "gap",
+              97
+            ],
+            [
+              "discrimination",
+              87
+            ],
+            [
+              "racist",
+              85
+            ],
+            [
+              "justice",
+              83
+            ],
+            [
+              "voters",
+              80
+            ],
+            [
+              "wealth gap",
+              78
+            ],
+            [
+              "class",
+              78
+            ]
+          ],
+          "lowTerms": [
+            [
+              "ukraine",
+              -8
+            ],
+            [
+              "medicare",
+              -8
+            ],
+            [
+              "pro choice",
+              -8
+            ],
+            [
+              "revenue",
+              -8
+            ],
+            [
+              "abortions",
+              -9
+            ],
+            [
+              "legal immigration",
+              -9
+            ],
+            [
+              "mask",
+              -9
+            ],
+            [
+              "filibuster",
+              -9
+            ],
+            [
+              "manchin",
+              -12
+            ],
+            [
+              "masks",
+              -12
+            ],
+            [
+              "teachers",
+              -15
+            ],
+            [
+              "immigration",
+              -16
+            ],
+            [
+              "asylum",
+              -19
+            ],
+            [
+              "desantis",
+              -19
+            ],
+            [
+              "abortion",
+              -23
+            ]
+          ],
+          "postIds": [
+            18642680,
+            19229056,
+            24243372,
+            32104296,
+            32606158,
+            34346394,
+            35378482,
+            35640356,
+            36110503,
+            37391492,
+            38366395,
+            38961287,
+            44244341,
+            45362144,
+            49001746,
+            50645190,
+            71970237
           ]
         },
         {
           "topTerms": [
             [
               "covid",
-              229
-            ],
-            [
-              "health",
-              163
-            ],
-            [
-              "masks",
-              156
-            ],
-            [
-              "virus",
-              153
-            ],
-            [
-              "pandemic",
-              143
-            ],
-            [
-              "public health",
-              122
+              218
             ],
             [
               "vaccine",
-              120
+              171
+            ],
+            [
+              "trump",
+              142
+            ],
+            [
+              "masks",
+              134
             ],
             [
               "vaccines",
-              115
+              131
             ],
             [
-              "covid 19",
-              113
+              "pandemic",
+              125
             ],
             [
-              "mask",
-              112
-            ],
-            [
-              "19",
-              111
+              "virus",
+              119
             ],
             [
               "vaccinated",
-              97
+              108
+            ],
+            [
+              "health",
+              103
+            ],
+            [
+              "covid 19",
+              103
+            ],
+            [
+              "public health",
+              102
+            ],
+            [
+              "19",
+              101
+            ],
+            [
+              "mask",
+              98
             ],
             [
               "public",
-              94
-            ],
-            [
-              "china",
-              90
+              91
             ],
             [
               "cdc",
-              84
+              75
             ]
           ],
           "lowTerms": [
             [
-              "debt",
+              "brad delong",
+              -12
+            ],
+            [
+              "brad",
               -13
             ],
             [
-              "antitrust",
-              -14
+              "wealth gap",
+              -13
+            ],
+            [
+              "senate",
+              -13
+            ],
+            [
+              "joe manchin",
+              -15
+            ],
+            [
+              "sinema",
+              -15
+            ],
+            [
+              "delong",
+              -15
+            ],
+            [
+              "utopia",
+              -15
             ],
             [
               "child care",
-              -14
+              -16
             ],
             [
-              "immigrants",
-              -15
-            ],
-            [
-              "store",
-              -15
-            ],
-            [
-              "tech",
-              -15
-            ],
-            [
-              "station",
+              "racial",
               -17
             ],
             [
-              "google",
+              "1870",
+              -17
+            ],
+            [
+              "reconciliation",
               -18
             ],
             [
-              "ctc",
-              -18
-            ],
-            [
-              "bigness",
-              -19
-            ],
-            [
-              "monopoly",
-              -21
-            ],
-            [
-              "asylum",
+              "filibuster",
               -25
             ],
             [
-              "oil",
-              -29
+              "wealth",
+              -31
             ],
             [
-              "immigration",
-              -36
-            ],
-            [
-              "amazon",
-              -61
+              "manchin",
+              -48
             ]
           ],
           "postIds": [
@@ -22240,868 +22125,142 @@ window._clusterData = {
             26785599,
             32760649,
             33205193,
+            35192912,
             35401484,
             36158790,
+            37207186,
             37602910,
             38120969,
             40667497,
             41191192,
-            42799609,
-            43395570,
-            44331429,
             47817166,
-            56809511,
-            66833698,
+            48603804,
             69828105
           ]
         },
         {
           "topTerms": [
             [
-              "child",
-              306
-            ],
-            [
-              "ctc",
-              214
-            ],
-            [
-              "child care",
-              213
-            ],
-            [
-              "tax",
-              176
-            ],
-            [
-              "care",
-              160
-            ],
-            [
-              "kids",
-              126
-            ],
-            [
-              "program",
-              122
-            ],
-            [
-              "parents",
-              122
-            ],
-            [
-              "tax credit",
-              113
-            ],
-            [
-              "poverty",
-              112
-            ],
-            [
-              "families",
-              112
-            ],
-            [
-              "children",
-              107
-            ],
-            [
-              "biden",
-              104
-            ],
-            [
-              "income",
-              102
-            ],
-            [
-              "programs",
-              101
-            ]
-          ],
-          "lowTerms": [
-            [
-              "travel",
-              -8
-            ],
-            [
-              "lab",
-              -9
-            ],
-            [
-              "oil",
-              -9
-            ],
-            [
-              "higher education",
-              -9
-            ],
-            [
-              "economists",
-              -10
-            ],
-            [
-              "voters",
-              -10
-            ],
-            [
-              "loan forgiveness",
-              -10
-            ],
-            [
-              "loans",
-              -12
-            ],
-            [
-              "amazon",
-              -13
-            ],
-            [
-              "student loan",
-              -13
-            ],
-            [
-              "loan",
-              -16
-            ],
-            [
-              "debt",
-              -17
-            ],
-            [
-              "wealth",
-              -18
-            ],
-            [
-              "forgiveness",
-              -19
-            ],
-            [
-              "student",
-              -19
-            ]
-          ],
-          "postIds": [
-            27708677,
-            31205974,
-            31499698,
-            32225523,
-            32327195,
-            34138201,
-            35707392,
-            35736024,
-            35775832,
-            37489725,
-            38861337,
-            41819786,
-            42849313,
-            43680098,
-            44608127,
-            44832459,
-            45612097,
-            72587432
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "inflation",
-              237
-            ],
-            [
-              "economy",
-              149
-            ],
-            [
-              "labor",
-              130
-            ],
-            [
-              "fed",
-              127
-            ],
-            [
-              "prices",
-              102
-            ],
-            [
-              "biden",
-              96
-            ],
-            [
-              "demand",
-              96
-            ],
-            [
-              "supply",
-              96
-            ],
-            [
-              "jobs",
-              88
-            ],
-            [
-              "employment",
-              87
-            ],
-            [
-              "pandemic",
-              86
-            ],
-            [
-              "stimulus",
-              83
-            ],
-            [
-              "unemployment",
-              83
-            ],
-            [
-              "workers",
-              77
-            ],
-            [
-              "market",
-              76
-            ]
-          ],
-          "lowTerms": [
-            [
-              "pro",
-              -6
-            ],
-            [
-              "curriculum",
-              -6
-            ],
-            [
-              "desantis",
-              -6
-            ],
-            [
-              "nuclear",
-              -6
-            ],
-            [
-              "gun",
-              -7
-            ],
-            [
-              "pregnancy",
-              -7
-            ],
-            [
-              "racism",
-              -7
-            ],
-            [
-              "abortion rights",
-              -8
-            ],
-            [
-              "fda",
-              -8
-            ],
-            [
-              "roe",
-              -9
-            ],
-            [
-              "pro choice",
-              -9
-            ],
-            [
-              "abortions",
-              -12
-            ],
-            [
-              "marriage",
-              -12
-            ],
-            [
-              "sex",
-              -12
-            ],
-            [
-              "abortion",
-              -36
-            ]
-          ],
-          "postIds": [
-            19335206,
-            24537925,
-            25629950,
-            32246948,
-            32380811,
-            32719935,
-            33073895,
-            36414669,
-            37075486,
-            37905476,
-            41019553,
-            51320519,
-            53938535,
-            61556524,
-            69956089,
-            70469724,
-            72273018
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "trump",
-              210
-            ],
-            [
-              "biden",
-              200
-            ],
-            [
-              "democrats",
-              191
-            ],
-            [
-              "party",
-              136
-            ],
-            [
-              "republicans",
-              122
-            ],
-            [
-              "senate",
-              112
-            ],
-            [
-              "obama",
-              105
-            ],
-            [
-              "immigration",
-              101
-            ],
-            [
-              "manchin",
-              95
-            ],
-            [
-              "vote",
-              92
-            ],
-            [
-              "politics",
-              88
-            ],
-            [
-              "democratic",
-              87
-            ],
-            [
-              "gop",
-              85
-            ],
-            [
-              "election",
-              83
-            ],
-            [
-              "china",
-              82
-            ]
-          ],
-          "lowTerms": [
-            [
-              "irs",
-              -7
-            ],
-            [
-              "homelessness",
-              -7
-            ],
-            [
-              "cars",
-              -7
-            ],
-            [
-              "price",
-              -7
-            ],
-            [
-              "bus",
-              -7
-            ],
-            [
-              "estate",
-              -8
-            ],
-            [
-              "car",
-              -9
-            ],
-            [
-              "medical",
-              -12
-            ],
-            [
-              "teachers",
-              -12
-            ],
-            [
-              "health",
-              -12
-            ],
-            [
-              "consumption",
-              -12
-            ],
-            [
-              "alcohol",
-              -13
-            ],
-            [
-              "doctors",
-              -15
-            ],
-            [
-              "wealth",
-              -16
-            ],
-            [
-              "amazon",
-              -21
-            ]
-          ],
-          "postIds": [
-            18177334,
-            22223850,
-            31175374,
-            32818531,
-            33225505,
-            33723873,
-            34505451,
-            39401906,
-            40561074,
-            42593733,
-            44411395,
-            45612841,
-            47017468,
-            58394722,
-            67724659,
-            82320227,
-            85218122
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "inflation",
-              537
-            ],
-            [
-              "fed",
-              245
-            ],
-            [
-              "prices",
-              192
-            ],
-            [
-              "price",
-              145
-            ],
-            [
-              "economy",
-              136
-            ],
-            [
-              "nominal",
-              107
-            ],
-            [
-              "supply",
-              101
-            ],
-            [
-              "monetary",
-              95
-            ],
-            [
-              "rates",
-              91
-            ],
-            [
-              "demand",
-              86
-            ],
-            [
-              "policy",
-              85
-            ],
-            [
-              "powell",
-              83
-            ],
-            [
-              "target",
-              80
-            ],
-            [
-              "growth",
-              79
-            ],
-            [
-              "stimulus",
-              78
-            ]
-          ],
-          "lowTerms": [
-            [
-              "electricity",
-              -6
-            ],
-            [
-              "fuels",
-              -6
-            ],
-            [
-              "police",
-              -6
-            ],
-            [
-              "ukrainian",
-              -6
-            ],
-            [
-              "wealth tax",
-              -6
-            ],
-            [
-              "border",
-              -6
-            ],
-            [
-              "vote",
-              -7
-            ],
-            [
-              "forgiveness",
-              -7
-            ],
-            [
-              "nuclear",
-              -7
-            ],
-            [
-              "geothermal",
-              -7
-            ],
-            [
-              "wealth",
-              -7
-            ],
-            [
-              "renewables",
-              -8
-            ],
-            [
-              "immigration",
-              -12
-            ],
-            [
-              "asylum",
-              -13
-            ],
-            [
-              "amazon",
-              -20
-            ]
-          ],
-          "postIds": [
-            33419617,
-            34189082,
-            34495712,
-            35971137,
-            37443861,
-            39881555,
-            42642779,
-            43108837,
-            43937960,
-            44164067,
-            45073472,
-            50525181,
-            52294719,
-            54679617,
-            60336780,
-            60539716,
-            78751941
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "tax",
-              422
-            ],
-            [
-              "taxes",
-              176
-            ],
-            [
-              "income",
-              155
-            ],
-            [
-              "rich",
-              117
-            ],
-            [
-              "irs",
-              107
-            ],
-            [
-              "revenue",
-              105
-            ],
-            [
-              "wealth",
-              101
-            ],
-            [
-              "money",
-              96
-            ],
-            [
-              "consumption",
-              81
-            ],
-            [
-              "capital",
-              75
-            ],
-            [
-              "programs",
-              66
-            ],
-            [
-              "taxing",
-              65
-            ],
-            [
-              "income tax",
-              65
-            ],
-            [
-              "spending",
-              65
-            ],
-            [
-              "estate",
-              63
-            ]
-          ],
-          "lowTerms": [
-            [
-              "china",
-              -10
-            ],
-            [
-              "wind",
-              -10
-            ],
-            [
-              "geothermal",
-              -11
-            ],
-            [
-              "iran",
-              -11
-            ],
-            [
-              "ui",
-              -12
-            ],
-            [
-              "powell",
-              -14
-            ],
-            [
-              "nrc",
-              -14
-            ],
-            [
-              "reactor",
-              -16
-            ],
-            [
-              "solar",
-              -16
-            ],
-            [
-              "reactors",
-              -16
-            ],
-            [
-              "renewables",
-              -16
-            ],
-            [
-              "taliban",
-              -21
-            ],
-            [
-              "afghanistan",
-              -24
-            ],
-            [
-              "electricity",
-              -25
-            ],
-            [
-              "nuclear",
-              -39
-            ]
-          ],
-          "postIds": [
-            18503568,
-            32083147,
-            33385334,
-            33623824,
-            35234508,
-            35574511,
-            36315083,
-            36641597,
-            39277028,
-            40122162,
-            43776715,
-            44867270,
-            48889500,
-            67297001,
-            69515164
-          ]
-        },
-        {
-          "topTerms": [
-            [
               "climate",
-              546
+              523
             ],
             [
               "climate change",
-              217
+              201
             ],
             [
               "carbon",
-              213
-            ],
-            [
-              "change",
-              150
+              197
             ],
             [
               "emissions",
-              136
+              157
+            ],
+            [
+              "change",
+              140
             ],
             [
               "energy",
-              98
-            ],
-            [
-              "carbon tax",
-              94
+              108
             ],
             [
               "fossil",
-              85
+              86
             ],
             [
-              "economists",
-              76
-            ],
-            [
-              "tax",
-              76
+              "carbon tax",
+              83
             ],
             [
               "gas",
-              71
+              82
             ],
             [
               "policy",
               69
             ],
             [
+              "fossil fuel",
+              68
+            ],
+            [
+              "democrats",
+              67
+            ],
+            [
+              "tax",
+              67
+            ],
+            [
               "electricity",
               66
             ],
             [
-              "fossil fuel",
+              "economists",
               66
-            ],
-            [
-              "warming",
-              65
             ]
           ],
           "lowTerms": [
             [
-              "governor",
-              -7
-            ],
-            [
-              "car",
-              -7
-            ],
-            [
-              "medicaid",
-              -7
-            ],
-            [
-              "ui",
-              -7
-            ],
-            [
-              "parents",
-              -7
-            ],
-            [
-              "pro choice",
-              -7
-            ],
-            [
-              "king",
-              -7
-            ],
-            [
-              "surge",
-              -7
-            ],
-            [
-              "abortions",
-              -7
-            ],
-            [
-              "debt",
+              "redistricting",
               -8
             ],
             [
-              "roe",
+              "georgia",
+              -8
+            ],
+            [
+              "mob",
+              -8
+            ],
+            [
+              "desantis",
+              -8
+            ],
+            [
+              "taliban",
+              -8
+            ],
+            [
+              "parents",
+              -8
+            ],
+            [
+              "afghanistan",
+              -8
+            ],
+            [
+              "vote",
+              -8
+            ],
+            [
+              "child care",
+              -8
+            ],
+            [
+              "abortion",
               -9
             ],
             [
-              "romney",
+              "legislatures",
+              -10
+            ],
+            [
+              "gerrymandering",
               -11
             ],
             [
               "trump",
-              -14
+              -12
             ],
             [
-              "desantis",
-              -16
+              "privacy",
+              -13
             ],
             [
-              "abortion",
-              -20
+              "census",
+              -15
             ]
           ],
           "postIds": [
@@ -23118,280 +22277,287 @@ window._clusterData = {
             50313114,
             62508623,
             66504795,
-            79778119
+            79778119,
+            86347660,
+            87551177
           ]
         },
         {
           "topTerms": [
             [
-              "know",
-              97
+              "trump",
+              218
             ],
             [
-              "book",
-              86
+              "democrats",
+              184
+            ],
+            [
+              "republicans",
+              136
+            ],
+            [
+              "party",
+              118
+            ],
+            [
+              "biden",
+              117
+            ],
+            [
+              "abortion",
+              117
+            ],
+            [
+              "tax",
+              101
+            ],
+            [
+              "gop",
+              95
             ],
             [
               "politics",
-              84
+              92
+            ],
+            [
+              "obama",
+              90
+            ],
+            [
+              "policy",
+              87
+            ],
+            [
+              "medicare",
+              85
+            ],
+            [
+              "senate",
+              83
+            ],
+            [
+              "state",
+              81
             ],
             [
               "political",
               80
-            ],
-            [
-              "king",
-              75
-            ],
-            [
-              "white",
-              69
-            ],
-            [
-              "ve",
-              68
-            ],
-            [
-              "world",
-              68
-            ],
-            [
-              "kind",
-              62
-            ],
-            [
-              "bad",
-              62
-            ],
-            [
-              "movie",
-              61
-            ],
-            [
-              "boring",
-              61
-            ],
-            [
-              "media",
-              61
-            ],
-            [
-              "black",
-              60
-            ],
-            [
-              "inflation",
-              60
             ]
           ],
           "lowTerms": [
             [
-              "barrel",
-              -5
-            ],
-            [
-              "vaccines",
-              -6
-            ],
-            [
-              "officers",
-              -6
-            ],
-            [
-              "labor supply",
-              -6
-            ],
-            [
-              "supply",
-              -6
-            ],
-            [
-              "gas tax",
-              -6
-            ],
-            [
-              "prices",
-              -6
-            ],
-            [
-              "gas",
-              -7
-            ],
-            [
-              "child care",
-              -8
-            ],
-            [
-              "dcps",
-              -8
-            ],
-            [
-              "vaccinated",
-              -10
-            ],
-            [
-              "vaccine",
+              "audio",
               -11
             ],
             [
-              "manchin",
+              "book club",
+              -11
+            ],
+            [
+              "vaccines",
+              -12
+            ],
+            [
+              "ai",
               -13
             ],
             [
-              "teachers",
+              "racial",
+              -15
+            ],
+            [
+              "vaccine",
+              -15
+            ],
+            [
+              "amazon",
+              -17
+            ],
+            [
+              "brad delong",
+              -18
+            ],
+            [
+              "slouching utopia",
+              -18
+            ],
+            [
+              "slouching",
+              -18
+            ],
+            [
+              "king",
+              -20
+            ],
+            [
+              "brad",
+              -20
+            ],
+            [
+              "delong",
               -22
             ],
             [
-              "oil",
-              -25
+              "utopia",
+              -22
+            ],
+            [
+              "1870",
+              -27
             ]
           ],
           "postIds": [
-            21025509,
-            32517388,
-            33852109,
-            38102501,
-            43462576,
-            48427324,
-            51206634,
-            51677020,
-            61636691,
-            62789022,
-            70000534,
-            80475018,
-            81631713
+            19286343,
+            34958079,
+            37486827,
+            37935686,
+            39652693,
+            40122162,
+            41221238,
+            42357605,
+            53251092,
+            70608891,
+            70864744,
+            71786926,
+            81750627,
+            82320227,
+            84371323,
+            85218122
           ]
         },
         {
           "topTerms": [
             [
               "housing",
-              288
+              267
             ],
             [
               "city",
-              169
+              189
             ],
             [
-              "land",
-              113
+              "york",
+              115
+            ],
+            [
+              "new york",
+              115
             ],
             [
               "cities",
+              115
+            ],
+            [
+              "remote",
               103
             ],
             [
               "tax",
-              95
+              99
+            ],
+            [
+              "land",
+              97
             ],
             [
               "transit",
-              94
+              84
             ],
             [
-              "remote",
-              92
-            ],
-            [
-              "york",
-              91
-            ],
-            [
-              "new york",
-              91
-            ],
-            [
-              "homelessness",
-              86
+              "pandemic",
+              83
             ],
             [
               "demand",
-              84
+              80
             ],
             [
               "construction",
               78
             ],
             [
-              "pandemic",
-              74
+              "homelessness",
+              77
+            ],
+            [
+              "buildings",
+              69
             ],
             [
               "live",
-              73
-            ],
-            [
-              "parking",
-              72
+              66
             ]
           ],
           "lowTerms": [
             [
-              "medicare",
-              -13
-            ],
-            [
-              "abortions",
+              "doses",
               -14
             ],
             [
-              "vaccines",
-              -15
-            ],
-            [
-              "inflation",
-              -15
-            ],
-            [
-              "fed",
-              -17
-            ],
-            [
-              "student loan",
-              -17
-            ],
-            [
-              "student",
-              -18
-            ],
-            [
-              "forgiveness",
-              -20
-            ],
-            [
-              "ai",
-              -21
-            ],
-            [
-              "nuclear",
-              -21
-            ],
-            [
-              "fda",
-              -21
-            ],
-            [
-              "loan",
-              -22
-            ],
-            [
-              "vaccine",
-              -29
+              "chinese",
+              -14
             ],
             [
               "debt",
-              -30
+              -15
+            ],
+            [
+              "racial",
+              -15
+            ],
+            [
+              "ai",
+              -16
+            ],
+            [
+              "filibuster",
+              -16
+            ],
+            [
+              "child care",
+              -16
+            ],
+            [
+              "inflation",
+              -17
+            ],
+            [
+              "medicare",
+              -17
             ],
             [
               "abortion",
-              -44
+              -17
+            ],
+            [
+              "fed",
+              -18
+            ],
+            [
+              "nuclear",
+              -19
+            ],
+            [
+              "china",
+              -26
+            ],
+            [
+              "fda",
+              -28
+            ],
+            [
+              "vaccine",
+              -30
             ]
           ],
           "postIds": [
             18586396,
             29852190,
             31913564,
+            32452765,
             35565119,
+            36315083,
             37840867,
             38235209,
             41674868,
@@ -23400,1098 +22566,698 @@ window._clusterData = {
             48076067,
             52906498,
             60813397,
-            75920855
+            75920855,
+            86783389
           ]
         },
         {
           "topTerms": [
             [
-              "russia",
-              484
+              "democrats",
+              251
             ],
             [
-              "ukraine",
-              389
+              "manchin",
+              189
             ],
             [
-              "russian",
-              269
-            ],
-            [
-              "putin",
-              203
-            ],
-            [
-              "ukrainian",
-              190
-            ],
-            [
-              "war",
-              156
-            ],
-            [
-              "nato",
-              136
-            ],
-            [
-              "military",
-              114
-            ],
-            [
-              "europe",
-              109
-            ],
-            [
-              "western",
-              100
-            ],
-            [
-              "countries",
-              97
-            ],
-            [
-              "gas",
-              92
-            ],
-            [
-              "european",
-              85
-            ],
-            [
-              "oil",
-              82
-            ],
-            [
-              "afghanistan",
-              69
-            ]
-          ],
-          "lowTerms": [
-            [
-              "reactor",
-              -6
-            ],
-            [
-              "housing",
-              -6
-            ],
-            [
-              "solar",
-              -6
-            ],
-            [
-              "cotton",
-              -7
-            ],
-            [
-              "reactors",
-              -7
-            ],
-            [
-              "ctc",
-              -8
-            ],
-            [
-              "musk",
-              -8
-            ],
-            [
-              "free speech",
-              -9
-            ],
-            [
-              "carbon",
-              -9
-            ],
-            [
-              "abortion",
-              -10
-            ],
-            [
-              "electricity",
-              -10
-            ],
-            [
-              "lab",
-              -10
-            ],
-            [
-              "twitter",
-              -10
-            ],
-            [
-              "ai",
-              -11
-            ],
-            [
-              "water",
-              -14
-            ]
-          ],
-          "postIds": [
-            47140290,
-            48313805,
-            49371173,
-            49495257,
-            49698652,
-            50027852,
-            50154475,
-            51122253,
-            51595945,
-            57532707,
-            73638721,
-            78427282
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "russia",
-              221
-            ],
-            [
-              "china",
-              185
-            ],
-            [
-              "ukraine",
-              175
-            ],
-            [
-              "war",
-              139
-            ],
-            [
-              "russian",
-              114
-            ],
-            [
-              "military",
-              114
-            ],
-            [
-              "biden",
-              106
-            ],
-            [
-              "afghanistan",
-              105
-            ],
-            [
-              "immigration",
-              101
-            ],
-            [
-              "putin",
-              89
-            ],
-            [
-              "trump",
-              87
-            ],
-            [
-              "ukrainian",
-              81
-            ],
-            [
-              "chinese",
-              80
-            ],
-            [
-              "countries",
-              79
-            ],
-            [
-              "taliban",
-              77
-            ]
-          ],
-          "lowTerms": [
-            [
-              "carbon",
-              -12
-            ],
-            [
-              "store",
-              -13
-            ],
-            [
-              "voters",
-              -13
-            ],
-            [
-              "medicare",
-              -13
-            ],
-            [
-              "remote",
-              -13
-            ],
-            [
-              "climate",
-              -13
-            ],
-            [
-              "health",
-              -14
-            ],
-            [
-              "bigness",
-              -14
-            ],
-            [
-              "ui",
-              -14
-            ],
-            [
-              "carbon tax",
-              -14
-            ],
-            [
-              "health care",
-              -17
-            ],
-            [
-              "insurance",
-              -17
-            ],
-            [
-              "tax",
-              -22
-            ],
-            [
-              "teachers",
-              -33
-            ],
-            [
-              "amazon",
-              -46
-            ]
-          ],
-          "postIds": [
-            24870617,
-            35242118,
-            36480369,
-            38745208,
-            39567255,
-            40057542,
-            40101165,
-            40269001,
-            48557327,
-            51906346,
-            73254041
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "labor",
-              208
-            ],
-            [
-              "economy",
-              143
-            ],
-            [
-              "jobs",
-              142
-            ],
-            [
-              "workers",
-              141
-            ],
-            [
-              "care",
-              136
-            ],
-            [
-              "ui",
-              132
-            ],
-            [
-              "child care",
-              125
-            ],
-            [
-              "employment",
-              118
-            ],
-            [
-              "child",
-              111
-            ],
-            [
-              "job",
-              110
-            ],
-            [
-              "health",
-              103
-            ],
-            [
-              "pandemic",
-              102
-            ],
-            [
-              "amazon",
-              101
-            ],
-            [
-              "labor market",
-              98
-            ],
-            [
-              "unemployment",
-              96
-            ]
-          ],
-          "lowTerms": [
-            [
-              "ea",
-              -13
-            ],
-            [
-              "sex",
-              -13
-            ],
-            [
-              "fda",
-              -14
-            ],
-            [
-              "ai",
-              -14
-            ],
-            [
-              "oil",
-              -15
-            ],
-            [
-              "afghanistan",
-              -15
-            ],
-            [
-              "station",
-              -15
-            ],
-            [
-              "vaccine",
-              -15
-            ],
-            [
-              "iran",
-              -15
-            ],
-            [
-              "housing",
-              -15
-            ],
-            [
-              "irs",
-              -18
-            ],
-            [
-              "chinese",
-              -18
-            ],
-            [
-              "abortion",
-              -25
-            ],
-            [
-              "tax",
-              -27
-            ],
-            [
-              "china",
-              -32
-            ]
-          ],
-          "postIds": [
-            29431751,
-            31754871,
-            34274481,
-            34805898,
-            35331456,
-            36203851,
-            43822350,
-            45304661,
-            45523273,
-            46943642,
-            48296586
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "amazon",
-              167
-            ],
-            [
-              "companies",
-              91
-            ],
-            [
-              "media",
-              88
-            ],
-            [
-              "apple",
-              84
-            ],
-            [
-              "facebook",
-              83
-            ],
-            [
-              "twitter",
-              82
-            ],
-            [
-              "business",
-              79
-            ],
-            [
-              "know",
-              77
-            ],
-            [
-              "tech",
-              77
-            ],
-            [
-              "google",
-              73
-            ],
-            [
-              "china",
-              72
-            ],
-            [
-              "politics",
-              70
-            ],
-            [
-              "content",
-              66
-            ],
-            [
-              "kind",
-              66
-            ],
-            [
-              "political",
-              66
-            ]
-          ],
-          "lowTerms": [
-            [
-              "desantis",
-              -10
-            ],
-            [
-              "romney",
-              -10
-            ],
-            [
-              "ukraine",
-              -11
-            ],
-            [
-              "gas",
-              -12
-            ],
-            [
-              "child care",
-              -12
-            ],
-            [
-              "inflation",
-              -13
-            ],
-            [
-              "child",
-              -13
-            ],
-            [
-              "amtrak",
-              -14
-            ],
-            [
-              "russia",
-              -16
-            ],
-            [
-              "abortion",
-              -16
-            ],
-            [
-              "medicare",
-              -16
-            ],
-            [
-              "asylum",
-              -17
-            ],
-            [
-              "homelessness",
-              -18
-            ],
-            [
-              "ctc",
-              -18
-            ],
-            [
-              "immigration",
-              -20
-            ]
-          ],
-          "postIds": [
-            18763957,
-            27286020,
-            37207186,
-            37317231,
-            37683483,
-            39788317,
-            39976329,
-            47628364,
-            52577286,
-            71054684,
-            81292136
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "gas",
-              262
-            ],
-            [
-              "oil",
-              259
-            ],
-            [
-              "energy",
-              240
-            ],
-            [
-              "electricity",
-              226
-            ],
-            [
-              "nuclear",
-              180
-            ],
-            [
-              "carbon",
-              152
-            ],
-            [
-              "solar",
-              151
-            ],
-            [
-              "climate",
-              141
-            ],
-            [
-              "fossil",
-              136
-            ],
-            [
-              "renewables",
-              132
-            ],
-            [
-              "geothermal",
-              124
-            ],
-            [
-              "wind",
-              113
-            ],
-            [
-              "emissions",
-              105
-            ],
-            [
-              "natural gas",
-              92
-            ],
-            [
-              "fuel",
-              88
-            ]
-          ],
-          "lowTerms": [
-            [
-              "monetary policy",
-              -18
-            ],
-            [
-              "nominal",
-              -18
-            ],
-            [
-              "monetary",
-              -19
-            ],
-            [
-              "trump",
-              -20
-            ],
-            [
-              "ukraine",
-              -21
-            ],
-            [
-              "tax",
-              -21
-            ],
-            [
-              "powell",
-              -21
-            ],
-            [
-              "china",
-              -22
-            ],
-            [
-              "city",
-              -22
-            ],
-            [
-              "income",
-              -23
-            ],
-            [
-              "rates",
-              -26
-            ],
-            [
-              "ukrainian",
-              -27
-            ],
-            [
-              "irs",
-              -31
-            ],
-            [
-              "inflation",
-              -45
-            ],
-            [
-              "fed",
-              -52
-            ]
-          ],
-          "postIds": [
-            38599439,
-            42216941,
-            42293229,
-            43217704,
-            46047177,
-            47077335,
-            51236416,
-            72689224,
-            74480700,
-            76633342
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "china",
-              493
-            ],
-            [
-              "chinese",
-              238
-            ],
-            [
-              "apple",
-              127
-            ],
-            [
-              "musk",
-              111
-            ],
-            [
-              "virus",
-              95
-            ],
-            [
-              "lab",
-              92
-            ],
-            [
-              "cotton",
-              90
-            ],
-            [
-              "trump",
-              87
-            ],
-            [
-              "twitter",
-              82
-            ],
-            [
-              "prc",
-              79
-            ],
-            [
-              "war",
-              76
-            ],
-            [
-              "trade",
-              76
-            ],
-            [
-              "speech",
-              71
-            ],
-            [
-              "military",
-              69
-            ],
-            [
-              "chinese government",
-              64
-            ]
-          ],
-          "lowTerms": [
-            [
-              "loan",
-              -17
-            ],
-            [
-              "student",
-              -17
-            ],
-            [
-              "fed",
-              -17
-            ],
-            [
-              "slouching",
-              -19
-            ],
-            [
-              "slouching utopia",
-              -19
-            ],
-            [
-              "1870",
-              -19
-            ],
-            [
-              "brad delong",
-              -19
-            ],
-            [
-              "brad",
-              -20
-            ],
-            [
-              "college",
-              -20
-            ],
-            [
-              "child care",
-              -21
-            ],
-            [
-              "delong",
-              -24
-            ],
-            [
-              "voters",
-              -24
-            ],
-            [
-              "vaccinated",
-              -25
-            ],
-            [
-              "utopia",
-              -26
-            ],
-            [
-              "vaccine",
-              -32
-            ]
-          ],
-          "postIds": [
-            36778380,
-            36843889,
-            36906625,
-            38911753,
-            49319517,
-            49545670,
-            52476450,
-            52832260,
-            78108991,
-            79982868
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "oil",
-              303
-            ],
-            [
-              "gas",
-              236
-            ],
-            [
-              "tax",
-              203
-            ],
-            [
-              "energy",
+              "party",
               173
             ],
             [
-              "prices",
-              169
+              "biden",
+              160
             ],
             [
-              "russia",
-              164
+              "senate",
+              153
             ],
             [
-              "price",
-              149
+              "vote",
+              133
             ],
             [
-              "inflation",
-              138
-            ],
-            [
-              "electricity",
+              "republicans",
               127
             ],
             [
-              "production",
-              107
+              "trump",
+              113
             ],
             [
-              "carbon",
-              101
+              "democratic",
+              109
             ],
             [
-              "ukraine",
-              98
+              "election",
+              94
             ],
             [
-              "supply",
-              93
+              "house",
+              91
             ],
             [
-              "fossil",
-              92
+              "voters",
+              91
             ],
             [
-              "nuclear",
-              90
+              "politics",
+              91
+            ],
+            [
+              "state",
+              89
+            ],
+            [
+              "filibuster",
+              82
             ]
           ],
           "lowTerms": [
             [
-              "masks",
-              -11
+              "workers",
+              -13
             ],
             [
-              "civil",
-              -11
+              "outbreak",
+              -14
             ],
             [
-              "civil rights",
-              -11
+              "labor",
+              -15
+            ],
+            [
+              "doctors",
+              -15
+            ],
+            [
+              "mask",
+              -15
+            ],
+            [
+              "public health",
+              -16
+            ],
+            [
+              "fed",
+              -17
             ],
             [
               "virus",
-              -12
-            ],
-            [
-              "child",
-              -12
-            ],
-            [
-              "care",
-              -12
-            ],
-            [
-              "forgiveness",
-              -12
-            ],
-            [
-              "student",
-              -14
-            ],
-            [
-              "ui",
-              -14
-            ],
-            [
-              "amtrak",
-              -15
-            ],
-            [
-              "child care",
-              -15
-            ],
-            [
-              "health",
               -17
             ],
             [
-              "filibuster",
-              -17
-            ],
-            [
-              "homelessness",
-              -22
+              "asylum",
+              -18
             ],
             [
               "king",
-              -23
+              -18
+            ],
+            [
+              "travel",
+              -18
+            ],
+            [
+              "lab",
+              -19
+            ],
+            [
+              "health",
+              -22
+            ],
+            [
+              "china",
+              -24
+            ],
+            [
+              "masks",
+              -29
             ]
           ],
           "postIds": [
-            49875916,
-            50312161,
-            55799999,
-            58601559,
-            58893445,
-            62033902,
-            73868099,
-            77568330,
-            78234449
+            31938867,
+            35023354,
+            35158309,
+            37362427,
+            40859634,
+            41611441,
+            41717672,
+            41890896,
+            42994582,
+            46630592,
+            47017468,
+            47275872,
+            47491031,
+            51043454,
+            51850560
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "inflation",
+              529
+            ],
+            [
+              "fed",
+              252
+            ],
+            [
+              "prices",
+              176
+            ],
+            [
+              "economy",
+              137
+            ],
+            [
+              "price",
+              132
+            ],
+            [
+              "nominal",
+              108
+            ],
+            [
+              "rates",
+              98
+            ],
+            [
+              "monetary",
+              97
+            ],
+            [
+              "supply",
+              92
+            ],
+            [
+              "powell",
+              87
+            ],
+            [
+              "policy",
+              86
+            ],
+            [
+              "stimulus",
+              83
+            ],
+            [
+              "target",
+              80
+            ],
+            [
+              "growth",
+              80
+            ],
+            [
+              "monetary policy",
+              80
+            ]
+          ],
+          "lowTerms": [
+            [
+              "remote",
+              -8
+            ],
+            [
+              "geothermal",
+              -8
+            ],
+            [
+              "california",
+              -9
+            ],
+            [
+              "police",
+              -9
+            ],
+            [
+              "bigness",
+              -9
+            ],
+            [
+              "monopoly",
+              -9
+            ],
+            [
+              "border",
+              -9
+            ],
+            [
+              "solar",
+              -9
+            ],
+            [
+              "renewables",
+              -11
+            ],
+            [
+              "electricity",
+              -11
+            ],
+            [
+              "teachers",
+              -12
+            ],
+            [
+              "nuclear",
+              -12
+            ],
+            [
+              "asylum",
+              -21
+            ],
+            [
+              "immigration",
+              -27
+            ],
+            [
+              "amazon",
+              -31
+            ]
+          ],
+          "postIds": [
+            19335206,
+            33419617,
+            34189082,
+            34495712,
+            35971137,
+            43108837,
+            43937960,
+            44164067,
+            45073472,
+            50525181,
+            52294719,
+            60336780,
+            60539716,
+            78751941
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "tax",
+              203
+            ],
+            [
+              "biden",
+              156
+            ],
+            [
+              "child",
+              140
+            ],
+            [
+              "manchin",
+              130
+            ],
+            [
+              "democrats",
+              125
+            ],
+            [
+              "ctc",
+              123
+            ],
+            [
+              "money",
+              115
+            ],
+            [
+              "plan",
+              94
+            ],
+            [
+              "billion",
+              87
+            ],
+            [
+              "child care",
+              82
+            ],
+            [
+              "income",
+              82
+            ],
+            [
+              "program",
+              80
+            ],
+            [
+              "inflation",
+              78
+            ],
+            [
+              "senate",
+              74
+            ],
+            [
+              "infrastructure",
+              74
+            ]
+          ],
+          "lowTerms": [
+            [
+              "religion",
+              -9
+            ],
+            [
+              "ukraine",
+              -10
+            ],
+            [
+              "homelessness",
+              -10
+            ],
+            [
+              "desantis",
+              -10
+            ],
+            [
+              "legal",
+              -10
+            ],
+            [
+              "ukrainian",
+              -11
+            ],
+            [
+              "racism",
+              -11
+            ],
+            [
+              "language",
+              -12
+            ],
+            [
+              "immigrants",
+              -13
+            ],
+            [
+              "black",
+              -14
+            ],
+            [
+              "sex",
+              -15
+            ],
+            [
+              "asylum",
+              -16
+            ],
+            [
+              "amazon",
+              -26
+            ],
+            [
+              "immigration",
+              -26
+            ],
+            [
+              "abortion",
+              -31
+            ]
+          ],
+          "postIds": [
+            31499698,
+            32225523,
+            32380811,
+            33561876,
+            34598585,
+            38021094,
+            44608127,
+            45324667,
+            45612097,
+            48152830,
+            51320519,
+            52275496,
+            52767182,
+            66061792
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "democrats",
+              203
+            ],
+            [
+              "biden",
+              182
+            ],
+            [
+              "manchin",
+              145
+            ],
+            [
+              "party",
+              131
+            ],
+            [
+              "senate",
+              120
+            ],
+            [
+              "trump",
+              119
+            ],
+            [
+              "republicans",
+              109
+            ],
+            [
+              "climate",
+              95
+            ],
+            [
+              "vote",
+              90
+            ],
+            [
+              "democratic",
+              87
+            ],
+            [
+              "obama",
+              81
+            ],
+            [
+              "congress",
+              81
+            ],
+            [
+              "house",
+              79
+            ],
+            [
+              "politics",
+              77
+            ],
+            [
+              "state",
+              75
+            ]
+          ],
+          "lowTerms": [
+            [
+              "nominal",
+              -4
+            ],
+            [
+              "life expectancy",
+              -4
+            ],
+            [
+              "expectancy",
+              -4
+            ],
+            [
+              "ukraine",
+              -4
+            ],
+            [
+              "pregnancy",
+              -4
+            ],
+            [
+              "wealth",
+              -5
+            ],
+            [
+              "ukrainian",
+              -5
+            ],
+            [
+              "estate",
+              -6
+            ],
+            [
+              "alcohol",
+              -6
+            ],
+            [
+              "consumption",
+              -6
+            ],
+            [
+              "irs",
+              -7
+            ],
+            [
+              "russian",
+              -8
+            ],
+            [
+              "monkeypox",
+              -8
+            ],
+            [
+              "masks",
+              -9
+            ],
+            [
+              "amazon",
+              -12
+            ]
+          ],
+          "postIds": [
+            18177334,
+            20385917,
+            31099143,
+            32818531,
+            32945630,
+            33723873,
+            37621689,
+            39401906,
+            44284522,
+            45612841,
+            52218768,
+            67642825,
+            67724659,
+            83900508
           ]
         },
         {
           "topTerms": [
             [
               "amazon",
-              314
+              267
             ],
             [
               "companies",
-              151
+              129
             ],
             [
               "apple",
-              140
-            ],
-            [
-              "google",
-              114
-            ],
-            [
-              "tech",
-              114
-            ],
-            [
-              "labor",
-              114
-            ],
-            [
-              "business",
-              112
-            ],
-            [
-              "facebook",
-              109
-            ],
-            [
-              "china",
-              109
-            ],
-            [
-              "store",
-              108
-            ],
-            [
-              "company",
-              105
+              124
             ],
             [
               "twitter",
-              96
+              115
             ],
             [
-              "monopoly",
-              94
+              "china",
+              111
             ],
             [
-              "market",
-              87
+              "tech",
+              110
+            ],
+            [
+              "facebook",
+              110
+            ],
+            [
+              "business",
+              107
             ],
             [
               "musk",
-              84
+              102
+            ],
+            [
+              "google",
+              101
+            ],
+            [
+              "company",
+              96
+            ],
+            [
+              "store",
+              89
+            ],
+            [
+              "market",
+              88
+            ],
+            [
+              "labor",
+              88
+            ],
+            [
+              "media",
+              87
             ]
           ],
           "lowTerms": [
             [
+              "class struggle",
+              -20
+            ],
+            [
+              "climate",
+              -21
+            ],
+            [
               "poverty",
+              -22
+            ],
+            [
+              "inflation",
+              -23
+            ],
+            [
+              "vaccinated",
+              -24
+            ],
+            [
+              "biden",
               -25
             ],
             [
-              "romney",
-              -27
+              "iran",
+              -26
             ],
             [
-              "desantis",
+              "ctc",
               -28
             ],
             [
               "housing",
-              -28
-            ],
-            [
-              "virus",
-              -30
-            ],
-            [
-              "ctc",
-              -31
+              -32
             ],
             [
               "amtrak",
-              -35
+              -36
             ],
             [
-              "mask",
-              -37
+              "asylum",
+              -36
             ],
             [
               "taliban",
-              -38
-            ],
-            [
-              "homelessness",
               -41
             ],
             [
               "afghanistan",
-              -43
+              -46
             ],
             [
-              "covid",
+              "immigration",
               -47
-            ],
-            [
-              "inflation",
-              -49
-            ],
-            [
-              "masks",
-              -55
             ],
             [
               "king",
@@ -24504,819 +23270,434 @@ window._clusterData = {
             35485569,
             37050919,
             37513989,
+            37683483,
             38707895,
             39070202,
             42483229,
-            47951599
+            47951599,
+            52577286,
+            52832260,
+            81292136,
+            85908926
           ]
         },
         {
           "topTerms": [
             [
-              "abortion",
-              265
+              "china",
+              437
             ],
             [
-              "health",
-              204
-            ],
-            [
-              "medicare",
-              153
-            ],
-            [
-              "care",
-              137
-            ],
-            [
-              "democrats",
-              118
-            ],
-            [
-              "health care",
-              113
-            ],
-            [
-              "insurance",
-              109
-            ],
-            [
-              "medicaid",
-              91
-            ],
-            [
-              "doctors",
-              84
-            ],
-            [
-              "health insurance",
-              80
-            ],
-            [
-              "public",
-              80
-            ],
-            [
-              "abortions",
-              80
-            ],
-            [
-              "pro",
-              78
-            ],
-            [
-              "republicans",
-              75
-            ],
-            [
-              "rights",
-              75
-            ]
-          ],
-          "lowTerms": [
-            [
-              "slow",
-              -22
-            ],
-            [
-              "biden",
-              -26
-            ],
-            [
-              "white",
-              -27
-            ],
-            [
-              "ctc",
-              -30
-            ],
-            [
-              "slouching utopia",
-              -32
-            ],
-            [
-              "slouching",
-              -32
-            ],
-            [
-              "brad delong",
-              -32
-            ],
-            [
-              "1870",
-              -35
-            ],
-            [
-              "brad",
-              -35
-            ],
-            [
-              "remote",
-              -37
-            ],
-            [
-              "climate",
-              -39
-            ],
-            [
-              "delong",
-              -39
-            ],
-            [
-              "utopia",
-              -40
-            ],
-            [
-              "taliban",
-              -44
-            ],
-            [
-              "afghanistan",
-              -55
-            ]
-          ],
-          "postIds": [
-            29540230,
-            45283189,
-            51046626,
-            53612371,
-            55324481,
-            61349681,
-            62988475,
-            65785401,
-            67219249
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "climate",
-              204
-            ],
-            [
-              "democrats",
-              115
-            ],
-            [
-              "immigration",
-              100
-            ],
-            [
-              "police",
-              96
-            ],
-            [
-              "trump",
-              87
-            ],
-            [
-              "housing",
-              87
-            ],
-            [
-              "policy",
-              85
-            ],
-            [
-              "change",
-              85
-            ],
-            [
-              "climate change",
-              84
-            ],
-            [
-              "politics",
-              80
-            ],
-            [
-              "carbon",
-              79
-            ],
-            [
-              "crime",
-              79
-            ],
-            [
-              "party",
-              79
-            ],
-            [
-              "biden",
-              76
-            ],
-            [
-              "political",
-              73
-            ]
-          ],
-          "lowTerms": [
-            [
-              "ctc",
-              -5
-            ],
-            [
-              "russia",
-              -5
-            ],
-            [
-              "teachers",
-              -5
-            ],
-            [
-              "ui",
-              -6
-            ],
-            [
-              "mask",
-              -6
+              "chinese",
+              211
             ],
             [
               "apple",
-              -7
+              115
             ],
             [
-              "rail",
-              -7
-            ],
-            [
-              "restaurants",
-              -7
-            ],
-            [
-              "trains",
-              -7
-            ],
-            [
-              "station",
-              -7
-            ],
-            [
-              "china",
-              -8
-            ],
-            [
-              "chinese",
-              -8
-            ],
-            [
-              "virus",
-              -10
-            ],
-            [
-              "masks",
-              -12
-            ],
-            [
-              "amtrak",
-              -13
-            ]
-          ],
-          "postIds": [
-            20385917,
-            32339536,
-            39814820,
-            44794053,
-            46255603,
-            53260750,
-            57548064,
-            62060883,
-            65843580
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "health",
-              190
-            ],
-            [
-              "care",
-              131
-            ],
-            [
-              "abortion",
-              123
-            ],
-            [
-              "health care",
-              88
-            ],
-            [
-              "insurance",
-              87
-            ],
-            [
-              "public",
-              87
-            ],
-            [
-              "medicare",
-              85
-            ],
-            [
-              "child",
-              77
-            ],
-            [
-              "states",
-              76
-            ],
-            [
-              "doctors",
-              70
-            ],
-            [
-              "child care",
-              70
-            ],
-            [
-              "covid",
-              69
-            ],
-            [
-              "united",
-              63
-            ],
-            [
-              "countries",
-              62
-            ],
-            [
-              "public health",
-              62
-            ]
-          ],
-          "lowTerms": [
-            [
-              "brad",
-              -13
-            ],
-            [
-              "joe manchin",
-              -13
-            ],
-            [
-              "brad delong",
-              -13
+              "musk",
+              98
             ],
             [
               "trump",
-              -14
-            ],
-            [
-              "utopia",
-              -15
-            ],
-            [
-              "delong",
-              -17
-            ],
-            [
-              "seats",
-              -18
-            ],
-            [
-              "party",
-              -18
-            ],
-            [
-              "election",
-              -20
-            ],
-            [
-              "vote",
-              -23
-            ],
-            [
-              "taliban",
-              -26
-            ],
-            [
-              "senate",
-              -27
-            ],
-            [
-              "afghanistan",
-              -30
+              90
             ],
             [
               "biden",
-              -39
-            ],
-            [
-              "manchin",
-              -39
-            ]
-          ],
-          "postIds": [
-            40223294,
-            44069530,
-            46838055,
-            48704934,
-            52318807,
-            54003982,
-            54876506,
-            62667855
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "immigration",
-              403
-            ],
-            [
-              "asylum",
-              213
-            ],
-            [
-              "trump",
-              187
-            ],
-            [
-              "biden",
-              160
-            ],
-            [
-              "immigrants",
-              142
-            ],
-            [
-              "labor",
-              132
-            ],
-            [
-              "obama",
-              113
-            ],
-            [
-              "border",
-              102
-            ],
-            [
-              "mexico",
-              95
-            ],
-            [
-              "legal immigration",
-              91
-            ],
-            [
-              "legal",
-              89
-            ],
-            [
-              "united",
-              87
-            ],
-            [
-              "policy",
-              86
-            ],
-            [
-              "united states",
-              85
-            ],
-            [
-              "immigrant",
-              78
-            ]
-          ],
-          "lowTerms": [
-            [
-              "members",
-              -25
-            ],
-            [
-              "voting",
-              -26
-            ],
-            [
-              "amazon",
-              -26
-            ],
-            [
-              "virus",
-              -26
-            ],
-            [
-              "legislatures",
-              -26
-            ],
-            [
-              "sinema",
-              -27
-            ],
-            [
-              "mask",
-              -27
-            ],
-            [
-              "joe manchin",
-              -29
-            ],
-            [
-              "trillion",
-              -30
-            ],
-            [
-              "gerrymandering",
-              -32
-            ],
-            [
-              "racial",
-              -41
-            ],
-            [
-              "masks",
-              -42
-            ],
-            [
-              "filibuster",
-              -45
-            ],
-            [
-              "inflation",
-              -50
-            ],
-            [
-              "manchin",
-              -98
-            ]
-          ],
-          "postIds": [
-            30087879,
-            34139213,
-            39691221,
-            40815332,
-            55178451,
-            73546248
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "china",
-              189
-            ],
-            [
-              "biden",
-              123
-            ],
-            [
-              "housing",
-              116
-            ],
-            [
-              "chinese",
-              91
-            ],
-            [
-              "inflation",
-              89
-            ],
-            [
-              "trump",
-              85
-            ],
-            [
-              "democrats",
               81
             ],
             [
-              "manchin",
+              "twitter",
+              79
+            ],
+            [
+              "war",
+              76
+            ],
+            [
+              "military",
               73
             ],
             [
-              "policy",
+              "lab",
+              72
+            ],
+            [
+              "cotton",
+              71
+            ],
+            [
+              "virus",
+              70
+            ],
+            [
+              "prc",
+              70
+            ],
+            [
+              "trade",
               68
             ],
             [
-              "party",
-              65
-            ],
-            [
-              "money",
+              "speech",
               64
-            ],
-            [
-              "know",
-              63
-            ],
-            [
-              "political",
-              63
-            ],
-            [
-              "house",
-              61
-            ],
-            [
-              "climate",
-              61
             ]
           ],
           "lowTerms": [
             [
               "abortions",
-              -6
-            ],
-            [
-              "alcohol",
-              -7
-            ],
-            [
-              "public option",
-              -7
-            ],
-            [
-              "medicare",
-              -8
-            ],
-            [
-              "ukrainian",
-              -8
-            ],
-            [
-              "pro choice",
-              -9
-            ],
-            [
-              "doctors",
-              -11
-            ],
-            [
-              "gas",
-              -11
-            ],
-            [
-              "health insurance",
-              -11
-            ],
-            [
-              "insurance",
-              -11
+              -10
             ],
             [
               "health care",
+              -10
+            ],
+            [
+              "unemployment insurance",
+              -10
+            ],
+            [
+              "pro choice",
+              -11
+            ],
+            [
+              "ukrainian",
               -12
             ],
             [
-              "bus",
-              -13
+              "unemployed",
+              -12
             ],
             [
-              "teachers",
-              -13
+              "medicare",
+              -12
             ],
             [
-              "oil",
-              -18
+              "gas",
+              -12
+            ],
+            [
+              "bonus",
+              -15
+            ],
+            [
+              "college",
+              -16
+            ],
+            [
+              "insurance",
+              -19
+            ],
+            [
+              "king",
+              -19
+            ],
+            [
+              "voters",
+              -21
             ],
             [
               "abortion",
-              -23
+              -29
+            ],
+            [
+              "ui",
+              -29
             ]
           ],
           "postIds": [
-            28179971,
-            32452765,
             36527916,
+            36778380,
+            36843889,
+            36906625,
+            38911753,
             44116431,
             45716094,
-            64793172
+            49319517,
+            49545670,
+            52476450,
+            75013636,
+            78108991,
+            79982868
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "russia",
+              484
+            ],
+            [
+              "ukraine",
+              391
+            ],
+            [
+              "russian",
+              271
+            ],
+            [
+              "putin",
+              204
+            ],
+            [
+              "ukrainian",
+              191
+            ],
+            [
+              "war",
+              152
+            ],
+            [
+              "nato",
+              135
+            ],
+            [
+              "military",
+              111
+            ],
+            [
+              "europe",
+              109
+            ],
+            [
+              "western",
+              100
+            ],
+            [
+              "countries",
+              97
+            ],
+            [
+              "gas",
+              95
+            ],
+            [
+              "european",
+              86
+            ],
+            [
+              "oil",
+              83
+            ],
+            [
+              "poland",
+              69
+            ]
+          ],
+          "lowTerms": [
+            [
+              "reactors",
+              -7
+            ],
+            [
+              "free speech",
+              -7
+            ],
+            [
+              "mask",
+              -7
+            ],
+            [
+              "ctc",
+              -7
+            ],
+            [
+              "masks",
+              -8
+            ],
+            [
+              "census",
+              -8
+            ],
+            [
+              "1870",
+              -8
+            ],
+            [
+              "cdc",
+              -8
+            ],
+            [
+              "ai",
+              -8
+            ],
+            [
+              "electricity",
+              -9
+            ],
+            [
+              "lab",
+              -10
+            ],
+            [
+              "abortion",
+              -10
+            ],
+            [
+              "amtrak",
+              -11
+            ],
+            [
+              "carbon",
+              -13
+            ],
+            [
+              "water",
+              -16
+            ]
+          ],
+          "postIds": [
+            47140290,
+            48313805,
+            49371173,
+            49495257,
+            49698652,
+            50027852,
+            50154475,
+            51122253,
+            51595945,
+            57532707,
+            73638721,
+            78427282
           ]
         },
         {
           "topTerms": [
             [
               "child",
-              218
+              247
             ],
             [
-              "child care",
-              151
+              "tax",
+              231
             ],
             [
               "ctc",
-              131
+              170
             ],
             [
-              "kids",
-              125
+              "child care",
+              162
             ],
             [
               "care",
-              123
+              143
             ],
             [
-              "white",
-              108
+              "income",
+              122
             ],
             [
-              "parents",
-              105
-            ],
-            [
-              "racial",
-              100
-            ],
-            [
-              "children",
-              96
-            ],
-            [
-              "black",
-              95
+              "kids",
+              115
             ],
             [
               "program",
-              91
+              111
+            ],
+            [
+              "parents",
+              107
             ],
             [
               "poverty",
-              89
-            ],
-            [
-              "school",
-              87
+              105
             ],
             [
               "families",
-              86
+              98
             ],
             [
-              "biden",
-              77
+              "programs",
+              96
+            ],
+            [
+              "children",
+              95
+            ],
+            [
+              "tax credit",
+              95
+            ],
+            [
+              "money",
+              94
             ]
           ],
           "lowTerms": [
             [
+              "omicron",
+              -7
+            ],
+            [
+              "electricity",
+              -7
+            ],
+            [
+              "police",
+              -7
+            ],
+            [
               "debt relief",
-              -8
-            ],
-            [
-              "student",
-              -8
-            ],
-            [
-              "carbon",
-              -8
-            ],
-            [
-              "outbreak",
-              -8
-            ],
-            [
-              "homelessness",
-              -9
-            ],
-            [
-              "ceiling",
-              -10
-            ],
-            [
-              "carbon tax",
-              -10
-            ],
-            [
-              "loan forgiveness",
-              -10
-            ],
-            [
-              "masks",
-              -10
-            ],
-            [
-              "debt ceiling",
-              -10
-            ],
-            [
-              "loans",
-              -11
-            ],
-            [
-              "student loan",
-              -15
-            ],
-            [
-              "loan",
-              -19
-            ],
-            [
-              "forgiveness",
-              -20
+              -7
             ],
             [
               "debt",
-              -26
+              -7
+            ],
+            [
+              "officers",
+              -8
+            ],
+            [
+              "vaccine",
+              -8
+            ],
+            [
+              "loan forgiveness",
+              -8
+            ],
+            [
+              "higher education",
+              -9
+            ],
+            [
+              "loans",
+              -10
+            ],
+            [
+              "student loan",
+              -12
+            ],
+            [
+              "loan",
+              -14
+            ],
+            [
+              "forgiveness",
+              -15
+            ],
+            [
+              "student",
+              -16
+            ],
+            [
+              "amazon",
+              -24
             ]
           ],
           "postIds": [
-            32687718,
-            34346394,
+            27708677,
+            31205974,
+            32083147,
+            32327195,
+            34138201,
+            37489725,
             39198875,
+            39277028,
+            41819786,
+            43776715,
             56290221,
             68903073
           ]
@@ -25324,55 +23705,11 @@ window._clusterData = {
         {
           "topTerms": [
             [
-              "tax",
-              130
-            ],
-            [
-              "money",
-              125
-            ],
-            [
-              "transit",
-              121
-            ],
-            [
-              "amtrak",
-              117
-            ],
-            [
-              "biden",
-              98
-            ],
-            [
-              "energy",
-              92
-            ],
-            [
-              "infrastructure",
-              90
-            ],
-            [
-              "rail",
+              "school",
               88
             ],
             [
-              "billion",
-              87
-            ],
-            [
-              "station",
-              83
-            ],
-            [
-              "trains",
-              82
-            ],
-            [
-              "gas",
-              81
-            ],
-            [
-              "plan",
+              "know",
               79
             ],
             [
@@ -25380,472 +23717,2315 @@ window._clusterData = {
               78
             ],
             [
-              "debt",
-              78
+              "labor",
+              76
+            ],
+            [
+              "kids",
+              76
+            ],
+            [
+              "ve",
+              69
+            ],
+            [
+              "amazon",
+              65
+            ],
+            [
+              "year",
+              64
+            ],
+            [
+              "book",
+              64
+            ],
+            [
+              "media",
+              63
+            ],
+            [
+              "world",
+              62
+            ],
+            [
+              "kind",
+              60
+            ],
+            [
+              "care",
+              59
+            ],
+            [
+              "job",
+              59
+            ],
+            [
+              "king",
+              58
             ]
           ],
           "lowTerms": [
             [
-              "misinformation",
+              "sinema",
+              -10
+            ],
+            [
+              "homelessness",
+              -10
+            ],
+            [
+              "senate",
+              -10
+            ],
+            [
+              "filibuster",
+              -11
+            ],
+            [
+              "gasoline",
+              -11
+            ],
+            [
+              "ceiling",
+              -11
+            ],
+            [
+              "prc",
+              -11
+            ],
+            [
+              "price",
               -12
             ],
             [
-              "fed",
+              "debt ceiling",
               -12
             ],
             [
-              "nominal",
+              "gas",
               -13
             ],
             [
-              "hispanic",
-              -13
+              "housing",
+              -19
             ],
             [
-              "immigrants",
-              -13
-            ],
-            [
-              "nato",
-              -14
-            ],
-            [
-              "asylum",
-              -16
-            ],
-            [
-              "putin",
-              -18
-            ],
-            [
-              "voters",
+              "manchin",
               -22
             ],
             [
-              "russian",
-              -22
+              "chinese",
+              -31
             ],
             [
-              "russia",
-              -27
+              "oil",
+              -37
             ],
             [
-              "ukrainian",
-              -29
-            ],
-            [
-              "immigration",
-              -35
-            ],
-            [
-              "amazon",
-              -36
-            ],
-            [
-              "ukraine",
-              -38
+              "china",
+              -59
             ]
           ],
           "postIds": [
-            32639465,
-            33561876,
-            34598585,
-            35068697,
-            45324667
+            18763957,
+            20151892,
+            33852109,
+            42019701,
+            46838055,
+            48771270,
+            54876506,
+            60143292,
+            69245031,
+            71488255,
+            75632816,
+            83696648
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "biden",
+              108
+            ],
+            [
+              "trump",
+              105
+            ],
+            [
+              "immigration",
+              101
+            ],
+            [
+              "democrats",
+              89
+            ],
+            [
+              "china",
+              86
+            ],
+            [
+              "party",
+              76
+            ],
+            [
+              "know",
+              75
+            ],
+            [
+              "politics",
+              75
+            ],
+            [
+              "political",
+              74
+            ],
+            [
+              "policy",
+              74
+            ],
+            [
+              "american",
+              67
+            ],
+            [
+              "states",
+              65
+            ],
+            [
+              "obama",
+              62
+            ],
+            [
+              "housing",
+              61
+            ],
+            [
+              "war",
+              60
+            ]
+          ],
+          "lowTerms": [
+            [
+              "care centers",
+              -2
+            ],
+            [
+              "monkeypox",
+              -2
+            ],
+            [
+              "expire",
+              -2
+            ],
+            [
+              "fares",
+              -2
+            ],
+            [
+              "tested",
+              -2
+            ],
+            [
+              "preschool",
+              -3
+            ],
+            [
+              "retention",
+              -3
+            ],
+            [
+              "dcps",
+              -3
+            ],
+            [
+              "teacher",
+              -3
+            ],
+            [
+              "means tested",
+              -4
+            ],
+            [
+              "child",
+              -6
+            ],
+            [
+              "bus",
+              -7
+            ],
+            [
+              "ctc",
+              -7
+            ],
+            [
+              "child care",
+              -15
+            ],
+            [
+              "teachers",
+              -15
+            ]
+          ],
+          "postIds": [
+            22223850,
+            28179971,
+            39567255,
+            39814820,
+            46255603,
+            63701446,
+            64793172,
+            65843580,
+            74140735,
+            80475018,
+            84695778
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "tax",
+              436
+            ],
+            [
+              "taxes",
+              181
+            ],
+            [
+              "income",
+              153
+            ],
+            [
+              "wealth",
+              133
+            ],
+            [
+              "rich",
+              125
+            ],
+            [
+              "irs",
+              112
+            ],
+            [
+              "revenue",
+              109
+            ],
+            [
+              "money",
+              99
+            ],
+            [
+              "debt",
+              86
+            ],
+            [
+              "consumption",
+              86
+            ],
+            [
+              "capital",
+              85
+            ],
+            [
+              "oil",
+              79
+            ],
+            [
+              "estate",
+              70
+            ],
+            [
+              "business",
+              68
+            ],
+            [
+              "taxing",
+              67
+            ]
+          ],
+          "lowTerms": [
+            [
+              "afghan",
+              -16
+            ],
+            [
+              "manchin",
+              -17
+            ],
+            [
+              "nrc",
+              -17
+            ],
+            [
+              "amtrak",
+              -17
+            ],
+            [
+              "reactor",
+              -18
+            ],
+            [
+              "ui",
+              -18
+            ],
+            [
+              "reactors",
+              -18
+            ],
+            [
+              "solar",
+              -20
+            ],
+            [
+              "renewables",
+              -20
+            ],
+            [
+              "teachers",
+              -25
+            ],
+            [
+              "electricity",
+              -30
+            ],
+            [
+              "taliban",
+              -36
+            ],
+            [
+              "afghanistan",
+              -42
+            ],
+            [
+              "child care",
+              -45
+            ],
+            [
+              "nuclear",
+              -46
+            ]
+          ],
+          "postIds": [
+            18503568,
+            33385334,
+            33527887,
+            33623824,
+            35234508,
+            35574511,
+            36641597,
+            44867270,
+            48889500,
+            67297001,
+            69515164
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "child",
+              323
+            ],
+            [
+              "child care",
+              257
+            ],
+            [
+              "care",
+              207
+            ],
+            [
+              "ctc",
+              187
+            ],
+            [
+              "kids",
+              132
+            ],
+            [
+              "parents",
+              126
+            ],
+            [
+              "program",
+              119
+            ],
+            [
+              "families",
+              111
+            ],
+            [
+              "children",
+              105
+            ],
+            [
+              "poverty",
+              98
+            ],
+            [
+              "cash",
+              97
+            ],
+            [
+              "tax credit",
+              96
+            ],
+            [
+              "labor",
+              96
+            ],
+            [
+              "programs",
+              91
+            ],
+            [
+              "benefits",
+              90
+            ]
+          ],
+          "lowTerms": [
+            [
+              "estate",
+              -12
+            ],
+            [
+              "gasoline",
+              -12
+            ],
+            [
+              "vaccine",
+              -13
+            ],
+            [
+              "voters",
+              -13
+            ],
+            [
+              "king",
+              -13
+            ],
+            [
+              "student loan",
+              -13
+            ],
+            [
+              "city",
+              -13
+            ],
+            [
+              "trump",
+              -14
+            ],
+            [
+              "student",
+              -15
+            ],
+            [
+              "loan",
+              -17
+            ],
+            [
+              "carbon tax",
+              -17
+            ],
+            [
+              "forgiveness",
+              -20
+            ],
+            [
+              "debt",
+              -29
+            ],
+            [
+              "wealth",
+              -30
+            ],
+            [
+              "oil",
+              -34
+            ]
+          ],
+          "postIds": [
+            32687718,
+            34805898,
+            35707392,
+            35736024,
+            35775832,
+            38861337,
+            42849313,
+            43680098,
+            44832459,
+            72587432
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "russia",
+              235
+            ],
+            [
+              "ukraine",
+              191
+            ],
+            [
+              "russian",
+              132
+            ],
+            [
+              "war",
+              110
+            ],
+            [
+              "putin",
+              100
+            ],
+            [
+              "ukrainian",
+              92
+            ],
+            [
+              "military",
+              77
+            ],
+            [
+              "china",
+              70
+            ],
+            [
+              "policy",
+              69
+            ],
+            [
+              "nato",
+              68
+            ],
+            [
+              "countries",
+              67
+            ],
+            [
+              "states",
+              66
+            ],
+            [
+              "housing",
+              65
+            ],
+            [
+              "school",
+              65
+            ],
+            [
+              "bad",
+              64
+            ]
+          ],
+          "lowTerms": [
+            [
+              "turnout",
+              -2
+            ],
+            [
+              "used cars",
+              -2
+            ],
+            [
+              "wage",
+              -2
+            ],
+            [
+              "tight labor",
+              -2
+            ],
+            [
+              "wages",
+              -2
+            ],
+            [
+              "salt",
+              -2
+            ],
+            [
+              "minimum wage",
+              -3
+            ],
+            [
+              "white people",
+              -3
+            ],
+            [
+              "warehouse",
+              -3
+            ],
+            [
+              "racial wealth",
+              -4
+            ],
+            [
+              "arp",
+              -4
+            ],
+            [
+              "wealth gap",
+              -5
+            ],
+            [
+              "labor supply",
+              -5
+            ],
+            [
+              "ctc",
+              -7
+            ],
+            [
+              "child care",
+              -7
+            ]
+          ],
+          "postIds": [
+            44331429,
+            48557327,
+            48797501,
+            49586092,
+            50890967,
+            51906346,
+            55471340,
+            73254041,
+            75489758,
+            83218989
           ]
         },
         {
           "topTerms": [
             [
               "vaccine",
-              268
-            ],
-            [
-              "trump",
-              178
+              418
             ],
             [
               "vaccines",
-              172
+              282
             ],
             [
               "covid",
-              167
+              201
             ],
             [
               "vaccinated",
-              130
-            ],
-            [
-              "democrats",
-              92
-            ],
-            [
-              "vaccination",
-              88
-            ],
-            [
-              "party",
-              86
-            ],
-            [
-              "politics",
-              84
-            ],
-            [
-              "biden",
-              82
+              189
             ],
             [
               "fda",
-              81
+              148
             ],
             [
-              "voters",
-              79
+              "vaccination",
+              125
             ],
             [
-              "public",
-              78
+              "pfizer",
+              108
             ],
             [
-              "white",
-              75
+              "doses",
+              103
             ],
             [
-              "masks",
-              74
+              "health",
+              94
+            ],
+            [
+              "covid 19",
+              91
+            ],
+            [
+              "19",
+              90
+            ],
+            [
+              "shots",
+              89
+            ],
+            [
+              "cdc",
+              89
+            ],
+            [
+              "trials",
+              88
+            ],
+            [
+              "virus",
+              87
             ]
           ],
           "lowTerms": [
             [
-              "energy",
-              -16
-            ],
-            [
-              "solar",
-              -16
-            ],
-            [
-              "ui",
-              -17
-            ],
-            [
-              "king",
-              -19
-            ],
-            [
-              "ctc",
-              -20
-            ],
-            [
-              "student loan",
-              -20
-            ],
-            [
-              "forgiveness",
-              -20
-            ],
-            [
-              "student",
-              -22
-            ],
-            [
-              "nuclear",
-              -24
-            ],
-            [
-              "electricity",
-              -25
-            ],
-            [
-              "debt",
-              -26
-            ],
-            [
-              "loan",
-              -27
-            ],
-            [
-              "child",
-              -31
-            ],
-            [
-              "child care",
-              -35
-            ],
-            [
-              "china",
-              -36
-            ]
-          ],
-          "postIds": [
-            35192912,
-            41876619,
-            46744436,
-            48603804
-          ]
-        },
-        {
-          "topTerms": [
-            [
-              "transit",
-              166
-            ],
-            [
-              "amtrak",
-              145
-            ],
-            [
-              "city",
-              130
-            ],
-            [
-              "station",
-              121
-            ],
-            [
-              "rail",
-              119
-            ],
-            [
-              "trains",
-              112
-            ],
-            [
-              "housing",
-              107
-            ],
-            [
-              "train",
-              105
-            ],
-            [
-              "bus",
-              95
-            ],
-            [
-              "metro",
-              82
-            ],
-            [
-              "money",
-              82
-            ],
-            [
-              "land",
-              81
-            ],
-            [
-              "transportation",
-              81
-            ],
-            [
-              "new york",
-              81
-            ],
-            [
-              "york",
-              81
-            ]
-          ],
-          "lowTerms": [
-            [
-              "white people",
-              -8
-            ],
-            [
-              "tax credit",
-              -8
-            ],
-            [
-              "gop",
-              -9
-            ],
-            [
-              "schools",
-              -9
-            ],
-            [
-              "racial",
-              -9
-            ],
-            [
-              "trump",
-              -13
-            ],
-            [
-              "child care",
+              "class struggle",
               -14
             ],
             [
-              "police",
+              "iran",
               -14
             ],
             [
-              "romney",
+              "college",
+              -14
+            ],
+            [
+              "remote work",
               -15
             ],
             [
-              "black",
+              "bush",
               -16
             ],
             [
-              "democrats",
-              -17
+              "poverty",
+              -16
             ],
             [
-              "teachers",
-              -17
-            ],
-            [
-              "manchin",
+              "office",
               -18
             ],
             [
-              "child",
-              -19
+              "yang",
+              -18
             ],
             [
-              "ctc",
+              "abortion",
+              -18
+            ],
+            [
+              "city",
+              -21
+            ],
+            [
+              "remote",
+              -21
+            ],
+            [
+              "romney",
               -28
+            ],
+            [
+              "taliban",
+              -29
+            ],
+            [
+              "afghanistan",
+              -35
+            ],
+            [
+              "king",
+              -38
             ]
           ],
           "postIds": [
-            37283393,
-            65737481,
-            73166055
+            31559767,
+            31593691,
+            32070635,
+            32193481,
+            33700824,
+            39031370,
+            41065980,
+            44963138,
+            61904141,
+            62717990
           ]
         },
         {
           "topTerms": [
             [
+              "trump",
+              214
+            ],
+            [
+              "democrats",
+              206
+            ],
+            [
+              "immigration",
+              149
+            ],
+            [
+              "biden",
+              141
+            ],
+            [
+              "party",
+              138
+            ],
+            [
+              "republicans",
+              120
+            ],
+            [
+              "voters",
+              116
+            ],
+            [
+              "politics",
+              110
+            ],
+            [
+              "obama",
+              109
+            ],
+            [
+              "climate",
+              106
+            ],
+            [
+              "vote",
+              98
+            ],
+            [
+              "white",
+              96
+            ],
+            [
+              "democratic",
+              94
+            ],
+            [
+              "gop",
+              91
+            ],
+            [
+              "black",
+              90
+            ]
+          ],
+          "lowTerms": [
+            [
+              "reactor",
+              -9
+            ],
+            [
+              "amtrak",
+              -9
+            ],
+            [
+              "apple",
+              -10
+            ],
+            [
+              "loans",
+              -10
+            ],
+            [
               "housing",
-              365
+              -10
+            ],
+            [
+              "water",
+              -11
+            ],
+            [
+              "homelessness",
+              -11
+            ],
+            [
+              "student loan",
+              -12
+            ],
+            [
+              "electricity",
+              -13
+            ],
+            [
+              "forgiveness",
+              -14
+            ],
+            [
+              "ctc",
+              -15
+            ],
+            [
+              "student",
+              -15
+            ],
+            [
+              "nuclear",
+              -18
+            ],
+            [
+              "loan",
+              -18
+            ],
+            [
+              "ai",
+              -23
+            ]
+          ],
+          "postIds": [
+            32491521,
+            33225505,
+            34505451,
+            37095438,
+            42005076,
+            44411395,
+            44794053,
+            48468569,
+            52323997,
+            61760608
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "health",
+              162
+            ],
+            [
+              "care",
+              137
+            ],
+            [
+              "abortion",
+              109
+            ],
+            [
+              "vaccine",
+              106
+            ],
+            [
+              "medicare",
+              105
+            ],
+            [
+              "policy",
+              83
+            ],
+            [
+              "insurance",
+              83
+            ],
+            [
+              "health care",
+              83
+            ],
+            [
+              "child",
+              82
+            ],
+            [
+              "public",
+              81
+            ],
+            [
+              "states",
+              81
+            ],
+            [
+              "immigration",
+              78
+            ],
+            [
+              "child care",
+              78
+            ],
+            [
+              "medicaid",
+              74
+            ],
+            [
+              "housing",
+              69
+            ]
+          ],
+          "lowTerms": [
+            [
+              "brad delong",
+              -15
+            ],
+            [
+              "slouching",
+              -15
+            ],
+            [
+              "slouching utopia",
+              -15
+            ],
+            [
+              "1870",
+              -16
+            ],
+            [
+              "brad",
+              -16
+            ],
+            [
+              "arp",
+              -16
+            ],
+            [
+              "dcps",
+              -16
+            ],
+            [
+              "utopia",
+              -17
+            ],
+            [
+              "delong",
+              -18
+            ],
+            [
+              "schools",
+              -22
+            ],
+            [
+              "remote",
+              -25
+            ],
+            [
+              "king",
+              -26
+            ],
+            [
+              "oil",
+              -35
+            ],
+            [
+              "teachers",
+              -40
+            ],
+            [
+              "manchin",
+              -44
+            ]
+          ],
+          "postIds": [
+            29540230,
+            32339536,
+            40223294,
+            44069530,
+            45283189,
+            48704934,
+            52318807,
+            54003982,
+            62667855,
+            65785401
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "gas",
+              256
+            ],
+            [
+              "energy",
+              244
+            ],
+            [
+              "oil",
+              235
+            ],
+            [
+              "electricity",
+              233
+            ],
+            [
+              "nuclear",
+              194
+            ],
+            [
+              "solar",
+              158
+            ],
+            [
+              "carbon",
+              154
+            ],
+            [
+              "fossil",
+              140
+            ],
+            [
+              "climate",
+              137
+            ],
+            [
+              "renewables",
+              135
+            ],
+            [
+              "geothermal",
+              127
+            ],
+            [
+              "wind",
+              119
+            ],
+            [
+              "emissions",
+              115
+            ],
+            [
+              "regulatory",
+              94
+            ],
+            [
+              "natural gas",
+              93
+            ]
+          ],
+          "lowTerms": [
+            [
+              "clinton",
+              -16
+            ],
+            [
+              "chinese",
+              -18
+            ],
+            [
+              "asylum",
+              -18
+            ],
+            [
+              "rates",
+              -19
+            ],
+            [
+              "capital",
+              -19
+            ],
+            [
+              "vaccine",
+              -21
+            ],
+            [
+              "city",
+              -24
+            ],
+            [
+              "ukrainian",
+              -24
+            ],
+            [
+              "tax",
+              -26
+            ],
+            [
+              "irs",
+              -26
+            ],
+            [
+              "china",
+              -29
+            ],
+            [
+              "teachers",
+              -32
+            ],
+            [
+              "fed",
+              -34
             ],
             [
               "inflation",
-              231
+              -34
+            ],
+            [
+              "immigration",
+              -42
+            ]
+          ],
+          "postIds": [
+            38599439,
+            42216941,
+            42293229,
+            43217704,
+            46047177,
+            47077335,
+            51236416,
+            72689224,
+            74480700,
+            76633342
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "oil",
+              292
+            ],
+            [
+              "tax",
+              236
+            ],
+            [
+              "gas",
+              220
             ],
             [
               "prices",
-              172
+              170
+            ],
+            [
+              "russia",
+              169
+            ],
+            [
+              "energy",
+              161
             ],
             [
               "price",
-              148
+              152
+            ],
+            [
+              "inflation",
+              151
+            ],
+            [
+              "electricity",
+              110
+            ],
+            [
+              "ukraine",
+              107
+            ],
+            [
+              "production",
+              106
+            ],
+            [
+              "carbon",
+              99
+            ],
+            [
+              "supply",
+              94
+            ],
+            [
+              "russian",
+              92
+            ],
+            [
+              "taxes",
+              88
+            ]
+          ],
+          "lowTerms": [
+            [
+              "forgiveness",
+              -12
+            ],
+            [
+              "station",
+              -12
+            ],
+            [
+              "doctors",
+              -12
+            ],
+            [
+              "medicare",
+              -12
+            ],
+            [
+              "unemployed",
+              -13
+            ],
+            [
+              "student",
+              -13
+            ],
+            [
+              "child",
+              -15
+            ],
+            [
+              "taliban",
+              -16
+            ],
+            [
+              "homelessness",
+              -16
+            ],
+            [
+              "health care",
+              -17
+            ],
+            [
+              "insurance",
+              -19
+            ],
+            [
+              "health",
+              -24
+            ],
+            [
+              "child care",
+              -27
+            ],
+            [
+              "care",
+              -28
+            ],
+            [
+              "ui",
+              -31
+            ]
+          ],
+          "postIds": [
+            49875916,
+            50312161,
+            55799999,
+            58601559,
+            58893445,
+            62033902,
+            73868099,
+            77568330,
+            78234449
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "immigration",
+              186
+            ],
+            [
+              "book",
+              131
+            ],
+            [
+              "know",
+              128
+            ],
+            [
+              "1870",
+              122
+            ],
+            [
+              "asylum",
+              104
+            ],
+            [
+              "utopia",
+              99
+            ],
+            [
+              "delong",
+              94
+            ],
+            [
+              "brad",
+              94
+            ],
+            [
+              "king",
+              90
+            ],
+            [
+              "slow boring",
+              79
+            ],
+            [
+              "slow",
+              79
+            ],
+            [
+              "slouching",
+              78
+            ],
+            [
+              "slouching utopia",
+              78
+            ],
+            [
+              "brad delong",
+              78
+            ],
+            [
+              "movie",
+              78
+            ]
+          ],
+          "lowTerms": [
+            [
+              "virus",
+              -33
+            ],
+            [
+              "bus",
+              -33
+            ],
+            [
+              "police",
+              -34
+            ],
+            [
+              "health",
+              -34
+            ],
+            [
+              "transit",
+              -35
+            ],
+            [
+              "covid",
+              -35
+            ],
+            [
+              "democrats",
+              -35
+            ],
+            [
+              "care",
+              -36
+            ],
+            [
+              "medicaid",
+              -38
+            ],
+            [
+              "desantis",
+              -39
+            ],
+            [
+              "musk",
+              -41
+            ],
+            [
+              "masks",
+              -43
+            ],
+            [
+              "romney",
+              -51
+            ],
+            [
+              "medicare",
+              -51
+            ],
+            [
+              "trump",
+              -59
+            ]
+          ],
+          "postIds": [
+            45384490,
+            47565914,
+            55178451,
+            62102053,
+            72120500,
+            76280739,
+            76672613,
+            79622747,
+            79827888
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "china",
+              222
+            ],
+            [
+              "afghanistan",
+              145
+            ],
+            [
+              "war",
+              144
+            ],
+            [
+              "russia",
+              143
+            ],
+            [
+              "military",
+              124
+            ],
+            [
+              "biden",
+              117
+            ],
+            [
+              "taliban",
+              116
+            ],
+            [
+              "ukraine",
+              108
+            ],
+            [
+              "trump",
+              103
+            ],
+            [
+              "chinese",
+              94
+            ],
+            [
+              "king",
+              86
+            ],
+            [
+              "nuclear",
+              81
+            ],
+            [
+              "united",
+              76
+            ],
+            [
+              "immigration",
+              75
+            ],
+            [
+              "iran",
+              75
+            ]
+          ],
+          "lowTerms": [
+            [
+              "cars",
+              -23
+            ],
+            [
+              "monopoly",
+              -23
+            ],
+            [
+              "google",
+              -25
+            ],
+            [
+              "climate",
+              -26
+            ],
+            [
+              "teacher",
+              -26
+            ],
+            [
+              "voters",
+              -26
+            ],
+            [
+              "price",
+              -27
+            ],
+            [
+              "bigness",
+              -27
+            ],
+            [
+              "store",
+              -28
+            ],
+            [
+              "car",
+              -29
+            ],
+            [
+              "bus",
+              -37
+            ],
+            [
+              "vaccine",
+              -47
+            ],
+            [
+              "tax",
+              -52
+            ],
+            [
+              "teachers",
+              -76
+            ],
+            [
+              "amazon",
+              -99
+            ]
+          ],
+          "postIds": [
+            24870617,
+            35242118,
+            36480369,
+            38745208,
+            40057542,
+            40101165,
+            40269001,
+            40561074
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "abortion",
+              213
+            ],
+            [
+              "trump",
+              170
+            ],
+            [
+              "health",
+              128
+            ],
+            [
+              "medicare",
+              113
+            ],
+            [
+              "democrats",
+              109
+            ],
+            [
+              "republicans",
+              102
+            ],
+            [
+              "immigration",
+              102
+            ],
+            [
+              "conservative",
+              89
+            ],
+            [
+              "politics",
+              85
+            ],
+            [
+              "policy",
+              84
+            ],
+            [
+              "care",
+              84
+            ],
+            [
+              "gop",
+              83
+            ],
+            [
+              "romney",
+              79
+            ],
+            [
+              "marriage",
+              77
+            ],
+            [
+              "party",
+              77
+            ]
+          ],
+          "lowTerms": [
+            [
+              "employment",
+              -28
+            ],
+            [
+              "climate",
+              -28
+            ],
+            [
+              "supply",
+              -29
+            ],
+            [
+              "pandemic",
+              -29
+            ],
+            [
+              "jobs",
+              -31
+            ],
+            [
+              "demand",
+              -31
+            ],
+            [
+              "apple",
+              -33
+            ],
+            [
+              "labor",
+              -33
+            ],
+            [
+              "billion",
+              -35
+            ],
+            [
+              "chinese",
+              -37
+            ],
+            [
+              "wealth",
+              -40
+            ],
+            [
+              "trillion",
+              -40
+            ],
+            [
+              "amazon",
+              -52
+            ],
+            [
+              "manchin",
+              -55
+            ],
+            [
+              "china",
+              -68
+            ]
+          ],
+          "postIds": [
+            50546657,
+            51046626,
+            53612371,
+            55324481,
+            61349681,
+            62988475,
+            67219249
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "inflation",
+              384
+            ],
+            [
+              "prices",
+              202
+            ],
+            [
+              "price",
+              155
+            ],
+            [
+              "fed",
+              150
+            ],
+            [
+              "oil",
+              142
             ],
             [
               "supply",
               140
             ],
             [
-              "demand",
-              126
-            ],
-            [
-              "land",
-              118
-            ],
-            [
-              "oil",
-              113
-            ],
-            [
-              "city",
-              108
-            ],
-            [
-              "market",
-              107
-            ],
-            [
-              "homelessness",
-              98
-            ],
-            [
               "economy",
+              139
+            ],
+            [
+              "demand",
+              119
+            ],
+            [
+              "labor",
+              95
+            ],
+            [
+              "housing",
               86
             ],
             [
-              "construction",
-              85
-            ],
-            [
-              "car",
+              "cars",
               84
             ],
             [
-              "fed",
+              "gas",
               82
+            ],
+            [
+              "market",
+              80
+            ],
+            [
+              "growth",
+              79
+            ],
+            [
+              "car",
+              76
             ]
           ],
           "lowTerms": [
             [
-              "democrats",
+              "civil rights",
+              -13
+            ],
+            [
+              "taliban",
               -14
             ],
             [
               "programs",
-              -16
+              -14
             ],
             [
-              "student loan",
-              -17
-            ],
-            [
-              "taliban",
-              -17
-            ],
-            [
-              "king",
-              -19
-            ],
-            [
-              "loan",
-              -19
-            ],
-            [
-              "afghanistan",
-              -19
-            ],
-            [
-              "forgiveness",
-              -20
+              "medicaid",
+              -14
             ],
             [
               "student",
-              -21
+              -15
             ],
             [
-              "ctc",
-              -22
+              "afghanistan",
+              -16
             ],
             [
-              "police",
-              -24
+              "abortion",
+              -17
             ],
             [
-              "climate change",
-              -26
+              "health care",
+              -17
+            ],
+            [
+              "health",
+              -18
             ],
             [
               "debt",
-              -30
+              -18
             ],
             [
-              "amtrak",
-              -36
+              "forgiveness",
+              -18
+            ],
+            [
+              "king",
+              -20
+            ],
+            [
+              "climate change",
+              -21
+            ],
+            [
+              "medicare",
+              -21
             ],
             [
               "climate",
+              -45
+            ]
+          ],
+          "postIds": [
+            37443861,
+            39881555,
+            42642779,
+            47301886,
+            53938535,
+            54679617,
+            61556524
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "debt",
+              259
+            ],
+            [
+              "student",
+              230
+            ],
+            [
+              "loan",
+              190
+            ],
+            [
+              "schools",
+              183
+            ],
+            [
+              "education",
+              174
+            ],
+            [
+              "students",
+              157
+            ],
+            [
+              "school",
+              152
+            ],
+            [
+              "college",
+              148
+            ],
+            [
+              "forgiveness",
+              140
+            ],
+            [
+              "student loan",
+              138
+            ],
+            [
+              "higher education",
+              126
+            ],
+            [
+              "loans",
+              111
+            ],
+            [
+              "tuition",
+              96
+            ],
+            [
+              "relief",
+              92
+            ],
+            [
+              "teachers",
+              83
+            ]
+          ],
+          "lowTerms": [
+            [
+              "vaccines",
+              -17
+            ],
+            [
+              "tax credit",
+              -17
+            ],
+            [
+              "bus",
+              -17
+            ],
+            [
+              "transit",
+              -18
+            ],
+            [
+              "crime",
+              -20
+            ],
+            [
+              "romney",
+              -22
+            ],
+            [
+              "poverty",
+              -23
+            ],
+            [
+              "cars",
+              -23
+            ],
+            [
+              "climate",
+              -28
+            ],
+            [
+              "vaccine",
+              -29
+            ],
+            [
+              "oil",
+              -30
+            ],
+            [
+              "voters",
+              -42
+            ],
+            [
+              "child care",
+              -45
+            ],
+            [
+              "child",
+              -62
+            ],
+            [
+              "ctc",
+              -63
+            ]
+          ],
+          "postIds": [
+            21496045,
+            32681123,
+            39090718,
+            46030715,
+            50907408,
+            57340427,
+            70469724
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "immigration",
+              405
+            ],
+            [
+              "asylum",
+              210
+            ],
+            [
+              "labor",
+              158
+            ],
+            [
+              "immigrants",
+              145
+            ],
+            [
+              "biden",
+              138
+            ],
+            [
+              "trump",
+              116
+            ],
+            [
+              "mexico",
+              100
+            ],
+            [
+              "border",
+              98
+            ],
+            [
+              "workers",
+              97
+            ],
+            [
+              "legal immigration",
+              95
+            ],
+            [
+              "obama",
+              95
+            ],
+            [
+              "legal",
+              91
+            ],
+            [
+              "united",
+              91
+            ],
+            [
+              "united states",
+              89
+            ],
+            [
+              "wages",
+              86
+            ]
+          ],
+          "lowTerms": [
+            [
+              "google",
+              -22
+            ],
+            [
+              "musk",
+              -23
+            ],
+            [
+              "electricity",
+              -24
+            ],
+            [
+              "yang",
+              -24
+            ],
+            [
+              "trillion",
+              -25
+            ],
+            [
+              "masks",
+              -26
+            ],
+            [
+              "content",
+              -26
+            ],
+            [
+              "media",
+              -27
+            ],
+            [
+              "russia",
+              -27
+            ],
+            [
+              "facebook",
+              -28
+            ],
+            [
+              "inflation",
+              -32
+            ],
+            [
+              "ctc",
+              -32
+            ],
+            [
+              "twitter",
+              -34
+            ],
+            [
+              "king",
+              -46
+            ],
+            [
+              "manchin",
               -61
             ]
           ],
           "postIds": [
-            40013897,
-            47301886,
-            50591662
+            30087879,
+            34139213,
+            39691221,
+            40815332,
+            43822350,
+            73546248
+          ]
+        },
+        {
+          "topTerms": [
+            [
+              "inflation",
+              177
+            ],
+            [
+              "debt",
+              142
+            ],
+            [
+              "fed",
+              127
+            ],
+            [
+              "money",
+              104
+            ],
+            [
+              "health",
+              103
+            ],
+            [
+              "student",
+              101
+            ],
+            [
+              "loan",
+              97
+            ],
+            [
+              "vaccine",
+              94
+            ],
+            [
+              "policy",
+              80
+            ],
+            [
+              "rates",
+              80
+            ],
+            [
+              "tax",
+              78
+            ],
+            [
+              "public",
+              75
+            ],
+            [
+              "economy",
+              74
+            ],
+            [
+              "wealth",
+              72
+            ],
+            [
+              "forgiveness",
+              70
+            ]
+          ],
+          "lowTerms": [
+            [
+              "slouching",
+              -12
+            ],
+            [
+              "vote",
+              -12
+            ],
+            [
+              "china",
+              -12
+            ],
+            [
+              "ctc",
+              -13
+            ],
+            [
+              "1870",
+              -13
+            ],
+            [
+              "voters",
+              -13
+            ],
+            [
+              "delong",
+              -13
+            ],
+            [
+              "remote",
+              -14
+            ],
+            [
+              "utopia",
+              -15
+            ],
+            [
+              "immigrants",
+              -16
+            ],
+            [
+              "gas",
+              -17
+            ],
+            [
+              "asylum",
+              -30
+            ],
+            [
+              "teachers",
+              -31
+            ],
+            [
+              "oil",
+              -51
+            ],
+            [
+              "immigration",
+              -52
+            ]
+          ],
+          "postIds": [
+            24537925,
+            31019610,
+            32719935
           ]
         }
       ]
