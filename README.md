@@ -8,6 +8,10 @@ at [matthagy.github.io/slowboring_article_clusters](https://matthagy.github.io/s
 
 ## Methods
 
+Post text and metadata are fetched using [substack_client](https://github.com/matthagy/substack_client) as described in,
+[Developing a Substack client to fetch posts and comments](https://matthagy.substack.com/p/developing-a-custom-substack-front).
+
+
 Articles are clustered based on term frequencies.
 You can view the Jupyter notebook [analysis.ipynb](./analysis.ipynb)
 for an overview and explanation of the methods.
