@@ -2,7 +2,7 @@
 
 | publishedBylines                |   articles |   avg_comments |   avg_likes | last_article                                                         |
 |:--------------------------------|-----------:|---------------:|------------:|:---------------------------------------------------------------------|
-| Matthew Yglesias                |        546 |            253 |         139 | https://www.slowboring.com/p/anti-dutch-mailbag                      |
+| Matthew Yglesias                |        550 |            253 |         139 | https://www.slowboring.com/p/amtrak-should-build-a-good-train        |
 | Milan Singh                     |         10 |            192 |          97 | https://www.slowboring.com/p/deadweight-loss-explained               |
 | Marc Novicoff                   |          5 |            171 |         111 | https://www.slowboring.com/p/farewell-from-marc-the-intern           |
 | Kate Crawford                   |          3 |              9 |          29 | https://www.slowboring.com/p/reminder-slow-boring-book-club-thursday |
