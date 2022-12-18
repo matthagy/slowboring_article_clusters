@@ -14,6 +14,7 @@
     <script type="text/javascript" src="./clusters.js"></script>
     <script type="text/javascript" src="./ui.js"></script>
     <link rel="stylesheet" type="text/css" href="./flexigrid/css/flexigrid.css">
+    <link rel="stylesheet" type="text/css" href="./style.css">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-GP7E91LX9D"></script>
@@ -31,43 +32,41 @@
 </head>
 
 <body>
-<h1>Slow Boring categorized articles</h1>
 
-<p>
-    Explore <a href="https://www.slowboring.com/">Slow Boring</a> articles by algorithmically generated categories.
-    <a href="https://github.com/matthagy/slowboring_article_clusters">Details about the methods</a>.
-</p>
+<div id="contents">
+    <div id="description">
+        <h1>Slow Boring categorized articles</h1>
 
-<p>
-    You can change the number of categories to get a broader versus narrowing grouping
-    of articles.
-</p>
+        <p>
+            Explore <a href="https://www.slowboring.com/">Slow Boring</a> articles by algorithmically generated
+            categories.
+            Source code and explanation of methods at
+            <a href="https://github.com/matthagy/slowboring_article_clusters">github.com/matthagy/slowboring_article_clusters</a>.
+        </p>
 
-<form>
-    <label for="categories">Number of categories</label>
-    <select name="categories" id="categories">
-    </select>
-</form>
+        <p>
+            You can change the number of categories to get a broader versus narrowing grouping
+            of articles.
+            You can then select a category to view its articles.
+            Categories are labeled by their distinguishing terms within its articles.
+            The table of articles is sortable; click a column header to order by that dimension.
+        </p>
+    </div>
 
-<p>
-    Choose a category from the following list to see articles in that category.
-    Each category shows the number of articles (n) and key terms.
-</p>
 
-<form>
-    <label for="category">Category</label>
-    <select name="category" id="category">
-    </select>
-</form>
+    <form>
+        <label for="categories">Number of categories</label>
+        <select name="categories" id="categories">
+        </select>
+        <br/>
 
-<p>
-    Posts for the selected category are shown in the following table.
-    Click a column header to sort by that column. Title link will take you to the post.
-    Some posts will require a paid account to view the full article.
-</p>
+        <label for="category">Category</label>
+        <select name="category" id="category">
+        </select>
+    </form>
 
-<table id="clusterPosts" style="display:none">
-</table>
-
+    <table id="clusterPosts" style="display:none">
+    </table>
+</div>
 </body>
 </html>
