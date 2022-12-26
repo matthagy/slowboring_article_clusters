@@ -2,11 +2,12 @@
 
 | publishedBylines                |   articles |   avg_comments |   avg_likes | last_article                                                         |
 |:--------------------------------|-----------:|---------------:|------------:|:---------------------------------------------------------------------|
-| Matthew Yglesias                |        552 |            253 |         139 | https://www.slowboring.com/p/why-hasnt-technology-disrupted-higher   |
+| Matthew Yglesias                |        559 |            255 |         140 | https://www.slowboring.com/p/secret-congress-delivers-more-good      |
 | Milan Singh                     |         10 |            192 |          97 | https://www.slowboring.com/p/deadweight-loss-explained               |
 | Marc Novicoff                   |          5 |            171 |         111 | https://www.slowboring.com/p/farewell-from-marc-the-intern           |
 | Kate Crawford                   |          3 |              9 |          29 | https://www.slowboring.com/p/reminder-slow-boring-book-club-thursday |
 | Jeff Maurer                     |          2 |             99 |         122 | https://www.slowboring.com/p/what-we-learned-from-the-scotland       |
+| Keith Humphreys                 |          2 |             64 |          62 | https://www.slowboring.com/p/to-reduce-mass-incarceration-reduce     |
 | Phoebe Maltz Bovy               |          1 |            502 |         105 | https://www.slowboring.com/p/pro-life-austerity-good-luck-with       |
 | Simon Bazelon                   |          1 |            381 |         115 | https://www.slowboring.com/p/democrats-are-sleepwalking-into-a       |
 | Simon Bazelon, Matthew Yglesias |          1 |            290 |         156 | https://www.slowboring.com/p/the-rise-and-importance-of-secret       |
@@ -16,7 +17,6 @@
 | Sasha Issenberg                 |          1 |            169 |          83 | https://www.slowboring.com/p/abortion-activists-must-learn-to        |
 | Lee Harris                      |          1 |            161 |          71 | https://www.slowboring.com/p/the-case-for-rapprochement-with-russia  |
 | Patrick Collison                |          1 |            130 |         174 | https://www.slowboring.com/p/we-could-have-universal-covid-vaccines  |
-| Keith Humphreys                 |          1 |            129 |         125 | https://www.slowboring.com/p/hispanic-prison                         |
 | Natalie Shure                   |          1 |            107 |         132 | https://www.slowboring.com/p/the-suffering-is-real-but-there-is      |
 | Eric Goldwyn, Jonathan English  |          1 |             87 |          80 | https://www.slowboring.com/p/amtrak-review                           |
 | Rachel Cohen                    |          1 |             86 |          61 | https://www.slowboring.com/p/medicare-advantage                      |
