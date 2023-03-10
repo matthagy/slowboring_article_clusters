@@ -622,7 +622,7 @@ post_id,date,title,audience,word_count,comments,likes,url,authors
 97693814,2023-01-23 11:01:15,Zoning reform lessons from the closing of 16th-century English monasteries,paid,2674,231,145,https://www.slowboring.com/p/zoning-reform-lessons-from-the-closing,Matthew Yglesias
 97886423,2023-01-25 11:01:20,Why I'm worried about D.C.'s criminal code re-write,paid,2556,538,183,https://www.slowboring.com/p/why-im-worried-about-dcs-criminal,Matthew Yglesias
 97902560,2023-01-24 11:01:24,Joe Biden's conditional optimism about America,free,1995,212,156,https://www.slowboring.com/p/joe-biden,Matthew Yglesias
-98194166,2023-02-22 11:01:38,Political lessons from Jamaican Patois,paid,2624,286,143,https://www.slowboring.com/p/political-lessons-from-jamaican-patois,Matthew Yglesias
+98194166,2023-02-22 11:01:38,Political lessons from Jamaican Patois,paid,2624,286,145,https://www.slowboring.com/p/political-lessons-from-jamaican-patois,Matthew Yglesias
 98492911,2023-01-26 11:01:32,Republicans can't even explain what they're trying to do with the debt ceiling,free,1885,269,172,https://www.slowboring.com/p/republicans-cant-even-explain-what,Matthew Yglesias
 98659742,2023-01-27 11:38:57,An honor just to be nominated for the mailbag,paid,3557,545,111,https://www.slowboring.com/p/an-honor-just-to-be-nominated-for,Matthew Yglesias
 99102422,2023-01-30 11:01:30,Recent layoffs at Big Tech don't spell economic doom,free,2159,221,172,https://www.slowboring.com/p/recent-layoffs-at-big-tech-dont-spell,Matthew Yglesias
@@ -638,13 +638,18 @@ post_id,date,title,audience,word_count,comments,likes,url,authors
 101843994,2023-02-13 11:01:48,"A targeted crackdown on ""junk fees"" makes a lot of sense",paid,2734,329,168,https://www.slowboring.com/p/junk-fees,Matthew Yglesias
 102098862,2023-02-16 11:01:05,Progressives need to engage with the specific questions about youth gender care,free,2734,668,393,https://www.slowboring.com/p/progressives-need-to-engage-with,Matthew Yglesias
 102139433,2023-02-14 11:03:11,Don't give up on police reform ,free,2764,303,195,https://www.slowboring.com/p/police-reform,Matthew Yglesias
-102437209,2023-02-23 11:01:49,The once and future carbon tax,paid,2187,215,97,https://www.slowboring.com/p/the-once-and-future-carbon-tax,Matthew Yglesias
-102628062,2023-02-20 11:02:01,Jamaica's nuclear future,free,2520,63,86,https://www.slowboring.com/p/jamaicas-nuclear-future,
+102437209,2023-02-23 11:01:49,The once and future carbon tax,paid,2187,217,100,https://www.slowboring.com/p/the-once-and-future-carbon-tax,Matthew Yglesias
+102628062,2023-02-20 11:02:01,Jamaica's nuclear future,free,2520,63,88,https://www.slowboring.com/p/jamaicas-nuclear-future,
 102656721,2023-02-15 11:01:41,Why you can't trust the media,free,2460,258,258,https://www.slowboring.com/p/why-you-cant-trust-the-media,Matthew Yglesias
-102749378,2023-02-27 11:00:32,Misinformation isn't just on the right ,paid,2300,593,247,https://www.slowboring.com/p/misinformation-isnt-just-on-the-right,Matthew Yglesias
-102874108,2023-02-17 11:00:45,Gone fishing mailbag,paid,4337,485,105,https://www.slowboring.com/p/gone-fishing-mailbag,Matthew Yglesias
-103365512,2023-02-21 11:01:03,"We can't tolerate fake, expired, and obscured car tags",paid,1793,692,309,https://www.slowboring.com/p/we-cant-tolerate-fake-expired-and,Matthew Yglesias
-104440770,2023-02-24 11:01:50,Don't worry about a mailbag,paid,3468,363,95,https://www.slowboring.com/p/dont-worry-about-a-mailbag,Matthew Yglesias
-105202767,2023-03-01 11:01:09,Why are young liberals so depressed?,paid,2837,568,336,https://www.slowboring.com/p/why-are-young-liberals-so-depressed,Matthew Yglesias
-105318311,2023-02-28 11:01:22,Lab leak is not a debunked conspiracy theory and never has been,paid,2039,409,149,https://www.slowboring.com/p/lab-leak-is-not-a-debunked-conspiracy,Matthew Yglesias
-105631761,2023-03-02 11:01:30,Exclusionary suburbs are a bad model for public safety ,paid,2083,97,202,https://www.slowboring.com/p/exclusionary-suburbs-are-a-bad-model,Matthew Yglesias
+102749378,2023-02-27 11:00:32,Misinformation isn't just on the right ,paid,2300,594,253,https://www.slowboring.com/p/misinformation-isnt-just-on-the-right,Matthew Yglesias
+102874108,2023-02-17 11:00:45,Gone fishing mailbag,paid,4337,485,107,https://www.slowboring.com/p/gone-fishing-mailbag,Matthew Yglesias
+103365512,2023-02-21 11:01:03,"We can't tolerate fake, expired, and obscured car tags",paid,1793,693,313,https://www.slowboring.com/p/we-cant-tolerate-fake-expired-and,Matthew Yglesias
+104440770,2023-02-24 11:01:50,Don't worry about a mailbag,paid,3468,363,98,https://www.slowboring.com/p/dont-worry-about-a-mailbag,Matthew Yglesias
+105202767,2023-03-01 11:01:09,Why are young liberals so depressed?,paid,2837,575,387,https://www.slowboring.com/p/why-are-young-liberals-so-depressed,Matthew Yglesias
+105318311,2023-02-28 11:01:22,Lab leak is not a debunked conspiracy theory and never has been,paid,2039,411,153,https://www.slowboring.com/p/lab-leak-is-not-a-debunked-conspiracy,Matthew Yglesias
+105631761,2023-03-02 11:01:30,Exclusionary suburbs are a bad model for public safety ,paid,2083,113,232,https://www.slowboring.com/p/exclusionary-suburbs-are-a-bad-model,Matthew Yglesias
+105714387,2023-03-03 11:01:27,Back in the USA mailbag,paid,4145,443,92,https://www.slowboring.com/p/back-in-the-usa-mailbag-09b,Matthew Yglesias
+105878852,2023-03-07 11:01:26,"The strange death of education reform, part one",free,2437,388,149,https://www.slowboring.com/p/the-strange-death-of-education-reform,Matthew Yglesias
+106195839,2023-03-08 11:01:30,Individual action on climate is big deal again,paid,1922,277,138,https://www.slowboring.com/p/individual-action-on-climate-is-big,Matthew Yglesias
+106611175,2023-03-06 11:00:24,Pro sports leagues should be more open to change,free,1755,484,144,https://www.slowboring.com/p/pro-sports-leagues-should-be-more,Joel Wertheimer
+106784146,2023-03-09 12:11:55,What the 15-minute city misses ,free,2291,197,110,https://www.slowboring.com/p/what-the-15-minute-city-misses,Matthew Yglesias
