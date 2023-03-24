@@ -1,15 +1,12 @@
 word
 000
-000 12
 000 month
-000 paid
 000 people
 000 square
 000 year
 10
 10 000
 10 15
-10 20
 10 billion
 10 million
 10 percent
@@ -35,7 +32,6 @@ word
 12 000
 12 education
 12 months
-12 public
 12 school
 12 schools
 12 years
@@ -70,9 +66,7 @@ word
 16th
 16th 2021
 17
-1790
 17th
-17th 2021
 18
 18 months
 18 year
@@ -140,18 +134,15 @@ word
 19th
 19th century
 1st
-1st 2021
 20
 20 000
 20 30
-20 billion
 20 million
 20 percent
 20 year
 20 years
 200
 200 000
-200 billion
 2000
 2000s
 2001
@@ -161,14 +152,13 @@ word
 2005
 2006
 2007
+2007 2008
 2008
 2008 2012
-2008 primary
 2009
 2009 2010
 2010
 2010 midterms
-2010s
 2011
 2012
 2013
@@ -185,11 +175,9 @@ word
 2018
 2018 2019
 2018 2020
-2018 cycle
 2018 midterms
 2019
 2019 20
-2019 2020
 2020
 2020 2021
 2020 21
@@ -240,14 +228,10 @@ word
 25th 2021
 26
 26th
-26th 2021
 27
-27 percent
 27th
 28
 28th
-28th 2020
-28th 2021
 29
 29th
 2nd
@@ -256,7 +240,6 @@ word
 30 000
 30 40
 30 billion
-30 eastern
 30 percent
 30 year
 30 years
@@ -307,7 +290,6 @@ word
 50 percent
 50 senate
 50 states
-50 vote
 50 votes
 50 white
 50 years
@@ -433,6 +415,7 @@ abroad
 absence
 absent
 absolute
+absolute terms
 absolutely
 absolutely agree
 absolutely right
@@ -441,6 +424,7 @@ absolutely way
 absorb
 abstain
 abstract
+abstract sense
 abstraction
 absurd
 abundance
@@ -455,6 +439,7 @@ aca repeal
 aca subsidies
 academia
 academic
+academic achievement
 academic research
 academically
 academics
@@ -536,17 +521,23 @@ acquired
 acquired immunity
 acquiring
 acquisition
+acres
 act
 act climate
 act good
 act like
 act passed
+act repeal
+act subsidies
+act way
 acted
 acting
 acting like
 action
 action climate
+action college
 action movie
+actionable
 actions
 active
 actively
@@ -563,8 +554,12 @@ actual
 actual human
 actual issue
 actual policy
+actual proposal
 actual public
+actual reason
 actual situation
+actual views
+actually accomplish
 actually achieve
 actually address
 actually bad
@@ -597,11 +592,13 @@ actually just
 actually know
 actually large
 actually like
+actually live
 actually lot
 actually make
 actually makes
 actually making
 actually need
+actually opposite
 actually pass
 actually pay
 actually pretty
@@ -610,11 +607,15 @@ actually really
 actually say
 actually saying
 actually solve
+actually super
+actually things
 actually think
 actually true
 actually try
 actually use
+actually useful
 actually want
+actually won
 actually work
 actually worked
 actually works
@@ -648,14 +649,12 @@ address climate
 address concerns
 address issue
 address issues
-address problem
 address specific
 addressed
 addresses
 addressing
 adds
 adequate
-adequate housing
 adequately
 adhd
 adhere
@@ -672,7 +671,6 @@ adjustments
 administer
 administered
 administration
-administration actually
 administration did
 administration officials
 administration policy
@@ -699,7 +697,6 @@ adopted
 adopting
 adoption
 adopts
-adrian
 ads
 adu
 adult
@@ -740,8 +737,6 @@ advocate
 advocated
 advocates
 advocating
-aei
-aerosols
 aesthetic
 aesthetics
 afdc
@@ -753,7 +748,6 @@ affection
 affects
 affiliate
 affiliated
-affiliating
 affiliation
 affinity
 affirm
@@ -762,7 +756,6 @@ affirmative action
 affirmatively
 afflicting
 affluent
-affluent families
 affluent people
 afford
 affordability
@@ -772,50 +765,40 @@ affordable housing
 afghan
 afghan government
 afghanistan
-afield
-afloat
 aforementioned
 afraid
 africa
 african
 african american
 african americans
-africans
 aftermath
 afternoon
 age
 age employment
 aged
-aged people
 agencies
 agency
 agenda
 agenda setting
-agenda things
 agendas
 agent
 agents
 ages
 agglomeration
 aggregate
-aggregate spending
+aggregate demand
 aggregates
 aggression
 aggressive
 aggressive action
 aggressively
 aging
-agitation
 agnostic
 ago
 ago people
-ago said
-ago think
 ago ve
 agree
 agree disagree
-agree good
-agree people
 agree think
 agreed
 agreeing
@@ -824,7 +807,6 @@ agreements
 agrees
 agricultural
 agriculture
-aha
 ahead
 ahead curve
 ai
@@ -859,7 +841,6 @@ airplanes
 airport
 airports
 aisle
-aka
 akin
 al
 al gore
@@ -889,10 +870,8 @@ alien
 alienate
 alienated
 alienating
-alienating people
 align
 aligned
-aligned groups
 aligning
 alignment
 aligns
@@ -900,7 +879,6 @@ alike
 alito
 alive
 allegations
-allege
 alleged
 allegedly
 allegiance
@@ -943,7 +921,6 @@ altruism
 altruist
 aluminum
 amanda
-amassed
 amateur
 amazing
 amazingly
@@ -964,12 +941,9 @@ amenities
 amenity
 america
 america big
-america did
 america does
 america doesn
-america existing
 america great
-america idea
 america lot
 america make
 america needs
@@ -1001,13 +975,10 @@ american higher
 american history
 american institutions
 american jobs
-american labor
-american legal
 american life
 american mass
 american media
 american military
-american national
 american neighborhoods
 american oil
 american people
@@ -1018,47 +989,34 @@ american politicians
 american politics
 american population
 american progress
-american progressive
-american progressives
 american prospect
 american public
 american recovery
 american rescue
-american social
 american society
-american state
-american technology
 american transportation
-american universities
 american voters
 american welfare
 american women
 americans
 americans don
 americans live
-americans people
 americans say
 americans think
-americans use
 amid
 amidst
 amnesty
 amounted
-amounting
 amounts
 amounts money
-amounts time
-amped
 ample
 amplify
 amsterdam
 amtrak
-amusing
 amy
 amy klobuchar
 analog
 analogies
-analogous
 analogy
 analyses
 analysis
@@ -1132,6 +1090,7 @@ anti anti
 anti asian
 anti black
 anti china
+anti competitive
 anti corruption
 anti gerrymandering
 anti immigrant
@@ -1191,6 +1150,7 @@ apple
 apple google
 apple just
 apple tv
+apples
 appliances
 applicable
 applicants
@@ -1369,6 +1329,7 @@ assistance families
 assistance parents
 assistance programs
 assistant
+assistant professor
 assistant secretary
 assisted
 associate
@@ -1479,9 +1440,12 @@ availability
 available
 avatar
 avenue
+avenue subway
 average
 average american
+average incomes
 average inflation
+average levels
 average person
 average rent
 average rents
@@ -1495,6 +1459,7 @@ averting
 aviation
 avoid
 avoid outcome
+avoidance
 avoided
 avoiding
 avoids
@@ -1585,6 +1550,7 @@ bags
 bahn
 bail
 bailout
+bailouts
 bait
 baked
 baker
@@ -1617,6 +1583,7 @@ bangor
 bank
 bank account
 bank accounts
+bank failures
 bank regulation
 bank shot
 bankers
@@ -1658,12 +1625,14 @@ baseball
 based
 based people
 based tax
+based way
 baseline
 basement
 basement apartment
 bases
 basic
 basic argument
+basic business
 basic dynamic
 basic economics
 basic idea
@@ -1671,18 +1640,25 @@ basic ideas
 basic income
 basic issue
 basic logic
+basic model
 basic point
 basic problem
+basic question
 basic questions
 basic reality
+basic reason
 basic story
 basic view
 basically
 basically agree
+basically asking
 basically bad
 basically just
 basically right
+basically think
 basically time
+basically way
+basically wrong
 basics
 basis
 basket
@@ -1690,13 +1666,16 @@ basketball
 bastion
 bat
 bathroom
+bathrooms
 batman
+baton
 bats
 batteries
 battery
 battle
 battlefield
 battles
+baucus
 bay
 bay area
 bayard
@@ -1727,22 +1706,28 @@ beef
 beefs
 beer
 began
+beggar
 begging
 begin
 beginning
 beginning pandemic
 beginning year
 begins
+begrudge
 begun
 behalf
+behalf poor
 behave
 behaved
 behaving
 behavior
 behavioral
 behaviors
+behest
 beijing
 beings
+bel
+bel edwards
 belabor
 belabor point
 belgian
@@ -1815,11 +1800,16 @@ betrayal
 betrayed
 bets
 better able
+better act
+better actually
 better average
 better better
+better big
+better country
 better deal
 better educated
 better expected
+better focus
 better future
 better good
 better idea
@@ -1842,6 +1832,7 @@ better stuff
 better technology
 better think
 better time
+better today
 better use
 better way
 better world
@@ -1889,6 +1880,7 @@ biden needs
 biden obama
 biden office
 biden plan
+biden point
 biden presidency
 biden president
 biden proposal
@@ -1897,6 +1889,7 @@ biden proposing
 biden really
 biden run
 biden said
+biden says
 biden talking
 biden team
 biden think
@@ -1909,7 +1902,9 @@ biden white
 biden won
 biden years
 bif
+big banks
 big believer
+big bipartisan
 big boost
 big box
 big business
@@ -1997,15 +1992,18 @@ biological
 biology
 biomedical
 biotech
+biotechnology
 bipartisan
 bipartisan basis
 bipartisan bills
 bipartisan commission
 bipartisan consensus
 bipartisan deal
+bipartisan deficit
 bipartisan infrastructure
 bipartisan legislating
 bipartisan legislation
+bipartisan majorities
 bipartisan support
 bipartisanship
 birds
@@ -2017,15 +2015,23 @@ bit better
 bit different
 bit hard
 bit harder
+bit higher
+bit larger
+bit left
+bit like
 bit odd
+bit think
+bit time
 bit weird
 bit worse
 bitcoin
 bite
 bits
 bitter
+bitterly
 bizarre
 black
+black america
 black americans
 black brown
 black democrats
@@ -2042,6 +2048,7 @@ black person
 black political
 black population
 black racism
+black students
 black vote
 black voters
 black votes
@@ -2056,6 +2063,7 @@ blame
 blamed
 blaming
 blanche
+bland
 blank
 blanket
 blasio
@@ -2074,6 +2082,7 @@ blitz
 bloat
 bloc
 block
+block new
 blockade
 blockbuster
 blocked
@@ -2083,6 +2092,7 @@ blog
 blog post
 blogger
 blogging
+blogosphere
 blogs
 blood
 bloody
@@ -2140,6 +2150,7 @@ bonuses
 book
 book called
 book club
+book published
 book slouching
 booker
 books
@@ -2248,6 +2259,7 @@ breathing
 brendan
 brett
 brett kavanaugh
+brexit
 breyer
 brian
 brian kemp
@@ -2419,6 +2431,7 @@ button
 buy
 buy american
 buy new
+buy stuff
 buy things
 buyers
 buying
@@ -2569,6 +2582,7 @@ cargo
 caribbean
 caring
 carjackings
+carl
 carlson
 carolina
 carried
@@ -2630,6 +2644,7 @@ catholics
 caucus
 caucuses
 caught
+caught doing
 causal
 causation
 cause
@@ -2842,6 +2857,7 @@ chiefs
 child
 child allowance
 child care
+child left
 child poverty
 child rearing
 child tax
@@ -2850,6 +2866,7 @@ childhood
 childless
 children
 children lives
+children parents
 chill
 china
 china hawk
@@ -2905,6 +2922,7 @@ circa
 circle
 circles
 circuit
+circulate
 circulated
 circulating
 circulation
@@ -2967,6 +2985,7 @@ clarity
 clark
 clash
 class
+class black
 class college
 class democrats
 class families
@@ -3208,6 +3227,8 @@ comeback
 comedy
 comes
 comes fact
+comes mind
+comes people
 comfort
 comfortable
 comfortably
@@ -3216,7 +3237,9 @@ comically
 coming
 command
 commanding
+commanding heights
 commensurate
+commensurately
 comment
 commentary
 commenters
@@ -3270,6 +3293,7 @@ communities
 community
 community college
 community colleges
+community just
 community spread
 commute
 commuter
@@ -3280,9 +3304,12 @@ commuting
 commuting patterns
 compact
 companies
+companies doing
 companies don
+companies just
 companies like
 companies make
+companies think
 companies want
 company
 company called
@@ -3291,6 +3318,7 @@ comparable
 comparative
 compare
 compared
+compared countries
 compared united
 compares
 comparing
@@ -3314,6 +3342,7 @@ competition policy
 competitions
 competitive
 competitiveness
+competitor
 competitors
 complacency
 complacent
@@ -3367,6 +3396,8 @@ conceivably
 conceived
 concentrate
 concentrated
+concentrated poverty
+concentrating
 concentration
 concentrations
 concept
@@ -3377,7 +3408,10 @@ conceptualize
 conceptualized
 conceptually
 concern
+concern feel
+concern inflation
 concerned
+concerned climate
 concerning
 concerns
 concert
@@ -3391,9 +3425,12 @@ conclusion
 conclusions
 conclusive
 concrete
+concrete material
+concrete policy
 concrete terms
 concurrent
 condemn
+condemning
 condition
 conditional
 conditioners
@@ -3406,6 +3443,8 @@ conduct
 conducted
 conducting
 conductors
+coney
+coney barrett
 confederacy
 confederate
 conference
@@ -3424,6 +3463,7 @@ conflict
 conflicting
 conflicts
 conform
+confounding
 confront
 confrontational
 confused
@@ -3433,15 +3473,19 @@ confusion
 congestion
 congestion pricing
 conglomerates
+congratulate
 congress
 congress actually
 congress did
+congress getting
 congress going
 congress just
 congress make
 congress need
 congress pass
 congress passed
+congress want
+congress wants
 congressional
 congressional budget
 congressional democrats
@@ -3450,7 +3494,9 @@ congressional majority
 congressional politics
 congressional republicans
 congressional staff
+congressional staffers
 conjunction
+conjure
 connect
 connected
 connecticut
@@ -3460,6 +3506,7 @@ connections
 connects
 connor
 conor
+conor friedersdorf
 conquered
 conquering
 conquest
@@ -3481,7 +3528,10 @@ consequently
 conservation
 conservatism
 conservative
+conservative democrats
 conservative elites
+conservative ideas
+conservative legal
 conservative media
 conservative movement
 conservative party
@@ -3491,11 +3541,14 @@ conservative political
 conservative politics
 conservative state
 conservative states
+conservative values
 conservative view
 conservative views
 conservatives
 conservatives don
 conservatives like
+conservatives outnumber
+conservatives say
 conservatives want
 consider
 consider free
@@ -3504,8 +3557,11 @@ considerably
 consideration
 considerations
 considered
+considered think
 considering
 considers
+consisted
+consistency
 consistent
 consistently
 consistently prioritize
@@ -3526,6 +3582,7 @@ constituency
 constituent
 constituents
 constitute
+constituted
 constitutes
 constitution
 constitutional
@@ -3569,6 +3626,7 @@ consumption tax
 consumption taxes
 contact
 contact tracing
+contagion
 contagious
 contain
 contained
@@ -3763,6 +3821,7 @@ costs
 costs government
 costs lot
 costs money
+costs project
 cotton
 couldn
 couldn just
@@ -3772,6 +3831,7 @@ council member
 council members
 councils
 counsel
+counselor
 counsels
 count
 counted
@@ -3826,16 +3886,24 @@ course don
 course going
 course great
 course just
+course lot
+course lots
+course make
+course need
 course people
 course possible
 course real
 course really
+course reason
+course republicans
 course things
 course true
+course war
 courses
 court
 court justices
 court ruled
+courted
 courtesy
 courting
 courts
@@ -3843,6 +3911,7 @@ cousins
 cov
 cov virus
 cover
+cover cost
 coverage
 covered
 covering
@@ -3851,6 +3920,7 @@ covid
 covid 19
 covid cases
 covid cautious
+covid era
 covid hawks
 covid npis
 covid pandemic
@@ -3890,6 +3960,7 @@ crazy person
 crazy think
 cream
 create
+create big
 create jobs
 create new
 create situation
@@ -4040,6 +4111,7 @@ custom
 customary
 customer
 customer base
+customer service
 customers
 customs
 cut
@@ -4071,6 +4143,7 @@ dad
 daily
 daily life
 daily lives
+daily news
 dakota
 dale
 dallas
@@ -4082,6 +4155,7 @@ damaging
 damn
 damn high
 dan
+dana
 dance
 danger
 dangerous
@@ -4103,10 +4177,12 @@ date
 dates
 dating
 daughter
+daunting
 dave
 david
 david beckworth
 david brooks
+david dayen
 david leonhardt
 david roberts
 david schleicher
@@ -4133,6 +4209,7 @@ dead
 dead end
 deadlier
 deadliest
+deadline
 deadly
 deadweight
 deadweight loss
@@ -4158,6 +4235,7 @@ death penalty
 death rate
 death toll
 deaths
+deaths year
 debate
 debate think
 debates
@@ -4177,6 +4255,7 @@ decade
 decade ago
 decades
 decades ago
+decades later
 decades long
 decarbonization
 decarbonizing
@@ -4218,6 +4297,7 @@ dedicated
 deduct
 deduction
 deductions
+deem
 deemed
 deep
 deep dive
@@ -4263,6 +4343,7 @@ definitive
 definitively
 deflator
 defray
+defray cost
 defund
 defund police
 defunding
@@ -4281,8 +4362,11 @@ delayed
 delaying
 delays
 delegation
+deleted
 deliberate
 deliberately
+deliberately trying
+delicate
 delicious
 deliver
 delivered
@@ -4291,16 +4375,24 @@ delivers
 delivery
 delong
 delta
+delta variant
 delta wave
 delusion
 delve
+delving
 dem
+demagogic
+demagoguery
 demand
+demand constrained
 demand economy
 demand housing
 demand labor
 demand living
 demand low
+demand people
+demand policy
+demand really
 demand supply
 demanded
 demanding
@@ -4310,6 +4402,8 @@ democracies
 democracy
 democracy think
 democrat
+democrat say
+democrat win
 democratic
 democratic administration
 democratic candidates
@@ -4319,21 +4413,30 @@ democratic governor
 democratic leaders
 democratic leadership
 democratic majority
+democratic national
 democratic nominee
 democratic party
+democratic platform
+democratic political
 democratic politics
 democratic presidential
 democratic primary
+democratic republican
 democratic senate
 democratic senators
 democratic vote
 democratic voters
+democratically
 democrats
+democrats actual
 democrats actually
+democrats agree
 democrats aren
 democrats basically
 democrats better
 democrats big
+democrats bit
+democrats come
 democrats congress
 democrats decided
 democrats democrats
@@ -4346,6 +4449,7 @@ democrats generally
 democrats going
 democrats got
 democrats haven
+democrats held
 democrats hold
 democrats just
 democrats know
@@ -4353,23 +4457,36 @@ democrats left
 democrats like
 democrats likely
 democrats lose
+democrats lost
 democrats love
 democrats make
+democrats means
+democrats midterms
 democrats need
 democrats party
+democrats political
+democrats probably
+democrats really
 democrats republicans
 democrats run
 democrats running
 democrats say
 democrats support
+democrats tend
 democrats think
+democrats today
 democrats try
 democrats trying
 democrats want
+democrats wanted
 democrats win
+democrats winning
 democrats won
 demographic
+demographic characteristics
 demographics
+demolish
+demolished
 demonstrate
 demonstrated
 demonstrates
@@ -4388,6 +4505,7 @@ denounce
 denounced
 denouncing
 dense
+dense city
 densely
 densely populated
 denser
@@ -4405,6 +4523,7 @@ department justice
 department transportation
 departments
 departure
+departures
 depend
 dependence
 dependency
@@ -4421,6 +4540,8 @@ deployed
 deploying
 deployment
 deportation
+deposit
+deposits
 depress
 depressed
 depressed economy
@@ -4428,6 +4549,7 @@ depressed labor
 depressing
 depression
 deprivation
+depriving
 depth
 depths
 deputy
@@ -4506,6 +4628,7 @@ determining
 deterrence
 deterrent
 deterring
+deters
 detour
 detroit
 devastating
@@ -4546,6 +4669,7 @@ dice
 dicey
 dichotomy
 dick
+dictate
 dictator
 dictators
 dictatorship
@@ -4618,6 +4742,7 @@ different approach
 different context
 different countries
 different directions
+different groups
 different idea
 different ideas
 different issues
@@ -4953,8 +5078,10 @@ domestic politics
 domestic product
 domestic production
 domestic spending
+domestically
 dominance
 dominant
+dominant interpretation
 dominate
 dominated
 dominates
@@ -4967,12 +5094,16 @@ don believe
 don big
 don buy
 don care
+don come
+don create
 don currently
 don deliver
+don deny
 don don
 don exist
 don feel
 don fully
+don generally
 don good
 don happen
 don hear
@@ -5049,11 +5180,13 @@ doubted
 doubts
 doug
 doug orleans
+douglas
 dourado
 douthat
 doves
 dovish
 downplay
+downplaying
 downs
 downscale
 downside
@@ -5070,6 +5203,7 @@ dozen
 dozens
 dr
 dr fauci
+dr king
 dr oz
 draconian
 draft
@@ -5077,11 +5211,14 @@ drag
 dragged
 dragging
 drain
+drain swamp
+drains
 drama
 dramatic
 dramatically
 dramatically higher
 dramatically reduce
+dramatically smaller
 drastic
 drastically
 draw
@@ -5120,11 +5257,13 @@ drops
 drought
 drove
 drug
+drug abuse
 drug addiction
 drug overdose
 drug overdoses
 drug prices
 drug pricing
+drug treatment
 drugs
 drum
 drunk
@@ -5177,6 +5316,7 @@ earlier week
 earlier year
 earliest
 early
+early 1960s
 early 1990s
 early 2021
 early 21st
@@ -5214,6 +5354,8 @@ eastern europe
 easy
 easy forget
 easy imagine
+easy make
+easy tell
 easy understand
 easy way
 eat
@@ -5222,6 +5364,7 @@ eating
 ebola
 eccentric
 echo
+eco
 ecological
 econ
 econ 101
@@ -5247,6 +5390,8 @@ economic issues
 economic justice
 economic news
 economic opportunity
+economic outlook
+economic output
 economic policies
 economic policy
 economic power
@@ -5376,16 +5521,12 @@ election campaign
 election day
 election democrats
 election outcomes
-election result
 election results
 election think
-election year
 elections
 electoral
-electoral backlash
 electoral college
 electoral democracy
-electoral performance
 electoral politics
 electoral votes
 electorally
@@ -5393,16 +5534,16 @@ electorate
 electric
 electric car
 electric cars
-electric multiple
+electric heat
 electric vehicle
 electric vehicles
 electrical
 electrical grid
 electricity
+electricity cheap
 electricity demand
 electricity generation
 electricity grid
-electricity needs
 electrification
 electrified
 electrify
@@ -5414,19 +5555,15 @@ element
 elementary
 elementary school
 elements
-elephant
 elevate
 elevated
-elevated unemployment
 elevating
 elevation
 eli
-eli dourado
 elif
 eligibility
 eligible
 eliminate
-eliminate filibuster
 eliminated
 eliminates
 eliminating
@@ -5434,7 +5571,6 @@ elimination
 elite
 elite actors
 elite circles
-elite college
 elite colleges
 elite consensus
 elite educational
@@ -5448,7 +5584,6 @@ elon musk
 email
 emailed
 emails
-embargo
 embarrass
 embarrassed
 embarrassing
@@ -5464,11 +5599,9 @@ emerged
 emergence
 emergency
 emergency use
-emergent
 emerges
 emerging
 emily
-emily stewart
 eminent
 eminent domain
 emission
@@ -5478,7 +5611,6 @@ emissions reducing
 emissions reduction
 emissions reductions
 emmanuel
-emmanuel macron
 emotional
 emotionally
 emotions
@@ -5493,7 +5625,6 @@ emphasizing
 empire
 empires
 empirical
-empirical research
 empirically
 employ
 employ america
@@ -5504,13 +5635,10 @@ employees
 employer
 employers
 employing
-employing people
 employment
 employment economy
-employment hawks
 employment opportunities
 employment population
-employment think
 employs
 empower
 empowered
@@ -5520,10 +5648,8 @@ en
 enact
 enacted
 enacting
-enacts
 encompasses
 encounter
-encounters
 encourage
 encourage people
 encouraged
@@ -5533,10 +5659,7 @@ encouraging people
 end
 end day
 end getting
-end just
-end lot
 end making
-end manufacturing
 end pandemic
 end paying
 end spectrum
@@ -5545,7 +5668,6 @@ end world
 end year
 endeavor
 ended
-ended getting
 endemic
 endgame
 ending
@@ -5576,22 +5698,19 @@ energy prices
 energy production
 energy projects
 energy really
+energy scarcity
 energy sources
 enfant
 enfant plaza
 enforce
-enforceable
 enforced
 enforcement
-enforcement resources
-enforcement rules
 enforcing
 enforcing rules
 engage
 engage political
 engaged
 engaged class
-engaged politics
 engagement
 engages
 engaging
@@ -5608,7 +5727,6 @@ english language
 english speaking
 enhance
 enhanced
-enhancement
 enhancements
 enhancing
 enjoy
@@ -5619,7 +5737,6 @@ enjoys
 enlightened
 enlightening
 enlightenment
-enmeshed
 enormous
 enormously
 enroll
@@ -5639,7 +5756,6 @@ entering
 enterprise
 enterprise institute
 enterprises
-enters
 entertained
 entertainers
 entertaining
@@ -5652,8 +5768,6 @@ enthusiastically
 enthusiasts
 entire
 entirely
-entirely clear
-entirely correct
 entirely sure
 entirety
 entities
@@ -5672,8 +5786,6 @@ entrepreneurs
 entrepreneurship
 entry
 entry level
-entry point
-envelope
 environment
 environmental
 environmental groups
@@ -5700,15 +5812,12 @@ equally
 equals
 equation
 equilibrium
-equip
 equipment
 equipped
 equitable
 equity
-equity inclusion
 equity initiatives
 equivalent
-er
 era
 era democrats
 era politics
@@ -5716,7 +5825,6 @@ eradication
 eric
 eric adams
 eric goldwyn
-erik
 erin
 erode
 eroded
@@ -5737,10 +5845,8 @@ eschew
 eschewing
 especially
 especially given
-especially good
 especially high
 especially important
-especially new
 especially ones
 especially people
 especially true
@@ -5771,17 +5877,14 @@ ethic
 ethical
 ethics
 ethnic
-ethnic backgrounds
 ethnic cleansing
 ethnic group
 ethnic groups
 ethnic identity
-ethnicities
 ethnicity
 ethos
 eu
 eua
-euro
 europe
 europe asia
 europe united
@@ -5814,15 +5917,8 @@ eventually
 everybody
 everyday
 evidence
-evidence clear
 evidence favor
-evidence pretty
-evidence really
-evidence says
-evidence shows
-evidence suggests
 evident
-evidentiary
 evidently
 evil
 evils
@@ -5835,46 +5931,34 @@ ex
 ex ante
 exacerbate
 exacerbated
-exacerbated fact
 exacerbates
 exacerbating
 exact
-exact reason
-exact thing
 exactly
 exactly going
-exactly happened
 exactly kind
 exactly people
 exactly point
 exactly problem
-exactly sure
-exactly talking
 exactly thing
 exactly think
 exaggerate
 exaggerated
 exam
 examine
-examining
 example
 example big
 example just
 example kind
-example people
-example say
 example think
 examples
 exceed
-exceeding
 exceeds
 excel
 excellence
 excellent
 exception
-exceptional
 exceptionalism
-exceptionally
 exceptions
 excerpt
 excess
@@ -5906,7 +5990,6 @@ executive
 executive branch
 executive director
 executive order
-executive orders
 executives
 exemplified
 exempt
@@ -5924,7 +6007,6 @@ existential risk
 existential threat
 existing
 existing american
-existing ones
 exists
 exit
 exotic
@@ -5952,7 +6034,6 @@ expected
 expected value
 expecting
 expects
-expel
 expenditure
 expenditure deflator
 expenditures
@@ -6102,7 +6183,6 @@ fact going
 fact good
 fact just
 fact life
-fact like
 fact lot
 fact matter
 fact new
@@ -6111,7 +6191,6 @@ fact people
 fact pretty
 fact remains
 fact trump
-fact united
 faction
 faction party
 factional
@@ -6218,6 +6297,7 @@ farm
 farmer
 farmers
 farming
+farmland
 farms
 fascinating
 fascism
@@ -6259,6 +6339,7 @@ favors
 fbi
 fcc
 fda
+fdic
 fdr
 fear
 feared
@@ -6267,6 +6348,7 @@ fears
 feasible
 feat
 feature
+feature american
 featured
 features
 featuring
@@ -6281,10 +6363,8 @@ fed target
 fed trying
 federal
 federal abortion
-federal agency
 federal budget
 federal courts
-federal employees
 federal funding
 federal funds
 federal government
@@ -6353,9 +6433,7 @@ feudal
 fever
 fewer
 fewer children
-fewer murders
 fewer people
-fewer resources
 fi
 fiasco
 fiction
@@ -6364,13 +6442,11 @@ fide
 field
 fields
 fierce
-fiercely
 fifth
 fight
 fight climate
 fight inflation
 fighter
-fighters
 fighting
 fighting chance
 fights
@@ -6402,7 +6478,6 @@ financial
 financial assets
 financial assistance
 financial capital
-financial cost
 financial crisis
 financial incentive
 financial incentives
@@ -6426,7 +6501,6 @@ fine don
 fine far
 fine grained
 fine think
-finer
 fines
 finger
 fingers
@@ -6439,7 +6513,6 @@ finnish
 firearm
 firearms
 fired
-fired climate
 fired power
 firefighters
 firing
@@ -6453,9 +6526,7 @@ fiscal capacity
 fiscal crisis
 fiscal monetary
 fiscal policy
-fiscal resources
 fiscal responsibility
-fiscal situation
 fiscal stimulus
 fiscal year
 fiscally
@@ -6465,9 +6536,7 @@ fishing
 fit
 fits
 fix
-fix things
 fixed
-fixed pool
 fixes
 fixing
 fl
@@ -6486,7 +6555,6 @@ flatten
 flatten curve
 flattening
 flatter
-flattering
 flavor
 flaw
 flawed
@@ -6497,7 +6565,6 @@ fleeing
 fleet
 flesh
 flew
-flex
 flexibility
 flexible
 flies
@@ -6510,20 +6577,17 @@ flipped trump
 flipping
 flips
 flipside
-flirting
 floated
 floating
 flood
 flooding
 floor
-floor area
 flop
 flopped
 florida
 flow
 flowed
 flowing
-flown
 flows
 floyd
 floyd death
@@ -6533,7 +6597,6 @@ flu
 flu shots
 flu vaccines
 fluctuations
-flukey
 fly
 fly planes
 flying
@@ -6542,12 +6605,10 @@ focus
 focused
 focuses
 focusing
-foil
 fold
 folks
 folks like
 follow
-follow rules
 followed
 followers
 following
@@ -6558,6 +6619,7 @@ food banks
 food energy
 food insecurity
 food service
+food stamps
 foods
 foodservice
 foolish
@@ -6594,6 +6656,7 @@ forest
 forest trees
 forestall
 forever
+forge
 forget
 forgetting
 forging
@@ -6619,13 +6682,10 @@ forthcoming
 fortunate
 fortunately
 fortune
-fortune 500
 fortunes
 forum
 forward
 forward looking
-forward really
-forward think
 forward thinking
 fossil
 fossil fuel
@@ -6642,7 +6702,6 @@ founding
 founding fathers
 fourth
 fox
-fox business
 fox news
 frackers
 fracking
@@ -6660,8 +6719,6 @@ franchise
 franchises
 francis
 francisco
-francisco school
-francisco seattle
 frank
 franklin
 frankly
@@ -6671,7 +6728,6 @@ fraud
 fraught
 freak
 freddie
-freddie mac
 frederick
 free
 free college
@@ -6713,7 +6769,6 @@ friendlier
 friendly
 friends
 friends family
-frigidwind
 fringe
 fringes
 frontier
@@ -6761,20 +6816,18 @@ functioning
 functions
 fund
 fundamental
-fundamental issues
 fundamental problem
 fundamentally
 fundamentally don
-fundamentally misguided
 fundamentally think
 fundamentals
 funded
 funder
 funders
 funding
-funding tax
 fundraising
 funds
+funds rate
 funnel
 funny
 furious
@@ -6821,7 +6874,6 @@ garage
 garbage
 garcia
 garden
-gargantuan
 garland
 garner
 garnered
@@ -6832,8 +6884,6 @@ gas drilling
 gas emissions
 gas extraction
 gas industry
-gas pipelines
-gas plants
 gas price
 gas prices
 gas production
@@ -6872,15 +6922,11 @@ gene
 general
 general election
 general issue
-general point
 general population
 general public
 general sense
 general social
-general tend
 general think
-general trend
-general understanding
 general view
 generalist
 generalized
@@ -6891,21 +6937,17 @@ generally speaking
 generally think
 generals
 generate
-generate additional
 generate backlash
 generate employment
-generate high
 generate large
 generate lot
 generate revenue
 generated
 generated lot
 generates
-generates revenue
 generating
 generation
 generation ago
-generation nuclear
 generational
 generations
 generic
@@ -6928,7 +6970,6 @@ genuinely
 genuinely bad
 genuinely difficult
 genuinely hard
-genuinely important
 genuinely true
 genuinely useful
 geographic
@@ -7027,6 +7068,7 @@ glad biden
 gladly
 glaeser
 glamorous
+glaring
 glass
 glenn
 glenn greenwald
@@ -7035,6 +7077,7 @@ global climate
 global commodity
 global economy
 global emissions
+global financial
 global health
 global market
 global oil
@@ -7066,6 +7109,7 @@ going away
 going better
 going big
 going change
+going close
 going come
 going continue
 going create
@@ -7111,6 +7155,7 @@ going stop
 going tell
 going think
 going time
+going tough
 going try
 going turn
 going viral
@@ -7137,6 +7182,7 @@ good bad
 good better
 good biden
 good book
+good books
 good business
 good case
 good cause
@@ -7154,6 +7200,7 @@ good evidence
 good example
 good fact
 good faith
+good fight
 good giving
 good good
 good government
@@ -7238,26 +7285,36 @@ goofy
 google
 google facebook
 google search
+googling
 gop
 gop caucus
+gop coalition
+gop controlled
 gop elites
 gop friendly
+gop house
+gop leaning
 gop majority
+gop nomination
 gop politicians
 gop primary
 gop run
 gop senate
+gop senators
 gop trifecta
 gore
+gorgeous
 gorsuch
 gospel
 got
 got better
 got big
+got bunch
 got elected
 got good
 got great
 got huge
+got little
 got lot
 got money
 got right
@@ -7290,6 +7347,7 @@ government functions
 government going
 government just
 government make
+government needs
 government officials
 government pay
 government people
@@ -7305,6 +7363,7 @@ government workers
 governments
 governor
 governors
+gpt
 grab
 grab bag
 grabbed
@@ -7317,6 +7376,8 @@ grads
 gradual
 gradually
 graduate
+graduate high
+graduate students
 graduated
 graduated college
 graduates
@@ -7349,6 +7410,7 @@ gravity
 gray
 great
 great awokening
+great book
 great deal
 great depression
 great example
@@ -7367,6 +7429,7 @@ great recession
 great society
 great thing
 great things
+great think
 great time
 great way
 greater
@@ -7526,6 +7589,7 @@ hanging
 hanging fruit
 hangups
 hanlon
+hannah
 hansen
 happen
 happen instead
@@ -7615,6 +7679,7 @@ having lot
 having money
 having people
 having sex
+having trouble
 havoc
 hawaii
 hawk
@@ -7673,6 +7738,7 @@ heard people
 hearing
 hearings
 heart
+heart disease
 hearts
 heat
 heat pump
@@ -7688,11 +7754,13 @@ heck
 hedge
 hedge fund
 hefty
+hegemonic
 hegemony
 height
 heights
 heir
 heirs
+heitkamp
 held
 helen
 hell
@@ -7788,6 +7856,7 @@ highbrow
 higher
 higher average
 higher cost
+higher density
 higher ed
 higher education
 higher income
@@ -7807,9 +7876,6 @@ higher quality
 higher rate
 higher rates
 higher real
-higher ridership
-higher risk
-higher salaries
 higher share
 higher standard
 higher tax
@@ -7817,7 +7883,6 @@ higher taxes
 higher value
 higher wages
 highest
-highest level
 highest value
 highlight
 highlighted
@@ -7844,7 +7909,6 @@ hills
 hindsight
 hinge
 hinges
-hinges critically
 hint
 hip
 hippie
@@ -7867,25 +7931,21 @@ historians
 historic
 historic preservation
 historical
-historical reasons
 historically
 histories
+historiography
 history
 history books
-history like
 history long
 history people
 history think
 hit
-hither
-hither yon
 hitler
 hits
 hitting
 hiv
 hiv aids
 ho
-hoarding
 hoax
 hobby
 hobbyists
@@ -7901,6 +7961,7 @@ holdout
 holds
 hole
 holes
+holes ground
 holiday
 holidays
 holistic
@@ -7908,6 +7969,7 @@ hollywood
 holy
 home
 home care
+home equity
 home heat
 home heating
 home office
@@ -7921,7 +7983,6 @@ homeland security
 homeless
 homeless people
 homeless shelter
-homeless shelters
 homelessness
 homelessness housing
 homelessness problem
@@ -7940,13 +8001,11 @@ homophobic
 honduras
 honest
 honestly
-honesty
 hong
 hong kong
 honor
 hood
 hook
-hooked
 hoover
 hop
 hope
@@ -7955,12 +8014,10 @@ hope future
 hope ll
 hope people
 hoped
-hopeful
 hopefully
 hopeless
 hopes
 hoping
-hopped
 horizon
 horizons
 horrible
@@ -7988,7 +8045,6 @@ hot takes
 hot topic
 hot water
 hotel
-hotel rooms
 hotels
 hotter
 hottest
@@ -7998,7 +8054,6 @@ hourly
 hours
 hours day
 house
-house building
 house democrats
 house districts
 house just
@@ -8014,7 +8069,6 @@ house seats
 house senate
 house state
 house think
-house vote
 housebuilding
 housed
 household
@@ -8030,15 +8084,10 @@ housing cost
 housing costs
 housing demand
 housing development
-housing expensive
 housing housing
 housing important
 housing inflation
-housing issues
-housing large
 housing market
-housing markets
-housing people
 housing policy
 housing prices
 housing really
@@ -8046,7 +8095,6 @@ housing reform
 housing scarce
 housing scarcity
 housing sector
-housing shortage
 housing shortages
 housing situation
 housing stock
@@ -8059,12 +8107,9 @@ houston
 howard
 hr
 hub
-hubs
 hud
 hudson
 huge
-huge catastrophe
-huge cuts
 huge deal
 huge difference
 huge economic
@@ -8092,7 +8137,6 @@ human
 human beings
 human capital
 human challenge
-human existence
 human experience
 human extinction
 human health
@@ -8108,6 +8152,7 @@ humans
 humility
 hundreds
 hundreds billions
+hundreds millions
 hundreds thousands
 hung
 hungarian
@@ -8125,7 +8170,6 @@ hurt
 hurting
 hurts
 husband
-hussein
 hutcheson
 hvac
 hybrid
@@ -8138,7 +8182,6 @@ hydropower
 hype
 hyped
 hyper
-hyper local
 hypocrisy
 hypocritical
 hypothesis
@@ -8433,6 +8476,7 @@ increase domestic
 increase frequency
 increase housing
 increase number
+increase overall
 increase production
 increase ridership
 increase supply
@@ -8484,6 +8528,7 @@ individual people
 individualism
 individualistic
 individualized
+individually
 individuals
 indonesia
 indoor
@@ -8591,12 +8636,17 @@ infrastructure projects
 infrastructure spending
 infrequent
 infusion
+ing
+ingrained
 ingredients
 inherent
 inherently
+inherently difficult
 inherited
+inhumane
 initial
 initially
+initiating
 initiative
 initiatives
 inject
@@ -8616,8 +8666,10 @@ innovate
 innovation
 innovations
 innovative
+innovators
 input
 inputs
+inquiries
 inquiry
 ins
 insane
@@ -8655,10 +8707,14 @@ instances
 instant
 instantly
 instead
+instead big
+instead democrats
 instead got
+instead happened
 instead just
 instead like
 instead making
+instead people
 instead said
 instead think
 instead trump
@@ -8669,14 +8725,17 @@ instituted
 institution
 institutional
 institutional design
+institutional leaders
 institutionally
 institutions
+institutions don
 institutions higher
 institutions like
 instruction
 instruments
 insufficient
 insufficiently
+insular
 insulated
 insulation
 insulin
@@ -8685,6 +8744,8 @@ insurance benefits
 insurance companies
 insurance company
 insurance coverage
+insurance plans
+insured
 insurers
 insurgency
 insurmountable
@@ -8764,6 +8825,7 @@ interventions
 interview
 interviewed
 interviews
+intimately
 intra
 intra party
 intra progressive
@@ -8897,19 +8959,12 @@ issue space
 issue think
 issue time
 issue ve
-issue want
-issue way
 issued
 issues
-issues didn
 issues don
 issues especially
-issues good
 issues just
 issues like
-issues make
-issues making
-issues particular
 issues people
 issues really
 issues related
@@ -8949,11 +9004,10 @@ january
 january 2020
 january 2021
 japan
-japan australia
+japan korea
 japanese
 jared
 jared golden
-jared kushner
 jared polis
 jargon
 jason
@@ -8961,7 +9015,6 @@ jason furman
 jay
 jay powell
 jcpoa
-jd
 jedi
 jeff
 jeff bezos
@@ -8973,7 +9026,6 @@ jerk
 jerry
 jersey
 jerusalem
-jerusalem demsas
 jesse
 jessica
 jesus
@@ -8986,13 +9038,11 @@ jewish americans
 jewish people
 jews
 jfk
-jill
 jim
 jim crow
 jimmy
 jimmy carter
 jinping
-jm
 job
 job creation
 job growth
@@ -9001,13 +9051,10 @@ job just
 job losses
 job make
 job market
-job means
 job openings
 job opportunities
 job people
-job quality
 job security
-job think
 job training
 jobless
 joblessness
@@ -9071,8 +9118,6 @@ juggernaut
 juice
 julia
 julie
-julius
-julius wilson
 july
 jump
 jumping
@@ -9130,6 +9175,9 @@ just having
 just high
 just ignore
 just important
+just incredibly
+just interested
+just interesting
 just isn
 just keeping
 just kept
@@ -9184,6 +9232,7 @@ just sitting
 just small
 just specific
 just stop
+just stuff
 just talking
 just terms
 just thing
@@ -9242,8 +9291,6 @@ kavanaugh
 keefe
 keeping
 keeps
-keeps getting
-keith
 kelly
 kelsey
 kelsey piper
@@ -9258,7 +9305,6 @@ kept
 kerr
 kerr county
 kerrville
-kerrville texas
 kerry
 kevin
 kevin drum
@@ -9269,14 +9315,12 @@ key issue
 key issues
 key point
 key points
-key reason
 key role
 key thing
 key way
 keystone
 keystone xl
 khan
-khanna
 kick
 kick tires
 kicked
@@ -9287,22 +9331,18 @@ kid
 kid school
 kidney
 kids
-kids 000
 kids benefit
 kids different
 kids doing
 kids don
-kids going
 kids grow
 kids learn
 kids learning
 kids like
-kids people
 kids read
 kids school
 kids young
 kill
-kill millions
 kill people
 killed
 killed police
@@ -9313,14 +9353,9 @@ killings
 kills
 kilometer
 kind anti
-kind argument
-kind boring
-kind dumb
-kind idea
+kind inflation
 kind like
 kind low
-kind mass
-kind non
 kind people
 kind person
 kind policy
@@ -9328,7 +9363,6 @@ kind political
 kind politics
 kind public
 kind question
-kind sense
 kind situation
 kind social
 kind stuff
@@ -9342,7 +9376,6 @@ kinder
 kindergarten
 kindle
 kinds
-kinds issues
 kinds people
 kinds places
 kinds stuff
@@ -9352,7 +9385,6 @@ king jr
 kingdom
 kitchen
 klein
-klein wrote
 klobuchar
 kludgy
 knee
@@ -9366,9 +9398,7 @@ knock
 knocked
 know
 know actually
-know answer
 know better
-know big
 know doing
 know don
 know exactly
@@ -9381,13 +9411,10 @@ know like
 know long
 know look
 know lot
-know lots
-know love
 know make
 know means
 know people
 know plenty
-know probably
 know really
 know right
 know say
@@ -9399,12 +9426,9 @@ knowing
 knowledge
 knowledgeable
 known
-known long
 known unknowns
 knows
 koch
-kofi
-kofi bright
 kong
 kooks
 korea
@@ -9417,7 +9441,6 @@ kyle
 kyrsten
 kyrsten sinema
 la
-la county
 lab
 lab leak
 label
@@ -9444,7 +9467,6 @@ laboratory
 labour
 labs
 lack
-lack demand
 lacked
 lacking
 lacks
@@ -9457,21 +9479,18 @@ lag
 lags
 laid
 lake
-lakes
 lame
 lame duck
 lancet
 land
 land cheap
 land expensive
-land united
 land use
 land value
 landed
 landing
 landlord
 landlords
-landmark
 landowners
 lands
 landscape
@@ -9484,13 +9503,11 @@ lap
 laptop
 large
 large amounts
-large benefits
 large cities
 large country
 large diverse
 large economic
 large extent
-large gains
 large increase
 large increases
 large majority
@@ -9499,9 +9516,6 @@ large minority
 large number
 large numbers
 large population
-large quantities
-large relative
-large role
 large scale
 large share
 large sum
@@ -9509,8 +9523,6 @@ large sums
 large swathes
 largely
 larger
-larger group
-larger house
 larger issue
 larger larger
 larger number
@@ -9529,29 +9541,23 @@ las
 las vegas
 laser
 lashing
-lasted
 lasting
 lasts
 late
 late 1990s
 late 19th
-late april
 late night
 late term
 late year
 lately
-lately ve
-latent
 later
 later life
 latest
-latest round
 latin
 latin america
 latin american
 latin people
 latino
-latino communities
 latino people
 latino voters
 latinos
@@ -9576,7 +9582,6 @@ law professors
 law school
 law schools
 lawmakers
-lawrence
 laws
 lawsuit
 lawsuits
@@ -9589,9 +9594,6 @@ layer
 layers
 laying
 layoffs
-layout
-lays
-laziness
 lazy
 lbj
 lead
@@ -9599,7 +9601,6 @@ lead better
 lead higher
 lead huge
 lead inflation
-lead lot
 lead people
 lead water
 leader
@@ -9610,7 +9611,6 @@ leading
 leading charge
 leading edge
 leads
-leads higher
 leads people
 league
 leah
@@ -9626,19 +9626,15 @@ leap
 learn
 learn lot
 learn new
-learn read
 learn things
 learned
-learned lesson
 learned lot
 learning
 learning doing
 learning loss
 lease
 leases
-leasing
 leave
-leave new
 leave program
 leaves
 leaving
@@ -9653,7 +9649,6 @@ led people
 lee
 leery
 left
-left actually
 left center
 left democrats
 left leaning
@@ -9674,12 +9669,9 @@ leftwing
 lefty
 leg
 legacy
-legacy dignity
 legal
 legal abortion
-legal defense
 legal immigration
-legal migration
 legal status
 legal theory
 legalism
@@ -9715,6 +9707,7 @@ lens
 leonhardt
 lesbian
 lesser
+lesser extent
 lesson
 lessons
 lest
@@ -9722,7 +9715,6 @@ let
 let build
 let clear
 let just
-let know
 let make
 let note
 let people
@@ -9738,22 +9730,19 @@ letting
 letting people
 level
 level abstraction
-level education
-level housing
 level playing
 level reason
 level think
 level want
-level work
 leveled
 leveling
 levels
-levels crime
 lever
 leverage
 leveraging
 levers
 levied
+levine
 levy
 lewis
 lgbt
@@ -9762,7 +9751,6 @@ lgbtq
 li
 liability
 liam
-liam kofi
 lib
 lib owning
 liberal
@@ -9783,7 +9771,6 @@ libya
 license
 license plate
 licensed
-licenses
 licensing
 lie
 lies
@@ -9800,7 +9787,6 @@ life right
 life saving
 life think
 life united
-life way
 lifelong
 lifestyle
 lifetime
@@ -9889,31 +9875,21 @@ like right
 like say
 like saying
 like school
-like single
 like social
-like state
-like steve
 like taking
 like talk
 like tax
-like tell
-like tend
 like texas
 like things
 like think
 like time
-like times
-like true
 like trump
 like try
 like trying
 like united
-like use
 like ve
 like want
 like way
-like west
-like win
 like work
 like working
 liked
@@ -9924,15 +9900,9 @@ likely going
 likely happen
 likely lead
 likely lose
-likely make
-likely people
-likely republicans
 likely say
-likely scenario
 likely vote
-likely want
 likely win
-likely won
 likes
 likes say
 likewise
@@ -9941,21 +9911,14 @@ limbaugh
 limit
 limitations
 limited
-limited ability
-limited number
 limiting
-limitless
 limits
-lina
-lina khan
 lincoln
 lind
 lindamc
-lindsey
 line
 line argument
 line extension
-line think
 line thinking
 line vote
 line work
@@ -9971,7 +9934,6 @@ linkage
 linked
 linking
 links
-liquid
 liquified
 liquor
 lirr
@@ -10000,7 +9962,6 @@ litigated
 litigation
 little
 little bit
-little different
 little evidence
 little extra
 little far
@@ -10008,16 +9969,14 @@ little hard
 little impact
 little kid
 little kids
-little light
 little money
 little reason
-little silly
 little time
 little value
 little weird
 live
 live big
-live city
+live country
 live dense
 live life
 live lives
@@ -10027,8 +9986,6 @@ live new
 live places
 live suburbs
 live walkable
-live washington
-live work
 live world
 lived
 lived experience
@@ -10036,16 +9993,12 @@ lives
 lives better
 lives matter
 lives new
-lives people
 lives saved
+livestock
 living
 living big
-living conditions
 living high
-living life
-living new
 living standards
-living united
 liz
 liz cheney
 ll
@@ -10062,8 +10015,6 @@ ll need
 ll probably
 ll return
 ll say
-ll talk
-lloyd
 lng
 load
 loaded
@@ -10122,22 +10073,16 @@ logical
 logically
 logistical
 logistically
-logistically difficult
 logistics
 logo
-logroll
 london
 london new
 long
 long ago
-long congress
 long covid
 long difficult
-long held
 long island
 long lasting
-long list
-long past
 long run
 long running
 long settled
@@ -10147,20 +10092,17 @@ long term
 long time
 long way
 long weekend
-long winded
 longer
 longer run
 longer term
 longest
 longstanding
-longstanding debate
 longtermism
 longtermist
 longtime
 look
 look actual
 look bad
-look chart
 look data
 look different
 look forward
@@ -10168,27 +10110,20 @@ look good
 look like
 look map
 look new
-look numbers
-look past
 look people
 look pretty
 look really
 look things
-look want
 looked
 looked like
 looking
 looking forward
-looking like
 looking things
 looking work
 looks
 looks different
 looks like
-looks pretty
-looks really
 loom
-loom large
 looming
 looms
 loop
@@ -10200,18 +10135,15 @@ loosely
 looser
 looting
 lopez
-lopsided
 lord
 los
 los angeles
 lose
-lose house
 lose jobs
 loser
 losers
 loses
 losing
-losing elections
 loss
 loss life
 losses
@@ -10219,36 +10151,28 @@ lost
 lost election
 lost future
 lost jobs
-lot advantages
 lot american
 lot attention
 lot bad
 lot better
-lot biden
 lot big
-lot change
 lot climate
-lot common
 lot complaints
 lot concern
-lot conservative
 lot conservatives
 lot coverage
 lot crime
 lot criticism
-lot current
 lot demand
-lot democrats
 lot different
 lot easier
+lot electricity
 lot folks
 lot fun
 lot going
 lot good
 lot great
 lot happening
-lot help
-lot high
 lot housing
 lot ideas
 lot important
@@ -10256,17 +10180,11 @@ lot inflation
 lot information
 lot interesting
 lot issues
-lot kind
-lot land
 lot like
-lot low
 lot media
 lot money
 lot new
-lot opinions
-lot past
 lot people
-lot places
 lot policy
 lot political
 lot problems
@@ -10282,29 +10200,23 @@ lot say
 lot sense
 lot smart
 lot states
-lot stories
 lot stuff
 lot takes
 lot talk
-lot tech
-lot technical
 lot things
 lot think
 lot time
 lot value
 lot ve
 lot ways
-lot white
 lot work
 lots
 lots countries
-lots democrats
 lots different
 lots good
 lots great
 lots little
 lots lots
-lots moderate
 lots new
 lots people
 lots places
@@ -10325,7 +10237,6 @@ loved
 loves
 loving
 low
-low bar
 low carbon
 low cost
 low demand
@@ -10339,14 +10250,9 @@ low key
 low level
 low levels
 low long
-low number
 low paid
-low pay
 low point
 low population
-low price
-low priority
-low probability
 low productivity
 low quality
 low rate
@@ -10355,7 +10261,6 @@ low risk
 low salience
 low tax
 low taxes
-low think
 low trust
 low unemployment
 low value
@@ -10364,21 +10269,18 @@ low wages
 lower
 lower cost
 lower emissions
-lower house
 lower income
 lower level
 lower levels
 lower living
 lower price
 lower prices
-lower profile
 lower rate
 lower rates
 lower tax
 lower taxes
 lowered
 lowering
-lowers
 lowest
 lowest income
 lowrey
@@ -10395,7 +10297,6 @@ lumped
 lunch
 lunches
 lungs
-lure
 lurking
 luther
 luther king
@@ -10415,14 +10316,11 @@ machine learning
 machines
 macro
 macroeconomic
-macroeconomic conditions
 macroeconomic management
 macroeconomic policy
 macroeconomic situation
 macroeconomic stabilization
 macroeconomically
-macroeconomists
-macroeconomy
 macron
 mad
 mad joe
@@ -10431,8 +10329,6 @@ madison
 madisonian
 madness
 madrid
-mae
-mae freddie
 maga
 magazine
 magazines
@@ -10446,27 +10342,21 @@ magnitude
 mail
 mailbag
 mailbag questions
-mailbags
 main
 main event
 main idea
 main issue
-main issues
 main point
 main problem
 main reason
 main reasons
-main takeaway
 main thing
 main things
-main thrust
-main way
 maine
 mainline
 mainly
 mainstream
 mainstream american
-mainstream democrat
 mainstream democratic
 mainstream democrats
 mainstream media
@@ -10477,7 +10367,6 @@ maintaining
 maintains
 maintenance
 major
-major american
 major cities
 major climate
 major college
@@ -10485,32 +10374,26 @@ major european
 major national
 major social
 major source
-major world
 majoritarian
 majorities
 majority
 majority americans
 majority black
 majority cases
-majority human
 majority leader
 majority minority
 majority non
 majority people
 majority population
 majority public
-majority senate
 majority support
 majority voters
 majority white
 majors
-make america
 make argument
 make bad
 make believe
-make best
 make better
-make biden
 make big
 make case
 make certain
@@ -10525,8 +10408,6 @@ make decisions
 make difference
 make difficult
 make easier
-make economy
-make exception
 make feel
 make good
 make happen
@@ -10534,15 +10415,11 @@ make hard
 make harder
 make housing
 make huge
-make hydrogen
-make illegal
 make impossible
 make kind
 make land
-make large
 make life
 make like
-make lives
 make long
 make look
 make lot
@@ -10551,23 +10428,18 @@ make mistake
 make mistakes
 make money
 make new
-make party
 make payments
 make people
 make permanent
 make point
 make policy
-make political
 make possible
 make progress
 make real
-make really
 make sense
 make small
 make social
 make sound
-make special
-make specific
 make strong
 make stuff
 make sure
@@ -10578,22 +10450,18 @@ make ton
 make vaccines
 make way
 make work
-make worse
 make worth
 maker
 makers
 makes
 makes better
 makes big
-makes case
 makes clear
 makes difference
 makes easier
 makes easy
-makes especially
 makes hard
 makes harder
-makes important
 makes impossible
 makes life
 makes likely
@@ -10601,7 +10469,6 @@ makes lot
 makes people
 makes perfect
 makes really
-makes sad
 makes sense
 makes things
 makes think
@@ -10610,23 +10477,15 @@ making
 making asylum
 making big
 making case
-making changes
 making clear
-making concessions
 making decisions
-making difference
 making easier
-making expensive
-making good
 making hard
 making harder
 making housing
-making kind
 making mistake
 making money
-making new
 making people
-making permanent
 making point
 making policy
 making progress
@@ -10641,8 +10500,6 @@ mall
 malley
 malls
 man
-man heir
-man woman
 manage
 managed
 management
@@ -10652,7 +10509,6 @@ managers
 manages
 managing
 manchin
-manchin jon
 manchin kyrsten
 manchin sinema
 mandate
@@ -10670,7 +10526,6 @@ manifesto
 manifests
 manipulate
 manjoo
-mankind
 mankiw
 manner
 manners
@@ -10728,23 +10583,30 @@ mario
 maritime
 maritime shipping
 marjorie
+marjorie taylor
 mark
 mark kelly
 mark zuckerberg
 marked
 markedly
 market
+market based
 market conditions
+market does
+market don
 market economy
 market exchange
 market just
+market means
 market oriented
 market price
 market rate
 market recovery
 market share
+market situation
 market time
 market work
+marketed
 marketing
 marketplace
 markets
@@ -10752,6 +10614,8 @@ markey
 marks
 marriage
 marriage equality
+marriage issue
+marriage man
 married
 married couple
 married couples
@@ -10761,6 +10625,7 @@ martin
 martin luther
 martin malley
 marvel
+marvel cinematic
 marx
 marxist
 mary
@@ -10790,6 +10655,7 @@ massive
 massive overbuilding
 massive scale
 massively
+massively reduce
 master
 masters
 masto
@@ -10797,6 +10663,7 @@ match
 matched
 matches
 matching
+matching funds
 mate
 material
 material abundance
@@ -10804,6 +10671,8 @@ material conditions
 material deprivation
 material living
 material resources
+materialistic
+materialistic class
 materialize
 materialized
 materially
@@ -10819,11 +10688,15 @@ matt think
 matt wrote
 matt yglesias
 matter
+matter don
 matter experts
 matter just
+matter people
 matter policy
+matter public
 matter think
 mattered
+mattering
 matters
 matters lot
 matthew
@@ -10832,6 +10705,7 @@ matthews
 mature
 maw
 max
+max baucus
 max weber
 maximalist
 maximize
@@ -10839,10 +10713,14 @@ maximizes
 maximizing
 maximum
 maximum impact
+maxing
 maybe
 maybe don
 maybe just
+maybe like
 maybe ll
+maybe people
+mayhem
 mayor
 mayor pete
 mayoral
@@ -10860,23 +10738,31 @@ meals
 mean
 mean don
 mean just
+mean need
 mean people
 mean really
+mean say
+mean talking
 mean things
 mean think
 meaning
 meaningful
+meaningful economic
 meaningful impact
 meaningfully
 meaningless
 means
+means don
 means going
 means inflation
 means just
+means kids
+means like
 means lot
 means necessary
 means need
 means people
+means practice
 means really
 means test
 means tested
@@ -10884,9 +10770,12 @@ means testing
 means think
 means trying
 meant
+meant time
+meantime
 measles
 measure
 measured
+measured approach
 measurement
 measures
 measures like
@@ -10904,17 +10793,21 @@ media companies
 media coverage
 media environment
 media figures
+media good
 media important
 media industry
 media institutions
+media just
 media landscape
 media outlets
 media people
 media political
 median
+median american
 median household
 median income
 median voter
+mediated
 medicaid
 medicaid expansion
 medical
@@ -10952,6 +10845,7 @@ melissa
 member
 member congress
 member districts
+member states
 members
 members community
 members congress
@@ -10994,6 +10888,7 @@ merely
 merge
 merged
 merger
+mergers
 merit
 meritocracy
 meritocratic
@@ -11091,6 +10986,7 @@ milder
 mildly
 mile
 mileage
+mileage vary
 miles
 miles traveled
 militarily
@@ -11174,6 +11070,7 @@ misses
 missiles
 missing
 mission
+missions
 mississippi
 missouri
 missteps
@@ -11189,7 +11086,6 @@ mitch
 mitch mcconnell
 mitchell
 mitigate
-mitigated
 mitigation
 mitt
 mitt romney
@@ -11208,13 +11104,11 @@ mobile
 mobile homes
 mobility
 mobilization
-mobilization delusion
 mobilize
 mobilized
 mobilizing
 mode
 model
-model really
 modeled
 modeling
 models
@@ -11223,40 +11117,30 @@ moderate conservative
 moderate democrat
 moderate democrats
 moderate members
-moderate people
 moderate positions
 moderate republican
 moderate republicans
 moderate senate
 moderate senators
 moderate white
-moderated
 moderately
 moderately difficult
 moderates
-moderates congress
 moderating
 moderation
-moderation policies
 modern
 modern day
 modern technology
 modern world
 moderna
 moderna vaccines
-modernity
-modernization
 modes
 modest
-modest increase
 modest means
-modest scale
 modest sized
 modestly
 modular
-molly
 mom
-mom dad
 moment
 moments
 momentum
@@ -11265,13 +11149,11 @@ monarchies
 monarchy
 monday
 monetary
-monetary issues
 monetary policy
 monetary stimulus
 money
 money actually
 money available
-money away
 money better
 money biden
 money building
@@ -11280,7 +11162,6 @@ money child
 money cut
 money doesn
 money don
-money existing
 money given
 money going
 money good
@@ -11294,7 +11175,6 @@ money like
 money lot
 money low
 money make
-money making
 money money
 money need
 money non
@@ -11302,17 +11182,14 @@ money people
 money police
 money poor
 money really
-money rich
 money spend
 money spending
 money spent
-money state
 money stuff
 money things
 money think
 money use
 money used
-money useful
 money want
 money work
 monitor
@@ -11326,7 +11203,6 @@ monopoly
 monster
 montana
 montgomery
-montgomery county
 month
 month month
 monthly
@@ -11341,7 +11217,6 @@ moon
 moore
 moot
 moral
-moral thing
 morally
 morgan
 morning
@@ -11356,7 +11231,6 @@ mothers
 motion
 motivate
 motivated
-motivates
 motivating
 motivation
 motive
@@ -11369,13 +11243,10 @@ mounted
 mouse
 mouth
 moved
-moved away
 moved center
 moved left
 moved right
 movement
-movement behalf
-movement favor
 movement leaders
 movements
 movers
@@ -11386,17 +11257,14 @@ movie theaters
 movie think
 movies
 moving
-moving suburbs
 moynihan
 mr
 mrna
 mrna technology
-mrna vaccine
 mrna vaccines
 msa
 msnbc
 mta
-muddle
 multi
 multi faceted
 multi member
@@ -11405,7 +11273,6 @@ multifaceted
 multifamily
 multinational
 multiple
-multiple different
 multiplier
 multiracial
 multiracial democracy
@@ -11432,13 +11299,11 @@ muslim
 muster
 muted
 mutual
-mutually
 mysterious
 mystery
 myth
 myths
 nafta
-nail
 naive
 naked
 named
@@ -11447,7 +11312,6 @@ naming
 nancy
 nancy pelosi
 nannies
-nanny
 napoleon
 narrative
 narratives
@@ -11469,7 +11333,6 @@ nathan
 nation
 national
 national average
-national convention
 national conversation
 national debt
 national defense
@@ -11477,9 +11340,6 @@ national democratic
 national economic
 national economy
 national guard
-national level
-national median
-national news
 national parks
 national party
 national policy
@@ -11492,7 +11352,6 @@ national security
 nationalism
 nationalist
 nationalists
-nationalization
 nationalized
 nationally
 nations
@@ -11511,7 +11370,6 @@ natural experiment
 natural gas
 natural resource
 natural resources
-natural way
 naturally
 nature
 naval
@@ -11558,22 +11416,19 @@ need car
 need carbon
 need care
 need change
+need come
 need consider
 need cut
 need deal
-need deliver
 need develop
-need dismantle
 need fight
 need focus
 need good
 need hear
 need help
 need huge
-need ideas
 need increase
 need know
-need large
 need like
 need look
 need lot
@@ -11583,24 +11438,18 @@ need money
 need new
 need pay
 need people
-need persuade
-need pick
-need place
 need political
 need public
 need raise
-need reach
 need read
 need reform
 need run
-need save
 need say
 need spend
-need stand
 need start
 need stop
 need talk
-need things
+need test
 need think
 need time
 need try
@@ -11612,18 +11461,15 @@ need ways
 need win
 need work
 need worry
-need write
 needed
 needing
 needle
 needs
-needs just
 needs make
 needs people
 needs try
 needs work
 needy
-needy families
 nefarious
 negative
 negative consequences
@@ -11650,12 +11496,11 @@ neighborhoods
 neighborhoods people
 neighboring
 neighbors
-neil
+nelson
 neo
 neoliberal
 neoliberalism
 nepa
-nerds
 nervous
 net
 net worth
@@ -11666,27 +11511,19 @@ netherlands
 nets
 network
 network effects
-networking
 networks
 neutral
 neutral economic
 neutrality
 neutralize
 nevada
-new amazon
-new approach
-new areas
 new arrivals
-new better
 new book
 new buildings
-new built
 new car
 new cars
-new class
 new consensus
 new construction
-new data
 new deal
 new development
 new england
@@ -11697,14 +11534,11 @@ new government
 new hampshire
 new haven
 new high
-new higher
 new home
 new homes
 new housing
 new ideas
-new information
 new infrastructure
-new investments
 new jersey
 new job
 new jobs
@@ -11727,9 +11561,7 @@ new republic
 new residents
 new right
 new round
-new rules
 new set
-new social
 new spending
 new states
 new stuff
@@ -11755,9 +11587,7 @@ newkirk
 newly
 newly elected
 news
-news bad
 news coverage
-news media
 news outlets
 news people
 news really
@@ -11781,7 +11611,6 @@ nice idea
 nice thing
 nice things
 nice think
-nice weather
 nicely
 nicer
 niche
@@ -11790,7 +11619,6 @@ nick
 nigeria
 night
 nightmare
-nightmare scenario
 nih
 nimby
 nimbyism
@@ -11809,11 +11637,9 @@ noise
 noisy
 nominal
 nominal gdp
-nominal gross
 nominal income
 nominal spending
 nominal wages
-nominally
 nominate
 nominated
 nominating
@@ -11827,19 +11653,17 @@ non discrimination
 non elderly
 non fatal
 non hispanic
-non ideological
 non military
 non parents
 non partisan
+non pecuniary
 non pharmaceutical
 non poor
 non profit
 non profits
-non radical
 non rich
 non seniors
 non specific
-non traditional
 non trivial
 non violent
 non voters
@@ -11853,14 +11677,10 @@ nonfiction
 nonprofit
 nonprofits
 nonsense
-nonsensical
-nonstarter
 nordic
 nordic countries
-nordic social
 norm
 normal
-normal life
 normal people
 normal person
 normal thing
@@ -11870,7 +11690,6 @@ normalcy
 normalization
 normalize
 normally
-norman
 normative
 normie
 norms
@@ -11882,7 +11701,6 @@ northeast
 northeast corridor
 northeastern
 northern
-northern europe
 northwest
 northwestern
 norway
@@ -11894,7 +11712,6 @@ notable
 notably
 notch
 note
-note don
 noted
 notes
 noteworthy
@@ -11935,11 +11752,9 @@ nuisance
 number
 number different
 number dimensions
-number important
 number levels
 number new
 number people
-number units
 numbers
 numbers don
 numbers people
@@ -11951,7 +11766,6 @@ nursing
 nursing homes
 nutrition
 nuts
-nutshell
 nutty
 ny
 nyc
@@ -12010,6 +11824,7 @@ observing
 obsessed
 obsession
 obsessive
+obsessively
 obsolete
 obstacle
 obstacles
@@ -12032,7 +11847,10 @@ obviously good
 obviously huge
 obviously important
 obviously just
+obviously like
+obviously lot
 obviously people
+obviously possible
 obviously right
 obviously true
 obviously wrong
@@ -12057,7 +11875,9 @@ occurs
 ocean
 october
 october 13
+october 2020
 odd
+odd way
 oddly
 odds
 odds good
@@ -12075,6 +11895,7 @@ offers
 office
 office building
 office buildings
+office larger
 office management
 office space
 office trump
@@ -12083,13 +11904,17 @@ officers
 officers capita
 offices
 official
+official position
 officially
 officials
+officials like
+officials make
 officials say
 officials want
 offline
 offs
 offset
+offset tax
 offsets
 offsetting
 offshore
@@ -12101,15 +11926,19 @@ ohio iowa
 oil
 oil companies
 oil gas
+oil natural
 oil price
 oil prices
 oil production
 oil supply
 ok
 okay
+okay just
 oklahoma
 okun
+olaf
 old
+old age
 old buildings
 old days
 old fashioned
@@ -12120,12 +11949,15 @@ old school
 old time
 old white
 older
+older educated
 older kids
 older people
+older working
 oldest
 olds
 oliver
 omar
+omar wasow
 omb
 omicron
 omnibus
@@ -12191,14 +12023,17 @@ opposes
 opposing
 opposite
 opposite direction
+opposite view
 opposition
 opposition party
 oppression
 opt
 opted
+optics
 optimal
 optimally
 optimism
+optimist
 optimistic
 optimistically
 optimization
@@ -12216,6 +12051,7 @@ ord
 order
 order create
 order make
+order reduce
 order win
 ordered
 ordering
@@ -12303,6 +12139,7 @@ overestimating
 overhaul
 overhead
 overheating
+overhyped
 overlap
 overlapping
 overlooked
@@ -12347,6 +12184,7 @@ owe
 owed
 owes
 owned
+owned land
 owner
 owner occupied
 owners
@@ -12538,6 +12376,7 @@ passed
 passed house
 passed senate
 passenger
+passenger aviation
 passenger rail
 passengers
 passes
@@ -12669,6 +12508,7 @@ people aren
 people argue
 people arguing
 people ask
+people asking
 people assume
 people average
 people aware
@@ -12693,21 +12533,31 @@ people care
 people carrying
 people caught
 people certain
+people certainly
 people change
 people charge
 people choose
+people chronic
+people city
+people claiming
 people clearly
+people climate
 people college
 people color
 people come
+people comfortable
 people coming
 people commit
 people community
 people complain
+people concrete
 people consider
+people consume
+people convinced
 people country
 people course
 people currently
+people cut
 people day
 people days
 people decide
@@ -12719,16 +12569,20 @@ people didn
 people die
 people died
 people different
+people directly
 people disagree
 people dislike
 people does
 people doing
 people don
+people donate
 people drive
 people driving
 people dying
+people earning
 people eat
 people economic
+people employed
 people end
 people enjoy
 people especially
@@ -12736,13 +12590,17 @@ people expect
 people experience
 people experiencing
 people extremely
+people familiar
 people far
 people fear
 people feel
+people fighting
 people fired
+people fit
 people fleeing
 people follow
 people forget
+people free
 people general
 people generally
 people genuinely
@@ -12750,7 +12608,11 @@ people getting
 people going
 people good
 people got
+people government
+people guns
+people half
 people happy
+people hard
 people hate
 people haven
 people having
@@ -12758,35 +12620,44 @@ people health
 people hear
 people high
 people higher
+people homes
 people huge
 people idea
 people ideas
 people important
 people including
+people income
 people infected
+people informed
 people insist
 people instead
 people institutions
 people interested
 people internet
 people involved
+people job
 people jobs
 people just
+people kill
 people killed
 people kind
 people knew
 people know
 people labor
+people lack
 people land
 people learn
+people leave
 people left
 people like
 people liked
 people likely
 people little
 people live
+people lived
 people lives
 people living
+people long
 people look
 people looking
 people lose
@@ -12814,12 +12685,16 @@ people non
 people normally
 people obviously
 people old
+people opportunity
+people order
 people ought
 people outside
 people party
 people pay
 people people
 people personal
+people place
+people places
 people planet
 people pockets
 people point
@@ -12827,6 +12702,7 @@ people policy
 people political
 people politics
 people poor
+people possible
 people prefer
 people pretty
 people prison
@@ -12834,8 +12710,11 @@ people pro
 people probably
 people problem
 people progressive
+people public
 people races
+people racial
 people racist
+people raise
 people read
 people real
 people realize
@@ -12843,10 +12722,12 @@ people really
 people reason
 people remember
 people republic
+people republicans
 people rich
 people richer
 people ride
 people right
+people risk
 people run
 people running
 people said
@@ -12856,13 +12737,18 @@ people saying
 people school
 people seen
 people self
+people sense
+people seriously
 people serve
 people shots
+people showing
 people sick
 people sides
 people simply
+people sitting
 people skeptical
 people sleeping
+people smart
 people social
 people somewhat
 people speak
@@ -12880,8 +12766,12 @@ people strong
 people strongly
 people struggle
 people struggling
+people stupid
 people suffer
 people suffering
+people support
+people switch
+people taken
 people taking
 people talk
 people talking
@@ -12892,13 +12782,16 @@ people think
 people thinking
 people thought
 people time
+people today
 people totally
 people travel
+people treat
 people try
 people trying
 people twitter
 people understand
 people united
+people upset
 people use
 people used
 people using
@@ -12910,6 +12803,7 @@ people vote
 people voted
 people votes
 people voting
+people walk
 people want
 people wanted
 people way
@@ -12918,12 +12812,14 @@ people weren
 people white
 people willing
 people won
+people words
 people work
 people worked
 people working
 people world
 people worried
 people worry
+people wouldn
 people write
 people writing
 people wrong
@@ -12937,8 +12833,13 @@ percent chance
 percent gdp
 percent increase
 percent inflation
+percent new
 percent people
+percent percent
 percent population
+percent slow
+percent target
+percent year
 percentage
 percentage point
 percentage points
@@ -12949,6 +12850,7 @@ perennial
 perennially
 perfect
 perfect sense
+perfect way
 perfectly
 perfectly good
 perfectly plausible
@@ -12965,45 +12867,61 @@ peril
 perils
 period
 period time
+period years
+periodic
 periodically
 periods
 peripheral
 permanent
+permanent normal
 permanent program
 permanently
+permissible
 permission
 permissive
 permit
 permits
 permitted
 permitting
+permitting barriers
 permitting process
 permitting reform
 pernicious
+perpetrated
 perpetrators
 perpetual
 perpetually
 perry
 perry bacon
 persist
+persistence
 persistent
 persistently
 persists
 person
 person didn
+person doesn
 person going
 person instruction
+person just
 person like
+person likely
 person living
 person think
+person thinks
+person time
 person want
+person work
 persona
 personal
 personal consumption
+personal experience
 personal favorite
 personal financial
 personal life
 personal preference
+personal relationships
+personal savings
 personalities
 personality
 personally
@@ -13013,6 +12931,7 @@ personally think
 personnel
 persons
 perspective
+perspective think
 perspectives
 persuadable
 persuadable voters
@@ -13020,11 +12939,14 @@ persuade
 persuade people
 persuaded
 persuading
+persuading people
 persuasion
 persuasive
 persuasively
 perverse
+perverse incentives
 perversely
+perversity
 pessimism
 pessimistic
 pet
@@ -13040,12 +12962,14 @@ pew
 pew poll
 pfizer
 pfizer moderna
+pfizer vaccine
 pharma
 pharmaceutical
 pharmaceutical companies
 pharmaceutical interventions
 pharmaceuticals
 pharmacies
+pharmacological
 pharmacy
 phase
 phase gimmicks
@@ -13073,6 +12997,7 @@ philosophy
 philosophy major
 phoenix
 phone
+phone calls
 phones
 phonics
 photo
@@ -13092,15 +13017,19 @@ picked
 picking
 picking fights
 picks
+pickup
 picture
+picture question
 pictures
 pie
 piece
+piece atlantic
 piece legislation
 piece written
 pieces
 pigs
 pile
+piling
 pill
 pilled
 pills
@@ -13116,13 +13045,16 @@ pipeline
 pipelines
 piper
 pipes
+piss
 pit
 pitch
 pitched
 pitfalls
+pitting
 pittsburgh
 pivot
 pivotal
+pivotal senator
 pivotal states
 pivoted
 pivoting
@@ -13144,12 +13076,19 @@ places don
 places land
 places like
 places live
+places people
+placing
 plague
 plagued
+plagues
 plain
 plainly
 plaintiffs
 plan
+plan build
+plan child
+plan just
+plan make
 plan makes
 plane
 planes
@@ -13169,6 +13108,7 @@ platform
 platforms
 plausibility
 plausible
+plausible story
 plausibly
 play
 play role
@@ -13182,6 +13122,7 @@ playgrounds
 playing
 playing field
 plays
+plays role
 plaza
 plea
 pleasant
@@ -13192,19 +13133,26 @@ pledged
 pledges
 plentiful
 plenty
+plenty money
+plenty opportunities
 plenty people
 plight
+plop
 plot
 plots
 plow
 plowed
 plug
+plugged
 plugging
 plugging away
+plumber
 plumbing
 plummet
 plummeted
+plummeting
 plunge
+plunged
 plurality
 plus
 plutocratic
@@ -13216,16 +13164,24 @@ pockets
 podcast
 podcasting
 podcasts
+point
 point actually
+point basically
+point clearly
 point direction
+point doing
 point don
+point future
 point getting
 point good
+point having
 point important
 point isn
 point just
 point life
 point like
+point ll
+point lot
 point make
 point need
 point new
@@ -13233,6 +13189,7 @@ point people
 point point
 point really
 point reason
+point right
 point things
 point think
 point time
@@ -13244,13 +13201,16 @@ pointless
 points
 points ahead
 points better
+points think
 points time
 poised
 poison
 poisoned
 poisoning
+poke
 poland
 polarization
+polarize
 polarized
 polarized issue
 polarizing
@@ -13273,6 +13233,8 @@ police unions
 police violence
 policies
 policies actually
+policies like
+policies make
 policies place
 policies think
 policing
@@ -13299,26 +13261,34 @@ policy debate
 policy debates
 policy decisions
 policy design
+policy development
+policy discussions
+policy does
 policy don
 policy errors
 policy failure
 policy framework
 policy goal
 policy goals
+policy going
 policy good
+policy hands
 policy idea
 policy ideas
 policy important
+policy isn
 policy issue
 policy issues
 policy just
 policy level
 policy like
 policy make
+policy matter
 policy measures
 policy need
 policy options
 policy people
+policy perspective
 policy politics
 policy positions
 policy priorities
@@ -13468,6 +13438,7 @@ polls
 pollsters
 pollution
 pool
+pools
 poor
 poor countries
 poor country
@@ -13547,6 +13518,7 @@ positive externalities
 positive impact
 positive sum
 positively
+positivity
 posits
 possess
 possessed
@@ -13588,11 +13560,13 @@ poured
 pouring
 poverty
 poverty line
+poverty programs
 poverty rate
 powell
 power
 power conflict
 power plants
+power really
 powered
 powerful
 powerful tool
@@ -13747,6 +13721,7 @@ pretty good
 pretty great
 pretty hard
 pretty high
+pretty impressive
 pretty large
 pretty low
 pretty marginal
@@ -13765,6 +13740,7 @@ pretty strong
 pretty successful
 pretty sure
 pretty typical
+pretty unlikely
 prevail
 prevailed
 prevailing
@@ -13811,6 +13787,7 @@ pride
 primacy
 primaries
 primarily
+primarily focused
 primary
 primary campaign
 primary challenge
@@ -13854,12 +13831,15 @@ private school
 private schools
 private sector
 privately
+privately owned
 privatization
 privatize
+privatize medicare
 privatize social
 privatized
 privatizing
 privatizing medicare
+privatizing social
 privilege
 privileged
 privileged people
@@ -13877,6 +13857,7 @@ pro life
 pro russian
 pro social
 pro trump
+pro ukrainian
 probabilities
 probability
 probably
@@ -13915,6 +13896,7 @@ problem american
 problem bad
 problem biden
 problem climate
+problem country
 problem democrats
 problem don
 problem facing
@@ -13948,6 +13930,7 @@ proceed
 proceeding
 proceeds
 process
+process need
 processed
 processes
 processing
@@ -14000,6 +13983,7 @@ programs
 programs help
 programs just
 programs like
+programs poor
 programs think
 progress
 progress climate
@@ -14096,6 +14080,7 @@ proposed
 proposes
 proposing
 proposition
+propositions
 pros
 prosecute
 prosecution
@@ -14277,9 +14262,11 @@ quest
 question
 question actually
 question ask
+question asked
 question big
 question did
 question don
+question exactly
 question happens
 question isn
 question like
@@ -14359,6 +14346,7 @@ radicalism
 radically
 radicals
 radio
+radioactive
 rage
 raging
 rail
@@ -14563,6 +14551,7 @@ really interested
 really interesting
 really isn
 really just
+really kind
 really know
 really knows
 really large
@@ -14679,6 +14668,7 @@ recipients
 reckless
 reckoning
 recognition
+recognizable
 recognize
 recognized
 recognizing
@@ -14727,6 +14717,7 @@ redistribution economic
 redistributive
 redistricting
 reduce
+reduce aggregate
 reduce child
 reduce cost
 reduce crime
@@ -15025,6 +15016,7 @@ requirement
 requirements
 requires
 requiring
+rescinding
 rescue
 rescue plan
 research
@@ -15060,6 +15052,7 @@ resistance
 resolution
 resolve
 resolved
+resolving
 resort
 resource
 resources
@@ -15104,6 +15097,7 @@ restriction
 restrictionists
 restrictions
 restrictive
+restructuring
 result
 resulted
 resulting
@@ -15159,6 +15153,7 @@ revisit
 revisiting
 revival
 revive
+revived
 revolution
 revolutionary
 revolutions
@@ -15426,7 +15421,9 @@ russell
 russia
 russia china
 russia doesn
+russia invaded
 russia just
+russia russia
 russia ukraine
 russian
 russian gas
@@ -15588,7 +15585,11 @@ saying doing
 saying don
 saying inflation
 saying like
+saying man
 saying people
+saying really
+saying right
+saying shouldn
 saying thing
 saying things
 saying think
@@ -15598,6 +15599,7 @@ saying yes
 says
 says don
 says people
+says shouldn
 sbf
 scalable
 scale
@@ -15611,6 +15613,7 @@ scam
 scams
 scan
 scandal
+scandalous
 scandals
 scant
 scarce
@@ -15624,6 +15627,7 @@ scenarios
 scene
 scenes
 scenic
+schapiro
 schatz
 schedule
 scheduled
@@ -15639,21 +15643,32 @@ scholarly
 scholars
 scholarship
 scholarships
+scholz
 school
+school better
 school board
 school boards
 school buses
+school choice
+school closed
 school closures
 school district
 school districts
 school don
+school funding
+school graduates
 school high
+school just
 school kids
 school lunch
 school lunches
+school management
 school people
+school performance
 school public
 school quality
+school really
+school school
 school students
 school systems
 school teachers
@@ -15662,12 +15677,17 @@ school year
 schooling
 schools
 schools actually
+schools america
+schools better
 schools closed
 schools don
 schools like
+schools new
 schools open
 schools public
+schools really
 schools teach
+schools united
 schtick
 schumer
 sci
@@ -15676,14 +15696,17 @@ science
 science act
 science fiction
 science funding
+science research
 sciences
 scientific
+scientific evidence
 scientific research
 scientifically
 scientist
 scientists
 scold
 scolded
+scolding
 scoop
 scope
 score
@@ -15705,10 +15728,12 @@ screenwriter
 screw
 screwed
 script
+scroll
 scrolling
 scrutiny
 se
 sea
+seal
 sealed
 sean
 search
@@ -15716,9 +15741,11 @@ searching
 season
 seasonal
 seat
+seating
 seats
 seattle
 second
+second avenue
 second half
 second order
 second term
@@ -15739,6 +15766,8 @@ sectional
 sections
 sector
 sector economy
+sector institutions
+sector jobs
 sector unions
 sector work
 sector workers
@@ -15765,11 +15794,14 @@ seeking
 seeks
 seemingly
 seen
+seen big
 seen lot
 seen past
 seen people
+seen time
 sees
 segment
+segmented
 segments
 segregated
 segregation
@@ -15785,15 +15817,18 @@ selection
 selective
 selective colleges
 selective schools
+selectively
 self
 self aware
 self consciously
+self deportation
 self identified
 self identify
 self interested
 selfish
 sell
 sell bonds
+sell people
 sell stuff
 sell things
 seller
@@ -15827,6 +15862,7 @@ sending
 sends
 senior
 senior citizens
+seniority
 seniors
 sense
 sense actually
@@ -15857,6 +15893,7 @@ sentiment
 sentimental
 sentiments
 separate
+separate equal
 separate issue
 separate question
 separated
@@ -15950,6 +15987,7 @@ shared
 shareholder
 shareholders
 shares
+shares stock
 sharing
 sharp
 sharper
@@ -16020,7 +16058,12 @@ shots
 shoulder
 shouldn
 shouldn allowed
+shouldn just
+shouldn let
+shouldn make
 shouldn worry
+shout
+showdown
 showed
 showing
 shown
@@ -16034,6 +16077,7 @@ shrunk
 shunning
 shut
 shutdown
+shuttered
 shutting
 shy
 shy away
@@ -16093,6 +16137,7 @@ sinema
 singapore
 single
 single family
+single handedly
 single issue
 single member
 single parents
@@ -16184,6 +16229,7 @@ slovakia
 slow
 slow boring
 slow recovery
+slow spread
 slowboring
 slowdown
 slowed
@@ -16192,6 +16238,7 @@ slowing
 slowly
 slows
 sluggish
+sluggish recovery
 slump
 slums
 small
@@ -16207,6 +16254,7 @@ small modular
 small number
 small scale
 small share
+small size
 small town
 small towns
 smaller
@@ -16226,6 +16274,7 @@ smarter
 smartest
 smartphone
 smartphones
+smelting
 smith
 smithsonian
 smoke
@@ -16359,6 +16408,7 @@ sounds little
 sounds nice
 sounds pretty
 soup
+sour
 source
 source information
 sourced
@@ -16384,6 +16434,7 @@ spacing
 spadework
 spain
 span
+span time
 spanish
 spare
 spark
@@ -16402,6 +16453,7 @@ speaking think
 speaks
 spearheaded
 special
+special case
 special elections
 special interests
 specialist
@@ -16409,15 +16461,21 @@ specialists
 specialization
 specialized
 specialized skills
+specializes
 specials
 species
 specific
 specific case
+specific claim
 specific context
 specific ideas
 specific issues
+specific places
 specific point
 specific policy
+specific problem
+specific question
+specific thing
 specific things
 specific way
 specific ways
@@ -16448,16 +16506,23 @@ spend little
 spend lot
 spend money
 spend time
+spend tons
 spending
+spending actually
 spending cuts
 spending higher
+spending ideas
 spending just
 spending lot
 spending money
+spending power
+spending programs
 spending time
 spends
+spends money
 spent
 spent lot
+spent past
 spent time
 spent years
 sphere
@@ -16473,9 +16538,11 @@ spillovers
 spin
 spiral
 spiraling
+spirals
 spirit
 spirited
 spite
+splash
 split
 splitting
 spoil
@@ -16483,6 +16550,7 @@ spoiler
 spoilers
 spoke
 spoken
+spokesperson
 sponsored
 sponsoring
 sponsors
@@ -16493,6 +16561,8 @@ sport
 sports
 sports teams
 spot
+spot checks
+spot market
 spotlight
 spots
 spotty
@@ -16501,7 +16571,9 @@ sprawling
 spread
 spread virus
 spreading
+spreading globally
 spreads
+spreadsheet
 spree
 spring
 spring 2020
@@ -16526,6 +16598,7 @@ squeezing
 squishy
 st
 st louis
+stab
 stability
 stabilization
 stabilization policy
@@ -16556,6 +16629,7 @@ stakeholders
 stakes
 stalled
 stamp
+stamps
 stan
 stance
 stances
@@ -16602,6 +16676,7 @@ startups
 starvation
 stat
 state
+state american
 state art
 state biden
 state capacity
@@ -16649,6 +16724,7 @@ states actually
 states america
 states biden
 states big
+states canada
 states cities
 states congress
 states countries
@@ -16661,6 +16737,7 @@ states don
 states especially
 states europe
 states far
+states germany
 states good
 states higher
 states just
@@ -16710,6 +16787,7 @@ steam
 steel
 steep
 steer
+steering
 stein
 stem
 stemming
@@ -16776,6 +16854,7 @@ stored
 stores
 stories
 stories like
+storing
 storm
 story
 story just
@@ -16839,6 +16918,7 @@ stripe
 stripped
 stroke
 strong
+strong argument
 strong case
 strong demand
 strong evidence
@@ -16889,6 +16969,7 @@ study
 studying
 stuff
 stuff actually
+stuff buy
 stuff doesn
 stuff don
 stuff good
@@ -16947,6 +17028,7 @@ subsidy
 subsidy program
 subsistence
 substack
+substacks
 substance
 substance abuse
 substantial
@@ -17008,6 +17090,7 @@ sullivan
 sum
 sum money
 summarize
+summarized
 summary
 summed
 summer
@@ -17015,6 +17098,7 @@ summer 2020
 summer 2021
 summer fall
 summers
+summertime
 summit
 sums
 sums money
@@ -17069,6 +17153,7 @@ support democrats
 support idea
 support parents
 support people
+support ukraine
 support work
 supported
 supported publication
@@ -17090,6 +17175,7 @@ supremacy
 supreme
 supreme court
 sure
+sure know
 sure people
 sure really
 sure true
@@ -17221,6 +17307,7 @@ taken seriously
 takeout
 takeover
 takes
+takes episode
 takes like
 takes place
 takes time
@@ -17328,6 +17415,7 @@ teach
 teach america
 teach kids
 teacher
+teacher compensation
 teacher pay
 teachers
 teachers like
@@ -17439,6 +17527,7 @@ term economic
 term growth
 term impact
 term office
+term trend
 terminals
 terminator
 terms
@@ -17513,6 +17602,7 @@ thermostatic
 theses
 thesis
 thiel
+thing best
 thing biden
 thing course
 thing democrats
@@ -17566,6 +17656,7 @@ things happening
 things important
 things just
 things know
+things life
 things like
 things look
 things make
@@ -17610,6 +17701,7 @@ think case
 think clear
 think clearly
 think coincidence
+think completely
 think conservatives
 think correct
 think covid
@@ -17841,6 +17933,7 @@ tighten
 tightening
 tighter
 tightly
+tiktok
 tilt
 tilted
 tim
@@ -17864,11 +17957,13 @@ time end
 time energy
 time federal
 time going
+time good
 time high
 time history
 time job
 time just
 time labor
+time large
 time like
 time look
 time lot
@@ -17884,6 +17979,7 @@ time past
 time people
 time point
 time political
+time probably
 time progressive
 time read
 time real
@@ -18095,6 +18191,7 @@ transit
 transit agencies
 transit construction
 transit costs
+transit infrastructure
 transit oriented
 transit projects
 transit ridership
@@ -18165,6 +18262,7 @@ trim
 trimester
 trip
 triple
+tripling
 trips
 triumph
 trivial
@@ -18284,18 +18382,15 @@ trying convince
 trying create
 trying harder
 trying help
+trying improve
 trying make
 trying measure
-trying new
 trying people
 trying persuade
-trying push
 trying raise
-trying really
 trying reduce
 trying say
 trying sell
-trying talk
 trying think
 trying understand
 trying win
@@ -18315,7 +18410,6 @@ tunnels
 turbines
 turkey
 turn
-turn huge
 turn means
 turnaround
 turned
@@ -18324,7 +18418,6 @@ turning
 turnout
 turnover
 turns
-turns actually
 tuscany
 tusk
 tv
@@ -18344,13 +18437,9 @@ twin
 twist
 twitter
 twitter account
-twitter just
-twitter people
 twitter think
-twitter thread
 twofold
 tx
-tying
 tyler
 tyler cowen
 type
@@ -18367,7 +18456,6 @@ uber
 ubi
 ubiquitous
 uc
-ucla
 ugly
 ui
 ui benefits
@@ -18375,28 +18463,23 @@ uk
 ukraine
 ukraine really
 ukraine russia
-ukraine situation
 ukraine war
 ukrainian
 ukrainian government
 ukrainian military
-ukrainian nationalism
 ukrainians
 ultimate
 ultimately
 ultimately comes
 ultra
 ultraviolet
-ultraviolet light
 ulysses
 ulysses grant
 umbrella
 unable
 unacceptable
 unambiguous
-unanimity
 unanimous
-unappealing
 unarmed
 unavoidable
 unaware
@@ -18408,26 +18491,15 @@ uncle sam
 unclear
 uncomfortable
 uncomfortably
-uncomfortably cold
-uncommon
-uncompetitive
-unconditional
 unconstitutional
-uncontrolled
 uncontroversial
-unconventional
-uncool
 uncover
 underappreciated
-undercount
-undercut
 underdeveloped
 underestimate
 underestimated
 underestimating
 underfunded
-undergo
-undergrad
 undergraduate
 underground
 underlying
@@ -18446,13 +18518,10 @@ underrating
 underrepresented
 underscore
 underscores
-underscores extent
 underscoring
 underserved
 undershooting
 understand
-understand doing
-understand exactly
 understand lot
 understand people
 understandable
@@ -18460,7 +18529,6 @@ understandably
 understanding
 understands
 understate
-understates
 understood
 undertake
 undertaken
@@ -18473,9 +18541,6 @@ undo
 undocumented
 undocumented immigrants
 undocumented population
-undocumented residents
-undoubtedly
-unduly
 unemployed
 unemployed people
 unemployment
@@ -18500,8 +18565,6 @@ unfolded
 unfortunate
 unfortunately
 unfortunately don
-unfortunately people
-unfortunately think
 unhappy
 unhealthy
 unhelpful
@@ -18570,6 +18633,7 @@ unlocking
 unlocks
 unmarried
 unmet
+unnecessarily
 unnecessary
 unofficial
 unpaid
@@ -18601,6 +18665,7 @@ unsound
 unstable
 unsubsidized
 unsurprisingly
+unsustainable
 untenable
 unthinkable
 unused
@@ -18677,6 +18742,7 @@ urging
 usa
 usable
 usage
+usda
 use
 use authorization
 use build
@@ -18712,9 +18778,11 @@ used make
 used think
 used work
 useful
+useful information
 useful look
 useful people
 useful services
+useful stuff
 useful things
 useful think
 usefully
@@ -18761,15 +18829,20 @@ vaccine available
 vaccine development
 vaccine distribution
 vaccine doses
+vaccine just
 vaccine mandates
 vaccine manufacturing
 vaccine production
 vaccine rollout
 vaccine skeptical
 vaccine supply
+vaccine uptake
 vaccines
+vaccines available
 vaccines don
+vaccines effective
 vaccines kids
+vaccines pfizer
 vaccines really
 vaccines widely
 vaccines work
@@ -18789,6 +18862,7 @@ value added
 value chain
 value dollar
 value high
+value house
 value land
 value money
 value proposition
@@ -18811,6 +18885,7 @@ varied
 varies
 varies according
 variety
+variety reasons
 various
 various forms
 various kinds
@@ -18831,6 +18906,7 @@ vc
 ve
 ve able
 ve actually
+ve argued
 ve big
 ve changed
 ve come
@@ -18890,6 +18966,7 @@ ventilation
 venture
 venture capital
 ventures
+venue
 venues
 verbal
 verge
@@ -18900,6 +18977,7 @@ vermont
 versa
 versed
 version
+version argument
 version build
 versions
 versus
@@ -18924,6 +19002,7 @@ victimized
 victims
 victories
 victory
+victory lap
 video
 video game
 video games
@@ -18933,14 +19012,20 @@ vietnam
 vietnam war
 vietnamese
 view
+view american
 view correct
 view just
 view people
+view right
 view situation
 view think
+view time
 viewed
+viewing
 viewpoint
 views
+views issues
+views like
 views race
 vigorous
 vigorously
@@ -18949,8 +19034,10 @@ viktor orbán
 village
 villain
 villains
+vindicate
 vindicated
 vindication
+vine
 vintage
 violate
 violated
@@ -18963,6 +19050,7 @@ violent
 violent crime
 violent crimes
 viral
+virality
 virgin
 virgin islands
 virginia
@@ -18975,8 +19063,11 @@ virtues
 virtuous
 virtuous circle
 virus
+virus families
 virus just
+virus people
 virus spread
+virus spreading
 viruses
 vis
 vis vis
@@ -19005,6 +19096,7 @@ vogue
 voice
 voices
 void
+volatile
 volcker
 volume
 volumes
@@ -19016,20 +19108,25 @@ volunteers
 vote
 vote 2016
 vote choice
+vote count
 vote democrats
 vote party
 vote republican
 vote share
 voted
+voted obama
 voted trump
 voter
 voter id
 voters
 voters 2020
+voters care
 voters don
 voters just
 voters key
 voters like
+voters lot
+voters say
 voters think
 voters trump
 voters want
@@ -19093,6 +19190,7 @@ walter
 walton
 wand
 wane
+wanes
 waning
 want able
 want action
@@ -19184,19 +19282,13 @@ wanting
 wants
 wants know
 wants make
-wants raise
 wants run
 wants say
-wants spend
-wants win
 war
 war china
-war chum
 war effort
 war ii
-war iraq
 war just
-war politics
 war russia
 war terror
 war think
@@ -19234,15 +19326,11 @@ washington post
 washington state
 wasn
 wasn actually
-wasn good
 wasn just
 wasn really
-wasow
 waste
-waste money
 waste time
 wasted
-wasted time
 wasteful
 wastewater
 wasting
@@ -19270,27 +19358,18 @@ way better
 way biden
 way big
 way build
-way climate
 way congress
 way conservative
 way create
-way democrats
 way did
-way didn
 way doesn
 way doing
 way don
-way early
-way end
 way expensive
-way explain
-way fact
-way far
 way fight
 way forward
 way generate
 way good
-way harder
 way help
 way improve
 way issue
@@ -19299,46 +19378,33 @@ way kind
 way know
 way left
 way like
-way live
 way long
 way look
 way looking
 way lot
-way main
 way make
 way makes
 way making
 way need
 way new
-way ought
 way pay
 way people
-way political
 way politics
 way pre
 way progressive
 way putting
 way raise
-way real
 way really
 way reduce
-way republicans
-way right
 way run
 way say
 way saying
-way stop
 way talk
-way talking
-way tell
 way things
 way think
 way thinking
 way time
-way trump
 way try
-way understand
-way ve
 way want
 way win
 way works
@@ -19346,7 +19412,6 @@ wayne
 ways
 ways doing
 ways help
-ways important
 ways make
 ways think
 weak
@@ -19379,13 +19444,10 @@ weber
 website
 websites
 wedge
-wedge issue
 wednesday
 weeds
 week
-week going
 week joe
-week ll
 weekend
 weekend update
 weekends
@@ -19398,10 +19460,8 @@ weighing
 weight
 weird
 weird idea
-weird kind
 weird situation
 weird stuff
-weird thing
 weird way
 weirder
 weirdly
@@ -19428,9 +19488,7 @@ west africa
 west coast
 west virginia
 west wing
-westchester
 western
-western countries
 western europe
 western european
 western hemisphere
@@ -19445,9 +19503,7 @@ whims
 whine
 whining
 white
-white america
 white americans
-white black
 white collar
 white democrats
 white ethnic
@@ -19470,7 +19526,6 @@ whiteness
 whiter
 whites
 whitmer
-whittington
 wholeheartedly
 wholesale
 wholly
@@ -19481,13 +19536,9 @@ wide open
 wide range
 wide ranging
 widely
-widely accepted
 widely available
-widely believed
-widely covered
 widely discussed
 widely held
-widely read
 widely used
 wider
 wider range
@@ -19495,54 +19546,37 @@ wider set
 widespread
 wield
 wield power
-wielded
 wielding
 wife
-wigan
 wild
 wild animals
 wilderness
 wildlife
 wildly
-wildly different
-willfully
 william
-william buckley
-william julius
 williams
 willing
 willing accept
-willing actually
 willing make
 willing pay
 willing spend
 willingness
 wilson
 win
-win 2024
-win argument
 win election
 win elections
-win fight
 win georgia
-win gop
 win just
-win majority
-win race
 win races
-win seats
 win senate
 win states
-win think
 win votes
 win war
 win win
 wind
-wind farms
 wind power
 wind solar
 wind turbines
-winded
 windfall
 windfall profits
 windfalls
@@ -19553,11 +19587,7 @@ windy
 wine
 wing
 wing activists
-wing democratic
 wing ideas
-wing intellectuals
-wing members
-wing party
 wing people
 wing political
 wing politics
@@ -19637,14 +19667,10 @@ work consider
 work does
 work doesn
 work don
-work end
-work fact
 work fewer
 work fine
 work going
 work good
-work got
-work great
 work hard
 work important
 work interested
@@ -19660,7 +19686,6 @@ work make
 work making
 work need
 work people
-work point
 work politically
 work pretty
 work probably
@@ -19669,14 +19694,11 @@ work remotely
 work requirement
 work requirements
 work right
-work say
 work stuff
 work thing
-work things
 work think
 work time
 work today
-work try
 work trying
 work united
 work ve
@@ -19702,16 +19724,20 @@ working hard
 working home
 working people
 working remotely
+working time
+working way
 workplace
 works
 works better
 works fine
+works people
 works think
 world
 world american
 world bad
 world best
 world better
+world big
 world difference
 world don
 world economy
@@ -19726,6 +19752,7 @@ world leaders
 world leading
 world like
 world live
+world lot
 world need
 world needs
 world number
@@ -19749,6 +19776,7 @@ worried
 worried people
 worries
 worry
+worry actually
 worry lot
 worry people
 worrying
@@ -19785,16 +19813,12 @@ worth talking
 worth time
 worth trying
 worth underscoring
-worth went
 worthless
 worthwhile
 worthy
 wouldn
 wouldn able
 wouldn actually
-wouldn change
-wouldn just
-wouldn like
 wouldn make
 wouldn necessarily
 wouldn need
@@ -19804,7 +19828,6 @@ wouldn want
 wouldn work
 wound
 wow
-wracked
 wrangling
 wrapped
 wrapping
@@ -19819,29 +19842,23 @@ wringing
 writ
 writ large
 write
-write articles
 write book
 write column
-write good
 write lot
 write new
-write post
 writer
 writers
 writers like
 writes
 writeup
 writing
-writings
 written
 written milan
 written people
-written think
 written times
 wrong
 wrong just
 wrong people
-wrong reason
 wrong thing
 wrong think
 wrong way
@@ -19859,9 +19876,7 @@ wrote piece
 wrote post
 wrote really
 wrote recently
-wrote vox
 wsj
-wu
 wuhan
 wwii
 wyden
@@ -19882,22 +19897,16 @@ yeah
 year
 year 2020
 year ago
-year course
-year day
 year democrats
-year did
 year end
 year going
 year inflation
-year kids
 year later
-year like
 year lot
 year low
 year old
 year olds
 year period
-year president
 year really
 year round
 year run
@@ -19910,18 +19919,14 @@ years ago
 years american
 years bad
 years come
-years congress
 years don
 years earlier
 years future
-years going
-years good
 years just
 years later
 years left
 years long
 years lot
-years maybe
 years new
 years office
 years old
@@ -19932,14 +19937,10 @@ years years
 yell
 yelled
 yellen
-yellen fed
 yelling
 yellow
 yes
-yes obviously
 yes people
-yes said
-yes think
 yesterday
 yesterday post
 yglesias
@@ -19950,7 +19951,6 @@ yimby movement
 yimbyism
 yimbys
 yoga
-yon
 york
 york boston
 york california
